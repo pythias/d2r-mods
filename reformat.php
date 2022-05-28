@@ -32,7 +32,7 @@ foreach ($files as $file) {
         continue;
     }
 
-    $nc = json_encode($v, JSON_PRETTY_PRINT);
+    $nc = json_encode($v, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
     if (file_put_contents($file, "\xEF\xBB\xBF" . $nc)) {
         log_info("reformatted - {$file}");
     }
