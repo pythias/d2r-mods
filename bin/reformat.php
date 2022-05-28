@@ -1,17 +1,5 @@
 <?php
-function strip_comments($text) {
-    return preg_replace('![ \t]*//.*[ \t]*[\r\n]!', '', $text);
-}
-
-function remove_utf8_bom($text) {
-    $bom = pack('H*','EFBBBF');
-    $text = preg_replace("/^$bom/", '', $text);
-    return $text;
-}
-
-function log_info($message) {
-    echo date('r') . " " . $message . "\n";
-}
+include __DIR__ . "/basic.php";
 
 if (empty($argv[1]) || !file_exists($argv[1])) {
     log_info("請選擇需要格式化的目錄");

@@ -1,10 +1,7 @@
 <?php
+include __DIR__ . "/basic.php";
 
-function log_info($message) {
-    echo date('r') . " " . $message . "\n";
-}
-
-$dir = __DIR__ . "/origin";
+$dir = __DIR__ . "/../data/origin";
 $content = shell_exec("find {$dir} -type f | grep -v \"\.json$\"");
 $files = explode("\n", trim($content));
 
