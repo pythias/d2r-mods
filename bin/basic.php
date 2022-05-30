@@ -1,4 +1,9 @@
 <?php
+function get_exec_lines($cmd) {
+    $content = shell_exec($cmd);
+    return explode("\n", trim($content));
+}
+
 function strip_comments($text) {
     return preg_replace('![ \t]*//.*[ \t]*[\r\n]!', '', $text);
 }

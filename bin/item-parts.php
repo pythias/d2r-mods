@@ -1,19 +1,27 @@
 <?php
 include __DIR__ . "/basic.php";
 
-$file = __DIR__ . "/../data/origin/local/lng/strings/metadata/metadata-comments-item-names.json";
-$dev_comments = decode_file($file);
-$by_types = [];
-$by_ids = [];
-foreach ($dev_comments as $key => $value) {
-    if (empty($by_types[$value['DevComment']])) {
-        $by_types[$value['DevComment']] = [];
+$root_dir = __DIR__ . "/../data/origin/hd/items";
+$main_parts = ["armor", "misc", "weapon"];
+foreach ($main_parts as $main_part) {
+    $items = get_exec_lines("cd {$root_dir}/{$main_part} && find . -type f | grep -v -E '\.$'");
+    foreach ($items as $item) {
+        $names = explode("/", substr($item, 2));
     }
-
-    $by_types[$value['DevComment']][] = $value['id'];
-    $by_ids[$value['id']] = $value['DevComment'];
 }
 
-encode_file(__DIR__ . "/../data/settings/ids.json", $by_ids);
-encode_file(__DIR__ . "/../data/settings/types.json", $by_types);
+$item_settings = __DIR__ . "/../data/origin/hd/items/items.json";
+$items = decode_file($item_settings);
+$item_by_part = [];
+foreach ($items as $item) {
+    $key = array_keys($item)[0];
+    $path = $item[$key]['asset'];
+    $names = explode("/", $path);
+    if (empty($item_by_part[$names[0]])) {
+        $item_by_part[$names[0]] = [];
+    }
 
+    $item_by_part[$names[0]][] = $key;
+}
+
+encode_file(__DIR__ . "/../data/settings/parts.json", $item_by_part);
