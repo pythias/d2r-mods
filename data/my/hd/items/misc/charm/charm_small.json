@@ -1,10 +1,6 @@
 ﻿{
     "dependencies": {
-        "particles": [
-            {
-                "path": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles"
-            }
-        ],
+        "particles": [],
         "models": [
             {
                 "path": "data\/hd\/items\/misc\/charm\/charm_small\/charm_small.model"
@@ -105,6 +101,40 @@
                     "floorModel": false,
                     "terrainBlendEnableYUpBlend": false,
                     "terrainBlendMode": 1
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "droplight",
+            "id": 9999996974,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "entity_vfx_gousemyideaandshareyourfilthymods",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
                 }
             ]
         }

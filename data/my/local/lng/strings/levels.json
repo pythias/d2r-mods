@@ -1,0 +1,2851 @@
+﻿[
+    {
+        "id": 788,
+        "Key": "Moo Moo Farm",
+        "enUS": "The Secret Cow Level",
+        "zhTW": "秘密母牛關卡[28 64 81]",
+        "zhCN": "秘密母牛关卡[28 64 81]"
+    },
+    {
+        "id": 789,
+        "Key": "Chaos Sanctum",
+        "enUS": "The Chaos Sanctuary",
+        "zhTW": "混沌庇難所[28 58 85]",
+        "zhCN": "混沌庇难所[28 58 85]"
+    },
+    {
+        "id": 790,
+        "Key": "The Pandemonium Fortress",
+        "enUS": "The Pandemonium Fortress",
+        "zhTW": "群魔堡壘",
+        "zhCN": "群魔堡垒"
+    },
+    {
+        "id": 791,
+        "Key": "River of Flame",
+        "enUS": "River of Flame",
+        "zhTW": "火焰之河[27 57 85]",
+        "zhCN": "火焰之河[27 57 85]"
+    },
+    {
+        "id": 792,
+        "Key": "Outer Steppes",
+        "enUS": "Outer Steppes",
+        "zhTW": "郊外大草原[26 56 82]",
+        "zhCN": "郊外大草原[26 56 82]"
+    },
+    {
+        "id": 793,
+        "Key": "Plains of Despair",
+        "enUS": "Plains of Despair",
+        "zhTW": "絕望平原[26 56 83]",
+        "zhCN": "绝望平原[26 56 83]"
+    },
+    {
+        "id": 794,
+        "Key": "City of the Damned",
+        "enUS": "City of the Damned",
+        "zhTW": "神罰之城[27 57 84]",
+        "zhCN": "神罚之城[27 57 84]"
+    },
+    {
+        "id": 795,
+        "Key": "Durance of Hate Level 3",
+        "enUS": "Durance of Hate Level 3",
+        "zhTW": "憎恨的囚牢第三層[25 55 83]",
+        "zhCN": "憎恨的囚牢第三层[25 55 83]"
+    },
+    {
+        "id": 796,
+        "Key": "Durance of Hate Level 2",
+        "enUS": "Durance of Hate Level 2",
+        "zhTW": "憎恨的囚牢第二層[25 55 83]",
+        "zhCN": "憎恨的囚牢第二层[25 55 83]"
+    },
+    {
+        "id": 797,
+        "Key": "Durance of Hate Level 1",
+        "enUS": "Durance of Hate Level 1",
+        "zhTW": "憎恨的囚牢第一層[25 55 83]",
+        "zhCN": "憎恨的囚牢第一层[25 55 83]"
+    },
+    {
+        "id": 798,
+        "Key": "Disused Reliquary",
+        "enUS": "Disused Reliquary",
+        "zhTW": "廢棄的聖殿[24 54 85]",
+        "zhCN": "废弃的圣物[24 54 85]"
+    },
+    {
+        "id": 799,
+        "Key": "Ruined Fane",
+        "enUS": "Ruined Fane",
+        "zhTW": "殘破的寺院[24 54 85]",
+        "zhCN": "残破的寺院[24 54 85]"
+    },
+    {
+        "id": 800,
+        "Key": "Forgotten Temple",
+        "enUS": "Forgotten Temple",
+        "zhTW": "遺忘神殿[24 54 85]",
+        "zhCN": "遗忘神殿[24 54 85]"
+    },
+    {
+        "id": 801,
+        "Key": "Forgotten Reliquary",
+        "enUS": "Forgotten Reliquary",
+        "zhTW": "遺忘的聖殿[23 53 85]",
+        "zhCN": "遗忘的圣物[23 53 85]"
+    },
+    {
+        "id": 802,
+        "Key": "Disused Fane",
+        "enUS": "Disused Fane",
+        "zhTW": "廢棄的寺院[23 53 85]",
+        "zhCN": "废弃的寺院[23 53 85]"
+    },
+    {
+        "id": 803,
+        "Key": "Ruined Temple",
+        "enUS": "Ruined Temple",
+        "zhTW": "殘破神殿(任务书)[23 53 85]",
+        "zhCN": "23 53 84残破神殿(任务书)[23 53 85]"
+    },
+    {
+        "id": 804,
+        "Key": "Flayer Dungeon Level 3",
+        "enUS": "Flayer Dungeon Level 3",
+        "zhTW": "剝皮地窖第三層[22 51 83]",
+        "zhCN": "剥皮地窖第三层[22 51 83  ]"
+    },
+    {
+        "id": 805,
+        "Key": "Flayer Dungeon Level 2",
+        "enUS": "Flayer Dungeon Level 2",
+        "zhTW": "剝皮地窖第二層[22 51 82]",
+        "zhCN": "剥皮地窖第二层[22 51 82]"
+    },
+    {
+        "id": 806,
+        "Key": "Flayer Dungeon Level 1",
+        "enUS": "Flayer Dungeon Level 1",
+        "zhTW": "剝皮地窖第一層[22 51 81]",
+        "zhCN": "剥皮地窖第一层[22 51 81]"
+    },
+    {
+        "id": 807,
+        "Key": "Swampy Pit Level 3",
+        "enUS": "Swampy Pit Level 3",
+        "zhTW": "沼澤地洞第三層[21 51 85]",
+        "zhCN": "沼泽地洞第三层[21 51 85]"
+    },
+    {
+        "id": 808,
+        "Key": "Swampy Pit Level 2",
+        "enUS": "Swampy Pit Level 2",
+        "zhTW": "沼澤地洞第二層[21 51 85]",
+        "zhCN": "沼泽地洞第二层[21 5185]"
+    },
+    {
+        "id": 809,
+        "Key": "Swampy Pit Level 1",
+        "enUS": "Swampy Pit Level 1",
+        "zhTW": "沼澤地洞第一層[21 51 85]",
+        "zhCN": "沼泽地洞第一层[21 51 85]"
+    },
+    {
+        "id": 810,
+        "Key": "Spider Cave",
+        "enUS": "Arachnid Lair",
+        "zhTW": "蜘蛛巢穴[21 50 85]",
+        "zhCN": "蜘蛛巢穴[21 50 85]"
+    },
+    {
+        "id": 811,
+        "Key": "Spider Cavern",
+        "enUS": "Spider Cavern",
+        "zhTW": "蜘蛛洞窟(眼睛)[21 50 79]",
+        "zhCN": "蜘蛛洞窟(眼睛)[21 50 79]"
+    },
+    {
+        "id": 812,
+        "Key": "Travincal",
+        "enUS": "Travincal",
+        "zhTW": "崔凡克[24 54 82]",
+        "zhCN": "崔凡克[24 54 82]"
+    },
+    {
+        "id": 813,
+        "Key": "Kurast Causeway",
+        "enUS": "Kurast Causeway",
+        "zhTW": "庫拉斯特堤道[24 53 81]",
+        "zhCN": "库拉斯特堤道[24 53 81]"
+    },
+    {
+        "id": 814,
+        "Key": "Upper Kurast",
+        "enUS": "Upper Kurast",
+        "zhTW": "庫拉斯特上層[23 52 81]",
+        "zhCN": "库拉斯特上层[23 52 81]"
+    },
+    {
+        "id": 815,
+        "Key": "Kurast Bazaar",
+        "enUS": "Kurast Bazaar",
+        "zhTW": "庫拉斯特商場[22 52 81]",
+        "zhCN": "库拉斯特商场[22 52 81]"
+    },
+    {
+        "id": 816,
+        "Key": "Lower Kurast",
+        "enUS": "Lower Kurast",
+        "zhTW": "庫拉斯特下層[22 52 80]",
+        "zhCN": "库拉斯特下层[22 52 80]"
+    },
+    {
+        "id": 817,
+        "Key": "Flayer Jungle",
+        "enUS": "Flayer Jungle",
+        "zhTW": "剝皮叢林[22 50 80]",
+        "zhCN": "剥皮丛林[22 50 80]"
+    },
+    {
+        "id": 818,
+        "Key": "Great Marsh",
+        "enUS": "Great Marsh",
+        "zhTW": "龐大濕地[21 50 80]",
+        "zhCN": "庞大湿地[21 50 80]"
+    },
+    {
+        "id": 819,
+        "Key": "Spider Forest",
+        "enUS": "Spider Forest",
+        "zhTW": "蜘蛛森林[21 49 79]",
+        "zhCN": "蜘蛛森林[21 49 79]"
+    },
+    {
+        "id": 820,
+        "Key": "Kurast Docktown",
+        "enUS": "Kurast Docks",
+        "zhTW": "庫拉斯特海港",
+        "zhCN": "库拉斯特海港"
+    },
+    {
+        "id": 821,
+        "Key": "Durance of Hate",
+        "enUS": "Durance of Hate",
+        "zhTW": "憎恨的囚牢",
+        "zhCN": "憎恨的囚牢"
+    },
+    {
+        "id": 822,
+        "Key": "Flayer Dungeon",
+        "enUS": "Flayer Dungeon",
+        "zhTW": "剝皮地窖",
+        "zhCN": "剥皮地窖"
+    },
+    {
+        "id": 823,
+        "Key": "Swampy Pit",
+        "enUS": "Swampy Pit",
+        "zhTW": "沼澤地洞",
+        "zhCN": "沼泽地洞"
+    },
+    {
+        "id": 824,
+        "Key": "Arcane Sanctuary",
+        "enUS": "Arcane Sanctuary",
+        "zhTW": "神秘庇難所[14 48 79]",
+        "zhCN": "神秘避难所[14 48 79]"
+    },
+    {
+        "id": 825,
+        "Key": "Duriel's Lair",
+        "enUS": "Tal Rasha's Chamber",
+        "zhTW": "都瑞爾的房間[17 49 80]",
+        "zhCN": "都瑞尔的房间[17 49 80]"
+    },
+    {
+        "id": 826,
+        "Key": "Tal Rasha's Tomb",
+        "enUS": "Tal Rasha's Tomb",
+        "zhTW": "塔-拉夏的古墓[17 49 80]",
+        "zhCN": "塔-拉夏的古墓[17 49 80]"
+    },
+    {
+        "id": 827,
+        "Key": "Ancient Tunnels",
+        "enUS": "Ancient Tunnels",
+        "zhTW": "古代通道[17 46 85]",
+        "zhCN": "古代通道[17 46 85]"
+    },
+    {
+        "id": 828,
+        "Key": "Maggot Lair Level 3",
+        "enUS": "Maggot Lair Level 3",
+        "zhTW": "蛆蟲巢穴第三層[17 46 85]",
+        "zhCN": "蛆虫巢穴第三层[17 46 85]"
+    },
+    {
+        "id": 829,
+        "Key": "Maggot Lair Level 2",
+        "enUS": "Maggot Lair Level 2",
+        "zhTW": "蛆蟲巢穴第二層[17 45 84]",
+        "zhCN": "4蛆虫巢穴第二层[17 45 84]"
+    },
+    {
+        "id": 830,
+        "Key": "Maggot Lair Level 1",
+        "enUS": "Maggot Lair Level 1",
+        "zhTW": "蛆蟲巢穴第一層[17 45 84]",
+        "zhCN": "蛆虫巢穴第一层[17 45 84]"
+    },
+    {
+        "id": 831,
+        "Key": "Claw Viper Temple Level 2",
+        "enUS": "Claw Viper Temple Level 2",
+        "zhTW": "利爪腹蛇神殿第二層[14 47 83]",
+        "zhCN": "利爪腹蛇神殿第二层[14 47 83]"
+    },
+    {
+        "id": 832,
+        "Key": "Halls of the Dead Level 3",
+        "enUS": "Halls of the Dead Level 3",
+        "zhTW": "死亡之殿第三層[13 45 82]",
+        "zhCN": "死亡之殿第三层[13 45 82]"
+    },
+    {
+        "id": 833,
+        "Key": "Stony Tomb Level 2",
+        "enUS": "Stony Tomb Level 2",
+        "zhTW": "石製古墓第二層[12 44 85]",
+        "zhCN": "石制古墓第二层[12 44 85]"
+    },
+    {
+        "id": 834,
+        "Key": "Claw Viper Temple Level 1",
+        "enUS": "Claw Viper Temple Level 1",
+        "zhTW": "利爪腹蛇神殿第一層[14 47 82]",
+        "zhCN": "利爪腹蛇神殿第一层[14 47 82]"
+    },
+    {
+        "id": 835,
+        "Key": "Halls of the Dead Level 2",
+        "enUS": "Halls of the Dead Level 2",
+        "zhTW": "死亡之殿第二層[13 45 81]",
+        "zhCN": "死亡之殿第二层[13 45 81]"
+    },
+    {
+        "id": 836,
+        "Key": "Halls of the Dead Level 1",
+        "enUS": "Halls of the Dead Level 1",
+        "zhTW": "死亡之殿第一層[12 44 79]",
+        "zhCN": "死亡之殿第一层[12 44 79]"
+    },
+    {
+        "id": 837,
+        "Key": "Stony Tomb Level 1",
+        "enUS": "Stony Tomb Level 1",
+        "zhTW": "石製古墓第一層[12 44 85]",
+        "zhCN": "石制古墓第一层[12 44 85]"
+    },
+    {
+        "id": 838,
+        "Key": "Palace Cellar Level 3",
+        "enUS": "Palace Cellar Level 3",
+        "zhTW": "皇宮監牢第三層[13 48 78]",
+        "zhCN": "皇宫监牢第三层[13 48 78]"
+    },
+    {
+        "id": 839,
+        "Key": "Palace Cellar Level 2",
+        "enUS": "Palace Cellar Level 2",
+        "zhTW": "皇宮監牢第二層[13 47 78]",
+        "zhCN": "皇宫监牢第二层[13 47 78]"
+    },
+    {
+        "id": 840,
+        "Key": "Palace Cellar Level 1",
+        "enUS": "Palace Cellar Level 1",
+        "zhTW": "皇宮監牢第一層[13 47 78]",
+        "zhCN": "皇宫监牢第一层[13 47 78]"
+    },
+    {
+        "id": 841,
+        "Key": "Harem Level 2",
+        "enUS": "Harem Level 2",
+        "zhTW": "女眷住處第二層[13 47 78]",
+        "zhCN": "女眷住处第二层[13 47 78]"
+    },
+    {
+        "id": 842,
+        "Key": "Harem Level 1",
+        "enUS": "Harem Level 1",
+        "zhTW": "女眷住處第一層",
+        "zhCN": "女眷住处第一层"
+    },
+    {
+        "id": 843,
+        "Key": "Sewers Level 3",
+        "enUS": "Sewers Level 3",
+        "zhTW": "下水道第三層[14 44 75]",
+        "zhCN": "下水道第三层[14 44 75]"
+    },
+    {
+        "id": 844,
+        "Key": "Sewers Level 2",
+        "enUS": "Sewers Level 2",
+        "zhTW": "下水道第二層[13 43 74]",
+        "zhCN": "下水道第二层[13 43 74]"
+    },
+    {
+        "id": 845,
+        "Key": "Sewers Level 1",
+        "enUS": "Sewers Level 1",
+        "zhTW": "下水道第一層[13 43 74]",
+        "zhCN": "下水道第一层[13 43 74]"
+    },
+    {
+        "id": 846,
+        "Key": "Canyon of the Magi",
+        "enUS": "Canyon of the Magi",
+        "zhTW": "16 48 79術士的峽谷[27 57 85]",
+        "zhCN": "术士的峡谷[16 48 79]"
+    },
+    {
+        "id": 847,
+        "Key": "Valley of Snakes",
+        "enUS": "Valley of Snakes",
+        "zhTW": "群蛇峽谷[18 46 77]",
+        "zhCN": "群蛇峡谷[18 46 77]"
+    },
+    {
+        "id": 848,
+        "Key": "Lost City",
+        "enUS": "Lost City",
+        "zhTW": "遺失的城市[17 46 77]",
+        "zhCN": "遗失的城市[17 46 77]"
+    },
+    {
+        "id": 849,
+        "Key": "Far Oasis",
+        "enUS": "Far Oasis",
+        "zhTW": "遙遠的綠洲[16 45 76]",
+        "zhCN": "遥远的绿洲[16 45 76]"
+    },
+    {
+        "id": 850,
+        "Key": "Dry Hills",
+        "enUS": "Dry Hills",
+        "zhTW": "乾躁的高地[15 44 76]",
+        "zhCN": "干躁的高地[15 44 76]"
+    },
+    {
+        "id": 851,
+        "Key": "Rocky Waste",
+        "enUS": "Rocky Waste",
+        "zhTW": "碎石荒地[14 43 75]",
+        "zhCN": "碎石荒地[14 43 75]"
+    },
+    {
+        "id": 852,
+        "Key": "Lut Gholein",
+        "enUS": "Lut Gholein",
+        "zhTW": "魯-高因",
+        "zhCN": "鲁-高因"
+    },
+    {
+        "id": 853,
+        "Key": "Maggot Lair",
+        "enUS": "Maggot Lair",
+        "zhTW": "蛆蟲巢穴",
+        "zhCN": "蛆虫巢穴"
+    },
+    {
+        "id": 854,
+        "Key": "Claw Viper Temple",
+        "enUS": "Claw Viper Temple",
+        "zhTW": "利爪腹蛇神殿",
+        "zhCN": "利爪蝮蛇神殿"
+    },
+    {
+        "id": 855,
+        "Key": "Halls of the Dead",
+        "enUS": "Halls of the Dead",
+        "zhTW": "死亡之殿",
+        "zhCN": "死亡之殿"
+    },
+    {
+        "id": 856,
+        "Key": "Stony Tomb",
+        "enUS": "Stony Tomb",
+        "zhTW": "石製古墓",
+        "zhCN": "石制古墓"
+    },
+    {
+        "id": 857,
+        "Key": "Palace Cellar",
+        "enUS": "Palace Cellar",
+        "zhTW": "皇宮監牢",
+        "zhCN": "皇宫监牢"
+    },
+    {
+        "id": 858,
+        "Key": "Harem",
+        "enUS": "Harem",
+        "zhTW": "女眷住處",
+        "zhCN": "女眷住处"
+    },
+    {
+        "id": 859,
+        "Key": "Sewers",
+        "enUS": "Sewers",
+        "zhTW": "下水道",
+        "zhCN": "下水道"
+    },
+    {
+        "id": 860,
+        "Key": "To The Moo Moo Farm",
+        "enUS": "To The Secret Cow Level",
+        "zhTW": "前往秘密母牛關卡",
+        "zhCN": "前往秘密母牛关卡"
+    },
+    {
+        "id": 861,
+        "Key": "To Chaos Sanctum",
+        "enUS": "To The Chaos Sanctuary",
+        "zhTW": "前往混沌庇難所",
+        "zhCN": "前往混沌避难所"
+    },
+    {
+        "id": 862,
+        "Key": "To The River of Flame",
+        "enUS": "To The River of Flame",
+        "zhTW": "前往火焰之河",
+        "zhCN": "前往火焰之河"
+    },
+    {
+        "id": 863,
+        "Key": "To The Outer Steppes",
+        "enUS": "To The Outer Steppes",
+        "zhTW": "前往郊外大草原",
+        "zhCN": "前往郊外大草原"
+    },
+    {
+        "id": 864,
+        "Key": "To The Plains of Despair",
+        "enUS": "To The Plains of Despair",
+        "zhTW": "前往絕望平原",
+        "zhCN": "前往绝望平原"
+    },
+    {
+        "id": 865,
+        "Key": "To The City of the Damned",
+        "enUS": "To The City of the Damned",
+        "zhTW": "前往神罰之城",
+        "zhCN": "前往神罚之城"
+    },
+    {
+        "id": 866,
+        "Key": "To The Pandemonium Fortress",
+        "enUS": "To The Pandemonium Fortress",
+        "zhTW": "前往群魔堡壘",
+        "zhCN": "前往群魔堡垒"
+    },
+    {
+        "id": 867,
+        "Key": "To The Durance of Hate Level 3",
+        "enUS": "To The Durance of Hate Level 3",
+        "zhTW": "前往憎恨的囚牢第三層",
+        "zhCN": "前往憎恨的囚牢第三层"
+    },
+    {
+        "id": 868,
+        "Key": "To The Durance of Hate Level 2",
+        "enUS": "To The Durance of Hate Level 2",
+        "zhTW": "前往憎恨的囚牢第二層",
+        "zhCN": "前往憎恨的囚牢第二层"
+    },
+    {
+        "id": 869,
+        "Key": "To The Durance of Hate Level 1",
+        "enUS": "To The Durance of Hate Level 1",
+        "zhTW": "前往憎恨的囚牢第一層",
+        "zhCN": "前往憎恨的囚牢第一层"
+    },
+    {
+        "id": 870,
+        "Key": "To The Disused Reliquary",
+        "enUS": "To The Disused Reliquary",
+        "zhTW": "前往廢棄的聖物",
+        "zhCN": "前往废弃的圣物"
+    },
+    {
+        "id": 871,
+        "Key": "To The Ruined Fane",
+        "enUS": "To The Ruined Fane",
+        "zhTW": "前往殘破的寺院",
+        "zhCN": "前往残破的寺院"
+    },
+    {
+        "id": 872,
+        "Key": "To The Forgotten Temple",
+        "enUS": "To The Forgotten Temple",
+        "zhTW": "前往遺忘神殿",
+        "zhCN": "前往遗忘神殿"
+    },
+    {
+        "id": 873,
+        "Key": "To The Forgotten Reliquary",
+        "enUS": "To The Forgotten Reliquary",
+        "zhTW": "前往遺忘的聖殿",
+        "zhCN": "前往遗忘的圣物"
+    },
+    {
+        "id": 874,
+        "Key": "To The Disused Fane",
+        "enUS": "To The Disused Fane",
+        "zhTW": "前往廢棄的寺院",
+        "zhCN": "前往废弃的寺院"
+    },
+    {
+        "id": 875,
+        "Key": "To The Ruined Temple",
+        "enUS": "To The Ruined Temple",
+        "zhTW": "前往殘破神殿(任务书)",
+        "zhCN": "前往残破神殿(任务书)"
+    },
+    {
+        "id": 876,
+        "Key": "To The Flayer Dungeon Level 1",
+        "enUS": "To The Flayer Dungeon Level 1",
+        "zhTW": "前往剝皮地窖第一層",
+        "zhCN": "前往剥皮地窖第一层"
+    },
+    {
+        "id": 877,
+        "Key": "To The Flayer Dungeon Level 2",
+        "enUS": "To The Flayer Dungeon Level 2",
+        "zhTW": "前往剝皮地窖第二層",
+        "zhCN": "前往剥皮地窖第二层"
+    },
+    {
+        "id": 878,
+        "Key": "To The Flayer Dungeon Level 3",
+        "enUS": "To The Flayer Dungeon Level 3",
+        "zhTW": "前往剝皮地窖第三層",
+        "zhCN": "前往剥皮地窖第三层"
+    },
+    {
+        "id": 879,
+        "Key": "To The Swampy Pit Level 3",
+        "enUS": "To The Swampy Pit Level 3",
+        "zhTW": "前往沼澤地洞第三層",
+        "zhCN": "前往沼泽地洞第三层"
+    },
+    {
+        "id": 880,
+        "Key": "To The Swampy Pit Level 2",
+        "enUS": "To The Swampy Pit Level 2",
+        "zhTW": "前往沼澤地洞第二層",
+        "zhCN": "前往沼泽地洞第二层"
+    },
+    {
+        "id": 881,
+        "Key": "To The Swampy Pit Level 1",
+        "enUS": "To The Swampy Pit Level 1",
+        "zhTW": "前往沼澤地洞第一層",
+        "zhCN": "前往沼泽地洞第一层"
+    },
+    {
+        "id": 882,
+        "Key": "To The Spider Cave",
+        "enUS": "To The Arachnid Lair",
+        "zhTW": "前往蜘蛛巢穴",
+        "zhCN": "前往蜘蛛巢穴"
+    },
+    {
+        "id": 883,
+        "Key": "To The Spider Cavern",
+        "enUS": "To The Spider Cavern",
+        "zhTW": "前往蜘蛛洞窟",
+        "zhCN": "前往蜘蛛洞窟"
+    },
+    {
+        "id": 884,
+        "Key": "To Travincal",
+        "enUS": "To Travincal",
+        "zhTW": "前往崔凡克",
+        "zhCN": "前往崔凡克"
+    },
+    {
+        "id": 885,
+        "Key": "To The Kurast Causeway",
+        "enUS": "To The Kurast Causeway",
+        "zhTW": "前往庫拉斯特堤道",
+        "zhCN": "前往库拉斯特堤道"
+    },
+    {
+        "id": 886,
+        "Key": "To Upper Kurast",
+        "enUS": "To Upper Kurast",
+        "zhTW": "前往庫拉斯特上層",
+        "zhCN": "前往库拉斯特上层区"
+    },
+    {
+        "id": 887,
+        "Key": "To The Kurast Bazaar",
+        "enUS": "To The Kurast Bazaar",
+        "zhTW": "前往庫拉斯特商場",
+        "zhCN": "前往库拉斯特商场"
+    },
+    {
+        "id": 888,
+        "Key": "To Lower Kurast",
+        "enUS": "To Lower Kurast",
+        "zhTW": "前往庫拉斯特下層",
+        "zhCN": "前往库拉斯特下层区"
+    },
+    {
+        "id": 889,
+        "Key": "To The Flayer Jungle",
+        "enUS": "To The Flayer Jungle",
+        "zhTW": "前往剝皮叢林",
+        "zhCN": "前往剥皮丛林"
+    },
+    {
+        "id": 890,
+        "Key": "To The Great Marsh",
+        "enUS": "To The Great Marsh",
+        "zhTW": "前往龐大濕地",
+        "zhCN": "前往庞大湿地"
+    },
+    {
+        "id": 891,
+        "Key": "To The Spider Forest",
+        "enUS": "To The Spider Forest",
+        "zhTW": "前往蜘蛛森林",
+        "zhCN": "前往蜘蛛森林"
+    },
+    {
+        "id": 892,
+        "Key": "To The Kurast Docktown",
+        "enUS": "To The Kurast Docks",
+        "zhTW": "前往庫拉斯特海港",
+        "zhCN": "前往库拉斯特海港"
+    },
+    {
+        "id": 893,
+        "Key": "To The Arcane Sanctuary",
+        "enUS": "To The Arcane Sanctuary",
+        "zhTW": "前往神秘庇難所",
+        "zhCN": "前往神秘避难所"
+    },
+    {
+        "id": 894,
+        "Key": "To Duriel's Lair",
+        "enUS": "To Tal Rasha's Chamber",
+        "zhTW": "前往都瑞爾的房間",
+        "zhCN": "前往都瑞尔的房间"
+    },
+    {
+        "id": 895,
+        "Key": "To Tal Rasha's Tomb",
+        "enUS": "To Tal Rasha's Tomb",
+        "zhTW": "前往塔-拉夏的古墓",
+        "zhCN": "前往塔-拉夏的古墓"
+    },
+    {
+        "id": 896,
+        "Key": "To The Ancient Tunnels",
+        "enUS": "To The Ancient Tunnels",
+        "zhTW": "前往古代通道",
+        "zhCN": "前往古代通道"
+    },
+    {
+        "id": 897,
+        "Key": "To The Maggot Lair Level 3",
+        "enUS": "To The Maggot Lair Level 3",
+        "zhTW": "前往蛆蟲巢穴第三層",
+        "zhCN": "前往蛆虫巢穴第三层"
+    },
+    {
+        "id": 898,
+        "Key": "To The Maggot Lair Level 2",
+        "enUS": "To The Maggot Lair Level 2",
+        "zhTW": "前往蛆蟲巢穴第二層",
+        "zhCN": "前往蛆虫巢穴第二层"
+    },
+    {
+        "id": 899,
+        "Key": "To The Maggot Lair Level 1",
+        "enUS": "To The Maggot Lair Level 1",
+        "zhTW": "前往蛆蟲巢穴第一層",
+        "zhCN": "前往蛆虫巢穴第一层"
+    },
+    {
+        "id": 900,
+        "Key": "To The Claw Viper Temple Level 2",
+        "enUS": "To The Claw Viper Temple Level 2",
+        "zhTW": "前往利爪腹蛇神殿第二層",
+        "zhCN": "前往利爪蝮蛇神殿第二层"
+    },
+    {
+        "id": 901,
+        "Key": "To The Halls of the Dead Level 3",
+        "enUS": "To The Halls of the Dead Level 3",
+        "zhTW": "前往死亡之殿第三層",
+        "zhCN": "前往死亡之殿第三层"
+    },
+    {
+        "id": 902,
+        "Key": "To The Stony Tomb Level 2",
+        "enUS": "To The Stony Tomb Level 2",
+        "zhTW": "前往石製古墓第二層",
+        "zhCN": "前往石制古墓第二层"
+    },
+    {
+        "id": 903,
+        "Key": "To The Claw Viper Temple Level 1",
+        "enUS": "To The Claw Viper Temple Level 1",
+        "zhTW": "前往利爪腹蛇神殿第一層",
+        "zhCN": "前往利爪蝮蛇神殿第一层"
+    },
+    {
+        "id": 904,
+        "Key": "To The Halls of the Dead Level 2",
+        "enUS": "To The Halls of the Dead Level 2",
+        "zhTW": "前往死亡之殿第二層",
+        "zhCN": "前往死亡之殿第二层"
+    },
+    {
+        "id": 905,
+        "Key": "To The Halls of the Dead Level 1",
+        "enUS": "To The Halls of the Dead Level 1",
+        "zhTW": "前往死亡之殿第一層",
+        "zhCN": "前往死亡之殿第一层"
+    },
+    {
+        "id": 906,
+        "Key": "To The Stony Tomb Level 1",
+        "enUS": "To The Stony Tomb Level 1",
+        "zhTW": "前往石製古墓第一層",
+        "zhCN": "前往石制古墓第一层"
+    },
+    {
+        "id": 907,
+        "Key": "To The Palace Cellar Level 3",
+        "enUS": "To The Palace Cellar Level 3",
+        "zhTW": "前往皇宮監牢第三層",
+        "zhCN": "前往皇宫监牢第三层"
+    },
+    {
+        "id": 908,
+        "Key": "To The Palace Cellar Level 2",
+        "enUS": "To The Palace Cellar Level 2",
+        "zhTW": "前往皇宮監牢第二層",
+        "zhCN": "前往皇宫监牢第二层"
+    },
+    {
+        "id": 909,
+        "Key": "To The Palace Cellar Level 1",
+        "enUS": "To The Palace Cellar Level 1",
+        "zhTW": "前往皇宮監牢第一層",
+        "zhCN": "前往皇宫监牢第一层"
+    },
+    {
+        "id": 910,
+        "Key": "To The Harem Level 2",
+        "enUS": "To The Harem Level 2",
+        "zhTW": "前往女眷住處第二層",
+        "zhCN": "前往女眷住处第二层"
+    },
+    {
+        "id": 911,
+        "Key": "To The Harem Level 1",
+        "enUS": "To The Harem Level 1",
+        "zhTW": "前往女眷住處第一層",
+        "zhCN": "前往女眷住处第一层"
+    },
+    {
+        "id": 912,
+        "Key": "To The Sewers Level 3",
+        "enUS": "To The Sewers Level 3",
+        "zhTW": "前往下水道第三層",
+        "zhCN": "前往下水道第三层"
+    },
+    {
+        "id": 913,
+        "Key": "To The Sewers Level 2",
+        "enUS": "To The Sewers Level 2",
+        "zhTW": "前往下水道第二層",
+        "zhCN": "前往下水道第二层"
+    },
+    {
+        "id": 914,
+        "Key": "To The Sewers Level 1",
+        "enUS": "To The Sewers Level 1",
+        "zhTW": "前往下水道第一層",
+        "zhCN": "前往下水道第一层"
+    },
+    {
+        "id": 915,
+        "Key": "To The Canyon of the Magi",
+        "enUS": "To The Canyon of the Magi",
+        "zhTW": "前往術士的峽谷",
+        "zhCN": "前往术士的峡谷"
+    },
+    {
+        "id": 916,
+        "Key": "To The Valley of Snakes",
+        "enUS": "To The Valley of Snakes",
+        "zhTW": "前往群蛇峽谷",
+        "zhCN": "前往群蛇峡谷"
+    },
+    {
+        "id": 917,
+        "Key": "To The Lost City",
+        "enUS": "To The Lost City",
+        "zhTW": "前往遺失的城市",
+        "zhCN": "前往遗失的城市"
+    },
+    {
+        "id": 918,
+        "Key": "To The Far Oasis",
+        "enUS": "To The Far Oasis",
+        "zhTW": "前往遙遠的綠洲",
+        "zhCN": "前往遥远的绿洲"
+    },
+    {
+        "id": 919,
+        "Key": "To The Dry Hills",
+        "enUS": "To The Dry Hills",
+        "zhTW": "前往乾躁的高地",
+        "zhCN": "前往干躁的高地"
+    },
+    {
+        "id": 920,
+        "Key": "To The Rocky Waste",
+        "enUS": "To The Rocky Waste",
+        "zhTW": "前往碎石荒地",
+        "zhCN": "前往碎石荒地"
+    },
+    {
+        "id": 921,
+        "Key": "To Lut Gholein",
+        "enUS": "To Lut Gholein",
+        "zhTW": "前往魯-高因",
+        "zhCN": "前往鲁-高因"
+    },
+    {
+        "id": 1640,
+        "Key": "To Guild 5",
+        "enUS": "         ",
+        "zhTW": "         ",
+        "zhCN": "         "
+    },
+    {
+        "id": 1641,
+        "Key": "To Guild 4",
+        "enUS": "         ",
+        "zhTW": "         ",
+        "zhCN": "         "
+    },
+    {
+        "id": 1642,
+        "Key": "To Guild 3",
+        "enUS": "         ",
+        "zhTW": "         ",
+        "zhCN": "         "
+    },
+    {
+        "id": 1643,
+        "Key": "To Guild 2",
+        "enUS": "         ",
+        "zhTW": "         ",
+        "zhCN": "         "
+    },
+    {
+        "id": 1644,
+        "Key": "To Guild 1",
+        "enUS": "         ",
+        "zhTW": "         ",
+        "zhCN": "         "
+    },
+    {
+        "id": 4137,
+        "Key": "act1",
+        "enUS": "Act 1",
+        "zhTW": "第一章",
+        "zhCN": "第一章"
+    },
+    {
+        "id": 4138,
+        "Key": "act2",
+        "enUS": "Act 2",
+        "zhTW": "第二章",
+        "zhCN": "第二章"
+    },
+    {
+        "id": 4139,
+        "Key": "act3",
+        "enUS": "Act 3",
+        "zhTW": "第三章",
+        "zhCN": "第三章"
+    },
+    {
+        "id": 4140,
+        "Key": "act4",
+        "enUS": "Act 4",
+        "zhTW": "第四章",
+        "zhCN": "第四章"
+    },
+    {
+        "id": 4152,
+        "Key": "Leave",
+        "enUS": "LEAVE",
+        "zhTW": "離開",
+        "zhCN": "离开"
+    },
+    {
+        "id": 5018,
+        "Key": "Tristram",
+        "enUS": "Tristram",
+        "zhTW": "崔斯特瑞姆[6 39 76]",
+        "zhCN": "崔斯特瑞姆[6 39 76]"
+    },
+    {
+        "id": 5019,
+        "Key": "Catacombs Level 4",
+        "enUS": "Catacombs Level 4",
+        "zhTW": "地下墓穴第四層[12 43 73]",
+        "zhCN": "地下墓穴第四层[12 43 73]"
+    },
+    {
+        "id": 5020,
+        "Key": "Catacombs Level 3",
+        "enUS": "Catacombs Level 3",
+        "zhTW": "地下墓穴第三層[12 43 73]",
+        "zhCN": "地下墓穴第三层[12 43 73]"
+    },
+    {
+        "id": 5021,
+        "Key": "Catacombs Level 2",
+        "enUS": "Catacombs Level 2",
+        "zhTW": "地下墓穴第二層[11 42 73]",
+        "zhCN": "地下墓穴第二层[11 42 73]"
+    },
+    {
+        "id": 5022,
+        "Key": "Catacombs Level 1",
+        "enUS": "Catacombs Level 1",
+        "zhTW": "地下墓穴第一層[11 42 72]",
+        "zhCN": "地下墓穴第一层[11 42 72]"
+    },
+    {
+        "id": 5023,
+        "Key": "Cathedral",
+        "enUS": "Cathedral",
+        "zhTW": "大教堂[11 42 72]",
+        "zhCN": "大教堂[11 42 72]"
+    },
+    {
+        "id": 5024,
+        "Key": "Inner Cloister",
+        "enUS": "Inner Cloister",
+        "zhTW": "內側迴廊[10 41 72]",
+        "zhCN": "内侧回廊[10 41 72]"
+    },
+    {
+        "id": 5025,
+        "Key": "Jail Level 3",
+        "enUS": "Jail Level 3",
+        "zhTW": "監牢第三層[10 41 71]",
+        "zhCN": "监牢第三层[10 41 71]"
+    },
+    {
+        "id": 5026,
+        "Key": "Jail Level 2",
+        "enUS": "Jail Level 2",
+        "zhTW": "監牢第二層[10 41 71]",
+        "zhCN": "监牢第二层[10 41 71]"
+    },
+    {
+        "id": 5027,
+        "Key": "Jail Level 1",
+        "enUS": "Jail Level 1",
+        "zhTW": "監牢第一層[10 41 71]",
+        "zhCN": "监牢第一层[10 41 71]"
+    },
+    {
+        "id": 5028,
+        "Key": "Barracks",
+        "enUS": "Barracks",
+        "zhTW": "軍營[9 40 70]",
+        "zhCN": "军营[9 40 70]"
+    },
+    {
+        "id": 5029,
+        "Key": "Outer Cloister",
+        "enUS": "Outer Cloister",
+        "zhTW": "外側迴廊[9 40 70]",
+        "zhCN": "外侧回廊[9 40 70]"
+    },
+    {
+        "id": 5030,
+        "Key": "Monastery Gate",
+        "enUS": "Monastery Gate",
+        "zhTW": "僧院大門[8 40 70]",
+        "zhCN": "僧院大门[8 40 70]"
+    },
+    {
+        "id": 5031,
+        "Key": "Tower Cellar Level 5",
+        "enUS": "Tower Cellar Level 5",
+        "zhTW": "高塔地牢第五層[7 42 79]",
+        "zhCN": "高塔地牢第五层[7 42 79]"
+    },
+    {
+        "id": 5032,
+        "Key": "Tower Cellar Level 4",
+        "enUS": "Tower Cellar Level 4",
+        "zhTW": "高塔地牢第四層[7 41 78]",
+        "zhCN": "高塔地牢第四层[7 41 78]"
+    },
+    {
+        "id": 5033,
+        "Key": "Tower Cellar Level 3",
+        "enUS": "Tower Cellar Level 3",
+        "zhTW": "高塔地牢第三層[7 40 77]",
+        "zhCN": "高塔地牢第三层[7 40 77]"
+    },
+    {
+        "id": 5034,
+        "Key": "Tower Cellar Level 2",
+        "enUS": "Tower Cellar Level 2",
+        "zhTW": "高塔地牢第二層[7 39 76]",
+        "zhCN": "7 39 76高塔地牢第二层[7 39 76]"
+    },
+    {
+        "id": 5035,
+        "Key": "Tower Cellar Level 1",
+        "enUS": "Tower Cellar Level 1",
+        "zhTW": "高塔地牢第一層[7 38 75]",
+        "zhCN": "高塔地牢第一层[7 38 75]"
+    },
+    {
+        "id": 5036,
+        "Key": "Forgotten Tower",
+        "enUS": "Forgotten Tower",
+        "zhTW": "遺忘之塔",
+        "zhCN": "遗忘之塔"
+    },
+    {
+        "id": 5037,
+        "Key": "Mausoleum",
+        "enUS": "Mausoleum",
+        "zhTW": "大陵寢[3 37 85]",
+        "zhCN": "大陵寝[3 37 85]"
+    },
+    {
+        "id": 5038,
+        "Key": "Crypt",
+        "enUS": "Crypt",
+        "zhTW": "墓地[3 37 83]",
+        "zhCN": "墓地[3 37 83]"
+    },
+    {
+        "id": 5039,
+        "Key": "Burial Grounds",
+        "enUS": "Burial Grounds",
+        "zhTW": "埋骨之地[3 36 80]",
+        "zhCN": "埋骨之地[3 36 80]"
+    },
+    {
+        "id": 5040,
+        "Key": "Pit Level 2",
+        "enUS": "Pit Level 2",
+        "zhTW": "地穴第二層[7 40 85]",
+        "zhCN": "地穴第二层[7 40 85]"
+    },
+    {
+        "id": 5041,
+        "Key": "Hole Level 2",
+        "enUS": "Hole Level 2",
+        "zhTW": "地洞第二層[5 39 81]",
+        "zhCN": "地洞第二层[5 39 81]"
+    },
+    {
+        "id": 5042,
+        "Key": "Underground Passage Level 2",
+        "enUS": "Underground Passage Level 2",
+        "zhTW": "地底通道第二層[4 38 85]",
+        "zhCN": "地底通道第二层[4 38 85]"
+    },
+    {
+        "id": 5043,
+        "Key": "Cave Level 2",
+        "enUS": "Cave Level 2",
+        "zhTW": "洞窟第二層[2 37 78]",
+        "zhCN": "洞窟第二层[2 37 78]"
+    },
+    {
+        "id": 5044,
+        "Key": "Pit Level 1",
+        "enUS": "Pit Level 1",
+        "zhTW": "地穴第一層[7 39 85]",
+        "zhCN": "地穴第一层[7 39 85]"
+    },
+    {
+        "id": 5045,
+        "Key": "Hole Level 1",
+        "enUS": "Hole Level 1",
+        "zhTW": "地洞第一層[5 38 80]",
+        "zhCN": "地洞第一层[5 38 80]"
+    },
+    {
+        "id": 5046,
+        "Key": "Underground Passage Level 1",
+        "enUS": "Underground Passage Level 1",
+        "zhTW": "地底通道第一層[4 37 69]",
+        "zhCN": "地底通道第一层[4 37 69]"
+    },
+    {
+        "id": 5047,
+        "Key": "Cave Level 1",
+        "enUS": "Cave Level 1",
+        "zhTW": "洞窟第一層[2 36 77]",
+        "zhCN": "洞窟第一层[2 36 77]"
+    },
+    {
+        "id": 5048,
+        "Key": "Den of Evil",
+        "enUS": "Den of Evil",
+        "zhTW": "邪惡洞窟[1 36 79]",
+        "zhCN": "邪恶洞窟[1 36 79]"
+    },
+    {
+        "id": 5049,
+        "Key": "Tamoe Highland",
+        "enUS": "Tamoe Highland",
+        "zhTW": "泰摩高地[8 39 69]",
+        "zhCN": "泰摩高地[8 39 69]"
+    },
+    {
+        "id": 5050,
+        "Key": "Black Marsh",
+        "enUS": "Black Marsh",
+        "zhTW": "黑色荒地[6 38 69]",
+        "zhCN": "黑色荒地[6 38 69]"
+    },
+    {
+        "id": 5051,
+        "Key": "Dark Wood",
+        "enUS": "Dark Wood",
+        "zhTW": "黑暗森林[5 38 68]",
+        "zhCN": "黑暗森林[5 38 68]"
+    },
+    {
+        "id": 5052,
+        "Key": "Stony Field",
+        "enUS": "Stony Field",
+        "zhTW": "石塊曠野[4 37 68]",
+        "zhCN": "石块旷野[4 37 68]"
+    },
+    {
+        "id": 5053,
+        "Key": "Cold Plains",
+        "enUS": "Cold Plains",
+        "zhTW": "冰冷之原[2 36 68]",
+        "zhCN": "冰冷之原[2 36 68]"
+    },
+    {
+        "id": 5054,
+        "Key": "Blood Moor",
+        "enUS": "Blood Moor",
+        "zhTW": "鮮血荒地[1 36 67]",
+        "zhCN": "鲜血荒地[1 36 67]"
+    },
+    {
+        "id": 5055,
+        "Key": "Rogue Encampment",
+        "enUS": "Rogue Encampment",
+        "zhTW": "蘿格營地",
+        "zhCN": "萝格营地"
+    },
+    {
+        "id": 5056,
+        "Key": "To Tristram",
+        "enUS": "To Tristram",
+        "zhTW": "前往崔斯特瑞姆",
+        "zhCN": "前往崔斯特瑞姆"
+    },
+    {
+        "id": 5057,
+        "Key": "To The Catacombs Level 4",
+        "enUS": "To The Catacombs Level 4",
+        "zhTW": "前往地下墓穴第四層",
+        "zhCN": "前往地下墓穴第四层"
+    },
+    {
+        "id": 5058,
+        "Key": "To The Catacombs Level 3",
+        "enUS": "To The Catacombs Level 3",
+        "zhTW": "前往地下墓穴第三層",
+        "zhCN": "前往地下墓穴第三层"
+    },
+    {
+        "id": 5059,
+        "Key": "To The Catacombs Level 2",
+        "enUS": "To The Catacombs Level 2",
+        "zhTW": "前往地下墓穴第二層",
+        "zhCN": "前往地下墓穴第二层"
+    },
+    {
+        "id": 5060,
+        "Key": "To The Catacombs Level 1",
+        "enUS": "To The Catacombs Level 1",
+        "zhTW": "前往地下墓穴第一層",
+        "zhCN": "前往地下墓穴第一层"
+    },
+    {
+        "id": 5061,
+        "Key": "To The Cathedral",
+        "enUS": "To The Cathedral",
+        "zhTW": "前往大教堂",
+        "zhCN": "前往大教堂"
+    },
+    {
+        "id": 5062,
+        "Key": "To The Inner Cloister",
+        "enUS": "To The Inner Cloister",
+        "zhTW": "前往內側迴廊",
+        "zhCN": "前往内侧回廊"
+    },
+    {
+        "id": 5063,
+        "Key": "To The Jail Level 3",
+        "enUS": "To The Jail Level 3",
+        "zhTW": "前往監牢第三層",
+        "zhCN": "前往监牢第三层"
+    },
+    {
+        "id": 5064,
+        "Key": "To The Jail Level 2",
+        "enUS": "To The Jail Level 2",
+        "zhTW": "前往監牢第二層",
+        "zhCN": "前往监牢第二层"
+    },
+    {
+        "id": 5065,
+        "Key": "To The Jail Level 1",
+        "enUS": "To The Jail Level 1",
+        "zhTW": "前往監牢第一層",
+        "zhCN": "前往监牢第一层"
+    },
+    {
+        "id": 5066,
+        "Key": "To The Barracks",
+        "enUS": "To The Barracks",
+        "zhTW": "前往軍營",
+        "zhCN": "前往军营"
+    },
+    {
+        "id": 5067,
+        "Key": "To The Outer Cloister",
+        "enUS": "To The Outer Cloister",
+        "zhTW": "前往外側迴廊",
+        "zhCN": "前往外侧回廊"
+    },
+    {
+        "id": 5068,
+        "Key": "To The Monastery Gate",
+        "enUS": "To The Monastery Gate",
+        "zhTW": "前往僧院大門",
+        "zhCN": "前往僧院大门"
+    },
+    {
+        "id": 5069,
+        "Key": "To The Tower Cellar Level 5",
+        "enUS": "To The Tower Cellar Level 5",
+        "zhTW": "前往高塔地牢第五層",
+        "zhCN": "前往高塔地牢第五层"
+    },
+    {
+        "id": 5070,
+        "Key": "To The Tower Cellar Level 4",
+        "enUS": "To The Tower Cellar Level 4",
+        "zhTW": "前往高塔地牢第四層",
+        "zhCN": "前往高塔地牢第四层"
+    },
+    {
+        "id": 5071,
+        "Key": "To The Tower Cellar Level 3",
+        "enUS": "To The Tower Cellar Level 3",
+        "zhTW": "前往高塔地牢第三層",
+        "zhCN": "前往高塔地牢第三层"
+    },
+    {
+        "id": 5072,
+        "Key": "To The Tower Cellar Level 2",
+        "enUS": "To The Tower Cellar Level 2",
+        "zhTW": "前往高塔地牢第二層",
+        "zhCN": "前往高塔地牢第二层"
+    },
+    {
+        "id": 5073,
+        "Key": "To The Tower Cellar Level 1",
+        "enUS": "To The Tower Cellar Level 1",
+        "zhTW": "前往高塔地牢第一層",
+        "zhCN": "前往高塔地牢第一层"
+    },
+    {
+        "id": 5074,
+        "Key": "To The Forgotten Tower",
+        "enUS": "To The Forgotten Tower",
+        "zhTW": "前往遺忘之塔",
+        "zhCN": "前往遗忘之塔"
+    },
+    {
+        "id": 5075,
+        "Key": "To The Mausoleum",
+        "enUS": "To The Mausoleum",
+        "zhTW": "前往大陵墓",
+        "zhCN": "前往大陵寝"
+    },
+    {
+        "id": 5076,
+        "Key": "To The Crypt",
+        "enUS": "To The Crypt",
+        "zhTW": "前往墓地",
+        "zhCN": "前往墓地"
+    },
+    {
+        "id": 5077,
+        "Key": "To The Burial Grounds",
+        "enUS": "To The Burial Grounds",
+        "zhTW": "前往埋骨之地",
+        "zhCN": "前往埋骨之地"
+    },
+    {
+        "id": 5078,
+        "Key": "To The Pit Level 2",
+        "enUS": "To The Pit Level 2",
+        "zhTW": "前往地穴第二層",
+        "zhCN": "前往地穴第二层"
+    },
+    {
+        "id": 5079,
+        "Key": "To The Hole Level 2",
+        "enUS": "To The Hole Level 2",
+        "zhTW": "前往洞穴第二層",
+        "zhCN": "前往洞穴第二层"
+    },
+    {
+        "id": 5080,
+        "Key": "To Underground Passage Level 2",
+        "enUS": "To Underground Passage Level 2",
+        "zhTW": "前往地底通道第二層",
+        "zhCN": "前往地底通道第二层"
+    },
+    {
+        "id": 5081,
+        "Key": "To The Cave Level 2",
+        "enUS": "To The Cave Level 2",
+        "zhTW": "前往洞窟第二層",
+        "zhCN": "前往洞窟第二层"
+    },
+    {
+        "id": 5082,
+        "Key": "To The Pit Level 1",
+        "enUS": "To The Pit Level 1",
+        "zhTW": "前往地穴第一層",
+        "zhCN": "前往地穴第一层"
+    },
+    {
+        "id": 5083,
+        "Key": "To The Hole Level 1",
+        "enUS": "To The Hole Level 1",
+        "zhTW": "前往洞窟第一層",
+        "zhCN": "前往洞窟第一层"
+    },
+    {
+        "id": 5084,
+        "Key": "To Underground Passage Level 1",
+        "enUS": "To Underground Passage Level 1",
+        "zhTW": "前往地底通道第一層",
+        "zhCN": "前往地底通道第一层"
+    },
+    {
+        "id": 5085,
+        "Key": "To The Cave Level 1",
+        "enUS": "To The Cave Level 1",
+        "zhTW": "前往洞窟第一層",
+        "zhCN": "前往洞窟第一层"
+    },
+    {
+        "id": 5086,
+        "Key": "To The Den of Evil",
+        "enUS": "To The Den of Evil",
+        "zhTW": "前往邪惡洞窟",
+        "zhCN": "前往邪恶洞窟"
+    },
+    {
+        "id": 5087,
+        "Key": "To The Tamoe Highland",
+        "enUS": "To The Tamoe Highland",
+        "zhTW": "前往泰摩高地",
+        "zhCN": "前往泰摩高地"
+    },
+    {
+        "id": 5088,
+        "Key": "To The Black Marsh",
+        "enUS": "To The Black Marsh",
+        "zhTW": "前往黑色荒地",
+        "zhCN": "前往黑色荒地"
+    },
+    {
+        "id": 5089,
+        "Key": "To The Dark Wood",
+        "enUS": "To The Dark Wood",
+        "zhTW": "前往黑暗森林",
+        "zhCN": "前往黑暗森林"
+    },
+    {
+        "id": 5090,
+        "Key": "To The Stony Field",
+        "enUS": "To The Stony Field",
+        "zhTW": "前往石塊曠野",
+        "zhCN": "前往石块旷野"
+    },
+    {
+        "id": 5091,
+        "Key": "To The Cold Plains",
+        "enUS": "To The Cold Plains",
+        "zhTW": "前往冰冷之原",
+        "zhCN": "前往冰冷之原"
+    },
+    {
+        "id": 5092,
+        "Key": "To The Blood Moor",
+        "enUS": "To The Blood Moor",
+        "zhTW": "前往鮮血荒地",
+        "zhCN": "前往鲜血荒地"
+    },
+    {
+        "id": 5093,
+        "Key": "To The Rogue Encampment",
+        "enUS": "To The Rogue Encampment",
+        "zhTW": "前往蘿格營地",
+        "zhCN": "前往萝格营地"
+    },
+    {
+        "id": 11155,
+        "Key": "Pandemonium Run 1",
+        "enUS": "Matron's Den",
+        "zhTW": "主母巢穴 Matron's Den",
+        "zhCN": "主母巢穴 Matron's Den"
+    },
+    {
+        "id": 11156,
+        "Key": "Pandemonium Run 2",
+        "enUS": "Forgotten Sands",
+        "zhTW": "遺忘沙漠 Forgotten Sands",
+        "zhCN": "遗忘沙漠 Forgotten Sands"
+    },
+    {
+        "id": 11157,
+        "Key": "Pandemonium Run 3",
+        "enUS": "Furnace of Pain",
+        "zhTW": "痛苦熔爐 Furnace of Pain",
+        "zhCN": "痛苦熔炉 Furnace of Pain"
+    },
+    {
+        "id": 21797,
+        "Key": "act1X",
+        "enUS": "THE SISTER'S LAMENT",
+        "zhTW": "修女的悲慟",
+        "zhCN": "修女的悲恸"
+    },
+    {
+        "id": 21798,
+        "Key": "act2X",
+        "enUS": "DESERT JOURNEY",
+        "zhTW": "沙漠的旅程",
+        "zhCN": "沙漠的旅程"
+    },
+    {
+        "id": 21799,
+        "Key": "act3X",
+        "enUS": "MEPHISTO'S JUNGLE",
+        "zhTW": "墨菲斯托的叢林",
+        "zhCN": "墨菲斯托的丛林"
+    },
+    {
+        "id": 21800,
+        "Key": "act4X",
+        "enUS": "ENTER HELL",
+        "zhTW": "進入地獄",
+        "zhCN": "进入地狱"
+    },
+    {
+        "id": 21802,
+        "Key": "act5X",
+        "enUS": "SEARCH FOR BAAL",
+        "zhTW": "找尋巴爾",
+        "zhCN": "找寻巴尔"
+    },
+    {
+        "id": 21865,
+        "Key": "Hell1",
+        "enUS": "Abaddon",
+        "zhTW": "艾巴當[39 60 85]",
+        "zhCN": "艾巴当[39 60 85]"
+    },
+    {
+        "id": 21866,
+        "Key": "Hell2",
+        "enUS": "Pit of Acheron",
+        "zhTW": "冥河之洞[39 61 85]",
+        "zhCN": "冥河之洞[39 61 85]"
+    },
+    {
+        "id": 21867,
+        "Key": "Hell3",
+        "enUS": "Infernal Pit",
+        "zhTW": "地獄魔窟[39 62 85]",
+        "zhCN": "地狱魔窟[39 62 85]"
+    },
+    {
+        "id": 21868,
+        "Key": "To Hell1",
+        "enUS": "To Abaddon",
+        "zhTW": "前往艾巴當",
+        "zhCN": "前往艾巴当"
+    },
+    {
+        "id": 21869,
+        "Key": "To Hell2",
+        "enUS": "To The Pit of Acheron",
+        "zhTW": "前往冥河之洞",
+        "zhCN": "前往冥河之洞"
+    },
+    {
+        "id": 21870,
+        "Key": "To Hell3",
+        "enUS": "To The Infernal Pit",
+        "zhTW": "前往地獄魔窟",
+        "zhCN": "前往地狱魔窟"
+    },
+    {
+        "id": 22646,
+        "Key": "Harrogath",
+        "enUS": "Harrogath",
+        "zhTW": "哈洛加斯",
+        "zhCN": "哈洛加斯"
+    },
+    {
+        "id": 22647,
+        "Key": "Bloody Foothills",
+        "enUS": "Bloody Foothills",
+        "zhTW": "血腥丘陵[24 58 80]",
+        "zhCN": "血腥丘陵[24 58 80]"
+    },
+    {
+        "id": 22648,
+        "Key": "Rigid Highlands",
+        "enUS": "Frigid Highlands",
+        "zhTW": "冰凍高地[25 59 81]",
+        "zhCN": "冰冻高地[25 59 81]"
+    },
+    {
+        "id": 22649,
+        "Key": "Arreat Plateau",
+        "enUS": "Arreat Plateau",
+        "zhTW": "亞瑞特高原[26 60 81]",
+        "zhCN": "亚瑞特高原[26 60 81]"
+    },
+    {
+        "id": 22650,
+        "Key": "Crystalized Cavern Level 1",
+        "enUS": "Crystalline Passage",
+        "zhTW": "水晶通道[29 61 82]",
+        "zhCN": "水晶通道[29 61 82]"
+    },
+    {
+        "id": 22651,
+        "Key": "Cellar of Pity",
+        "enUS": "Frozen River",
+        "zhTW": "冰河[29 61 83]",
+        "zhCN": "冰河[29 61 83]"
+    },
+    {
+        "id": 22652,
+        "Key": "Crystalized Cavern Level 2",
+        "enUS": "Glacial Trail",
+        "zhTW": "冰河路徑[29 61 83]",
+        "zhCN": "冰河路径[29 61 83]"
+    },
+    {
+        "id": 22653,
+        "Key": "Echo Chamber",
+        "enUS": "Drifter Cavern",
+        "zhTW": "漂泊者洞穴[29 61 85]",
+        "zhCN": "漂泊者洞穴[29 61 85]"
+    },
+    {
+        "id": 22654,
+        "Key": "Tundra Wastelands",
+        "enUS": "Frozen Tundra",
+        "zhTW": "冰凍苔原[27 60 81]",
+        "zhCN": "冰冻苔原[27 60 81]"
+    },
+    {
+        "id": 22655,
+        "Key": "Glacial Caves Level 1",
+        "enUS": "The Ancients' Way",
+        "zhTW": "遠古之路[29 62 82]",
+        "zhCN": "远古之路[29 62 82]"
+    },
+    {
+        "id": 22656,
+        "Key": "Glacial Caves Level 2",
+        "enUS": "Icy Cellar",
+        "zhTW": "冰窖[29 62 85]",
+        "zhCN": "冰窖[29 62 85]"
+    },
+    {
+        "id": 22657,
+        "Key": "Rocky Summit",
+        "enUS": "Arreat Summit",
+        "zhTW": "亞瑞特山脈顛峰[37 68 87]",
+        "zhCN": "亚瑞特山脉颠峰[37 68 87]"
+    },
+    {
+        "id": 22658,
+        "Key": "Nihlathaks Temple",
+        "enUS": "Nihlathak's Temple",
+        "zhTW": "尼拉塞克的神殿[32 63 83]",
+        "zhCN": "尼拉塞克的神殿[32 63 83]"
+    },
+    {
+        "id": 22659,
+        "Key": "Halls of Anguish",
+        "enUS": "Halls of Anguish",
+        "zhTW": "悲痛之廳[33 63 83]",
+        "zhCN": "悲痛之厅[33 63 83]"
+    },
+    {
+        "id": 22660,
+        "Key": "Halls of Death's Calling",
+        "enUS": "Halls of Pain",
+        "zhTW": "痛苦之廳[34 64 84]",
+        "zhCN": "痛苦之厅[34 64 84]"
+    },
+    {
+        "id": 22661,
+        "Key": "Halls of Tormented Insanity",
+        "enUS": "Halls of Torment",
+        "zhTW": "折磨之廳[36 64 84]",
+        "zhCN": "折磨大厅[36 64 84]"
+    },
+    {
+        "id": 22662,
+        "Key": "Halls of Vaught",
+        "enUS": "Halls of Vaught",
+        "zhTW": "瓦特之廳[36 64 84]",
+        "zhCN": "瓦特之厅[36 64 84]"
+    },
+    {
+        "id": 22663,
+        "Key": "The Worldstone Keep Level 1",
+        "enUS": "Worldstone Keep Level 1",
+        "zhTW": "世界之石要塞第一層[39 65 85]",
+        "zhCN": "世界之石要塞第一层[39 65 85]"
+    },
+    {
+        "id": 22664,
+        "Key": "The Worldstone Keep Level 2",
+        "enUS": "Worldstone Keep Level 2",
+        "zhTW": "世界之石要塞第二層[40 65 85]",
+        "zhCN": "世界之石要塞第二层[40 65 85]"
+    },
+    {
+        "id": 22665,
+        "Key": "The Worldstone Keep Level 3",
+        "enUS": "Worldstone Keep Level 3",
+        "zhTW": "世界之石要塞第三層[42 66 85]",
+        "zhCN": "世界之石要塞第三层[42 66 85]"
+    },
+    {
+        "id": 22666,
+        "Key": "The Worldstone Chamber",
+        "enUS": "The Worldstone Chamber",
+        "zhTW": "世界之石大殿[43 66 85]",
+        "zhCN": "世界之石大殿[43 66 85]"
+    },
+    {
+        "id": 22667,
+        "Key": "Throne of Destruction",
+        "enUS": "Throne of Destruction",
+        "zhTW": "毀滅的王座[43 66 85]",
+        "zhCN": "毁灭的王座[43 66 85]"
+    },
+    {
+        "id": 22668,
+        "Key": "To Harrogath",
+        "enUS": "To Harrogath",
+        "zhTW": "前往哈洛加斯",
+        "zhCN": "前往哈洛加斯"
+    },
+    {
+        "id": 22669,
+        "Key": "To The Bloody Foothills",
+        "enUS": "To The Bloody Foothills",
+        "zhTW": "前往血腥丘陵",
+        "zhCN": "前往血腥丘陵"
+    },
+    {
+        "id": 22670,
+        "Key": "To The Rigid Highlands",
+        "enUS": "To The Frigid Highlands",
+        "zhTW": "前往冰凍高地",
+        "zhCN": "前往冰冻高地"
+    },
+    {
+        "id": 22671,
+        "Key": "To The Arreat Plateau",
+        "enUS": "To The Arreat Plateau",
+        "zhTW": "前往亞瑞特高原",
+        "zhCN": "前往亚瑞特高原"
+    },
+    {
+        "id": 22672,
+        "Key": "To The Crystalized Cavern Level 1",
+        "enUS": "To The Crystalline Passage",
+        "zhTW": "前往水晶通道",
+        "zhCN": "前往水晶通道"
+    },
+    {
+        "id": 22673,
+        "Key": "To The Cellar of Pity",
+        "enUS": "To The Frozen River",
+        "zhTW": "前往冰河",
+        "zhCN": "前往冰河"
+    },
+    {
+        "id": 22674,
+        "Key": "To The Crystalized Cavern Level 2",
+        "enUS": "To The Glacial Trail",
+        "zhTW": "前往冰河路徑",
+        "zhCN": "前往冰河路径"
+    },
+    {
+        "id": 22675,
+        "Key": "To The Echo Chamber",
+        "enUS": "To The Drifter Cavern",
+        "zhTW": "前往漂泊者洞穴",
+        "zhCN": "前往漂泊者洞穴"
+    },
+    {
+        "id": 22676,
+        "Key": "To The Tundra Wastelands",
+        "enUS": "To The Frozen Tundra",
+        "zhTW": "前往冰凍苔原",
+        "zhCN": "前往冰冻苔原"
+    },
+    {
+        "id": 22677,
+        "Key": "To The Glacier Caves Level 1",
+        "enUS": "To The Ancients' Way",
+        "zhTW": "前往遠古之路",
+        "zhCN": "前往远古之路"
+    },
+    {
+        "id": 22678,
+        "Key": "To The Glacier Caves Level 2",
+        "enUS": "To The Icy Cellar",
+        "zhTW": "前往冰窖",
+        "zhCN": "前往冰窖"
+    },
+    {
+        "id": 22679,
+        "Key": "To The Rocky Summit",
+        "enUS": "To The Arreat Summit",
+        "zhTW": "前往亞瑞特山脈顛峰",
+        "zhCN": "前往亚瑞特山脉颠峰"
+    },
+    {
+        "id": 22680,
+        "Key": "To Nihlathaks Temple",
+        "enUS": "To Nihlathak's Temple",
+        "zhTW": "前往尼拉塞克的神殿",
+        "zhCN": "前往尼拉塞克的神殿"
+    },
+    {
+        "id": 22681,
+        "Key": "To The Halls of Anguish",
+        "enUS": "To The Halls of Anguish",
+        "zhTW": "前往悲痛之廳",
+        "zhCN": "前往悲痛之厅"
+    },
+    {
+        "id": 22682,
+        "Key": "To The Halls of Death's Calling",
+        "enUS": "To The Halls of Pain",
+        "zhTW": "前往痛苦之廳",
+        "zhCN": "前往痛苦之厅"
+    },
+    {
+        "id": 22683,
+        "Key": "To The Halls of Tormented Insanity",
+        "enUS": "To The Halls of Torment",
+        "zhTW": "前往折磨之廳",
+        "zhCN": "前往折磨大厅"
+    },
+    {
+        "id": 22684,
+        "Key": "To The Halls of Vaught",
+        "enUS": "To The Halls of Vaught",
+        "zhTW": "前往瓦特之廳",
+        "zhCN": "前往瓦特之厅"
+    },
+    {
+        "id": 22685,
+        "Key": "To The Worldstone Keep Level 1",
+        "enUS": "To The Worldstone Keep Level 1",
+        "zhTW": "前往世界之石要塞第一層",
+        "zhCN": "前往世界之石要塞第一层"
+    },
+    {
+        "id": 22686,
+        "Key": "To The Worldstone Keep Level 2",
+        "enUS": "To The Worldstone Keep Level 2",
+        "zhTW": "前往世界之石要塞第二層",
+        "zhCN": "前往世界之石要塞第二层"
+    },
+    {
+        "id": 22687,
+        "Key": "To The Worldstone Keep Level 3",
+        "enUS": "To The Worldstone Keep Level 3",
+        "zhTW": "前往世界之石要塞第三層",
+        "zhCN": "前往世界之石要塞第三层"
+    },
+    {
+        "id": 22688,
+        "Key": "To The Worldstone Chamber",
+        "enUS": "To The Worldstone Chamber",
+        "zhTW": "前往世界之石大殿",
+        "zhCN": "前往世界之石大殿"
+    },
+    {
+        "id": 22689,
+        "Key": "To The Throne of Destruction",
+        "enUS": "To The Throne of Destruction",
+        "zhTW": "前往毀滅的王座",
+        "zhCN": "前往毁灭的王座"
+    },
+    {
+        "id": 22765,
+        "Key": "EnteringTheRogueEncampment",
+        "enUS": "Entering The Rogue Encampment",
+        "zhTW": "進入蘿格營地",
+        "zhCN": "进入萝格营地"
+    },
+    {
+        "id": 22766,
+        "Key": "EnteringTheBloodMoor",
+        "enUS": "Entering The Blood Moor",
+        "zhTW": "進入鮮血荒地",
+        "zhCN": "进入鲜血荒地"
+    },
+    {
+        "id": 22767,
+        "Key": "EnteringTheColdPlains",
+        "enUS": "Entering The Cold Plains",
+        "zhTW": "進入冰冷之原",
+        "zhCN": "进入冰冷之原"
+    },
+    {
+        "id": 22768,
+        "Key": "EnteringTheStonyField",
+        "enUS": "Entering The Stony Field",
+        "zhTW": "進入石塊曠野",
+        "zhCN": "进入石块旷野"
+    },
+    {
+        "id": 22769,
+        "Key": "EnteringTheDarkWood",
+        "enUS": "Entering The Dark Wood",
+        "zhTW": "進入黑暗森林",
+        "zhCN": "进入黑暗森林"
+    },
+    {
+        "id": 22770,
+        "Key": "EnteringTheBlackMarsh",
+        "enUS": "Entering The Black Marsh",
+        "zhTW": "進入黑色荒地",
+        "zhCN": "进入黑色荒地"
+    },
+    {
+        "id": 22771,
+        "Key": "EnteringTheTamoeHighland",
+        "enUS": "Entering The Tamoe Highland",
+        "zhTW": "進入泰摩高地",
+        "zhCN": "进入泰摩高地"
+    },
+    {
+        "id": 22772,
+        "Key": "EnteringTheDenOfEvilInQuest",
+        "enUS": "Entering The Den of Evil",
+        "zhTW": "進入邪惡洞窟",
+        "zhCN": "进入邪恶洞窟"
+    },
+    {
+        "id": 22773,
+        "Key": "EnteringTheDenOfEvilPostQuest",
+        "enUS": "Entering The Cave Level 1",
+        "zhTW": "進入邪惡洞窟第一層",
+        "zhCN": "进入邪恶洞窟第一层"
+    },
+    {
+        "id": 22774,
+        "Key": "EnteringTheCaveLevel1",
+        "enUS": "Entering The Cave Level 1",
+        "zhTW": "進入洞窟第一層",
+        "zhCN": "进入洞窟第一层"
+    },
+    {
+        "id": 22775,
+        "Key": "EnteringUndergroundPassageLevel1",
+        "enUS": "Entering The Underground Passage Level 1",
+        "zhTW": "進入地底通道第一層",
+        "zhCN": "进入地底通道第一层"
+    },
+    {
+        "id": 22776,
+        "Key": "EnteringTheHoleLevel1",
+        "enUS": "Entering The Hole Level 1",
+        "zhTW": "進入地洞第一層",
+        "zhCN": "进入地洞第一层"
+    },
+    {
+        "id": 22777,
+        "Key": "EnteringThePitLevel1",
+        "enUS": "Entering The Pit Level 1",
+        "zhTW": "進入地穴第一層",
+        "zhCN": "进入地穴第一层"
+    },
+    {
+        "id": 22778,
+        "Key": "EnteringTheCaveLevel2",
+        "enUS": "Entering The Cave Level 2",
+        "zhTW": "進入洞窟第二層",
+        "zhCN": "进入洞窟第二层"
+    },
+    {
+        "id": 22779,
+        "Key": "EnteringUndergroundPassageLevel2",
+        "enUS": "Entering The Underground Passage Level 2",
+        "zhTW": "進入地底通道第二層",
+        "zhCN": "进入地底通道第二层"
+    },
+    {
+        "id": 22780,
+        "Key": "EnteringTheHoleLevel2",
+        "enUS": "Entering The Hole Level 2",
+        "zhTW": "進入地洞第二層",
+        "zhCN": "进入地洞第二层"
+    },
+    {
+        "id": 22781,
+        "Key": "EnteringThePitLevel2",
+        "enUS": "Entering The Pit Level 2",
+        "zhTW": "進入地穴第二層",
+        "zhCN": "进入地穴第二层"
+    },
+    {
+        "id": 22782,
+        "Key": "EnteringTheBurialGrounds",
+        "enUS": "Entering The Burial Grounds",
+        "zhTW": "進入埋骨之地",
+        "zhCN": "进入埋骨之地"
+    },
+    {
+        "id": 22783,
+        "Key": "EnteringTheCrypt",
+        "enUS": "Entering The Crypt",
+        "zhTW": "進入墓地",
+        "zhCN": "进入墓地"
+    },
+    {
+        "id": 22784,
+        "Key": "EnteringTheMausoleum",
+        "enUS": "Entering The Mausoleum",
+        "zhTW": "進入大陵墓",
+        "zhCN": "进入大陵寝"
+    },
+    {
+        "id": 22785,
+        "Key": "EnteringTheForgottenTower",
+        "enUS": "Entering The Forgotten Tower",
+        "zhTW": "進入遺忘之塔",
+        "zhCN": "进入遗忘之塔"
+    },
+    {
+        "id": 22786,
+        "Key": "EnteringTheTowerCellarLevel1",
+        "enUS": "Entering The Tower Cellar Level 1",
+        "zhTW": "進入高塔地牢第一層",
+        "zhCN": "进入高塔地牢第一层"
+    },
+    {
+        "id": 22787,
+        "Key": "EnteringTheTowerCellarLevel2",
+        "enUS": "Entering The Tower Cellar Level 2",
+        "zhTW": "進入高塔地牢第二層",
+        "zhCN": "进入高塔地牢第二层"
+    },
+    {
+        "id": 22788,
+        "Key": "EnteringTheTowerCellarLevel3",
+        "enUS": "Entering The Tower Cellar Level 3",
+        "zhTW": "進入高塔地牢第三層",
+        "zhCN": "进入高塔地牢第三层"
+    },
+    {
+        "id": 22789,
+        "Key": "EnteringTheTowerCellarLevel4",
+        "enUS": "Entering The Tower Cellar Level 4",
+        "zhTW": "進入高塔地牢第四層",
+        "zhCN": "进入高塔地牢第四层"
+    },
+    {
+        "id": 22790,
+        "Key": "EnteringTheTowerCellarLevel5",
+        "enUS": "Entering The Tower Cellar Level 5",
+        "zhTW": "進入高塔地牢第五層",
+        "zhCN": "进入高塔地牢第五层"
+    },
+    {
+        "id": 22791,
+        "Key": "EnteringTheMonasteryGate",
+        "enUS": "Entering The Monastery Gate",
+        "zhTW": "進入僧院大門",
+        "zhCN": "进入僧院大门"
+    },
+    {
+        "id": 22792,
+        "Key": "EnteringTheOuterCloister",
+        "enUS": "Entering The Outer Cloister",
+        "zhTW": "進入外側迴廊",
+        "zhCN": "进入外侧回廊"
+    },
+    {
+        "id": 22793,
+        "Key": "EnteringTheBarracks",
+        "enUS": "Entering The Barracks",
+        "zhTW": "進入軍營",
+        "zhCN": "进入军营"
+    },
+    {
+        "id": 22794,
+        "Key": "EnteringTheJailLevel1",
+        "enUS": "Entering The Jail Level 1",
+        "zhTW": "進入監牢第一層",
+        "zhCN": "进入监牢第一层"
+    },
+    {
+        "id": 22795,
+        "Key": "EnteringTheJailLevel2",
+        "enUS": "Entering The Jail Level 2",
+        "zhTW": "進入監牢第二層",
+        "zhCN": "进入监牢第二层"
+    },
+    {
+        "id": 22796,
+        "Key": "EnteringTheJailLevel3",
+        "enUS": "Entering The Jail Level 3",
+        "zhTW": "進入監牢第三層",
+        "zhCN": "进入监牢第三层"
+    },
+    {
+        "id": 22797,
+        "Key": "EnteringTheInnerCloister",
+        "enUS": "Entering The Inner Cloister",
+        "zhTW": "進入內側迴廊",
+        "zhCN": "进入内侧回廊"
+    },
+    {
+        "id": 22798,
+        "Key": "EnteringTheCathedral",
+        "enUS": "Entering The Cathedral",
+        "zhTW": "進入大教堂",
+        "zhCN": "进入大教堂"
+    },
+    {
+        "id": 22799,
+        "Key": "EnteringTheCatacombsLevel1",
+        "enUS": "Entering The Catacombs Level 1",
+        "zhTW": "進入地下墓穴第一層",
+        "zhCN": "进入地下墓穴第一层"
+    },
+    {
+        "id": 22800,
+        "Key": "EnteringTheCatacombsLevel2",
+        "enUS": "Entering The Catacombs Level 2",
+        "zhTW": "進入地下墓穴第二層",
+        "zhCN": "进入地下墓穴第二层"
+    },
+    {
+        "id": 22801,
+        "Key": "EnteringTheCatacombsLevel3",
+        "enUS": "Entering The Catacombs Level 3",
+        "zhTW": "進入地下墓穴第三層",
+        "zhCN": "进入地下墓穴第三层"
+    },
+    {
+        "id": 22802,
+        "Key": "EnteringTheCatacombsLevel4",
+        "enUS": "Entering The Catacombs Level 4",
+        "zhTW": "進入地下墓穴第四層",
+        "zhCN": "进入地下墓穴第四层"
+    },
+    {
+        "id": 22803,
+        "Key": "EnteringTristram",
+        "enUS": "Entering Tristram",
+        "zhTW": "進入崔斯特瑞姆",
+        "zhCN": "进入崔斯特瑞姆"
+    },
+    {
+        "id": 22804,
+        "Key": "EnteringTheMooMooFarm",
+        "enUS": "Entering The Moo Moo Farm",
+        "zhTW": "進入秘密母牛關卡",
+        "zhCN": "进入秘密母牛关卡"
+    },
+    {
+        "id": 22805,
+        "Key": "EnteringLutGholein",
+        "enUS": "Entering Lut Gholein",
+        "zhTW": "進入魯-高因",
+        "zhCN": "进入鲁-高因"
+    },
+    {
+        "id": 22806,
+        "Key": "EnteringTheRockyWaste",
+        "enUS": "Entering The Rocky Waste",
+        "zhTW": "進入碎石荒地",
+        "zhCN": "进入碎石荒地"
+    },
+    {
+        "id": 22807,
+        "Key": "EnteringTheDryHills",
+        "enUS": "Entering The Dry Hills",
+        "zhTW": "進入乾躁的高地",
+        "zhCN": "进入干燥的高地"
+    },
+    {
+        "id": 22808,
+        "Key": "EnteringTheFarOasis",
+        "enUS": "Entering The Far Oasis",
+        "zhTW": "進入遙遠的綠洲",
+        "zhCN": "进入遥远的绿洲"
+    },
+    {
+        "id": 22809,
+        "Key": "EnteringTheLostCity",
+        "enUS": "Entering The Lost City",
+        "zhTW": "進入遺失的城市",
+        "zhCN": "进入遗失的城市"
+    },
+    {
+        "id": 22810,
+        "Key": "EnteringTheValleyOfSnakes",
+        "enUS": "Entering The Valley of Snakes",
+        "zhTW": "進入群蛇峽谷",
+        "zhCN": "进入群蛇峡谷"
+    },
+    {
+        "id": 22811,
+        "Key": "EnteringTheCanyonOfTheMagi",
+        "enUS": "Entering The Canyon of the Magi",
+        "zhTW": "進入術士的峽谷",
+        "zhCN": "进入术士的峡谷"
+    },
+    {
+        "id": 22812,
+        "Key": "EnteringTheSewersLevel1",
+        "enUS": "Entering The Sewers Level 1",
+        "zhTW": "進入下水道第一層",
+        "zhCN": "进入下水道第一层"
+    },
+    {
+        "id": 22813,
+        "Key": "EnteringTheSewersLevel2",
+        "enUS": "Entering The Sewers Level 2",
+        "zhTW": "進入下水道第二層",
+        "zhCN": "进入下水道第二层"
+    },
+    {
+        "id": 22814,
+        "Key": "EnteringTheSewersLevel3",
+        "enUS": "Entering The Sewers Level 3",
+        "zhTW": "進入下水道第三層",
+        "zhCN": "进入下水道第三层"
+    },
+    {
+        "id": 22815,
+        "Key": "EnteringTheHaremLevel1",
+        "enUS": "Entering The Harem Level 1",
+        "zhTW": "進入女眷住處第一層",
+        "zhCN": "进入女眷住处第一层"
+    },
+    {
+        "id": 22816,
+        "Key": "EnteringTheHaremLevel2",
+        "enUS": "Entering The Harem Level 2",
+        "zhTW": "進入女眷住處第二層",
+        "zhCN": "进入女眷住处第二层"
+    },
+    {
+        "id": 22817,
+        "Key": "EnteringThePalaceCellarLevel1",
+        "enUS": "Entering The Palace Cellar Level 1 ",
+        "zhTW": "進入皇宮監牢第一層",
+        "zhCN": "进入皇宫监牢第一层"
+    },
+    {
+        "id": 22818,
+        "Key": "EnteringThePalaceCellarLevel2",
+        "enUS": "Entering The Palace Cellar Level 2",
+        "zhTW": "進入皇宮監牢第二層",
+        "zhCN": "进入皇宫监牢第二层"
+    },
+    {
+        "id": 22819,
+        "Key": "EnteringThePalaceCellarLevel3",
+        "enUS": "Entering The Palace Cellar Level 3",
+        "zhTW": "進入皇宮監牢第三層",
+        "zhCN": "进入皇宫监牢第三层"
+    },
+    {
+        "id": 22820,
+        "Key": "EnteringTheStonyTombLevel1",
+        "enUS": "Entering The Stony Tomb Level 1",
+        "zhTW": "進入石製古墓第一層",
+        "zhCN": "进入石制古墓第一层"
+    },
+    {
+        "id": 22821,
+        "Key": "EnteringTheHallsOfTheDeadLevel1",
+        "enUS": "Entering The Halls of the Dead Level 1",
+        "zhTW": "進入死亡之殿第一層",
+        "zhCN": "进入死亡之殿第一层"
+    },
+    {
+        "id": 22822,
+        "Key": "EnteringTheHallsOfTheDeadLevel2",
+        "enUS": "Entering The Halls of the Dead Level 2",
+        "zhTW": "進入死亡之殿第二層",
+        "zhCN": "进入死亡之殿第二层"
+    },
+    {
+        "id": 22823,
+        "Key": "EnteringTheClawViperTempleLevel1",
+        "enUS": "Entering The Claw Viper Temple Level 1",
+        "zhTW": "進入利爪腹蛇神殿第一層",
+        "zhCN": "进入利爪蝮蛇神殿第一层"
+    },
+    {
+        "id": 22824,
+        "Key": "EnteringTheStonyTombLevel2",
+        "enUS": "Entering The Stony Tomb Level 2",
+        "zhTW": "進入石製古墓第二層",
+        "zhCN": "进入石制古墓第二层"
+    },
+    {
+        "id": 22825,
+        "Key": "EnteringTheHallsOfTheDeadLevel3",
+        "enUS": "Entering The Halls of the Dead Level 3",
+        "zhTW": "進入死亡之殿第三層",
+        "zhCN": "进入死亡之殿第三层"
+    },
+    {
+        "id": 22826,
+        "Key": "EnteringTheClawViperTempleLevel2",
+        "enUS": "Entering The Claw Viper Temple Level 2",
+        "zhTW": "進入利爪腹蛇神殿第二層",
+        "zhCN": "进入利爪蝮蛇神殿第二层"
+    },
+    {
+        "id": 22827,
+        "Key": "EnteringTheMaggotLairLevel1",
+        "enUS": "Entering The Maggot Lair Level 1",
+        "zhTW": "進入蛆蟲巢穴第一層",
+        "zhCN": "进入蛆虫巢穴第一层"
+    },
+    {
+        "id": 22828,
+        "Key": "EnteringTheMaggotLairLevel2",
+        "enUS": "Entering The Maggot Lair Level 2",
+        "zhTW": "進入蛆蟲巢穴第二層",
+        "zhCN": "进入蛆虫巢穴第二层"
+    },
+    {
+        "id": 22829,
+        "Key": "EnteringTheMaggotLairLevel3",
+        "enUS": "Entering The Maggot Lair Level 3",
+        "zhTW": "進入蛆蟲巢穴第三層",
+        "zhCN": "进入蛆虫巢穴第三层"
+    },
+    {
+        "id": 22830,
+        "Key": "EnteringTheAncientTunnels",
+        "enUS": "Entering The Ancient Tunnels",
+        "zhTW": "進入古代通道",
+        "zhCN": "进入古代通道"
+    },
+    {
+        "id": 22831,
+        "Key": "EnteringTalRasha'sTomb",
+        "enUS": "Entering Tal Rasha's Tomb",
+        "zhTW": "進入塔-拉夏的古墓",
+        "zhCN": "进入塔-拉夏的古墓"
+    },
+    {
+        "id": 22832,
+        "Key": "EnteringDuriel'sLair",
+        "enUS": "Entering Tal Rasha's Chamber",
+        "zhTW": "進入都瑞爾的房間",
+        "zhCN": "进入都瑞尔的房间"
+    },
+    {
+        "id": 22833,
+        "Key": "EnteringTheArcaneSanctuary",
+        "enUS": "Entering The Arcane Sanctuary",
+        "zhTW": "進入神秘庇難所",
+        "zhCN": "进入神秘避难所"
+    },
+    {
+        "id": 22834,
+        "Key": "EnteringTheKurastDocktown",
+        "enUS": "Entering The Kurast Docks",
+        "zhTW": "進入庫拉斯特海港",
+        "zhCN": "进入库拉斯特海港"
+    },
+    {
+        "id": 22835,
+        "Key": "EnteringTheSpiderForest",
+        "enUS": "Entering The Spider Forest",
+        "zhTW": "進入蜘蛛森林",
+        "zhCN": "进入蜘蛛森林"
+    },
+    {
+        "id": 22836,
+        "Key": "EnteringTheGreatMarsh",
+        "enUS": "Entering The Great Marsh",
+        "zhTW": "進入龐大濕地",
+        "zhCN": "进入庞大湿地"
+    },
+    {
+        "id": 22837,
+        "Key": "EnteringTheFlayerJungle",
+        "enUS": "Entering The Flayer Jungle",
+        "zhTW": "進入剝皮叢林",
+        "zhCN": "进入剥皮丛林"
+    },
+    {
+        "id": 22838,
+        "Key": "EnteringLowerKurast",
+        "enUS": "Entering Lower Kurast",
+        "zhTW": "進入庫拉斯特下層",
+        "zhCN": "进入库拉斯特下层"
+    },
+    {
+        "id": 22839,
+        "Key": "EnteringTheKurastBazaar",
+        "enUS": "Entering The Kurast Bazaar",
+        "zhTW": "進入庫拉斯特商場",
+        "zhCN": "进入库拉斯特商场"
+    },
+    {
+        "id": 22840,
+        "Key": "EnteringUpperKurast",
+        "enUS": "Entering Upper Kurast",
+        "zhTW": "進入庫拉斯特上層",
+        "zhCN": "进入库拉斯特上层"
+    },
+    {
+        "id": 22841,
+        "Key": "EnteringTheKurastCauseway",
+        "enUS": "Entering The Kurast Causeway",
+        "zhTW": "進入庫拉斯特堤道",
+        "zhCN": "进入库拉斯特堤道"
+    },
+    {
+        "id": 22842,
+        "Key": "EnteringTravincal",
+        "enUS": "Entering Travincal",
+        "zhTW": "進入崔凡克",
+        "zhCN": "进入崔凡克"
+    },
+    {
+        "id": 22843,
+        "Key": "EnteringTheSpiderCave",
+        "enUS": "Entering The Arachnid Lair",
+        "zhTW": "進入蜘蛛巢穴",
+        "zhCN": "进入蜘蛛巢穴"
+    },
+    {
+        "id": 22844,
+        "Key": "EnteringTheSpiderCavern",
+        "enUS": "Entering The Spider Cavern",
+        "zhTW": "進入蜘蛛洞窟",
+        "zhCN": "进入蜘蛛洞窟"
+    },
+    {
+        "id": 22845,
+        "Key": "EnteringTheSwampyPitLevel1",
+        "enUS": "Entering The Swampy Pit Level 1",
+        "zhTW": "進入沼澤地洞第一層",
+        "zhCN": "进入沼泽地洞第一层"
+    },
+    {
+        "id": 22846,
+        "Key": "EnteringTheSwampyPitLevel2",
+        "enUS": "Entering The Swampy Pit Level 2",
+        "zhTW": "進入沼澤地洞第二層",
+        "zhCN": "进入沼泽地洞第二层"
+    },
+    {
+        "id": 22847,
+        "Key": "EnteringTheFlayerDungeonLevel1",
+        "enUS": "Entering The Flayer Dungeon Level 1",
+        "zhTW": "進入剝皮地窖第一層",
+        "zhCN": "进入剥皮地窖第一层"
+    },
+    {
+        "id": 22848,
+        "Key": "EnteringTheFlayerDungeonLevel2",
+        "enUS": "Entering The Flayer Dungeon Level 2",
+        "zhTW": "進入剝皮地窖第二層",
+        "zhCN": "进入剥皮地窖第二层"
+    },
+    {
+        "id": 22849,
+        "Key": "EnteringTheSwampyPitLevel3",
+        "enUS": "Entering The Swampy Pit Level 3",
+        "zhTW": "進入沼澤地洞第三層",
+        "zhCN": "进入沼泽地洞第三层"
+    },
+    {
+        "id": 22850,
+        "Key": "EnteringTheFlayerDungeonLevel3",
+        "enUS": "Entering The Flayer Dungeon Level 3",
+        "zhTW": "進入剝皮地窖第三層",
+        "zhCN": "进入剥皮地窖第三层"
+    },
+    {
+        "id": 22853,
+        "Key": "EnteringTheRuinedTemple",
+        "enUS": "Entering The Ruined Temple",
+        "zhTW": "進入殘破神殿",
+        "zhCN": "进入残破神殿"
+    },
+    {
+        "id": 22854,
+        "Key": "EnteringTheDisusedFane",
+        "enUS": "Entering The Disused Fane",
+        "zhTW": "進入廢棄的寺院",
+        "zhCN": "进入废弃的寺院"
+    },
+    {
+        "id": 22855,
+        "Key": "EnteringTheForgottenReliquary",
+        "enUS": "Entering The Forgotten Reliquary",
+        "zhTW": "進入遺忘的聖物",
+        "zhCN": "进入遗忘的圣物"
+    },
+    {
+        "id": 22856,
+        "Key": "EnteringTheForgottenTemple",
+        "enUS": "Entering The Forgotten Temple",
+        "zhTW": "進入遺忘神殿",
+        "zhCN": "进入遗忘神殿"
+    },
+    {
+        "id": 22857,
+        "Key": "EnteringTheRuinedFane",
+        "enUS": "Entering The Ruined Fane",
+        "zhTW": "進入殘破的寺院",
+        "zhCN": "进入残破的寺院"
+    },
+    {
+        "id": 22858,
+        "Key": "EnteringTheDisusedReliquary",
+        "enUS": "Entering The Disused Reliquary",
+        "zhTW": "進入廢棄的聖物",
+        "zhCN": "进入废弃的圣物"
+    },
+    {
+        "id": 22859,
+        "Key": "EnteringTheDuranceOfHateLevel1",
+        "enUS": "Entering The Durance of Hate Level 1",
+        "zhTW": "進入憎恨的囚牢第一層",
+        "zhCN": "进入憎恨的囚牢第一层"
+    },
+    {
+        "id": 22860,
+        "Key": "EnteringTheDuranceOfHateLevel2",
+        "enUS": "Entering The Durance of Hate Level 2",
+        "zhTW": "進入憎恨的囚牢第二層",
+        "zhCN": "进入憎恨的囚牢第二层"
+    },
+    {
+        "id": 22861,
+        "Key": "EnteringTheDuranceOfHateLevel3",
+        "enUS": "Entering The Durance of Hate Level 3",
+        "zhTW": "進入憎恨的囚牢第三層",
+        "zhCN": "进入憎恨的囚牢第三层"
+    },
+    {
+        "id": 22862,
+        "Key": "EnteringThePandemoniumFortress",
+        "enUS": "Entering The Pandemonium Fortress",
+        "zhTW": "進入群魔堡壘",
+        "zhCN": "进入群魔堡垒"
+    },
+    {
+        "id": 22863,
+        "Key": "EnteringTheOuterSteppes",
+        "enUS": "Entering The Outer Steppes",
+        "zhTW": "進入郊外大草原",
+        "zhCN": "进入郊外大草原"
+    },
+    {
+        "id": 22864,
+        "Key": "EnteringThePlainsOfDespair",
+        "enUS": "Entering The Plains of Despair",
+        "zhTW": "進入絕望平原",
+        "zhCN": "进入绝望平原"
+    },
+    {
+        "id": 22865,
+        "Key": "EnteringTheCityOfTheDamned",
+        "enUS": "Entering The City of the Damned",
+        "zhTW": "進入神罰之城",
+        "zhCN": "进入神罚之城"
+    },
+    {
+        "id": 22866,
+        "Key": "EnteringTheRiverOfFlame",
+        "enUS": "Entering The River of Flame",
+        "zhTW": "進入火焰之河",
+        "zhCN": "进入火焰之河"
+    },
+    {
+        "id": 22867,
+        "Key": "EnteringChaosSanctum",
+        "enUS": "Entering Chaos Sanctuary",
+        "zhTW": "進入混沌庇難所",
+        "zhCN": "进入混沌避难所"
+    },
+    {
+        "id": 22868,
+        "Key": "EnteringHarrogath",
+        "enUS": "Entering Harrogath",
+        "zhTW": "進入哈洛加斯",
+        "zhCN": "进入哈洛加斯"
+    },
+    {
+        "id": 22869,
+        "Key": "EnteringTheBloodyFoothills",
+        "enUS": "Entering The Bloody Foothills",
+        "zhTW": "進入血腥丘陵",
+        "zhCN": "进入血腥丘陵"
+    },
+    {
+        "id": 22870,
+        "Key": "EnteringTheRigidHighlands",
+        "enUS": "Entering The Frigid Highlands",
+        "zhTW": "進入冰凍高地",
+        "zhCN": "进入冰冻高地"
+    },
+    {
+        "id": 22871,
+        "Key": "EnteringTheArreatPlateau",
+        "enUS": "Entering The Arreat Plateau",
+        "zhTW": "進入亞瑞特高原",
+        "zhCN": "进入亚瑞特高原"
+    },
+    {
+        "id": 22872,
+        "Key": "EnteringTheCrystalizedCavernLevel1",
+        "enUS": "Entering The Crystalline Passage",
+        "zhTW": "進入水晶通道",
+        "zhCN": "进入水晶通道"
+    },
+    {
+        "id": 22873,
+        "Key": "EnteringTheCellarOfPity",
+        "enUS": "Entering The Frozen River",
+        "zhTW": "進入冰河",
+        "zhCN": "进入冰河"
+    },
+    {
+        "id": 22874,
+        "Key": "EnteringTheCrystalizedCavernLevel2",
+        "enUS": "Entering The Glacial Trail",
+        "zhTW": "進入冰河路徑",
+        "zhCN": "进入冰河路径"
+    },
+    {
+        "id": 22875,
+        "Key": "EnteringTheEchoChamber",
+        "enUS": "Entering The Drifter Cavern",
+        "zhTW": "進入漂泊者洞穴",
+        "zhCN": "进入漂泊者洞穴"
+    },
+    {
+        "id": 22876,
+        "Key": "EnteringTheTundraWastelands",
+        "enUS": "Entering The Frozen Tundra",
+        "zhTW": "進入冰凍苔原",
+        "zhCN": "进入冰冻苔原"
+    },
+    {
+        "id": 22877,
+        "Key": "EnteringTheGlacierCavesLevel1",
+        "enUS": "Entering The Ancients' Way",
+        "zhTW": "進入遠古之路",
+        "zhCN": "进入远古之路"
+    },
+    {
+        "id": 22878,
+        "Key": "EnteringTheGlacierCavesLevel2",
+        "enUS": "Entering The Icy Cellar",
+        "zhTW": "進入冰窖",
+        "zhCN": "进入冰窖"
+    },
+    {
+        "id": 22879,
+        "Key": "EnteringTheRockySummit",
+        "enUS": "Entering The Arreat Summit",
+        "zhTW": "進入亞瑞特山脈顛峰",
+        "zhCN": "进入亚瑞特山脉颠峰"
+    },
+    {
+        "id": 22880,
+        "Key": "EnteringNihlathaksTemple",
+        "enUS": "Entering Nihlathak's Temple",
+        "zhTW": "進入尼拉塞克的神殿",
+        "zhCN": "进入尼拉塞克的神殿"
+    },
+    {
+        "id": 22881,
+        "Key": "EnteringTheHallsOfAnguish",
+        "enUS": "Entering The Halls of Anguish",
+        "zhTW": "進入悲痛之廳",
+        "zhCN": "进入悲痛之厅"
+    },
+    {
+        "id": 22882,
+        "Key": "EnteringTheHallsOfDeath'sCalling",
+        "enUS": "Entering The Halls of Pain",
+        "zhTW": "進入痛苦之廳",
+        "zhCN": "进入痛苦之厅"
+    },
+    {
+        "id": 22883,
+        "Key": "EnteringTheHallsOfVaught",
+        "enUS": "Entering The Halls of Vaught",
+        "zhTW": "進入瓦特之廳",
+        "zhCN": "进入瓦特之厅"
+    },
+    {
+        "id": 22884,
+        "Key": "EnteringHell1",
+        "enUS": "Entering Abaddon",
+        "zhTW": "進入艾巴當",
+        "zhCN": "进入艾巴当"
+    },
+    {
+        "id": 22885,
+        "Key": "EnteringHell2",
+        "enUS": "Entering The Pit of Acheron",
+        "zhTW": "進入冥河之洞",
+        "zhCN": "进入冥河之洞"
+    },
+    {
+        "id": 22886,
+        "Key": "EnteringHell3",
+        "enUS": "Entering The Infernal Pit",
+        "zhTW": "進入地獄魔窟",
+        "zhCN": "进入地狱魔窟"
+    },
+    {
+        "id": 22887,
+        "Key": "EnteringTheWorldstoneKeepLevel1",
+        "enUS": "Entering The Worldstone Keep Level 1",
+        "zhTW": "進入世界之石要塞第一層",
+        "zhCN": "进入世界之石要塞第一层"
+    },
+    {
+        "id": 22888,
+        "Key": "EnteringTheWorldstoneKeepLevel2",
+        "enUS": "Entering The Worldstone Keep Level 2",
+        "zhTW": "進入世界之石要塞第二層",
+        "zhCN": "进入世界之石要塞第二层"
+    },
+    {
+        "id": 22889,
+        "Key": "EnteringTheWorldstoneKeepLevel3",
+        "enUS": "Entering The Worldstone Keep Level 3",
+        "zhTW": "進入世界之石要塞第三層",
+        "zhCN": "进入世界之石要塞第三层"
+    },
+    {
+        "id": 22890,
+        "Key": "EnteringTheThroneOfDestruction",
+        "enUS": "Entering The Throne of Destruction",
+        "zhTW": "進入毀滅的王座",
+        "zhCN": "进入毁灭的王座"
+    },
+    {
+        "id": 22891,
+        "Key": "EnteringTheWorldstoneChamber",
+        "enUS": "Entering The Worldstone Chamber",
+        "zhTW": "進入世界之石大殿",
+        "zhCN": "进入世界之石大殿"
+    },
+    {
+        "id": 22892,
+        "Key": "EnteringThePandemoniumRun1",
+        "enUS": "Entering The Matron's Den",
+        "zhTW": "進入主母巢穴",
+        "zhCN": "进入主母巢穴"
+    },
+    {
+        "id": 22893,
+        "Key": "EnteringThePandemoniumRun2",
+        "enUS": "Entering The Forgotten Sands",
+        "zhTW": "進入遺忘沙漠",
+        "zhCN": "进入遗忘沙漠"
+    },
+    {
+        "id": 22894,
+        "Key": "EnteringThePandemoniumRun3",
+        "enUS": "Entering The Furnace of Pain",
+        "zhTW": "進入痛苦熔爐",
+        "zhCN": "进入痛苦熔炉"
+    },
+    {
+        "id": 22895,
+        "Key": "EnteringThePandemoniumFinale",
+        "enUS": "Entering Tristram",
+        "zhTW": "進入崔斯特瑞姆",
+        "zhCN": "进入崔斯特瑞姆"
+    }
+]

@@ -8,6 +8,11 @@ function strip_comments($text) {
     return preg_replace('![ \t]*//.*[ \t]*[\r\n]!', '', $text);
 }
 
+function strip_comma($text) {
+    $text = preg_replace('!,[ \t\r\n]*\}!', '}', $text);
+    return preg_replace('!,[ \t\r\n]*\]!', ']', $text);
+}
+
 function remove_utf8_bom($text) {
     $bom = pack('H*','EFBBBF');
     $text = preg_replace("/^$bom/", '', $text);
@@ -31,7 +36,37 @@ function encode_file($file, $value) {
     return false;
 }
 
-function log_info($message) {
-    echo date('r') . " " . $message . "\n";
+function parse_txt($file) {
+    $rows = [];
+    $content = file_get_contents($file);
+    $lines = explode("\n", trim($content));
+    $header = array_shift($lines);
+    $columns = explode("\t", trim($header));
+    array_shift($lines); //skip NULL line
+    foreach ($lines as $line) {
+        $values = explode("\t", trim($line));
+        if (count($columns) != count($values)) {
+            log_error("line invalid, content:{$line}");
+            continue;
+        }
+        
+        $rows[] = array_combine($columns, $values);
+    }
+
+    return $rows;
 }
 
+function is_i18n_conf($conf) {
+    return isset($conf["zhCN"]) && isset($conf["zhTW"]);
+}
+
+function log_info($message) {
+    echo "\033[01;32m[INFO]\033[0m" . date('H:i:s') . " {$message}\n";
+}
+
+function log_error($message) {
+    echo "\033[01;31m[ERROR]\033[0m" . date('H:i:s') . " {$message}\n";
+}
+
+define("ORIGIN_PATH", __DIR__ . "/../data/origin/");
+define("MY_PATH", __DIR__ . "/../data/my/");

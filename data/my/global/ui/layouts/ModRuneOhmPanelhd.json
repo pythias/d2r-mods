@@ -1,0 +1,185 @@
+{
+    "type": "SettingsPanel",
+    "name": "ModRuneOhmPanel",
+    "fields": {
+        "priority": 9004,
+        "fitToParent": true
+    },
+    "children": [
+        {
+            "type": "RectangleWidget",
+            "name": "Background",
+            "fields": {
+                "fitToScreen": true,
+                "color": [
+                    0,
+                    0,
+                    0,
+                    0.7
+                ]
+            },
+            "children": [
+                {
+                    "type": "ClickCatcherWidget",
+                    "name": "catcher",
+                    "fields": {
+                        "fitToParent": true
+                    }
+                },
+                {
+                    "type": "Widget",
+                    "name": "Anchor",
+                    "fields": {
+                        "anchor": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "rect": "$SettingsPanelAnchorRect"
+                    },
+                    "children": [
+                        {
+                            "type": "ImageWidget",
+                            "name": "Background",
+                            "fields": {
+                                "filename": "\\PANEL\\Options\\FrontEndOptionsBG"
+                            }
+                        },
+                        {
+                            "type": "TextBoxWidget",
+                            "name": "Title",
+                            "fields": {
+                                "rect": {
+                                    "x": 0,
+                                    "y": 45,
+                                    "width": 1950,
+                                    "height": 103
+                                },
+                                "text": "ÿc3ÿc827#(Ohm)",
+                                "style": "$StyleTitleBlock"
+                            }
+                        },
+                        {
+                            "type": "ButtonWidget",
+                            "name": "CloseButton",
+                            "fields": {
+                                "rect": {
+                                    "x": 1868,
+                                    "y": 8
+                                },
+                                "filename": "PANEL\\closebtn_4x",
+                                "hoveredFrame": 3,
+                                "onClickMessage": "PanelManager:ClosePanel:ModCubePanel",
+                                "tooltipString": "@strClose",
+                                "sound": "cursor_close_window_hd",
+                                "acceptsReturnKey": true,
+                                "focusOnMouseOver": true,
+                                "acceptsEscKeyEverywhere": true
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ImageWidget",
+            "name": "SettingsBackground",
+            "fields": {
+                "rect": "$SettingsPanelBackgroundRect",
+                "anchor": {
+                    "x": 0.5
+                },
+                "filename": "Controller\/Panel\/Options\/Panel_Options_BG"
+            }
+        },
+        {
+            "type": "ImageWidget",
+            "name": "ScrollBarBackground",
+            "fields": {
+                "rect": "$OptionsScrollBarBackgroundRect",
+                "anchor": {
+                    "x": 1
+                },
+                "filename": "PauseMenu\\VerticalScroll"
+            },
+            "children": [
+                {
+                    "type": "ScrollControllerWidget",
+                    "name": "ScrollController",
+                    "fields": {
+                        "rect": "$OptionsScrollBarRect",
+                        "anchor": {
+                            "x": 1
+                        },
+                        "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+                        "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+                        "barFilepath": "PauseMenu\\VerticalIndicator",
+                        "viewName": "ScrollView",
+                        "wheelScrollSound": "cursor_scroll_hd",
+                        "buttonScrollSound": "cursor_scroll_hd"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "ScrollViewWidget",
+            "name": "ScrollView",
+            "fields": {
+                "fitToParent": true,
+                "scrollControllerName": "ScrollController"
+            },
+            "children": [
+                {
+                    "type": "TableWidget",
+                    "name": "MRList",
+                    "fields": {
+                        "columns": [
+                            {
+                                "width": 1700,
+                                "alignment": {
+                                    "h": "fit",
+                                    "v": "fit"
+                                }
+                            }
+                        ],
+                        "rowHeight": "$ModTableRowHeight"
+                    },
+                    "children": [
+                        {
+                            "type": "TableRowWidget",
+                            "name": "MRCRowTitle",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "MRCTextTitle",
+                                    "fields": {
+                                        "text": "TO BE CONTINUE",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

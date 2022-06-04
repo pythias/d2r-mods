@@ -1,0 +1,441 @@
+﻿{
+    "type": "SettingsPanel",
+    "name": "ModSpeedPanel",
+    "fields": {
+        "priority": 9003,
+        "rect": "$OptionsPanelRect",
+        "anchor": {
+            "x": 0.5
+        },
+        "applySettingsImmediately": false
+    },
+    "children": [
+        {
+            "type": "ImageWidget",
+            "name": "ScrollBarBackground",
+            "fields": {
+                "rect": "$OptionsScrollBarBackgroundRect",
+                "anchor": {
+                    "x": 1
+                },
+                "filename": "PauseMenu\\VerticalScroll"
+            },
+            "children": [
+                {
+                    "type": "ScrollControllerWidget",
+                    "name": "ScrollController",
+                    "fields": {
+                        "rect": "$OptionsScrollBarRect",
+                        "anchor": {
+                            "x": 1
+                        },
+                        "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+                        "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+                        "barFilepath": "PauseMenu\\VerticalIndicator",
+                        "viewName": "ScrollView",
+                        "wheelScrollSound": "cursor_scroll_hd",
+                        "buttonScrollSound": "cursor_scroll_hd"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "ScrollViewWidget",
+            "name": "ScrollView",
+            "fields": {
+                "fitToParent": true,
+                "scrollControllerName": "ScrollController"
+            },
+            "children": [
+                {
+                    "type": "TableWidget",
+                    "name": "MRList",
+                    "fields": {
+                        "columns": [
+                            {
+                                "width": 1700,
+                                "alignment": {
+                                    "h": "fit",
+                                    "v": "fit"
+                                }
+                            }
+                        ],
+                        "rowHeight": "$ModTableRowHeight"
+                    },
+                    "children": [
+                        {
+                            "type": "TableRowWidget",
+                            "name": "MRCRowTitle",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "MRCTextTitle",
+                                    "fields": {
+                                        "text": "Amazon",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "Row Spacer"
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "RowRune",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "text",
+                                    "fields": {
+                                        "text": "Assassin",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "Row Spacer"
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "RowRune",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "text",
+                                    "fields": {
+                                        "text": "Barbarian",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "Row Spacer"
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "RowRune",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "text",
+                                    "fields": {
+                                        "text": "Druid Human Form",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "Row Spacer"
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "RowRune",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "text",
+                                    "fields": {
+                                        "text": "Druid Bear Form",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "Row Spacer"
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "RowRune",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "text",
+                                    "fields": {
+                                        "text": "Druid Wolf Form",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "Row Spacer"
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "RowRune",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "text",
+                                    "fields": {
+                                        "text": "Necromancer",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "Row Spacer"
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "RowRune",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "text",
+                                    "fields": {
+                                        "text": "Necromancer Vampire Form",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "Row Spacer"
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "RowRune",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "text",
+                                    "fields": {
+                                        "text": "Paladin",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "Row Spacer"
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "RowRune",
+                            "fields": {
+                                "rect": {
+                                    "width": 1700,
+                                    "height": 120
+                                }
+                            },
+                            "children": [
+                                {
+                                    "type": "TextBoxWidget",
+                                    "name": "text",
+                                    "fields": {
+                                        "text": "Sorceress",
+                                        "style": "$StyleSettingsTitle"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "ImageWidget",
+                                            "name": "Divider",
+                                            "fields": {
+                                                "rect": {
+                                                    "x": 0,
+                                                    "y": 100
+                                                },
+                                                "filename": "PauseMenu\\Divider"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "TableRowWidget",
+                            "name": "Row Spacer"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
