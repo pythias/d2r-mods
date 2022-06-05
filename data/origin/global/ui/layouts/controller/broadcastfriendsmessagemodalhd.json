@@ -1,0 +1,75 @@
+﻿{
+    "basedOn": "BroadcastFriendsMessageModalHD.json",
+    "type": "ConfirmationModal",
+    "name": "BroadcastFriendsMessageModal",
+    "children": [
+        {
+            "type": "ClickCatcherWidget",
+            "name": "ClickCatcher"
+        },
+        {
+            "type": "ImageWidget",
+            "name": "Background"
+        },
+        {
+            "type": "TextBoxWidget",
+            "name": "Title"
+        },
+        {
+            "type": "ImageWidget",
+            "name": "BackgroundBox"
+        },
+        {
+            "type": "InputTextBoxWidget",
+            "name": "InputText"
+        },
+        {
+            "type": "ButtonWidget",
+            "name": "Confirm",
+            "children": [
+                {
+                    "type": "ButtonLegendWidget",
+                    "name": "ConfirmLegend",
+                    "fields": {
+                        "anchor": {
+                            "x": 0.5,
+                            "y": 1
+                        },
+                        "text": {
+                            "style": "$StyleButtonLegend"
+                        },
+                        "presets": [
+                            {
+                                "action": "select"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "ButtonWidget",
+            "name": "Cancel",
+            "children": [
+                {
+                    "type": "ButtonLegendWidget",
+                    "name": "DismissLegend",
+                    "fields": {
+                        "anchor": {
+                            "x": 0.5,
+                            "y": 1
+                        },
+                        "text": {
+                            "style": "$StyleButtonLegend"
+                        },
+                        "presets": [
+                            {
+                                "action": "back"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

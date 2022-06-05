@@ -1,0 +1,26 @@
+﻿{
+    "type": "SaveIndicatorPanel",
+    "name": "SaveIndicatorPanel",
+    "fields": {
+        "anchor": {
+            "x": 1,
+            "y": 1
+        },
+        "rect": {
+            "x": -60,
+            "y": -65
+        },
+        "priority": 2147483647
+    },
+    "children": [
+        {
+            "type": "AnimatedImageWidget",
+            "name": "SaveIndicator",
+            "fields": {
+                "filename": "CURSOR\\Pentspin",
+                "fps": 16,
+                "transparency": 0.6
+            }
+        }
+    ]
+}

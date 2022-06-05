@@ -1,0 +1,8 @@
+﻿{
+    "type": "ShowItemsPanel",
+    "name": "ShowItemsPanel",
+    "fields": {
+        "priority": -10,
+        "showDurationMilliseconds": 10000
+    }
+}

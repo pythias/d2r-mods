@@ -1,0 +1,492 @@
+﻿{
+    "type": "AdvancedStatsPanel",
+    "name": "ModRune25Panel",
+    "fields": {
+        "defaultWidget": "ScrollBar",
+        "priority": 9004,
+        "fitToParent": true
+    },
+    "children": [
+        {
+            "type": "RectangleWidget",
+            "name": "Background",
+            "fields": {
+                "fitToScreen": true,
+                "color": [
+                    0,
+                    0,
+                    0,
+                    0.5
+                ]
+            },
+            "children": [
+                {
+                    "type": "ClickCatcherWidget",
+                    "name": "catcher",
+                    "fields": {
+                        "fitToParent": true
+                    }
+                },
+                {
+                    "type": "Widget",
+                    "name": "Anchor",
+                    "fields": {
+                        "anchor": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "rect": "$SettingsPanelAnchorRect"
+                    },
+                    "children": [
+                        {
+                            "type": "ImageWidget",
+                            "name": "Background",
+                            "fields": {
+                                "filename": "\\PANEL\\Options\\FrontEndOptionsBG"
+                            }
+                        },
+                        {
+                            "type": "TextBoxWidget",
+                            "name": "Title",
+                            "fields": {
+                                "rect": {
+                                    "x": 0,
+                                    "y": 45,
+                                    "width": 1950,
+                                    "height": 103
+                                },
+                                "text": "古爾 Gul #25",
+                                "style": "$StyleTitleBlock"
+                            }
+                        },
+                        {
+                            "type": "ButtonWidget",
+                            "name": "CloseButton",
+                            "fields": {
+                                "rect": {
+                                    "x": 1868,
+                                    "y": 8
+                                },
+                                "filename": "PANEL\\closebtn_4x",
+                                "onClickMessage": "PanelManager:ClosePanel:ModRune25Panel",
+                                "hoveredFrame": 3,
+                                "tooltipString": "@strClose",
+                                "sound": "cursor_close_window_hd"
+                            }
+                        },
+                        {
+                            "type": "ScrollControllerWidget",
+                            "name": "ScrollController",
+                            "fields": {
+                                "rect": "$ModSeconderyScrollBarRect",
+                                "anchor": {
+                                    "x": 1
+                                },
+                                "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+                                "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+                                "barFilepath": "PauseMenu\\VerticalIndicator",
+                                "viewName": "ScrollView",
+                                "wheelScrollSound": "cursor_scroll_hd",
+                                "buttonScrollSound": "cursor_scroll_hd"
+                            }
+                        },
+                        {
+                            "type": "ScrollViewWidget",
+                            "name": "ScrollView",
+                            "fields": {
+                                "rect": "$ModSeconderyRect",
+                                "scrollControllerName": "ScrollController"
+                            },
+                            "children": [
+                                {
+                                    "type": "TableWidget",
+                                    "name": "MRList",
+                                    "fields": {
+                                        "columns": [
+                                            {
+                                                "width": 550,
+                                                "alignment": {
+                                                    "h": "fit",
+                                                    "v": "fit"
+                                                }
+                                            },
+                                            {
+                                                "width": 750,
+                                                "alignment": {
+                                                    "h": "fit",
+                                                    "v": "fit"
+                                                }
+                                            },
+                                            {
+                                                "width": 400,
+                                                "alignment": {
+                                                    "h": "fit",
+                                                    "v": "fit"
+                                                }
+                                            },
+                                            {
+                                                "width": 50,
+                                                "alignment": {
+                                                    "h": "center",
+                                                    "v": "center"
+                                                }
+                                            }
+                                        ],
+                                        "rowHeight": "$ModTableRowHeight"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "符文之語",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "底材",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "符文",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "烙印(Brand)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "4S Missile Weapon",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "31, 28, 23, 25",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4烙印(Brand)\nÿc3攻擊時有 35% 幾率施展等級 14 傷害加深\n打擊時有 100% 幾率施展等級 18 骨矛\n+260-340% 增強傷害 (可變)\n無視目標防禦\n20% 額外的攻擊準確率加成\n+280-330% 對惡魔的傷害 (可變)\n20% 致命攻擊\n防止怪物自療\n擊退\n火焰爆炸傷害 (15)",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "死神(Death)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "5S Sword,Axe",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "15, 1, 26, 9, 25",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4死神(Death)\nÿc3當死亡時 100% 產生44級的連鎖閃電\n攻擊時 25% 產生 18 級的冰尖柱\nÿc8無法破壞\n300-385% 增強傷害 ÿcU(變動)\nÿc320% 額外準確率增加\n+50 攻擊準確率\n1-50 閃電傷害\nÿc97% 偷取法力\nÿc850% 壓碎打擊\n+0-49% 致命攻擊 (依角色等級乘0.5)\nÿc3+1 照亮範圍\n等級 22 鮮血石魔 (15聚氣)\n-20% 需求\nÿcO重要屬性：385ED、無法破壞、0.5DS每級\n其他亮點：50CB、7LM\n美中不足：缺IAS\n無法破壞、高ED、高CB、高DS，條條屬性都如此兇殘\n，就因為缺了IAS而多被淪為側手，只有在攻速超高的雙熱PAL手裏才能與悔恨相提並論\nÿcC底材推薦\nÿc8狂戰士斧：單手武器中RANGE最大、基礎攻速和傷害最均衡的底材\n巨神之劍：狂亂BB只算主手的IAS，所以側手可以盡量用無IAS的武器，同時也是雙手雙熱的利器\n其他：雙頭斧是沒有狂戰士斧時的次選擇，巨神之刃是沒有巨神之劍時的次選擇",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "狂怒(Fury)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "3S Melee Weapon",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "31, 25, 5",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4狂暴(Fury)\nÿc3+209% 增強傷害\nÿc840% 增加攻擊速度\n防止怪物自療\n66% 撕開傷口機會\n33% 致命攻擊\n無視目標防禦\n-25% 目標防禦\n20% 額外的攻擊準確率加成\n6% 擊中偷取生命\nÿc3+5 狂亂 (限野蠻人使用)",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "弒王者(Kingslayer)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "4S Sword,Axe",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "23, 22, 25, 19",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4弒君者(Kingslayer)\nÿc330% 提升攻擊速度\n230-270% 增強傷害 ÿcU(變動)\nÿc3-25% 目標防禦\n20% 額外攻擊準確率加成\n33% 機會出現壓碎性打擊\n50% 機會撕裂傷口\n+1 到復仇\n防止怪物自療\n+10 力量\n40% 額外金幣從怪物身上取得\nÿcO重要屬性：33CB、50OW、30IAS\n其他亮點：270ED、-25%目標防禦、+1復仇\n美中不足：缺無法破壞\nCB、OW、IAS等屬性使其成為名符其實的殺BOSS利器\n可以單憑一件武器通殺，但都可以被其他裝備替換，這也是評價褒貶不一的原因\nÿcC底材推薦\nÿc8幻化之刃：基礎攻速最高的單手武器，還有無法破壞的特性\n狂戰士斧：單手武器中RANGE最大，可惜耐久較低，只能給不消耗耐久的CHAR使用\n冠軍斧：耐久最高的精華斧之一，較高的基礎攻速給滿電火支配的SOR玩復仇容易達到急速\n其他：猛禽斧和銀刃斧通過適當搭配都可以復仇SOR使用，不過是回城修理次數頻繁一些",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "迷霧(Mist)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "5S Missile Weapon",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "32, 13, 25, 10, 6",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4迷霧(Mist)\nÿc3裝備時獲得 8-12 級專註光環\n+3 所有技能\n+20% 攻擊速度\n+100% 穿刺攻擊\n+325-375% 增強傷害\n+9 最大傷害\n+20% 命中率加成\n追加 3-14 冰冷傷害\n+10 強壯\n+40 全抗性\n凍結目標+3\n+24 活力\n（2.4天梯新增）",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "原則(Principle)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "3S Armor",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "8, 25, 2",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4原則(Principle)\nÿc3100% 概率在攻擊時施放出 5 級 聖光彈\n+2 所有聖騎士技能\n+100-150 生命\n+50% 對不死系傷害\n+30% 火抗\n+5% 抗毒上限\n耐力消耗減慢 15%",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "裂隙(Rift)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "4S Polearm,Scepter",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "15, 18, 20, 25",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4裂縫(Rift)\nÿc3打擊時有 20% 幾率施展等級 16 龍卷風\n攻擊時有 16% 幾率施展等級 21 冰封球\n20% 額外的攻擊準確率加成\n+160-250 魔法傷害\n+60-180 火焰傷害\n+5-10 轉為所有的屬性 (可變)\n+10 敏捷\n38% 受損的生命移至法力\n75% 額外金幣從怪物身上取得\n等級 15 鋼鐵處女 (40 次)\n需求 -20%",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+﻿{
+    "type": "AdvancedStatsPanel",
+    "name": "ModRuneOhmPanel",
+    "fields": {
+        "defaultWidget": "ScrollBar",
+        "priority": 9004,
+        "fitToParent": true
+    },
+    "children": [
+        {
+            "type": "RectangleWidget",
+            "name": "Background",
+            "fields": {
+                "fitToScreen": true,
+                "color": [
+                    0,
+                    0,
+                    0,
+                    0.5
+                ]
+            },
+            "children": [
+                {
+                    "type": "ClickCatcherWidget",
+                    "name": "catcher",
+                    "fields": {
+                        "fitToParent": true
+                    }
+                },
+                {
+                    "type": "Widget",
+                    "name": "Anchor",
+                    "fields": {
+                        "anchor": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "rect": "$SettingsPanelAnchorRect"
+                    },
+                    "children": [
+                        {
+                            "type": "ImageWidget",
+                            "name": "Background",
+                            "fields": {
+                                "filename": "\\PANEL\\Options\\FrontEndOptionsBG"
+                            }
+                        },
+                        {
+                            "type": "TextBoxWidget",
+                            "name": "Title",
+                            "fields": {
+                                "rect": {
+                                    "x": 0,
+                                    "y": 45,
+                                    "width": 1950,
+                                    "height": 103
+                                },
+                                "text": "@r27",
+                                "style": "$StyleTitleBlock"
+                            }
+                        },
+                        {
+                            "type": "ButtonWidget",
+                            "name": "CloseButton",
+                            "fields": {
+                                "rect": {
+                                    "x": 1868,
+                                    "y": 8
+                                },
+                                "filename": "PANEL\\closebtn_4x",
+                                "onClickMessage": "PanelManager:ClosePanel:ModRuneOhmPanel",
+                                "hoveredFrame": 3,
+                                "tooltipString": "@strClose",
+                                "sound": "cursor_close_window_hd"
+                            }
+                        },
+                        {
+                            "type": "ScrollControllerWidget",
+                            "name": "ScrollController",
+                            "fields": {
+                                "rect": "$ModSeconderyScrollBarRect",
+                                "anchor": {
+                                    "x": 1
+                                },
+                                "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+                                "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+                                "barFilepath": "PauseMenu\\VerticalIndicator",
+                                "viewName": "ScrollView",
+                                "wheelScrollSound": "cursor_scroll_hd",
+                                "buttonScrollSound": "cursor_scroll_hd"
+                            }
+                        },
+                        {
+                            "type": "ScrollViewWidget",
+                            "name": "ScrollView",
+                            "fields": {
+                                "rect": "$ModSeconderyRect",
+                                "scrollControllerName": "ScrollController"
+                            },
+                            "children": [
+                                {
+                                    "type": "TableWidget",
+                                    "name": "MRList",
+                                    "fields": {
+                                        "columns": [
+                                            {
+                                                "width": 550,
+                                                "alignment": {
+                                                    "h": "fit",
+                                                    "v": "fit"
+                                                }
+                                            },
+                                            {
+                                                "width": 750,
+                                                "alignment": {
+                                                    "h": "fit",
+                                                    "v": "fit"
+                                                }
+                                            },
+                                            {
+                                                "width": 400,
+                                                "alignment": {
+                                                    "h": "fit",
+                                                    "v": "fit"
+                                                }
+                                            },
+                                            {
+                                                "width": 50,
+                                                "alignment": {
+                                                    "h": "center",
+                                                    "v": "center"
+                                                }
+                                            }
+                                        ],
+                                        "rowHeight": "$ModTableRowHeight"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "符文之語",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "底材",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "符文",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "葉子(Leaf)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "2孔 法師雙手法杖",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "3 + 8",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4葉子(Leaf)\nÿc3增加 5-30 火焰傷害\nÿc8+3 火焰技能\n+3 火彈 (限法師)\nÿc3+3 地獄之火 (限法師)\nÿc9+3 暖氣 (限法師)\n+2 法力在每殺死一名敵人之後取得\nÿc3+2-198 防禦 (依角色等級乘2)\n+33% 冰冷抗性\nÿcO美中不足：缺FCR，純火SOR和冰火SOR的開荒利器\nÿcC底材推薦\n底材可以找阿卡拉或者卓格南\nÿc8短棍：技能自然是火系為佳，帶輔助技能省技能點也可以考慮\n其他：SOLO中有3火球的底材皆可使用",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

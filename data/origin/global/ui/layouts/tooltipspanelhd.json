@@ -1,0 +1,8 @@
+﻿{
+    "type": "TooltipsPanel",
+    "name": "TooltipsPanel",
+    "fields": {
+        "priority": 2147483644,
+        "showDelayMilliseconds": 0
+    }
+}

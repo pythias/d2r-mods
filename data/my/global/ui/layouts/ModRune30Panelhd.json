@@ -1,0 +1,537 @@
+﻿{
+    "type": "AdvancedStatsPanel",
+    "name": "ModRune30Panel",
+    "fields": {
+        "defaultWidget": "ScrollBar",
+        "priority": 9004,
+        "fitToParent": true
+    },
+    "children": [
+        {
+            "type": "RectangleWidget",
+            "name": "Background",
+            "fields": {
+                "fitToScreen": true,
+                "color": [
+                    0,
+                    0,
+                    0,
+                    0.5
+                ]
+            },
+            "children": [
+                {
+                    "type": "ClickCatcherWidget",
+                    "name": "catcher",
+                    "fields": {
+                        "fitToParent": true
+                    }
+                },
+                {
+                    "type": "Widget",
+                    "name": "Anchor",
+                    "fields": {
+                        "anchor": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "rect": "$SettingsPanelAnchorRect"
+                    },
+                    "children": [
+                        {
+                            "type": "ImageWidget",
+                            "name": "Background",
+                            "fields": {
+                                "filename": "\\PANEL\\Options\\FrontEndOptionsBG"
+                            }
+                        },
+                        {
+                            "type": "TextBoxWidget",
+                            "name": "Title",
+                            "fields": {
+                                "rect": {
+                                    "x": 0,
+                                    "y": 45,
+                                    "width": 1950,
+                                    "height": 103
+                                },
+                                "text": "貝 Ber #30",
+                                "style": "$StyleTitleBlock"
+                            }
+                        },
+                        {
+                            "type": "ButtonWidget",
+                            "name": "CloseButton",
+                            "fields": {
+                                "rect": {
+                                    "x": 1868,
+                                    "y": 8
+                                },
+                                "filename": "PANEL\\closebtn_4x",
+                                "onClickMessage": "PanelManager:ClosePanel:ModRune30Panel",
+                                "hoveredFrame": 3,
+                                "tooltipString": "@strClose",
+                                "sound": "cursor_close_window_hd"
+                            }
+                        },
+                        {
+                            "type": "ScrollControllerWidget",
+                            "name": "ScrollController",
+                            "fields": {
+                                "rect": "$ModSeconderyScrollBarRect",
+                                "anchor": {
+                                    "x": 1
+                                },
+                                "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
+                                "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
+                                "barFilepath": "PauseMenu\\VerticalIndicator",
+                                "viewName": "ScrollView",
+                                "wheelScrollSound": "cursor_scroll_hd",
+                                "buttonScrollSound": "cursor_scroll_hd"
+                            }
+                        },
+                        {
+                            "type": "ScrollViewWidget",
+                            "name": "ScrollView",
+                            "fields": {
+                                "rect": "$ModSeconderyRect",
+                                "scrollControllerName": "ScrollController"
+                            },
+                            "children": [
+                                {
+                                    "type": "TableWidget",
+                                    "name": "MRList",
+                                    "fields": {
+                                        "columns": [
+                                            {
+                                                "width": 550,
+                                                "alignment": {
+                                                    "h": "fit",
+                                                    "v": "fit"
+                                                }
+                                            },
+                                            {
+                                                "width": 750,
+                                                "alignment": {
+                                                    "h": "fit",
+                                                    "v": "fit"
+                                                }
+                                            },
+                                            {
+                                                "width": 400,
+                                                "alignment": {
+                                                    "h": "fit",
+                                                    "v": "fit"
+                                                }
+                                            },
+                                            {
+                                                "width": 50,
+                                                "alignment": {
+                                                    "h": "center",
+                                                    "v": "center"
+                                                }
+                                            }
+                                        ],
+                                        "rowHeight": "$ModTableRowHeight"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "符文之語",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "底材",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "符文",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "野獸(Beast)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "5S Axe,Scepter,Hammer",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "30, 3, 22, 23, 17",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4野獸(Beast)\nÿc8在裝備後具備 9 級 狂熱靈氣\n40% 提升攻擊速度\nÿc3+240-270% 傷害力 (可變)\n20% 概率決定性打擊\n25% 概率造成傷口\n+3 級 熊人變化\n+3 級 變形術\n防止怪物治療\n+25-40 強壯 (可變)\n+10 能量\n每殺一個怪物 +2 點 法力\n13 級 召喚灰熊 (5 次)",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "榮耀之鍊(Chains of Honor)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "4S Armor",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "14, 22, 30, 24",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4榮耀之鏈(Chains of Honor)\nÿc8+2 到所有技能\nÿc3+200% 對惡魔系生物傷害\n+100% 對不死系生物傷害\nÿc9每次命中偷取 8% 生命\nÿc370% 增強防禦\n+20 力量\n生命恢復速度 +7\nÿc8所有抗性 +65\nÿc9傷害減少 8%\nÿc325% 更佳機會取得魔法裝備\nÿcO重要屬性：2SKILL、65RES\n其他亮點：8%DR、8LL\n美中不足：缺FCR\n俗稱COH，有著非常華麗的屬性，卻因為謎團的存在使得實用範圍大減\n只有一些RES緊缺而不依賴TP的CHAR會使用\nÿcC底材推薦\nÿc8執政官鎧甲：DEF最高的精華輕甲，STR需求也容易達到\n其中無形的多給物理弓的PET撐光環等級，也有打錢BB的PET用\n古龍皮：和女族長之弓的需求搭配起來是絕配，遠程也不需要在意DEF和耐久了",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "毀滅(Destruction)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "5S Polearm,Sword",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "26, 28, 30, 31, 18",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4毀滅(Destruction)\nÿc323% 概率在擊中目標時施放出12級火山\n5% 概率在擊中目標時施放出23級熔漿巨巖\n100% 概率當你死亡時施放出45級隕石\n攻擊時 15% 概率在攻擊時施放出22級新星\n+350% 增強傷害\n忽視目標防禦\n增加 100-180 魔法傷害\n每次命中偷取 7% 法力\n20% 壓碎打擊\n20% 致命一擊\n防止怪物自療\n+10 敏捷\nÿcC坑爹貨，也許還等待著誰去挖掘他們的價值",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "謎團(Enigma)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "3S Armor",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "31, 6, 30",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4迷團(Enigma)\nÿc8+2 到所有技能\nÿc945% 高速跑步\/行走\nÿc8+1 傳送\nÿc3+750-775 防禦ÿcU(變動)\nÿc9+0-74 力量(角色等級乘0.75)\nÿc3增加最大生命 5%\nÿc9傷害減少 8%\n每殺一個敵人 +14 生命\n15% 傷害轉移到法力\nÿc8+1-99% 更佳機會取得魔法裝備(角色等級乘1)\nÿcO重要屬性：+1TP、1MF每級、2SKILL\n其他亮點：0.75STR每級、8%DR、45FRW\n美中不足：缺RES\n俗稱TP+，可謂是1.10以後暗黑的象征，+1TP讓PK場上的格局從此改變\n大量的MF也讓幾乎所有的CHAR都有了MF能力，海量的STR更是能幫助實現0STR投入\nÿcC底材推薦\nÿc8法師鎧甲：DEF最高的擴展輕甲，即使在沒有ULC的1.10中仍然能夠輕松實現0STR投入\n灰幕布衣：STR需求最低的精華甲，在ULC出現之後被越來越多的使用\n執政官鎧甲：DEF最高的精華輕甲，由於PK中常常需要用到年紀\n所以STR一般不會浪費，而在PVC中也可以BUG穿裝備，只是撿屍體的時候有些麻煩",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "永恆(Eternity)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "5S Melee Weapon",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "11, 30, 24, 12, 29",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4永恒(Eternity)\nÿc3永不魔損\n+260-310% 傷害力\n+9 最小傷害力\n每次命中偷取 7% 生命\n20% 概率決定性打擊\n使目標失明\n減慢目標速度 33%\n提升法力回復速度 16%\n自動恢復生命 +16\n不被冰凍\n30% 提升魔法裝備出現概率\n8 級 重生 (88 次)",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "無限(Infinity)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "3S Polearm,Spear",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "30, 23, 24",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4無限(Infinity)\nÿc350% 機率施展等級20連鎖閃電於殺敵之後\nÿc8等級 12 信念靈氣賦予\nÿc9+35% 高速跑步\n+255-325% 增強傷害 ÿcU(變動)\nÿc8-45-55% 敵人電抗 ÿcU(變動)\nÿc940% 機率壓碎打擊\nÿc3防治怪物自療\n+0-49 體力 (依角色等級乘0.5)\n30% 更佳機會取得魔法裝備\nÿc9等級 21 颶風裝甲 (30 聚氣)\nÿcO重要屬性：12級審判光環、-55LR\n其他亮點：40CB、325ED、颶風裝甲聚氣、35FRW\n美中不足：缺IAS、FCR\n賦予的審判光環成為以元素傷害為主CHAR的最佳PET武器\n40CB也能在殺BOSS時起不小的作用，由於缺少LL，常與安臉和鰻魚頭搭配使用\nÿcC底材推薦\nÿc8巨長斧：對於持有野獸的CHAR是不二選擇，對於無野獸的CHAR也是DPS與CB較平衡的底材\n鮫尾巨斧：利用最高的基礎攻速觸發CB殺BOSS，搭配鰻魚頭的DPS也與巨長相差無幾\n銳利之斧：沒有鮫尾的次選擇\n鐮刀：為了充分利用-55LR，出現了CHAR手持無限的純電SOR練法，鐮刀的STR和DEX需求是最低的\n其他：對於無野獸CHAR來說，神秘之斧在安臉搭配下能達到最高DPS，可惜低攻速不利於觸發CB",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "最後遺願(Last Wish)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "4S Sword,Hammer,Axe",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "31, 23, 29, 30",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4最後希望(Last Wish)\nÿc96% 概率當被擊中時施放出 11級 能量消減\nÿc810% 概率在擊中目標時施放出 18級 偷取生命\nÿc320% 概率在攻擊時施放出 20級 充能彈\nÿc9當裝備後擁有 17級 力量靈氣\nÿc3+330-375% 增強傷害 ÿcU(變動)\nÿc3忽視目標防禦\nÿc860-70% 壓碎打擊ÿcU(變動)\nÿc3防止怪物自療\n擊中使怪物盲目\n+0-49% 魔法裝備出現概率(角色等級乘0.5)\nÿcO重要屬性：70CB、觸發18級偷取生命\n其他亮點：觸發11級能量消解、17級力量光環\n美中不足：缺IAS、無法破壞\n造價最高的符文之語，只有在殺6BOSS的時候才較能發揮性能\nÿcC底材推薦\nÿc8幻化之刃：盾擊無視武器傷害，雙夢也以LD為主，底材基礎攻速越快越好\n巨神之刃：對於偏愛A5PET的可以作為輔助",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "TableRowWidget",
+                                            "name": "MRItem",
+                                            "children": [
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "憤怒(Wrath)",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRBase",
+                                                    "fields": {
+                                                        "text": "4S Missile Weapon",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRRune",
+                                                    "fields": {
+                                                        "text": "21, 17, 30, 23",
+                                                        "style": "$StyleModYellow"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRButton",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4憤怒(Wrath)\nÿc3打擊時有 30% 幾率施展等級 1 衰老\n打擊時有 5% 幾率施展等級 10 偷取生命\n+375% 對惡魔的傷害\n+100 對惡魔的準確率\n+250-300% 對不死生物的傷害 (可變)\n+85-120 魔法傷害\n+41-240 閃電傷害\n20% 造成壓碎性打擊的概率\n防止怪物自療\n+10 精力\n無法冰凍",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -42,7 +42,6 @@ function parse_txt($file) {
     $lines = explode("\n", trim($content));
     $header = array_shift($lines);
     $columns = explode("\t", trim($header));
-    array_shift($lines); //skip NULL line
     foreach ($lines as $line) {
         $values = explode("\t", trim($line));
         if (count($columns) != count($values)) {
@@ -54,6 +53,16 @@ function parse_txt($file) {
     }
 
     return $rows;
+}
+
+function get_names($type, $lang = "zhTW") {
+    $names = [];
+    $rows = decode_file(ORIGIN_PATH . "/local/lng/strings/{$type}.json");
+    foreach ($rows as $row) {
+        $names[$row['Key']] = $row[$lang];
+    }
+
+    return $names;
 }
 
 function is_i18n_conf($conf) {
@@ -68,5 +77,6 @@ function log_error($message) {
     echo "\033[01;31m[ERROR]\033[0m" . date('H:i:s') . " {$message}\n";
 }
 
-define("ORIGIN_PATH", __DIR__ . "/../data/origin/");
-define("MY_PATH", __DIR__ . "/../data/my/");
+define("ORIGIN_PATH", __DIR__ . "/../data/origin");
+define("MY_PATH", __DIR__ . "/../data/my");
+define("SETTINGS_PATH", __DIR__ . "/../data/settings");

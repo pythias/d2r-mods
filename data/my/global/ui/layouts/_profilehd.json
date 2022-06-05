@@ -778,6 +778,7 @@
     },
     "OptionsTableRowHeight": 100,
     "ModTableRowHeight": 80,
+    "ModTableRowHeightSmall": 50,
     "OptionsCarouselRect": {
         "width": 596,
         "height": 72
@@ -1290,5 +1291,17 @@
         "y": 80
     },
     "JoinGamePlayerEntryHeight": 100,
-    "JoinGamePlayerNameHeight": 60
+    "JoinGamePlayerNameHeight": 60,
+    "ModSeconderyScrollBarRect": {
+        "x": -132,
+        "y": 254,
+        "width": 26,
+        "height": 1228
+    },
+    "ModSeconderyRect": {
+        "x": 106,
+        "y": 208,
+        "width": 1730,
+        "height": 1280
+    }
 }

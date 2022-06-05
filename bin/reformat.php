@@ -18,7 +18,6 @@ foreach ($files as $file) {
     $c = remove_utf8_bom($c);
     $v = json_decode($c, true);
     if (empty($v)) {
-        var_dump($c);
         log_error("can't decode '{$file}'");
         continue;
     }

@@ -1,0 +1,67 @@
+﻿{
+    "basedOn": "GlobalData.json",
+    "type": "GlobalData",
+    "name": "GlobalData",
+    "children": [
+        {
+            "type": "SpriteColoringHelper",
+            "name": "SpriteColoringHelper"
+        },
+        {
+            "type": "LanguageFontRemapper",
+            "name": "LanguageFontRemapper"
+        },
+        {
+            "type": "ShowItemsParameters",
+            "name": "ShowItemsParameters"
+        },
+        {
+            "type": "ControllerCursorParameters",
+            "name": "ControllerCursorParameters",
+            "fields": {
+                "minDragFactor": 0.75,
+                "maxDragFactor": 0.9,
+                "minVariableDragVelocity": 200,
+                "velocityCurve": {
+                    "anchor1": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "anchor2": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "control1": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "control2": {
+                        "x": 1,
+                        "y": 0
+                    }
+                },
+                "snapPerpendicularMaxWidthMultiplier": 3,
+                "snapPerpendicularMinimumExpandedWidth": 256,
+                "snapBoundaryMargin": 16,
+                "snapEquivalentDistanceThreshold": 64,
+                "autoSteerWeight": 0,
+                "snappingAnimationSeconds": 0.05,
+                "snappingRepeatDelayFactor": 0.285,
+                "snappingMaximumRepeatDelaySeconds": 0.5,
+                "snappingRepeatRateFactor": 0.071,
+                "snappingMaximumRepeatRateSeconds": 0.25,
+                "cursorSelectionRadius": 48,
+                "magnetizeMinIdleTimeSeconds": 0.1,
+                "magnetizeDurationSeconds": 0.15,
+                "magnetizeMinDetectionDistance": 0,
+                "magnetizeMaxDetectionDistance": 0,
+                "magnetizePositionEdgePadding": 0,
+                "cursorAccelerationTimeSeconds": 0.4,
+                "flickMaximumTimeSeconds": 0.225,
+                "flickFullStickInputThreshold": 0.4,
+                "holdInputRecaptureTimeSeconds": 0.175,
+                "cursorSnapInitialInputDelaySeconds": 0.034
+            }
+        }
+    ]
+}

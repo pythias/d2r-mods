@@ -60,22 +60,22 @@
                                 }
                             }
                         ],
-                        "rowHeight": "$ModTableRowHeight"
+                        "rowHeight": 50
                     },
                     "children": [
                         {
                             "type": "TableRowWidget",
-                            "name": "MRCRow",
+                            "name": "Row Area 85",
                             "fields": {
                                 "rect": {
                                     "width": 1700,
-                                    "height": 3000
+                                    "height": 1800
                                 }
                             },
                             "children": [
                                 {
                                     "type": "TableWidget",
-                                    "name": "MFAreas85",
+                                    "name": "Table Areas 85",
                                     "fields": {
                                         "columns": [
                                             {
@@ -107,7 +107,7 @@
                                                 }
                                             }
                                         ],
-                                        "rowHeight": "$ModTableRowHeight"
+                                        "rowHeight": "$ModTableRowHeightSmall"
                                     },
                                     "children": [
                                         {
@@ -1445,7 +1445,7 @@
                         },
                         {
                             "type": "TableRowWidget",
-                            "name": "MRCRow",
+                            "name": "Row Area All",
                             "fields": {
                                 "rect": {
                                     "width": 1700,
@@ -1455,7 +1455,7 @@
                             "children": [
                                 {
                                     "type": "TableWidget",
-                                    "name": "MFAreas",
+                                    "name": "Table Area All",
                                     "fields": {
                                         "columns": [
                                             {
@@ -1487,7 +1487,7 @@
                                                 }
                                             }
                                         ],
-                                        "rowHeight": "$ModTableRowHeight"
+                                        "rowHeight": "$ModTableRowHeightSmall"
                                     },
                                     "children": [
                                         {
@@ -2012,7 +2012,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -2088,7 +2088,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -2164,7 +2164,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -2278,7 +2278,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -3646,7 +3646,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -3798,7 +3798,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -3988,7 +3988,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -4026,7 +4026,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -4748,7 +4748,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -4824,7 +4824,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -4862,7 +4862,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -4976,7 +4976,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5052,7 +5052,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5090,7 +5090,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5128,7 +5128,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5166,7 +5166,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5204,7 +5204,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5242,7 +5242,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5280,7 +5280,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5318,7 +5318,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5622,7 +5622,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5660,7 +5660,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -5964,7 +5964,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -6078,7 +6078,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -6116,7 +6116,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "87",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -6306,7 +6306,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -6344,7 +6344,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -6382,7 +6382,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -6420,7 +6420,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -6458,7 +6458,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -6496,7 +6496,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -6534,7 +6534,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]
@@ -6572,7 +6572,7 @@
                                                     "name": "MRHell",
                                                     "fields": {
                                                         "text": "85",
-                                                        "style": "$StyleModYellow"
+                                                        "style": "$StyleModSet"
                                                     }
                                                 }
                                             ]

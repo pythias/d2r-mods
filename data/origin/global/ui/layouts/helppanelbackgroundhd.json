@@ -1,0 +1,23 @@
+﻿{
+    "type": "HelpPanel",
+    "name": "HelpPanelBackground",
+    "fields": {
+        "priority": -10,
+        "fitToParent": true
+    },
+    "children": [
+        {
+            "type": "RectangleWidget",
+            "name": "backgroundShading",
+            "fields": {
+                "fitToScreen": true,
+                "color": [
+                    0,
+                    0,
+                    0,
+                    0.6
+                ]
+            }
+        }
+    ]
+}

@@ -50,7 +50,7 @@ function get_area_names($lang = "zhTW") {
     return $names;
 }
 
-$area_levels = parse_txt(ORIGIN_PATH . "global/excel/levels.txt");
+$area_levels = parse_txt(ORIGIN_PATH . "/global/excel/levels.txt");
 $names = get_area_names();
 $areas = [];
 $areas_85 = [];
@@ -58,14 +58,14 @@ foreach ($area_levels as $area) {
     $areas[] = sprintf($config, 
         $area['Act'] + 1, $names[$area['LevelName']] ?? $area['LevelName'], 
         $area['MonLvlEx'], $area['MonLvlEx(N)'], $area['MonLvlEx(H)'], 
-        $area['MonLvlEx(H)'] >= 85 ? "\$StyleRWRune" : "\$StyleRWBase"
+        $area['MonLvlEx(H)'] >= 85 ? "\$StyleModSet" : "\$StyleModWhite"
     );
 
     if ($area['MonLvlEx(H)'] >= 85) {
         var_dump(json_encode($area, JSON_PRETTY_PRINT));
         $areas_85[] = sprintf($config, 
             $area['Act'] + 1, $names[$area['LevelName']] ?? $area['LevelName'], 
-            "", "", "", "\$StyleRWBase"
+            "", "", "", "\$StyleModWhite"
         );
     }
 }
