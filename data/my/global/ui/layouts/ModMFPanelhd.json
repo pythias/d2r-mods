@@ -140,28 +140,6 @@
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                                {
-                                                    "type": "TextBoxWidget",
-                                                    "name": "MRName",
-                                                    "fields": {
-                                                        "text": "場景",
-                                                        "style": "$StyleModGold"
-                                                    }
-                                                },
-                                                {
-                                                    "type": "TextBoxWidget",
-                                                    "name": "MRLocation",
-                                                    "fields": {
-                                                        "text": "地點",
-                                                        "style": "$StyleModWhite"
-                                                    }
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "type": "TableRowWidget",
-                                            "name": "MRItem",
-                                            "children": [
                                               {
                                                 "type": "TextBoxWidget",
                                                 "name": "MRName",
@@ -174,7 +152,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "1",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -183,7 +161,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4地穴第一層\nÿc3位於 1",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -211,7 +189,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "1",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -220,7 +198,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4地底通道第二層\nÿc3位於 1",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -248,7 +226,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "1",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -257,7 +235,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4地穴第二層\nÿc3位於 1",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -285,7 +263,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "1",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -294,7 +272,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4大陵墓\nÿc3位於 1",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -322,7 +300,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "2",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -331,7 +309,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4古老石墓第一層\nÿc3位於 2",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -359,7 +337,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "2",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -368,7 +346,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4古老石墓第二層\nÿc3位於 2",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -396,7 +374,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "2",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -405,7 +383,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4蛆蟲巢穴第三層\nÿc3位於 2",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -433,7 +411,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "2",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -442,7 +420,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4古代通道\nÿc3位於 2",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -470,7 +448,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -479,7 +457,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4蜘蛛巢穴\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -507,7 +485,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -516,7 +494,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4沼澤地穴第一層\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -544,7 +522,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -553,7 +531,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4沼澤地穴第二層\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -581,7 +559,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -590,7 +568,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4沼澤地穴第三層\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -618,7 +596,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -627,7 +605,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4下水道第一層\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -655,7 +633,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -664,7 +642,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4下水道第二層\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -692,7 +670,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -701,7 +679,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4荒廢的神殿\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -729,7 +707,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -738,7 +716,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4廢棄的寺院\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -766,7 +744,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -775,7 +753,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4遺忘的聖殿\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -803,7 +781,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -812,7 +790,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4遺忘神殿\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -840,7 +818,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -849,7 +827,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4荒廢的寺院\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -877,7 +855,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "3",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -886,7 +864,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4廢棄的聖殿\nÿc3位於 3",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -914,7 +892,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "4",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -923,7 +901,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4火焰之河\nÿc3位於 4",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -951,7 +929,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "4",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -960,7 +938,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4混沌魔殿\nÿc3位於 4",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -988,7 +966,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -997,7 +975,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4漂泊者洞窟\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -1025,7 +1003,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -1034,7 +1012,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4冰窖\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -1062,7 +1040,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -1071,7 +1049,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4亞瑞特山巔\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -1099,7 +1077,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -1108,7 +1086,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4亞巴頓\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -1136,7 +1114,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -1145,7 +1123,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4冥河地穴\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -1173,7 +1151,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -1182,7 +1160,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4煉獄地穴\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -1210,7 +1188,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -1219,7 +1197,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4世界之石要塞第一層\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -1247,7 +1225,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -1256,7 +1234,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4世界之石要塞第二層\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -1284,7 +1262,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -1293,7 +1271,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4世界之石要塞第三層\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -1321,7 +1299,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -1330,7 +1308,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4毀滅王座\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {
@@ -1358,7 +1336,7 @@
                                                 "type": "TextBoxWidget",
                                                 "name": "MRLocation",
                                                 "fields": {
-                                                  "text": "",
+                                                  "text": "5",
                                                   "style": "$StyleModWhite"
                                                 }
                                               },
@@ -1367,7 +1345,7 @@
                                                   "name": "MRTips",
                                                   "fields": {
                                                       "fitToParent": true,
-                                                      "tooltipString": "",
+                                                      "tooltipString": "ÿc4世界之石大殿\nÿc3位於 5",
                                                       "tooltipStyle": {
                                                           "fontStyle": {
                                                               "options": {

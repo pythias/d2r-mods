@@ -65,7 +65,7 @@ $config85 = '{
           "name": "MRTips",
           "fields": {
               "fitToParent": true,
-              "tooltipString": "",
+              "tooltipString": "ÿc4%s\nÿc3位於 %s",
               "tooltipStyle": {
                   "fontStyle": {
                       "options": {
@@ -98,16 +98,18 @@ foreach ($area_levels as $area) {
         continue;
     }
 
+    $act = $area['Act'] + 1;
+    $name = $names[$area['LevelName']] ?? $area['LevelName'];
+
     $areas[] = sprintf($config, 
-        $area['Act'] + 1, $names[$area['LevelName']] ?? $area['LevelName'], 
+        $act, $name, 
         $area['MonLvlEx'], $area['MonLvlEx(N)'], $area['MonLvlEx(H)'], 
         $area['MonLvlEx(H)'] >= 85 ? "\$StyleModSet" : "\$StyleModWhite"
     );
 
     if ($area['MonLvlEx(H)'] >= 85) {
         $areas_85[] = sprintf($config85, 
-            $area['Act'] + 1, $names[$area['LevelName']] ?? $area['LevelName'], 
-            "", "", "", "\$StyleModWhite"
+            $area['Act'] + 1, $name, $act, $name, $act,
         );
     }
 }
