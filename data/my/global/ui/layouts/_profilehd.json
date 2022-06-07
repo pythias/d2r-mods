@@ -1,5 +1,6 @@
 ﻿{
     "INT_MAX": 2147483647,
+    "ModVersion": "新手指南v0.2",
     "LeftPanelAnchor": {
         "x": 0,
         "y": 0.397

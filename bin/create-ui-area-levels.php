@@ -9,8 +9,8 @@ $config = '{
         "type": "TextBoxWidget",
         "name": "MRName",
         "fields": {
-          "text": "ACT %s - %s",
-          "style": "$StyleRWName"
+          "text": "Act%s %s",
+          "style": "$StyleModGold"
         }
       },
       {
@@ -18,7 +18,7 @@ $config = '{
         "name": "MRNormal",
         "fields": {
           "text": "%s",
-          "style": "$StyleRWBase"
+          "style": "$StyleModWhite"
         }
       },
       {
@@ -26,7 +26,7 @@ $config = '{
         "name": "MRNightmare",
         "fields": {
           "text": "%s",
-          "style": "$StyleRWBase"
+          "style": "$StyleModWhite"
         }
       },
       {
@@ -39,6 +39,45 @@ $config = '{
       }
     ]
 }';
+
+$config85 = '{
+    "type": "TableRowWidget",
+    "name": "MRItem",
+    "children": [
+      {
+        "type": "TextBoxWidget",
+        "name": "MRName",
+        "fields": {
+          "text": "Act%s %s",
+          "style": "$StyleModGold"
+        }
+      },
+      {
+        "type": "TextBoxWidget",
+        "name": "MRLocation",
+        "fields": {
+          "text": "%s",
+          "style": "$StyleModWhite"
+        }
+      },
+      {
+          "type": "FocusableWidget",
+          "name": "MRTips",
+          "fields": {
+              "fitToParent": true,
+              "tooltipString": "",
+              "tooltipStyle": {
+                  "fontStyle": {
+                      "options": {
+                          "newlineHandling": "standard"
+                      }
+                  }
+              }
+          }
+      }
+    ]
+}';
+
 
 function get_area_names($lang = "zhTW") {
     $names = [];
@@ -55,6 +94,10 @@ $names = get_area_names();
 $areas = [];
 $areas_85 = [];
 foreach ($area_levels as $area) {
+    if (empty($area['MonLvlEx'])) {
+        continue;
+    }
+
     $areas[] = sprintf($config, 
         $area['Act'] + 1, $names[$area['LevelName']] ?? $area['LevelName'], 
         $area['MonLvlEx'], $area['MonLvlEx(N)'], $area['MonLvlEx(H)'], 
@@ -62,8 +105,7 @@ foreach ($area_levels as $area) {
     );
 
     if ($area['MonLvlEx(H)'] >= 85) {
-        var_dump(json_encode($area, JSON_PRETTY_PRINT));
-        $areas_85[] = sprintf($config, 
+        $areas_85[] = sprintf($config85, 
             $area['Act'] + 1, $names[$area['LevelName']] ?? $area['LevelName'], 
             "", "", "", "\$StyleModWhite"
         );

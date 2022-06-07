@@ -1625,7 +1625,7 @@
                     "y": 50
                 },
                 "filename": "FrontEnd\/HD\/Final\/FrontEnd_ButtonSmall",
-                "textString": "新手指南",
+                "textString": "$ModVersion",
                 "focusIndicatorFilename": "Controller\/HoverImages\/FrontEndButtonMain_Hover",
                 "focusIndicatorOffset": {
                     "x": 0,

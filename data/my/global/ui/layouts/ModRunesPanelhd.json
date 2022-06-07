@@ -141,7 +141,7 @@
                                     "type": "TextBoxWidget",
                                     "name": "MRRune",
                                     "fields": {
-                                        "text": "符文（按從左往右順序依次嵌入）",
+                                        "text": "符文",
                                         "style": "$StyleModYellow"
                                     }
                                 }
