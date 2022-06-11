@@ -17,6 +17,7 @@ $empty_langs = [
     "jaJP" => "",
     "ptBR" => "",
     "ruRU" => "",
+    "zhCN" => "",
 ];
 
 $dir = $argv[1];

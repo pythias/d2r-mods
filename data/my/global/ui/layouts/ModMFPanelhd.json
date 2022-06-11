@@ -140,1221 +140,1221 @@
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act1 地穴第一層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act1 地穴第一層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "位於泰摩高地",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4地穴第一層\nÿc3位於 泰摩高地",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "1",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4地穴第一層\nÿc3位於 1",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act1 地底通道第二層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act1 地底通道第二層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "1",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4地底通道第二層\nÿc3位於 1",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "1",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4地底通道第二層\nÿc3位於 1",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act1 地穴第二層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act1 地穴第二層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "1",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4地穴第二層\nÿc3位於 1",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "1",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4地穴第二層\nÿc3位於 1",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act1 大陵墓",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act1 大陵墓",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "@埋骨之地 @mom851",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "@mom851",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "1",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4大陵墓\nÿc3位於 1",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act2 古老石墓第一層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act2 古老石墓第一層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "2",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4古老石墓第一層\nÿc3位於 2",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "2",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4古老石墓第一層\nÿc3位於 2",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act2 古老石墓第二層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act2 古老石墓第二層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "2",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4古老石墓第二層\nÿc3位於 2",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "2",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4古老石墓第二層\nÿc3位於 2",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act2 蛆蟲巢穴第三層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act2 蛆蟲巢穴第三層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "2",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4蛆蟲巢穴第三層\nÿc3位於 2",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "2",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4蛆蟲巢穴第三層\nÿc3位於 2",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act2 古代通道",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act2 古代通道",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "2",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4古代通道\nÿc3位於 2",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "2",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4古代通道\nÿc3位於 2",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 蜘蛛巢穴",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 蜘蛛巢穴",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4蜘蛛巢穴\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4蜘蛛巢穴\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 沼澤地穴第一層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 沼澤地穴第一層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4沼澤地穴第一層\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4沼澤地穴第一層\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 沼澤地穴第二層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 沼澤地穴第二層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4沼澤地穴第二層\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4沼澤地穴第二層\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 沼澤地穴第三層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 沼澤地穴第三層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4沼澤地穴第三層\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4沼澤地穴第三層\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 下水道第一層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 下水道第一層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4下水道第一層\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4下水道第一層\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 下水道第二層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 下水道第二層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4下水道第二層\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4下水道第二層\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 荒廢的神殿",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 荒廢的神殿",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4荒廢的神殿\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4荒廢的神殿\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 廢棄的寺院",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 廢棄的寺院",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4廢棄的寺院\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4廢棄的寺院\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 遺忘的聖殿",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 遺忘的聖殿",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4遺忘的聖殿\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4遺忘的聖殿\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 遺忘神殿",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 遺忘神殿",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4遺忘神殿\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4遺忘神殿\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 荒廢的寺院",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 荒廢的寺院",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4荒廢的寺院\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4荒廢的寺院\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act3 廢棄的聖殿",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act3 廢棄的聖殿",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "3",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4廢棄的聖殿\nÿc3位於 3",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "3",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4廢棄的聖殿\nÿc3位於 3",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act4 火焰之河",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act4 火焰之河",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "4",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4火焰之河\nÿc3位於 4",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "4",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4火焰之河\nÿc3位於 4",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act4 混沌魔殿",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act4 混沌魔殿",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "4",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4混沌魔殿\nÿc3位於 4",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "4",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4混沌魔殿\nÿc3位於 4",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 漂泊者洞窟",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 漂泊者洞窟",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4漂泊者洞窟\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4漂泊者洞窟\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 冰窖",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 冰窖",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4冰窖\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4冰窖\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 亞瑞特山巔",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 亞瑞特山巔",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4亞瑞特山巔\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4亞瑞特山巔\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 亞巴頓",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 亞巴頓",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4亞巴頓\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4亞巴頓\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 冥河地穴",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 冥河地穴",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4冥河地穴\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4冥河地穴\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 煉獄地穴",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 煉獄地穴",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4煉獄地穴\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4煉獄地穴\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 世界之石要塞第一層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 世界之石要塞第一層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4世界之石要塞第一層\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4世界之石要塞第一層\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 世界之石要塞第二層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 世界之石要塞第二層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4世界之石要塞第二層\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4世界之石要塞第二層\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 世界之石要塞第三層",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 世界之石要塞第三層",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4世界之石要塞第三層\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4世界之石要塞第三層\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 毀滅王座",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 毀滅王座",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4毀滅王座\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4毀滅王座\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         },
                                         {
                                             "type": "TableRowWidget",
                                             "name": "MRItem",
                                             "children": [
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRName",
-                                                "fields": {
-                                                  "text": "Act5 世界之石大殿",
-                                                  "style": "$StyleModGold"
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRName",
+                                                    "fields": {
+                                                        "text": "Act5 世界之石大殿",
+                                                        "style": "$StyleModGold"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TextBoxWidget",
+                                                    "name": "MRLocation",
+                                                    "fields": {
+                                                        "text": "5",
+                                                        "style": "$StyleModWhite"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "FocusableWidget",
+                                                    "name": "MRTips",
+                                                    "fields": {
+                                                        "fitToParent": true,
+                                                        "tooltipString": "ÿc4世界之石大殿\nÿc3位於 5",
+                                                        "tooltipStyle": {
+                                                            "fontStyle": {
+                                                                "options": {
+                                                                    "newlineHandling": "standard"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
                                                 }
-                                              },
-                                              {
-                                                "type": "TextBoxWidget",
-                                                "name": "MRLocation",
-                                                "fields": {
-                                                  "text": "5",
-                                                  "style": "$StyleModWhite"
-                                                }
-                                              },
-                                              {
-                                                  "type": "FocusableWidget",
-                                                  "name": "MRTips",
-                                                  "fields": {
-                                                      "fitToParent": true,
-                                                      "tooltipString": "ÿc4世界之石大殿\nÿc3位於 5",
-                                                      "tooltipStyle": {
-                                                          "fontStyle": {
-                                                              "options": {
-                                                                  "newlineHandling": "standard"
-                                                              }
-                                                          }
-                                                      }
-                                                  }
-                                              }
                                             ]
                                         }
                                     ]

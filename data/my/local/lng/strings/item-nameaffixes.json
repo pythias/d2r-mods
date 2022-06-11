@@ -3,7028 +3,6024 @@
         "id": 1723,
         "Key": "Low Quality",
         "enUS": "ÿc6",
-        "zhTW": "劣等的",
-        "zhCN": "劣质"
+        "zhTW": "劣等的"
     },
     {
         "id": 1724,
         "Key": "Damaged",
         "enUS": "ÿc6",
-        "zhTW": "損壞的",
-        "zhCN": "破损"
+        "zhTW": "損壞的"
     },
     {
         "id": 1725,
         "Key": "Cracked",
         "enUS": "ÿc6",
-        "zhTW": "破舊的",
-        "zhCN": "裂纹"
+        "zhTW": "破舊的"
     },
     {
         "id": 1727,
         "Key": "Hiquality",
         "enUS": "Superior",
-        "zhTW": "特等的",
-        "zhCN": "精良"
+        "zhTW": "特等的"
     },
     {
         "id": 1728,
         "Key": "Gemmed",
         "enUS": "Gemmed",
-        "zhTW": "鑲嵌寶石的",
-        "zhCN": "镶宝"
+        "zhTW": "鑲嵌寶石的"
     },
     {
         "id": 1729,
         "Key": "Resiliant",
         "enUS": "Resilient",
-        "zhTW": "強韌",
-        "zhCN": "坚韧"
+        "zhTW": "強韌"
     },
     {
         "id": 1730,
         "Key": "Sturdy",
         "enUS": "Sturdy",
-        "zhTW": "堅實",
-        "zhCN": "结实"
+        "zhTW": "堅實"
     },
     {
         "id": 1731,
         "Key": "Strong",
         "enUS": "Strong",
-        "zhTW": "強固",
-        "zhCN": "强壮"
+        "zhTW": "強固"
     },
     {
         "id": 1732,
         "Key": "Glorious",
         "enUS": "Glorious",
-        "zhTW": "光榮",
-        "zhCN": "光辉"
+        "zhTW": "光榮"
     },
     {
         "id": 1733,
         "Key": "Blessed",
         "enUS": "Blessed",
-        "zhTW": "祝福",
-        "zhCN": "祝福"
+        "zhTW": "祝福"
     },
     {
         "id": 1734,
         "Key": "Saintly",
         "enUS": "Saintly",
-        "zhTW": "崇高",
-        "zhCN": "圣者"
+        "zhTW": "崇高"
     },
     {
         "id": 1735,
         "Key": "Holy",
         "enUS": "Holy",
-        "zhTW": "神聖",
-        "zhCN": "圣佑"
+        "zhTW": "神聖"
     },
     {
         "id": 1736,
         "Key": "Devious",
         "enUS": "Devious",
-        "zhTW": "迂迴",
-        "zhCN": "卑劣"
+        "zhTW": "迂迴"
     },
     {
         "id": 1737,
         "Key": "Fortified",
         "enUS": "Fortified",
-        "zhTW": "強化",
-        "zhCN": "强固"
+        "zhTW": "強化"
     },
     {
         "id": 1738,
         "Key": "Urgent",
         "enUS": "Urgent",
-        "zhTW": "緊急",
-        "zhCN": "急迫"
+        "zhTW": "緊急"
     },
     {
         "id": 1739,
         "Key": "Fleet",
         "enUS": "Fleet",
-        "zhTW": "快捷",
-        "zhCN": "飞驰"
+        "zhTW": "快捷"
     },
     {
         "id": 1740,
         "Key": "Muscular",
         "enUS": "Muscular",
-        "zhTW": "壯碩",
-        "zhCN": "壮硕"
+        "zhTW": "壯碩"
     },
     {
         "id": 1741,
         "Key": "Jagged",
         "enUS": "Jagged",
-        "zhTW": "鋸齒",
-        "zhCN": "参差"
+        "zhTW": "鋸齒"
     },
     {
         "id": 1742,
         "Key": "Deadly",
         "enUS": "Deadly",
-        "zhTW": "奪命",
-        "zhCN": "致命"
+        "zhTW": "奪命"
     },
     {
         "id": 1743,
         "Key": "Vicious",
         "enUS": "Vicious",
-        "zhTW": "兇惡",
-        "zhCN": "凶恶"
+        "zhTW": "兇惡"
     },
     {
         "id": 1744,
         "Key": "Brutal",
         "enUS": "Brutal",
-        "zhTW": "殘暴",
-        "zhCN": "残忍"
+        "zhTW": "殘暴"
     },
     {
         "id": 1745,
         "Key": "Massive",
         "enUS": "Massive",
-        "zhTW": "重創",
-        "zhCN": "蛮横"
+        "zhTW": "重創"
     },
     {
         "id": 1746,
         "Key": "Savage",
         "enUS": "Savage",
-        "zhTW": "蠻烈",
-        "zhCN": "野蛮"
+        "zhTW": "蠻烈"
     },
     {
         "id": 1747,
         "Key": "Merciless",
         "enUS": "Merciless",
-        "zhTW": "絕憫",
-        "zhCN": "无情"
+        "zhTW": "絕憫"
     },
     {
         "id": 1748,
         "Key": "Vulpine",
         "enUS": "Vulpine",
-        "zhTW": "奸詐",
-        "zhCN": "灵狐"
+        "zhTW": "奸詐"
     },
     {
         "id": 1749,
         "Key": "Swift",
         "enUS": "Swift",
-        "zhTW": "迅疾",
-        "zhCN": "迅捷"
+        "zhTW": "迅疾"
     },
     {
         "id": 1750,
         "Key": "Artful",
         "enUS": "Artful",
-        "zhTW": "取巧",
-        "zhCN": "狡黠"
+        "zhTW": "取巧"
     },
     {
         "id": 1752,
         "Key": "Adroit",
         "enUS": "Adroit",
-        "zhTW": "巧捷",
-        "zhCN": "机灵"
+        "zhTW": "巧捷"
     },
     {
         "id": 1753,
         "Key": "Tireless",
         "enUS": "Tireless",
-        "zhTW": "不倦",
-        "zhCN": "不疲"
+        "zhTW": "不倦"
     },
     {
         "id": 1754,
         "Key": "Rugged",
         "enUS": "Rugged",
-        "zhTW": "粗獷",
-        "zhCN": "耐磨"
+        "zhTW": "粗獷"
     },
     {
         "id": 1755,
         "Key": "Bronze",
         "enUS": "Bronze",
-        "zhTW": "青銅",
-        "zhCN": "青铜"
+        "zhTW": "青銅"
     },
     {
         "id": 1756,
         "Key": "Iron",
         "enUS": "Iron",
-        "zhTW": "生鐵",
-        "zhCN": "黑铁"
+        "zhTW": "生鐵"
     },
     {
         "id": 1757,
         "Key": "Steel",
         "enUS": "Steel",
-        "zhTW": "鋼鐵",
-        "zhCN": "钢铁"
+        "zhTW": "鋼鐵"
     },
     {
         "id": 1758,
         "Key": "Silver",
         "enUS": "Silver",
-        "zhTW": "白銀",
-        "zhCN": "白银"
+        "zhTW": "白銀"
     },
     {
         "id": 1759,
         "Key": "Gold",
         "enUS": "Gold",
-        "zhTW": "黃金",
-        "zhCN": "金色"
+        "zhTW": "黃金"
     },
     {
         "id": 1760,
         "Key": "Platinum",
         "enUS": "Platinum",
-        "zhTW": "白金",
-        "zhCN": "白金"
+        "zhTW": "白金"
     },
     {
         "id": 1761,
         "Key": "Meteoric",
         "enUS": "Meteoric",
-        "zhTW": "隕鐵",
-        "zhCN": "陨铁"
+        "zhTW": "隕鐵"
     },
     {
         "id": 1762,
         "Key": "Sharp",
         "enUS": "Sharp",
-        "zhTW": "銳利",
-        "zhCN": "锋利"
+        "zhTW": "銳利"
     },
     {
         "id": 1763,
         "Key": "Fine",
         "enUS": "Fine",
-        "zhTW": "良質",
-        "zhCN": "优良"
+        "zhTW": "良質"
     },
     {
         "id": 1764,
         "Key": "Warrior's",
         "enUS": "Warrior's",
-        "zhTW": "戰士",
-        "zhCN": "战士的"
+        "zhTW": "戰士"
     },
     {
         "id": 1765,
         "Key": "Soldier's",
         "enUS": "Soldier's",
-        "zhTW": "士兵",
-        "zhCN": "士兵的"
+        "zhTW": "士兵"
     },
     {
         "id": 1766,
         "Key": "Knight's",
         "enUS": "Knight's",
-        "zhTW": "騎士",
-        "zhCN": "骑士的"
+        "zhTW": "騎士"
     },
     {
         "id": 1767,
         "Key": "Lord's",
         "enUS": "Lord's",
-        "zhTW": "領主",
-        "zhCN": "勋爵的"
+        "zhTW": "領主"
     },
     {
         "id": 1768,
         "Key": "King's",
         "enUS": "King's",
-        "zhTW": "王者",
-        "zhCN": "国王的"
+        "zhTW": "王者"
     },
     {
         "id": 1769,
         "Key": "Howling",
         "enUS": "Howling",
-        "zhTW": "嘶嚎",
-        "zhCN": "嗥叫"
+        "zhTW": "嘶嚎"
     },
     {
         "id": 1770,
         "Key": "Fortuitous",
         "enUS": "Fortuitous",
-        "zhTW": "巧運",
-        "zhCN": "巧遇"
+        "zhTW": "巧運"
     },
     {
         "id": 1771,
         "Key": "Brilliant",
         "enUS": "Brilliant",
-        "zhTW": "聰穎",
-        "zhCN": "辉煌"
+        "zhTW": "聰穎"
     },
     {
         "id": 1772,
         "Key": "Omniscient",
         "enUS": "Omniscient",
-        "zhTW": "全知",
-        "zhCN": "全知"
+        "zhTW": "全知"
     },
     {
         "id": 1773,
         "Key": "Sage",
         "enUS": "Sage",
-        "zhTW": "聖明",
-        "zhCN": "贤明"
+        "zhTW": "聖明"
     },
     {
         "id": 1774,
         "Key": "Shrewd",
         "enUS": "Shrewd",
-        "zhTW": "精明",
-        "zhCN": "精明"
+        "zhTW": "精明"
     },
     {
         "id": 1775,
         "Key": "Vivid",
         "enUS": "Vivid",
-        "zhTW": "生動",
-        "zhCN": "生动"
+        "zhTW": "生動"
     },
     {
         "id": 1776,
         "Key": "Glimmering",
         "enUS": "Glimmering",
-        "zhTW": "微光",
-        "zhCN": "微光"
+        "zhTW": "微光"
     },
     {
         "id": 1777,
         "Key": "Glowing",
         "enUS": "Glowing",
-        "zhTW": "光亮",
-        "zhCN": "辉光"
+        "zhTW": "光亮"
     },
     {
         "id": 1778,
         "Key": "Bright",
         "enUS": "Bright",
-        "zhTW": "明亮",
-        "zhCN": "明亮"
+        "zhTW": "明亮"
     },
     {
         "id": 1779,
         "Key": "Solar",
         "enUS": "Solar",
-        "zhTW": "太陽",
-        "zhCN": "日光"
+        "zhTW": "太陽"
     },
     {
         "id": 1780,
         "Key": "Lizard's",
         "enUS": "Lizard's",
-        "zhTW": "蜥蜴",
-        "zhCN": "蜥蜴"
+        "zhTW": "蜥蜴"
     },
     {
         "id": 1781,
         "Key": "Forceful",
         "enUS": "Forceful",
-        "zhTW": "強力",
-        "zhCN": "强力"
+        "zhTW": "強力"
     },
     {
         "id": 1782,
         "Key": "Snake's",
         "enUS": "Snake's",
-        "zhTW": "盤蛇",
-        "zhCN": "毒蛇的"
+        "zhTW": "盤蛇"
     },
     {
         "id": 1783,
         "Key": "Serpent's",
         "enUS": "Serpent's",
-        "zhTW": "蛟龍",
-        "zhCN": "巨蛇的"
+        "zhTW": "蛟龍"
     },
     {
         "id": 1784,
         "Key": "Drake's",
         "enUS": "Drake's",
-        "zhTW": "飛龍",
-        "zhCN": "幼龙的"
+        "zhTW": "飛龍"
     },
     {
         "id": 1785,
         "Key": "Dragon's",
         "enUS": "Dragon's",
-        "zhTW": "巨龍",
-        "zhCN": "翼龙的"
+        "zhTW": "巨龍"
     },
     {
         "id": 1786,
         "Key": "Wyrm's",
         "enUS": "Wyrm's",
-        "zhTW": "古龍",
-        "zhCN": "游龙的"
+        "zhTW": "古龍"
     },
     {
         "id": 1787,
         "Key": "Dazzling",
         "enUS": "Dazzling",
-        "zhTW": "眩惑",
-        "zhCN": "夺目"
+        "zhTW": "眩惑"
     },
     {
         "id": 1788,
         "Key": "Facinating",
         "enUS": "Fascinating",
-        "zhTW": "迷戀",
-        "zhCN": "炫目"
+        "zhTW": "迷戀"
     },
     {
         "id": 1789,
         "Key": "Prismatic",
         "enUS": "Prismatic",
-        "zhTW": "光繽",
-        "zhCN": "棱彩"
+        "zhTW": "光繽"
     },
     {
         "id": 1790,
         "Key": "Azure",
         "enUS": "Azure",
-        "zhTW": "碧藍",
-        "zhCN": "碧空"
+        "zhTW": "碧藍"
     },
     {
         "id": 1791,
         "Key": "Lapis",
         "enUS": "Lapis",
-        "zhTW": "天藍",
-        "zhCN": "琉璃"
+        "zhTW": "天藍"
     },
     {
         "id": 1792,
         "Key": "Cobalt",
         "enUS": "Cobalt",
-        "zhTW": "鈷藍",
-        "zhCN": "钴蓝"
+        "zhTW": "鈷藍"
     },
     {
         "id": 1793,
         "Key": "Indigo",
         "enUS": "Indigo",
-        "zhTW": "靛青",
-        "zhCN": "靛蓝"
+        "zhTW": "靛青"
     },
     {
         "id": 1794,
         "Key": "Sapphire",
         "enUS": "Sapphire",
-        "zhTW": "寶藍",
-        "zhCN": "蓝宝石"
+        "zhTW": "寶藍"
     },
     {
         "id": 1795,
         "Key": "Cerulean",
         "enUS": "Cerulean",
-        "zhTW": "天藍",
-        "zhCN": "苍蓝"
+        "zhTW": "天藍"
     },
     {
         "id": 1796,
         "Key": "Red",
         "enUS": "Red",
-        "zhTW": "赤紅",
-        "zhCN": "丹红"
+        "zhTW": "赤紅"
     },
     {
         "id": 1797,
         "Key": "Crimson",
         "enUS": "Crimson",
-        "zhTW": "緋紅",
-        "zhCN": "猩红"
+        "zhTW": "緋紅"
     },
     {
         "id": 1798,
         "Key": "Burgundy",
         "enUS": "Burgundy",
-        "zhTW": "酒紅",
-        "zhCN": "紫红"
+        "zhTW": "酒紅"
     },
     {
         "id": 1799,
         "Key": "Garnet",
         "enUS": "Garnet",
-        "zhTW": "深紅",
-        "zhCN": "石榴"
+        "zhTW": "深紅"
     },
     {
         "id": 1800,
         "Key": "Russet",
         "enUS": "Russet",
-        "zhTW": "赭紅",
-        "zhCN": "赤红"
+        "zhTW": "赭紅"
     },
     {
         "id": 1801,
         "Key": "Ruby",
         "enUS": "Ruby",
-        "zhTW": "寶紅",
-        "zhCN": "红宝石"
+        "zhTW": "寶紅"
     },
     {
         "id": 1802,
         "Key": "Vermilion",
         "enUS": "Vermilion",
-        "zhTW": "朱紅",
-        "zhCN": "朱红"
+        "zhTW": "朱紅"
     },
     {
         "id": 1803,
         "Key": "Orange",
         "enUS": "Orange",
-        "zhTW": "橙橘",
-        "zhCN": "橙红"
+        "zhTW": "橙橘"
     },
     {
         "id": 1804,
         "Key": "Ocher",
         "enUS": "Ocher",
-        "zhTW": "赭黃",
-        "zhCN": "赭石"
+        "zhTW": "赭黃"
     },
     {
         "id": 1805,
         "Key": "Tangerine",
         "enUS": "Tangerine",
-        "zhTW": "橘黃",
-        "zhCN": "黄橘"
+        "zhTW": "橘黃"
     },
     {
         "id": 1806,
         "Key": "Coral",
         "enUS": "Coral",
-        "zhTW": "珊瑚",
-        "zhCN": "珊瑚"
+        "zhTW": "珊瑚"
     },
     {
         "id": 1807,
         "Key": "Crackling",
         "enUS": "Crackling",
-        "zhTW": "爆裂",
-        "zhCN": "爆裂"
+        "zhTW": "爆裂"
     },
     {
         "id": 1808,
         "Key": "Amber",
         "enUS": "Amber",
-        "zhTW": "琥珀",
-        "zhCN": "琥珀"
+        "zhTW": "琥珀"
     },
     {
         "id": 1809,
         "Key": "Forked",
         "enUS": "Forked",
-        "zhTW": "叉狀",
-        "zhCN": "开叉"
+        "zhTW": "叉狀"
     },
     {
         "id": 1811,
         "Key": "Beryl",
         "enUS": "Beryl",
-        "zhTW": "藍綠",
-        "zhCN": "绿柱石"
+        "zhTW": "藍綠"
     },
     {
         "id": 1812,
         "Key": "Jade",
         "enUS": "Jade",
-        "zhTW": "翠綠",
-        "zhCN": "碧玉"
+        "zhTW": "翠綠"
     },
     {
         "id": 1813,
         "Key": "Viridian",
         "enUS": "Viridian",
-        "zhTW": "鉻綠",
-        "zhCN": "青玉"
+        "zhTW": "鉻綠"
     },
     {
         "id": 1814,
         "Key": "Vital",
         "enUS": "Vital",
-        "zhTW": "命能",
-        "zhCN": "活力"
+        "zhTW": "命能"
     },
     {
         "id": 1815,
         "Key": "Emerald",
         "enUS": "Emerald",
-        "zhTW": "寶綠",
-        "zhCN": "翡翠"
+        "zhTW": "寶綠"
     },
     {
         "id": 1816,
         "Key": "Enduring",
         "enUS": "Enduring",
-        "zhTW": "長耐",
-        "zhCN": "持久"
+        "zhTW": "長耐"
     },
     {
         "id": 1817,
         "Key": "Fletcher's",
         "enUS": "Fletcher's",
-        "zhTW": "造箭師",
-        "zhCN": "制箭师的"
+        "zhTW": "造箭師"
     },
     {
         "id": 1818,
         "Key": "Archer's",
         "enUS": "Archer's",
-        "zhTW": "弓箭手",
-        "zhCN": "弓手的"
+        "zhTW": "弓箭手"
     },
     {
         "id": 1819,
         "Key": "Monk's",
         "enUS": "Monk's",
-        "zhTW": "武僧",
-        "zhCN": "修士的"
+        "zhTW": "武僧"
     },
     {
         "id": 1820,
         "Key": "Priest's",
         "enUS": "Priest's",
-        "zhTW": "牧師",
-        "zhCN": "牧师的"
+        "zhTW": "牧師"
     },
     {
         "id": 1821,
         "Key": "Summoner's",
         "enUS": "Summoner's",
-        "zhTW": "召喚師",
-        "zhCN": "召唤师的"
+        "zhTW": "召喚師"
     },
     {
         "id": 1822,
         "Key": "Necromancer's",
         "enUS": "Necromancer's",
-        "zhTW": "死靈法師",
-        "zhCN": "死灵法师的"
+        "zhTW": "死靈法師"
     },
     {
         "id": 1823,
         "Key": "Angel's",
         "enUS": "Angel's",
-        "zhTW": "天使",
-        "zhCN": "天使的"
+        "zhTW": "天使"
     },
     {
         "id": 1824,
         "Key": "Arch-Angel's",
         "enUS": "Arch-Angel's",
-        "zhTW": "大天使",
-        "zhCN": "大天使的"
+        "zhTW": "大天使"
     },
     {
         "id": 1825,
         "Key": "Slayer's",
         "enUS": "Slayer's",
-        "zhTW": "屠殺者",
-        "zhCN": "屠杀者的"
+        "zhTW": "屠殺者"
     },
     {
         "id": 1826,
         "Key": "Berserker's",
         "enUS": "Berserker's",
-        "zhTW": "狂戰士",
-        "zhCN": "狂战士的"
+        "zhTW": "狂戰士"
     },
     {
         "id": 1827,
         "Key": "Kicking",
         "enUS": "Kicking",
-        "zhTW": "踢擊",
-        "zhCN": "踢击"
+        "zhTW": "踢擊"
     },
     {
         "id": 1828,
         "Key": "Triumphant",
         "enUS": "Triumphant",
-        "zhTW": "凱旋",
-        "zhCN": "胜机"
+        "zhTW": "凱旋"
     },
     {
         "id": 1829,
         "Key": "Mighty",
         "enUS": "Mighty",
-        "zhTW": "強力",
-        "zhCN": "勇武"
+        "zhTW": "強力"
     },
     {
         "id": 1830,
         "Key": "Energizing",
         "enUS": "Energizing",
-        "zhTW": "賦能",
-        "zhCN": "唤能"
+        "zhTW": "賦能"
     },
     {
         "id": 1832,
         "Key": "Empowering",
         "enUS": "Empowering",
-        "zhTW": "強能",
-        "zhCN": "赋能"
+        "zhTW": "強能"
     },
     {
         "id": 1833,
         "Key": "Brisk",
         "enUS": "Brisk",
-        "zhTW": "活潑",
-        "zhCN": "敏锐"
+        "zhTW": "活潑"
     },
     {
         "id": 1834,
         "Key": "Tough",
         "enUS": "Tough",
-        "zhTW": "強悍",
-        "zhCN": "强悍"
+        "zhTW": "強悍"
     },
     {
         "id": 1835,
         "Key": "Hardy",
         "enUS": "Hardy",
-        "zhTW": "健壯",
-        "zhCN": "坚强"
+        "zhTW": "健壯"
     },
     {
         "id": 1836,
         "Key": "Robust",
         "enUS": "Robust",
-        "zhTW": "魁梧",
-        "zhCN": "顽强"
+        "zhTW": "魁梧"
     },
     {
         "id": 1837,
         "Key": "of Health",
         "enUS": "of Health",
-        "zhTW": "強健之",
-        "zhCN": "保护之"
+        "zhTW": "強健之"
     },
     {
         "id": 1838,
         "Key": "of Protection",
         "enUS": "of Protection",
-        "zhTW": "保護之",
-        "zhCN": "防护之"
+        "zhTW": "保護之"
     },
     {
         "id": 1839,
         "Key": "of Absorption",
         "enUS": "of Absorption",
-        "zhTW": "緩衝之",
-        "zhCN": "吸收之"
+        "zhTW": "緩衝之"
     },
     {
         "id": 1840,
         "Key": "of Warding",
         "enUS": "of Warding",
-        "zhTW": "結界之",
-        "zhCN": "结界之"
+        "zhTW": "結界之"
     },
     {
         "id": 1841,
         "Key": "of the Sentinel",
         "enUS": "of the Sentinel",
-        "zhTW": "戒衛之",
-        "zhCN": "哨兵之"
+        "zhTW": "戒衛之"
     },
     {
         "id": 1842,
         "Key": "of Guarding",
         "enUS": "of Guarding",
-        "zhTW": "護法之",
-        "zhCN": "御魔之"
+        "zhTW": "護法之"
     },
     {
         "id": 1843,
         "Key": "of Negation",
         "enUS": "of Negation",
-        "zhTW": "消魔之",
-        "zhCN": "消魔之"
+        "zhTW": "消魔之"
     },
     {
         "id": 1844,
         "Key": "of Piercing",
         "enUS": "of Piercing",
-        "zhTW": "穿透之",
-        "zhCN": "刺穿之"
+        "zhTW": "穿透之"
     },
     {
         "id": 1845,
         "Key": "of Bashing",
         "enUS": "of Bashing",
-        "zhTW": "猛擊之",
-        "zhCN": "猛击之"
+        "zhTW": "猛擊之"
     },
     {
         "id": 1846,
         "Key": "of Puncturing",
         "enUS": "of Puncturing",
-        "zhTW": "擊穿之",
-        "zhCN": "穿刺之"
+        "zhTW": "擊穿之"
     },
     {
         "id": 1847,
         "Key": "of Thorns",
         "enUS": "of Thorns",
-        "zhTW": "棘刺之",
-        "zhCN": "荆棘之"
+        "zhTW": "棘刺之"
     },
     {
         "id": 1848,
         "Key": "of Spikes",
         "enUS": "of Spikes",
-        "zhTW": "銳刺之",
-        "zhCN": "尖刺之"
+        "zhTW": "銳刺之"
     },
     {
         "id": 1849,
         "Key": "of Readiness",
         "enUS": "of Readiness",
-        "zhTW": "迅速之",
-        "zhCN": "快速之"
+        "zhTW": "迅速之"
     },
     {
         "id": 1850,
         "Key": "of Alacrity",
         "enUS": "of Alacrity",
-        "zhTW": "輕快之",
-        "zhCN": "迅速之"
+        "zhTW": "輕快之"
     },
     {
         "id": 1851,
         "Key": "of Swiftness",
         "enUS": "of Swiftness",
-        "zhTW": "迅捷之",
-        "zhCN": "迅捷之"
+        "zhTW": "迅捷之"
     },
     {
         "id": 1852,
         "Key": "of Quickness",
         "enUS": "of Quickness",
-        "zhTW": "快速之",
-        "zhCN": "极速之"
+        "zhTW": "快速之"
     },
     {
         "id": 1853,
         "Key": "of Blocking",
         "enUS": "of Blocking",
-        "zhTW": "格擋之",
-        "zhCN": "格挡之"
+        "zhTW": "格擋之"
     },
     {
         "id": 1854,
         "Key": "of Deflecting",
         "enUS": "of Deflecting",
-        "zhTW": "偏折之",
-        "zhCN": "偏斜之"
+        "zhTW": "偏折之"
     },
     {
         "id": 1855,
         "Key": "of the Apprentice",
         "enUS": "of the Apprentice",
-        "zhTW": "學徒之",
-        "zhCN": "习法者之"
+        "zhTW": "學徒之"
     },
     {
         "id": 1856,
         "Key": "of the Magus",
         "enUS": "of the Magus",
-        "zhTW": "魔導師之",
-        "zhCN": "术士之"
+        "zhTW": "魔導師之"
     },
     {
         "id": 1857,
         "Key": "of Frost",
         "enUS": "of Frost",
-        "zhTW": "冰霜之",
-        "zhCN": "冰霜之"
+        "zhTW": "冰霜之"
     },
     {
         "id": 1858,
         "Key": "of the Glacier",
         "enUS": "of the Glacier",
-        "zhTW": "冰河之",
-        "zhCN": "冰川之"
+        "zhTW": "冰河之"
     },
     {
         "id": 1859,
         "Key": "of Warmth",
         "enUS": "of Thawing",
-        "zhTW": "融冰之",
-        "zhCN": "解冻之"
+        "zhTW": "融冰之"
     },
     {
         "id": 1860,
         "Key": "of Flame",
         "enUS": "of Flame",
-        "zhTW": "火炎之",
-        "zhCN": "烈焰之"
+        "zhTW": "火炎之"
     },
     {
         "id": 1861,
         "Key": "of Fire",
         "enUS": "of Fire",
-        "zhTW": "火焰之",
-        "zhCN": "火焰之"
+        "zhTW": "火焰之"
     },
     {
         "id": 1862,
         "Key": "of Burning",
         "enUS": "of Burning",
-        "zhTW": "燃燒之",
-        "zhCN": "燃烧之"
+        "zhTW": "燃燒之"
     },
     {
         "id": 1863,
         "Key": "of Shock",
         "enUS": "of Shock",
-        "zhTW": "觸電之",
-        "zhCN": "震击之"
+        "zhTW": "觸電之"
     },
     {
         "id": 1864,
         "Key": "of Lightning",
         "enUS": "of Lightning",
-        "zhTW": "閃電之",
-        "zhCN": "闪电之"
+        "zhTW": "閃電之"
     },
     {
         "id": 1865,
         "Key": "of Thunder",
         "enUS": "of Thunder",
-        "zhTW": "雷電之",
-        "zhCN": "雷霆之"
+        "zhTW": "雷電之"
     },
     {
         "id": 1866,
         "Key": "of Craftsmanship",
         "enUS": "of Craftmanship",
-        "zhTW": "工匠之",
-        "zhCN": "工匠之"
+        "zhTW": "工匠之"
     },
     {
         "id": 1867,
         "Key": "of Quality",
         "enUS": "of Quality",
-        "zhTW": "優良之",
-        "zhCN": "品质之"
+        "zhTW": "優良之"
     },
     {
         "id": 1868,
         "Key": "of Maiming",
         "enUS": "of Maiming",
-        "zhTW": "殘害之",
-        "zhCN": "毁伤之"
+        "zhTW": "殘害之"
     },
     {
         "id": 1869,
         "Key": "of Slaying",
         "enUS": "of Slaying",
-        "zhTW": "斬殺之",
-        "zhCN": "杀戮之"
+        "zhTW": "斬殺之"
     },
     {
         "id": 1870,
         "Key": "of Gore",
         "enUS": "of Gore",
-        "zhTW": "傷戮之",
-        "zhCN": "角刺之"
+        "zhTW": "傷戮之"
     },
     {
         "id": 1871,
         "Key": "of Carnage",
         "enUS": "of Carnage",
-        "zhTW": "屠殺之",
-        "zhCN": "残杀之"
+        "zhTW": "屠殺之"
     },
     {
         "id": 1872,
         "Key": "of Slaughter",
         "enUS": "of Slaughter",
-        "zhTW": "宰殺之",
-        "zhCN": "屠戮之"
+        "zhTW": "宰殺之"
     },
     {
         "id": 1873,
         "Key": "of Worth",
         "enUS": "of Worth",
-        "zhTW": "價值之",
-        "zhCN": "优异之"
+        "zhTW": "價值之"
     },
     {
         "id": 1874,
         "Key": "of Measure",
         "enUS": "of Measure",
-        "zhTW": "衡量之",
-        "zhCN": "杰出之"
+        "zhTW": "衡量之"
     },
     {
         "id": 1875,
         "Key": "of Excellence",
         "enUS": "of Excellence",
-        "zhTW": "卓越之",
-        "zhCN": "卓越之"
+        "zhTW": "卓越之"
     },
     {
         "id": 1876,
         "Key": "of Performance",
         "enUS": "of Performance",
-        "zhTW": "性能之",
-        "zhCN": "超卓之"
+        "zhTW": "性能之"
     },
     {
         "id": 1877,
         "Key": "of Blight",
         "enUS": "of Blight",
-        "zhTW": "荒疫之",
-        "zhCN": "凋零之"
+        "zhTW": "荒疫之"
     },
     {
         "id": 1878,
         "Key": "of Venom",
         "enUS": "of Venom",
-        "zhTW": "劇毒之",
-        "zhCN": "剧毒之"
+        "zhTW": "劇毒之"
     },
     {
         "id": 1879,
         "Key": "of Pestilence",
         "enUS": "of Pestilence",
-        "zhTW": "疫癘之",
-        "zhCN": "疾疫之"
+        "zhTW": "疫癘之"
     },
     {
         "id": 1880,
         "Key": "of Dexterity",
         "enUS": "of Dexterity",
-        "zhTW": "敏捷之",
-        "zhCN": "敏捷之"
+        "zhTW": "敏捷之"
     },
     {
         "id": 1881,
         "Key": "of Skill",
         "enUS": "of Skill",
-        "zhTW": "技術之",
-        "zhCN": "技艺之"
+        "zhTW": "技術之"
     },
     {
         "id": 1882,
         "Key": "of Accuracy",
         "enUS": "of Accuracy",
-        "zhTW": "準確之",
-        "zhCN": "精确之"
+        "zhTW": "準確之"
     },
     {
         "id": 1883,
         "Key": "of Precision",
         "enUS": "of Precision",
-        "zhTW": "精密之",
-        "zhCN": "精准之"
+        "zhTW": "精密之"
     },
     {
         "id": 1884,
         "Key": "of Perfection",
         "enUS": "of Perfection",
-        "zhTW": "完美之",
-        "zhCN": "完美之"
+        "zhTW": "完美之"
     },
     {
         "id": 1885,
         "Key": "of Balance",
         "enUS": "of Balance",
-        "zhTW": "平衡之",
-        "zhCN": "平衡之"
+        "zhTW": "平衡之"
     },
     {
         "id": 1886,
         "Key": "of Stability",
         "enUS": "of Stability",
-        "zhTW": "穩定之",
-        "zhCN": "稳定之"
+        "zhTW": "穩定之"
     },
     {
         "id": 1887,
         "Key": "of the Horse",
         "enUS": "of the Horse",
-        "zhTW": "駿馬之",
-        "zhCN": "骏马之"
+        "zhTW": "駿馬之"
     },
     {
         "id": 1888,
         "Key": "of Regeneration",
         "enUS": "of Regeneration",
-        "zhTW": "恢復之",
-        "zhCN": "再生之"
+        "zhTW": "恢復之"
     },
     {
         "id": 1889,
         "Key": "of Regrowth",
         "enUS": "of Regrowth",
-        "zhTW": "癒合之",
-        "zhCN": "回春之"
+        "zhTW": "癒合之"
     },
     {
         "id": 1890,
         "Key": "of Vileness",
         "enUS": "of Vileness",
-        "zhTW": "穢毒之",
-        "zhCN": "卑鄙之"
+        "zhTW": "穢毒之"
     },
     {
         "id": 1891,
         "Key": "of Greed",
         "enUS": "of Greed",
-        "zhTW": "貪婪之",
-        "zhCN": "贪婪之"
+        "zhTW": "貪婪之"
     },
     {
         "id": 1892,
         "Key": "of Wealth",
         "enUS": "of Wealth",
-        "zhTW": "財富之",
-        "zhCN": "富贵之"
+        "zhTW": "財富之"
     },
     {
         "id": 1893,
         "Key": "of Chance",
         "enUS": "of Chance",
-        "zhTW": "機會之",
-        "zhCN": "机遇之"
+        "zhTW": "機會之"
     },
     {
         "id": 1894,
         "Key": "of Fortune",
         "enUS": "of Fortune",
-        "zhTW": "機運之",
-        "zhCN": "财富之"
+        "zhTW": "機運之"
     },
     {
         "id": 1895,
         "Key": "of Energy",
         "enUS": "of Energy",
-        "zhTW": "能量之",
-        "zhCN": "能量之"
+        "zhTW": "能量之"
     },
     {
         "id": 1896,
         "Key": "of the Mind",
         "enUS": "of the Mind",
-        "zhTW": "心神之",
-        "zhCN": "意念之"
+        "zhTW": "心神之"
     },
     {
         "id": 1897,
         "Key": "of Brilliance",
         "enUS": "of Brilliance",
-        "zhTW": "才華之",
-        "zhCN": "光辉之"
+        "zhTW": "才華之"
     },
     {
         "id": 1898,
         "Key": "of Sorcery",
         "enUS": "of Sorcery",
-        "zhTW": "幻法之",
-        "zhCN": "巫师之"
+        "zhTW": "幻法之"
     },
     {
         "id": 1899,
         "Key": "of Wizardry",
         "enUS": "of Wizardry",
-        "zhTW": "巫術之",
-        "zhCN": "秘法之"
+        "zhTW": "巫術之"
     },
     {
         "id": 1900,
         "Key": "of the Bear",
         "enUS": "of the Bear",
-        "zhTW": "巨熊之",
-        "zhCN": "巨熊之"
+        "zhTW": "巨熊之"
     },
     {
         "id": 1901,
         "Key": "of Light",
         "enUS": "of Light",
-        "zhTW": "光明之",
-        "zhCN": "光明之"
+        "zhTW": "光明之"
     },
     {
         "id": 1902,
         "Key": "of Radiance",
         "enUS": "of Radiance",
-        "zhTW": "光輝之",
-        "zhCN": "光华之"
+        "zhTW": "光輝之"
     },
     {
         "id": 1903,
         "Key": "of the Sun",
         "enUS": "of the Sun",
-        "zhTW": "日光之",
-        "zhCN": "太阳之"
+        "zhTW": "日光之"
     },
     {
         "id": 1904,
         "Key": "of Life",
         "enUS": "of Life",
-        "zhTW": "生命之",
-        "zhCN": "生命之"
+        "zhTW": "生命之"
     },
     {
         "id": 1905,
         "Key": "of the Jackal",
         "enUS": "of the Jackal",
-        "zhTW": "豺狼之",
-        "zhCN": "豺狼之"
+        "zhTW": "豺狼之"
     },
     {
         "id": 1906,
         "Key": "of the Fox",
         "enUS": "of the Fox",
-        "zhTW": "狐狸之",
-        "zhCN": "狡狐之"
+        "zhTW": "狐狸之"
     },
     {
         "id": 1907,
         "Key": "of the Wolf",
         "enUS": "of the Wolf",
-        "zhTW": "野狼之",
-        "zhCN": "孤狼之"
+        "zhTW": "野狼之"
     },
     {
         "id": 1908,
         "Key": "of the Tiger",
         "enUS": "of the Tiger",
-        "zhTW": "老虎之",
-        "zhCN": "猛虎之"
+        "zhTW": "老虎之"
     },
     {
         "id": 1909,
         "Key": "of the Mammoth",
         "enUS": "of the Mammoth",
-        "zhTW": "猛瑪之",
-        "zhCN": "巨象之"
+        "zhTW": "猛瑪之"
     },
     {
         "id": 1910,
         "Key": "of the Colosuss",
         "enUS": "of the Colossus",
-        "zhTW": "巨像之",
-        "zhCN": "巨神之"
+        "zhTW": "巨像之"
     },
     {
         "id": 1911,
         "Key": "of the Leech",
         "enUS": "of the Leech",
-        "zhTW": "血蛭之",
-        "zhCN": "水蛭之"
+        "zhTW": "血蛭之"
     },
     {
         "id": 1912,
         "Key": "of the Locust",
         "enUS": "of the Locust",
-        "zhTW": "蝗蟲之",
-        "zhCN": "血蝗之"
+        "zhTW": "蝗蟲之"
     },
     {
         "id": 1913,
         "Key": "of the Bat",
         "enUS": "of the Bat",
-        "zhTW": "蝙蝠之",
-        "zhCN": "恶蝠之"
+        "zhTW": "蝙蝠之"
     },
     {
         "id": 1914,
         "Key": "of the Vampire",
         "enUS": "of the Vampire",
-        "zhTW": "吸血鬼之",
-        "zhCN": "吸魂鬼之"
+        "zhTW": "吸血鬼之"
     },
     {
         "id": 1915,
         "Key": "of Defiance",
         "enUS": "of Defiance",
-        "zhTW": "抗毒之",
-        "zhCN": "反抗之"
+        "zhTW": "抗毒之"
     },
     {
         "id": 1916,
         "Key": "of Remedy",
         "enUS": "of Remedy",
-        "zhTW": "醫治之",
-        "zhCN": "解药之"
+        "zhTW": "醫治之"
     },
     {
         "id": 1917,
         "Key": "of Amelioration",
         "enUS": "of Amelioration",
-        "zhTW": "緩解之",
-        "zhCN": "清毒之"
+        "zhTW": "緩解之"
     },
     {
         "id": 1918,
         "Key": "of Ice",
         "enUS": "of Ice",
-        "zhTW": "寒冰之",
-        "zhCN": "寒冰之"
+        "zhTW": "寒冰之"
     },
     {
         "id": 1919,
         "Key": "of Simplicity",
         "enUS": "of Simplicity",
-        "zhTW": "簡易之",
-        "zhCN": "至简之"
+        "zhTW": "簡易之"
     },
     {
         "id": 1920,
         "Key": "of Ease",
         "enUS": "of Ease",
-        "zhTW": "舒適之",
-        "zhCN": "自在之"
+        "zhTW": "舒適之"
     },
     {
         "id": 1921,
         "Key": "of the Mule",
         "enUS": "of the Mule",
-        "zhTW": "騾馱之",
-        "zhCN": "马骡之"
+        "zhTW": "騾馱之"
     },
     {
         "id": 1922,
         "Key": "of Strength",
         "enUS": "of Strength",
-        "zhTW": "力量之",
-        "zhCN": "力量之"
+        "zhTW": "力量之"
     },
     {
         "id": 1923,
         "Key": "of Might",
         "enUS": "of Might",
-        "zhTW": "武力之",
-        "zhCN": "勇力之"
+        "zhTW": "武力之"
     },
     {
         "id": 1924,
         "Key": "of the Ox",
         "enUS": "of the Ox",
-        "zhTW": "公牛之",
-        "zhCN": "公牛之"
+        "zhTW": "公牛之"
     },
     {
         "id": 1925,
         "Key": "of the Giant",
         "enUS": "of the Giant",
-        "zhTW": "巨人之",
-        "zhCN": "巨人之"
+        "zhTW": "巨人之"
     },
     {
         "id": 1926,
         "Key": "of the Titan",
         "enUS": "of the Titan",
-        "zhTW": "泰坦之",
-        "zhCN": "泰坦之"
+        "zhTW": "泰坦之"
     },
     {
         "id": 1927,
         "Key": "of Pacing",
         "enUS": "of Pacing",
-        "zhTW": "步伐之",
-        "zhCN": "快步之"
+        "zhTW": "步伐之"
     },
     {
         "id": 1928,
         "Key": "of Haste",
         "enUS": "of Haste",
-        "zhTW": "疾行之",
-        "zhCN": "疾步之"
+        "zhTW": "疾行之"
     },
     {
         "id": 1929,
         "Key": "of Speed",
         "enUS": "of Speed",
-        "zhTW": "速度之",
-        "zhCN": "疾行之"
+        "zhTW": "速度之"
     },
     {
         "id": 2215,
         "Key": "gld",
         "enUS": "Gold",
-        "zhTW": "",
-        "zhCN": "金币"
+        "zhTW": ""
     },
     {
         "id": 2248,
         "Key": "gsb",
         "enUS": "Sapphire",
-        "zhTW": "藍寶石",
-        "zhCN": "蓝宝石"
+        "zhTW": "藍寶石"
     },
     {
         "id": 2254,
         "Key": "gsg",
         "enUS": "Emerald",
-        "zhTW": "綠寶石",
-        "zhCN": "绿宝石"
+        "zhTW": "綠寶石"
     },
     {
         "id": 2258,
         "Key": "gsr",
         "enUS": "Ruby",
-        "zhTW": "紅寶石",
-        "zhCN": "红宝石"
+        "zhTW": "紅寶石"
     },
     {
         "id": 2263,
         "Key": "gsw",
         "enUS": "Diamond",
-        "zhTW": "鑽石",
-        "zhCN": "钻石"
+        "zhTW": "鑽石"
     },
     {
         "id": 2282,
         "Key": "Beast",
         "enUS": "Beast",
-        "zhTW": "野獸",
-        "zhCN": "野兽"
+        "zhTW": "野獸"
     },
     {
         "id": 2283,
         "Key": "Eagle",
         "enUS": "Eagle",
-        "zhTW": "飛鷹",
-        "zhCN": "雄鹰"
+        "zhTW": "飛鷹"
     },
     {
         "id": 2285,
         "Key": "Viper",
         "enUS": "Viper",
-        "zhTW": "蛇魔",
-        "zhCN": "蝮蛇"
+        "zhTW": "蛇魔"
     },
     {
         "id": 2287,
         "Key": "Skull",
         "enUS": "Skull",
-        "zhTW": "骷髏",
-        "zhCN": "颅骨"
+        "zhTW": "骷髏"
     },
     {
         "id": 2288,
         "Key": "Blood",
         "enUS": "Blood",
-        "zhTW": "鮮血",
-        "zhCN": "鲜血"
+        "zhTW": "鮮血"
     },
     {
         "id": 2289,
         "Key": "Dread",
         "enUS": "Dread",
-        "zhTW": "畏怖",
-        "zhCN": "惊悚"
+        "zhTW": "畏怖"
     },
     {
         "id": 2290,
         "Key": "Doom",
         "enUS": "Doom",
-        "zhTW": "末日",
-        "zhCN": "厄运"
+        "zhTW": "末日"
     },
     {
         "id": 2291,
         "Key": "Grim",
         "enUS": "Grim",
-        "zhTW": "兇殘",
-        "zhCN": "恶毒"
+        "zhTW": "兇殘"
     },
     {
         "id": 2292,
         "Key": "Bone",
         "enUS": "Bone",
-        "zhTW": "骸骨",
-        "zhCN": "白骨"
+        "zhTW": "骸骨"
     },
     {
         "id": 2293,
         "Key": "Death",
         "enUS": "Death",
-        "zhTW": "死亡",
-        "zhCN": "死亡"
+        "zhTW": "死亡"
     },
     {
         "id": 2294,
         "Key": "Shadow",
         "enUS": "Shadow",
-        "zhTW": "暗影",
-        "zhCN": "暗影"
+        "zhTW": "暗影"
     },
     {
         "id": 2295,
         "Key": "Storm",
         "enUS": "Storm",
-        "zhTW": "風暴",
-        "zhCN": "风暴"
+        "zhTW": "風暴"
     },
     {
         "id": 2296,
         "Key": "Rune",
         "enUS": "Rune",
-        "zhTW": "符文",
-        "zhCN": "符文"
+        "zhTW": "符文"
     },
     {
         "id": 2297,
         "Key": "PlagueRI",
         "enUS": "Plague",
-        "zhTW": "瘟疫",
-        "zhCN": "瘟疫"
+        "zhTW": "瘟疫"
     },
     {
         "id": 2298,
         "Key": "Stone",
         "enUS": "Stone",
-        "zhTW": "石岩",
-        "zhCN": "岩石"
+        "zhTW": "石岩"
     },
     {
         "id": 2300,
         "Key": "Spirit",
         "enUS": "Spirit",
-        "zhTW": "魂靈",
-        "zhCN": "精神"
+        "zhTW": "魂靈"
     },
     {
         "id": 2301,
         "Key": "Demon",
         "enUS": "Demon",
-        "zhTW": "惡魔",
-        "zhCN": "恶魔"
+        "zhTW": "惡魔"
     },
     {
         "id": 2302,
         "Key": "Cruel",
         "enUS": "Cruel",
-        "zhTW": "殘酷",
-        "zhCN": "暴虐"
+        "zhTW": "殘酷"
     },
     {
         "id": 2303,
         "Key": "Empyrion",
         "enUS": "Empyrian",
-        "zhTW": "天境",
-        "zhCN": "穹天"
+        "zhTW": "天境"
     },
     {
         "id": 2304,
         "Key": "Bramble",
         "enUS": "Bramble",
-        "zhTW": "荊棘",
-        "zhCN": "刺棘"
+        "zhTW": "荊棘"
     },
     {
         "id": 2305,
         "Key": "Pain",
         "enUS": "Pain",
-        "zhTW": "痛苦",
-        "zhCN": "苦痛"
+        "zhTW": "痛苦"
     },
     {
         "id": 2306,
         "Key": "Loath",
         "enUS": "Loath",
-        "zhTW": "厭惡",
-        "zhCN": "怨念"
+        "zhTW": "厭惡"
     },
     {
         "id": 2307,
         "Key": "Glyph",
         "enUS": "Glyph",
-        "zhTW": "雕紋",
-        "zhCN": "雕纹"
+        "zhTW": "雕紋"
     },
     {
         "id": 2310,
         "Key": "Hailstone",
         "enUS": "Hailstone",
-        "zhTW": "冰雹",
-        "zhCN": "冰雹"
+        "zhTW": "冰雹"
     },
     {
         "id": 2311,
         "Key": "Gale",
         "enUS": "Gale",
-        "zhTW": "狂風",
-        "zhCN": "狂风"
+        "zhTW": "狂風"
     },
     {
         "id": 2312,
         "Key": "Dire",
         "enUS": "Dire",
-        "zhTW": "兇蠻",
-        "zhCN": "恐怖"
+        "zhTW": "兇蠻"
     },
     {
         "id": 2313,
         "Key": "Soul",
         "enUS": "Soul",
-        "zhTW": "靈魂",
-        "zhCN": "灵魂"
+        "zhTW": "靈魂"
     },
     {
         "id": 2314,
         "Key": "Brimstone",
         "enUS": "Brimstone",
-        "zhTW": "硫磺",
-        "zhCN": "硫磺"
+        "zhTW": "硫磺"
     },
     {
         "id": 2315,
         "Key": "Corpse",
         "enUS": "Corpse",
-        "zhTW": "屍體",
-        "zhCN": "尸骸"
+        "zhTW": "屍體"
     },
     {
         "id": 2316,
         "Key": "Carrion",
         "enUS": "Carrion",
-        "zhTW": "腐屍",
-        "zhCN": "食腐鸟"
+        "zhTW": "腐屍"
     },
     {
         "id": 2318,
         "Key": "Havoc",
         "enUS": "Havoc",
-        "zhTW": "浩劫",
-        "zhCN": "浩劫"
+        "zhTW": "浩劫"
     },
     {
         "id": 2319,
         "Key": "Bitter",
         "enUS": "Bitter",
-        "zhTW": "受難",
-        "zhCN": "苦涩"
+        "zhTW": "受難"
     },
     {
         "id": 2320,
         "Key": "Entropy",
         "enUS": "Entropy",
-        "zhTW": "熵數",
-        "zhCN": "熵能"
+        "zhTW": "熵數"
     },
     {
         "id": 2321,
         "Key": "Chaos",
         "enUS": "Chaos",
-        "zhTW": "混沌",
-        "zhCN": "混沌"
+        "zhTW": "混沌"
     },
     {
         "id": 2322,
         "Key": "Order",
         "enUS": "Order",
-        "zhTW": "秩序",
-        "zhCN": "秩序"
+        "zhTW": "秩序"
     },
     {
         "id": 2323,
         "Key": "Rift",
         "enUS": "Rift",
-        "zhTW": "裂隙",
-        "zhCN": "裂隙"
+        "zhTW": "裂隙"
     },
     {
         "id": 2324,
         "Key": "Corruption",
         "enUS": "Corruption",
-        "zhTW": "腐化",
-        "zhCN": "腐蚀"
+        "zhTW": "腐化"
     },
     {
         "id": 2325,
         "Key": "bite",
         "enUS": "Bite",
-        "zhTW": "之咬",
-        "zhCN": "撕咬"
+        "zhTW": "之咬"
     },
     {
         "id": 2326,
         "Key": "scratch",
         "enUS": "Scratch",
-        "zhTW": "抓痕",
-        "zhCN": "撕扯"
+        "zhTW": "抓痕"
     },
     {
         "id": 2327,
         "Key": "scalpel",
         "enUS": "Scalpel",
-        "zhTW": "手術刀",
-        "zhCN": "解剖刀"
+        "zhTW": "手術刀"
     },
     {
         "id": 2328,
         "Key": "fang",
         "enUS": "Fang",
-        "zhTW": "尖牙",
-        "zhCN": "尖牙"
+        "zhTW": "尖牙"
     },
     {
         "id": 2329,
         "Key": "gutter",
         "enUS": "Gutter",
-        "zhTW": "撕腸者",
-        "zhCN": "开膛刀"
+        "zhTW": "撕腸者"
     },
     {
         "id": 2330,
         "Key": "thirst",
         "enUS": "Thirst",
-        "zhTW": "渴望",
-        "zhCN": "渴求"
+        "zhTW": "渴望"
     },
     {
         "id": 2331,
         "Key": "razor",
         "enUS": "Razor",
-        "zhTW": "剃刀",
-        "zhCN": "剃刀"
+        "zhTW": "剃刀"
     },
     {
         "id": 2332,
         "Key": "scythe",
         "enUS": "Scythe",
-        "zhTW": "鐮刀",
-        "zhCN": "镰刀"
+        "zhTW": "鐮刀"
     },
     {
         "id": 2333,
         "Key": "edge",
         "enUS": "Edge",
-        "zhTW": "之刃",
-        "zhCN": "刀锋"
+        "zhTW": "之刃"
     },
     {
         "id": 2335,
         "Key": "splitter",
         "enUS": "Splitter",
-        "zhTW": "劈裂者",
-        "zhCN": "劈裂者"
+        "zhTW": "劈裂者"
     },
     {
         "id": 2336,
         "Key": "cleaver",
         "enUS": "Cleaver",
-        "zhTW": "斬刃",
-        "zhCN": "切肉者"
+        "zhTW": "斬刃"
     },
     {
         "id": 2337,
         "Key": "sever",
         "enUS": "Sever",
-        "zhTW": "斷裂者",
-        "zhCN": "切割者"
+        "zhTW": "斷裂者"
     },
     {
         "id": 2338,
         "Key": "sunder",
         "enUS": "Sunder",
-        "zhTW": "斷破",
-        "zhCN": "破碎者"
+        "zhTW": "斷破"
     },
     {
         "id": 2339,
         "Key": "rend",
         "enUS": "Rend",
-        "zhTW": "剮裂者",
-        "zhCN": "刮肉者"
+        "zhTW": "剮裂者"
     },
     {
         "id": 2340,
         "Key": "mangler",
         "enUS": "Mangler",
-        "zhTW": "割碎者",
-        "zhCN": "残伤者"
+        "zhTW": "割碎者"
     },
     {
         "id": 2341,
         "Key": "slayer",
         "enUS": "Slayer",
-        "zhTW": "屠殺者",
-        "zhCN": "屠杀者"
+        "zhTW": "屠殺者"
     },
     {
         "id": 2342,
         "Key": "reaver",
         "enUS": "Reaver",
-        "zhTW": "強奪者",
-        "zhCN": "劫掠者"
+        "zhTW": "強奪者"
     },
     {
         "id": 2343,
         "Key": "Spawn",
         "enUS": "Spawn",
-        "zhTW": "之物",
-        "zhCN": "之物"
+        "zhTW": "之物"
     },
     {
         "id": 2344,
         "Key": "gnash",
         "enUS": "Gnash",
-        "zhTW": "啃咬",
-        "zhCN": "猛咬"
+        "zhTW": "啃咬"
     },
     {
         "id": 2345,
         "Key": "star",
         "enUS": "Star",
-        "zhTW": "之星",
-        "zhCN": "之星"
+        "zhTW": "之星"
     },
     {
         "id": 2346,
         "Key": "blow",
         "enUS": "Blow",
-        "zhTW": "之吹",
-        "zhCN": "强击"
+        "zhTW": "之吹"
     },
     {
         "id": 2347,
         "Key": "smasher",
         "enUS": "Smasher",
-        "zhTW": "擊碎者",
-        "zhCN": "碎击者"
+        "zhTW": "擊碎者"
     },
     {
         "id": 2348,
         "Key": "Bane",
         "enUS": "Bane",
-        "zhTW": "禍害",
-        "zhCN": "之灾"
+        "zhTW": "禍害"
     },
     {
         "id": 2350,
         "Key": "breaker",
         "enUS": "Breaker",
-        "zhTW": "破壞者",
-        "zhCN": "破坏者"
+        "zhTW": "破壞者"
     },
     {
         "id": 2351,
         "Key": "grinder",
         "enUS": "Grinder",
-        "zhTW": "研磨者",
-        "zhCN": "碾破者"
+        "zhTW": "研磨者"
     },
     {
         "id": 2352,
         "Key": "crack",
         "enUS": "Crack",
-        "zhTW": "崩破",
-        "zhCN": "裂击者"
+        "zhTW": "崩破"
     },
     {
         "id": 2353,
         "Key": "mallet",
         "enUS": "Mallet",
-        "zhTW": "鎚棒",
-        "zhCN": "巨锤"
+        "zhTW": "鎚棒"
     },
     {
         "id": 2354,
         "Key": "knell",
         "enUS": "Knell",
-        "zhTW": "喪鐘",
-        "zhCN": "丧钟"
+        "zhTW": "喪鐘"
     },
     {
         "id": 2355,
         "Key": "lance",
         "enUS": "Lance",
-        "zhTW": "長槍",
-        "zhCN": "长枪"
+        "zhTW": "長槍"
     },
     {
         "id": 2356,
         "Key": "spike",
         "enUS": "Spike",
-        "zhTW": "刺釘",
-        "zhCN": "尖枪"
+        "zhTW": "刺釘"
     },
     {
         "id": 2357,
         "Key": "impaler",
         "enUS": "Impaler",
-        "zhTW": "刺穿者",
-        "zhCN": "穿刺者"
+        "zhTW": "刺穿者"
     },
     {
         "id": 2358,
         "Key": "skewer",
         "enUS": "Skewer",
-        "zhTW": "串刺者",
-        "zhCN": "串刺者"
+        "zhTW": "串刺者"
     },
     {
         "id": 2359,
         "Key": "prod",
         "enUS": "Prod",
-        "zhTW": "戳棍",
-        "zhCN": "戳刺"
+        "zhTW": "戳棍"
     },
     {
         "id": 2360,
         "Key": "scourge",
         "enUS": "Scourge",
-        "zhTW": "煞星",
-        "zhCN": "灾星"
+        "zhTW": "煞星"
     },
     {
         "id": 2361,
         "Key": "wand",
         "enUS": "Wand",
-        "zhTW": "魔杖",
-        "zhCN": "魔杖"
+        "zhTW": "魔杖"
     },
     {
         "id": 2362,
         "Key": "wrack",
         "enUS": "Wrack",
-        "zhTW": "破滅",
-        "zhCN": "破坏"
+        "zhTW": "破滅"
     },
     {
         "id": 2363,
         "Key": "barb",
         "enUS": "Barb",
-        "zhTW": "勾刺",
-        "zhCN": "钩刺"
+        "zhTW": "勾刺"
     },
     {
         "id": 2364,
         "Key": "needle",
         "enUS": "Needle",
-        "zhTW": "之針",
-        "zhCN": "毒针"
+        "zhTW": "之針"
     },
     {
         "id": 2365,
         "Key": "dart",
         "enUS": "Dart",
-        "zhTW": "飛鏢",
-        "zhCN": "飞镖"
+        "zhTW": "飛鏢"
     },
     {
         "id": 2366,
         "Key": "bolt",
         "enUS": "Bolt",
-        "zhTW": "之矢",
-        "zhCN": "飞矢"
+        "zhTW": "之矢"
     },
     {
         "id": 2367,
         "Key": "quarrel",
         "enUS": "Quarrel",
-        "zhTW": "爭鬥",
-        "zhCN": "方镞箭"
+        "zhTW": "爭鬥"
     },
     {
         "id": 2368,
         "Key": "fletch",
         "enUS": "Fletch",
-        "zhTW": "箭羽",
-        "zhCN": "箭羽"
+        "zhTW": "箭羽"
     },
     {
         "id": 2369,
         "Key": "flight",
         "enUS": "Flight",
-        "zhTW": "之翔",
-        "zhCN": "飞箭"
+        "zhTW": "之翔"
     },
     {
         "id": 2370,
         "Key": "nock",
         "enUS": "Nock",
-        "zhTW": "搭弦",
-        "zhCN": "弓结"
+        "zhTW": "搭弦"
     },
     {
         "id": 2371,
         "Key": "horn",
         "enUS": "Horn",
-        "zhTW": "尖角",
-        "zhCN": "角刺"
+        "zhTW": "尖角"
     },
     {
         "id": 2372,
         "Key": "stinger",
         "enUS": "Stinger",
-        "zhTW": "釘刺者",
-        "zhCN": "钉刺者"
+        "zhTW": "釘刺者"
     },
     {
         "id": 2373,
         "Key": "quill",
         "enUS": "Quill",
-        "zhTW": "刺針",
-        "zhCN": "刺针"
+        "zhTW": "刺針"
     },
     {
         "id": 2374,
         "Key": "goad",
         "enUS": "Goad",
-        "zhTW": "刺棒",
-        "zhCN": "刺棒"
+        "zhTW": "刺棒"
     },
     {
         "id": 2375,
         "Key": "branch",
         "enUS": "Branch",
-        "zhTW": "之枝",
-        "zhCN": "树枝"
+        "zhTW": "之枝"
     },
     {
         "id": 2376,
         "Key": "spire",
         "enUS": "Spire",
-        "zhTW": "尖塔",
-        "zhCN": "尖塔"
+        "zhTW": "尖塔"
     },
     {
         "id": 2377,
         "Key": "song",
         "enUS": "Song",
-        "zhTW": "之歌",
-        "zhCN": "之歌"
+        "zhTW": "之歌"
     },
     {
         "id": 2378,
         "Key": "call",
         "enUS": "Call",
-        "zhTW": "呼喚",
-        "zhCN": "呼唤"
+        "zhTW": "呼喚"
     },
     {
         "id": 2380,
         "Key": "spell",
         "enUS": "Spell",
-        "zhTW": "咒法",
-        "zhCN": "法咒"
+        "zhTW": "咒法"
     },
     {
         "id": 2381,
         "Key": "chant",
         "enUS": "Chant",
-        "zhTW": "祝禱",
-        "zhCN": "吟唱"
+        "zhTW": "祝禱"
     },
     {
         "id": 2382,
         "Key": "weaver",
         "enUS": "Weaver",
-        "zhTW": "編織者",
-        "zhCN": "编织者"
+        "zhTW": "編織者"
     },
     {
         "id": 2383,
         "Key": "gnarl",
         "enUS": "Gnarl",
-        "zhTW": "瘤節",
-        "zhCN": "狂啸"
+        "zhTW": "瘤節"
     },
     {
         "id": 2496,
         "Key": "Civerb's",
         "enUS": "Civerb's",
-        "zhTW": "克維雷布的",
-        "zhCN": "希弗伯的"
+        "zhTW": "克維雷布的"
     },
     {
         "id": 2497,
         "Key": "Hsarus'",
         "enUS": "Hsaru's",
-        "zhTW": "海沙魯的",
-        "zhCN": "萨鲁斯的"
+        "zhTW": "海沙魯的"
     },
     {
         "id": 2498,
         "Key": "Cleglaw's",
         "enUS": "Cleglaw's",
-        "zhTW": "克雷德勞",
-        "zhCN": "克雷格劳的"
+        "zhTW": "克雷德勞"
     },
     {
         "id": 2499,
         "Key": "Iratha's",
         "enUS": "Iratha's",
-        "zhTW": "依雷撒的",
-        "zhCN": "艾蕾萨的"
+        "zhTW": "依雷撒的"
     },
     {
         "id": 2500,
         "Key": "Isenhart's",
         "enUS": "Isenhart's",
-        "zhTW": "依森哈特的",
-        "zhCN": "依森哈特的"
+        "zhTW": "依森哈特的"
     },
     {
         "id": 2501,
         "Key": "Vidala's",
         "enUS": "Vidala's",
-        "zhTW": "維達拉的",
-        "zhCN": "维达拉的"
+        "zhTW": "維達拉的"
     },
     {
         "id": 2502,
         "Key": "Milabrega's",
         "enUS": "Milabrega's",
-        "zhTW": "米拉伯佳",
-        "zhCN": "米拉伯佳的"
+        "zhTW": "米拉伯佳"
     },
     {
         "id": 2503,
         "Key": "Cathan's",
         "enUS": "Cathan's",
-        "zhTW": "卡珊的",
-        "zhCN": "卡珊的"
+        "zhTW": "卡珊的"
     },
     {
         "id": 2504,
         "Key": "Tancred's",
         "enUS": "Tancred's",
-        "zhTW": "坦克雷的",
-        "zhCN": "坦克雷的"
+        "zhTW": "坦克雷的"
     },
     {
         "id": 2505,
         "Key": "Sigon's",
         "enUS": "Sigon's",
-        "zhTW": "西剛的",
-        "zhCN": "西刚的"
+        "zhTW": "西剛的"
     },
     {
         "id": 2506,
         "Key": "Infernal",
         "enUS": "Infernal",
-        "zhTW": "煉獄",
-        "zhCN": "地狱"
+        "zhTW": "煉獄"
     },
     {
         "id": 2508,
         "Key": "Death's",
         "enUS": "Death's",
-        "zhTW": "死亡之",
-        "zhCN": "死神的"
+        "zhTW": "死亡之"
     },
     {
         "id": 2509,
         "Key": "Angelical",
         "enUS": "Angelic",
-        "zhTW": "天使的",
-        "zhCN": "天使"
+        "zhTW": "天使的"
     },
     {
         "id": 2510,
         "Key": "Arctic",
         "enUS": "Arctic",
-        "zhTW": "北極",
-        "zhCN": "北极"
+        "zhTW": "北極"
     },
     {
         "id": 2511,
         "Key": "Arcanna's",
         "enUS": "Arcanna's",
-        "zhTW": "阿卡娜的",
-        "zhCN": "阿卡娜的"
+        "zhTW": "阿卡娜的"
     },
     {
         "id": 2564,
         "Key": "Weird",
         "enUS": "Weird",
-        "zhTW": "怪奇",
-        "zhCN": "诡异"
+        "zhTW": "怪奇"
     },
     {
         "id": 2702,
         "Key": "GloomUM",
         "enUS": "Gloom",
-        "zhTW": "陰鬱",
-        "zhCN": "幽暗"
+        "zhTW": "陰鬱"
     },
     {
         "id": 2703,
         "Key": "Gray",
         "enUS": "Gray",
-        "zhTW": "灰暗",
-        "zhCN": "灰白"
+        "zhTW": "灰暗"
     },
     {
         "id": 2704,
         "Key": "DireUM",
         "enUS": "Dire",
-        "zhTW": "兇蠻",
-        "zhCN": "凶邪"
+        "zhTW": "兇蠻"
     },
     {
         "id": 2705,
         "Key": "Black",
         "enUS": "Black",
-        "zhTW": "漆黑",
-        "zhCN": "黑色"
+        "zhTW": "漆黑"
     },
     {
         "id": 2706,
         "Key": "ShadowUM",
         "enUS": "Shadow",
-        "zhTW": "暗影",
-        "zhCN": "暗影"
+        "zhTW": "暗影"
     },
     {
         "id": 2707,
         "Key": "Haze",
         "enUS": "Haze",
-        "zhTW": "薄霧",
-        "zhCN": "阴霾"
+        "zhTW": "薄霧"
     },
     {
         "id": 2708,
         "Key": "Wind",
         "enUS": "Wind",
-        "zhTW": "飆風",
-        "zhCN": "凄风"
+        "zhTW": "飆風"
     },
     {
         "id": 2709,
         "Key": "StormUM",
         "enUS": "Storm",
-        "zhTW": "風暴",
-        "zhCN": "风暴"
+        "zhTW": "風暴"
     },
     {
         "id": 2710,
         "Key": "Warp",
         "enUS": "Warp",
-        "zhTW": "扭曲",
-        "zhCN": "闪烁"
+        "zhTW": "扭曲"
     },
     {
         "id": 2711,
         "Key": "Night",
         "enUS": "Night",
-        "zhTW": "暗夜",
-        "zhCN": "夜幕"
+        "zhTW": "暗夜"
     },
     {
         "id": 2712,
         "Key": "Moon",
         "enUS": "Moon",
-        "zhTW": "孤月",
-        "zhCN": "月界"
+        "zhTW": "孤月"
     },
     {
         "id": 2713,
         "Key": "Star",
         "enUS": "Star",
-        "zhTW": "星辰",
-        "zhCN": "星界"
+        "zhTW": "星辰"
     },
     {
         "id": 2714,
         "Key": "Pit",
         "enUS": "Pit",
-        "zhTW": "地穴",
-        "zhCN": "深渊"
+        "zhTW": "地穴"
     },
     {
         "id": 2715,
         "Key": "Fire",
         "enUS": "Flame",
-        "zhTW": "火焰",
-        "zhCN": "烈焰"
+        "zhTW": "火焰"
     },
     {
         "id": 2716,
         "Key": "Cold",
         "enUS": "Ice",
-        "zhTW": "寒冰",
-        "zhCN": "寒冰"
+        "zhTW": "寒冰"
     },
     {
         "id": 2717,
         "Key": "Seethe",
         "enUS": "Seethe",
-        "zhTW": "沸揚",
-        "zhCN": "沸腾"
+        "zhTW": "沸揚"
     },
     {
         "id": 2718,
         "Key": "SharpUM",
         "enUS": "Sharp",
-        "zhTW": "鋒利",
-        "zhCN": "锋利"
+        "zhTW": "鋒利"
     },
     {
         "id": 2719,
         "Key": "AshUM",
         "enUS": "Ash",
-        "zhTW": "灰燼",
-        "zhCN": "火灰"
+        "zhTW": "灰燼"
     },
     {
         "id": 2720,
         "Key": "Blade",
         "enUS": "Blade",
-        "zhTW": "刀鋒",
-        "zhCN": "利刃"
+        "zhTW": "刀鋒"
     },
     {
         "id": 2721,
         "Key": "SteelUM",
         "enUS": "Steel",
-        "zhTW": "鋼鐵",
-        "zhCN": "钢铁"
+        "zhTW": "鋼鐵"
     },
     {
         "id": 2722,
         "Key": "StoneUM",
         "enUS": "Stone",
-        "zhTW": "石岩",
-        "zhCN": "岩石"
+        "zhTW": "石岩"
     },
     {
         "id": 2723,
         "Key": "Rust",
         "enUS": "Rust",
-        "zhTW": "鏽蝕",
-        "zhCN": "锈蚀"
+        "zhTW": "鏽蝕"
     },
     {
         "id": 2724,
         "Key": "Mold",
         "enUS": "Mold",
-        "zhTW": "霉害",
-        "zhCN": "霉斑"
+        "zhTW": "霉害"
     },
     {
         "id": 2725,
         "Key": "Blight",
         "enUS": "Blight",
-        "zhTW": "荒疫",
-        "zhCN": "凋零"
+        "zhTW": "荒疫"
     },
     {
         "id": 2726,
         "Key": "Plague",
         "enUS": "Plague",
-        "zhTW": "瘟疫",
-        "zhCN": "疾疫"
+        "zhTW": "瘟疫"
     },
     {
         "id": 2727,
         "Key": "Rot",
         "enUS": "Rot",
-        "zhTW": "腐敗",
-        "zhCN": "恶疮"
+        "zhTW": "腐敗"
     },
     {
         "id": 2728,
         "Key": "Ooze",
         "enUS": "Ooze",
-        "zhTW": "滲流",
-        "zhCN": "脓污"
+        "zhTW": "滲流"
     },
     {
         "id": 2729,
         "Key": "Puke",
         "enUS": "Puke",
-        "zhTW": "嘔血",
-        "zhCN": "呕吐"
+        "zhTW": "嘔血"
     },
     {
         "id": 2730,
         "Key": "Snot",
         "enUS": "Snot",
-        "zhTW": "黏涕",
-        "zhCN": "鼻涕"
+        "zhTW": "黏涕"
     },
     {
         "id": 2731,
         "Key": "Bile",
         "enUS": "Bile",
-        "zhTW": "乖戾",
-        "zhCN": "愤怒"
+        "zhTW": "乖戾"
     },
     {
         "id": 2732,
         "Key": "BloodUM",
         "enUS": "Blood",
-        "zhTW": "鮮血",
-        "zhCN": "鲜血"
+        "zhTW": "鮮血"
     },
     {
         "id": 2733,
         "Key": "Pulse",
         "enUS": "Pulse",
-        "zhTW": "波動",
-        "zhCN": "颤动"
+        "zhTW": "波動"
     },
     {
         "id": 2734,
         "Key": "Gut",
         "enUS": "Gut",
-        "zhTW": "臟器",
-        "zhCN": "剖脏"
+        "zhTW": "臟器"
     },
     {
         "id": 2735,
         "Key": "Gore",
         "enUS": "Gore",
-        "zhTW": "血塊",
-        "zhCN": "角刺"
+        "zhTW": "血塊"
     },
     {
         "id": 2736,
         "Key": "FleshUM",
         "enUS": "Flesh",
-        "zhTW": "血肉",
-        "zhCN": "血肉"
+        "zhTW": "血肉"
     },
     {
         "id": 2737,
         "Key": "BoneUM",
         "enUS": "Bone",
-        "zhTW": "骸骨",
-        "zhCN": "白骨"
+        "zhTW": "骸骨"
     },
     {
         "id": 2738,
         "Key": "SpineUM",
         "enUS": "Spine",
-        "zhTW": "尖脊",
-        "zhCN": "脊骨"
+        "zhTW": "尖脊"
     },
     {
         "id": 2739,
         "Key": "Mind",
         "enUS": "Mind",
-        "zhTW": "心靈",
-        "zhCN": "心智"
+        "zhTW": "心靈"
     },
     {
         "id": 2740,
         "Key": "SpiritUM",
         "enUS": "Spirit",
-        "zhTW": "魂靈",
-        "zhCN": "恶灵"
+        "zhTW": "魂靈"
     },
     {
         "id": 2741,
         "Key": "SoulUM",
         "enUS": "Soul",
-        "zhTW": "靈魂",
-        "zhCN": "恶魂"
+        "zhTW": "靈魂"
     },
     {
         "id": 2742,
         "Key": "Wrath",
         "enUS": "Wrath",
-        "zhTW": "憤怒",
-        "zhCN": "怒火"
+        "zhTW": "憤怒"
     },
     {
         "id": 2743,
         "Key": "GriefUM",
         "enUS": "Grief",
-        "zhTW": "悲慟",
-        "zhCN": "悲惨"
+        "zhTW": "悲慟"
     },
     {
         "id": 2744,
         "Key": "Foul",
         "enUS": "Foul",
-        "zhTW": "穢汙",
-        "zhCN": "歹毒"
+        "zhTW": "穢汙"
     },
     {
         "id": 2745,
         "Key": "Vile",
         "enUS": "Vile",
-        "zhTW": "兇邪",
-        "zhCN": "卑鄙"
+        "zhTW": "兇邪"
     },
     {
         "id": 2746,
         "Key": "Sin",
         "enUS": "Sin",
-        "zhTW": "罪惡",
-        "zhCN": "罪恶"
+        "zhTW": "罪惡"
     },
     {
         "id": 2747,
         "Key": "ChaosUM",
         "enUS": "Chaos",
-        "zhTW": "混沌",
-        "zhCN": "混沌"
+        "zhTW": "混沌"
     },
     {
         "id": 2748,
         "Key": "DreadUM",
         "enUS": "Dread",
-        "zhTW": "畏怖",
-        "zhCN": "惊悚"
+        "zhTW": "畏怖"
     },
     {
         "id": 2749,
         "Key": "DoomUM",
         "enUS": "Doom",
-        "zhTW": "末日",
-        "zhCN": "厄运"
+        "zhTW": "末日"
     },
     {
         "id": 2750,
         "Key": "BaneUM",
         "enUS": "Bane",
-        "zhTW": "禍害",
-        "zhCN": "灾祸"
+        "zhTW": "禍害"
     },
     {
         "id": 2751,
         "Key": "DeathUM",
         "enUS": "Death",
-        "zhTW": "死亡",
-        "zhCN": "死亡"
+        "zhTW": "死亡"
     },
     {
         "id": 2752,
         "Key": "ViperUM",
         "enUS": "Viper",
-        "zhTW": "蛇魔",
-        "zhCN": "蝮蛇"
+        "zhTW": "蛇魔"
     },
     {
         "id": 2753,
         "Key": "Dragon",
         "enUS": "Dragon",
-        "zhTW": "巨龍",
-        "zhCN": "恶龙"
+        "zhTW": "巨龍"
     },
     {
         "id": 2754,
         "Key": "Devil",
         "enUS": "Devil",
-        "zhTW": "妖鬼",
-        "zhCN": "邪魔"
+        "zhTW": "妖鬼"
     },
     {
         "id": 2755,
         "Key": "touchUM",
         "enUS": "Touch",
-        "zhTW": "之觸",
-        "zhCN": "邪触"
+        "zhTW": "之觸"
     },
     {
         "id": 2756,
         "Key": "spellUM",
         "enUS": "Spell",
-        "zhTW": "之咒",
-        "zhCN": "法咒"
+        "zhTW": "之咒"
     },
     {
         "id": 2757,
         "Key": "feast",
         "enUS": "Feast",
-        "zhTW": "之饗宴",
-        "zhCN": "暴食"
+        "zhTW": "之饗宴"
     },
     {
         "id": 2758,
         "Key": "wound",
         "enUS": "Wound",
-        "zhTW": "之傷",
-        "zhCN": "致伤"
+        "zhTW": "之傷"
     },
     {
         "id": 2759,
         "Key": "grin",
         "enUS": "Grin",
-        "zhTW": "獰笑",
-        "zhCN": "狞笑"
+        "zhTW": "獰笑"
     },
     {
         "id": 2760,
         "Key": "maim",
         "enUS": "Maim",
-        "zhTW": "殘傷者",
-        "zhCN": "残害"
+        "zhTW": "殘傷者"
     },
     {
         "id": 2761,
         "Key": "hack",
         "enUS": "Hack",
-        "zhTW": "之劈",
-        "zhCN": "劈杀"
+        "zhTW": "之劈"
     },
     {
         "id": 2762,
         "Key": "biteUM",
         "enUS": "Bite",
-        "zhTW": "噬咬",
-        "zhCN": "噬咬"
+        "zhTW": "噬咬"
     },
     {
         "id": 2763,
         "Key": "rendUM",
         "enUS": "Rend",
-        "zhTW": "之破",
-        "zhCN": "痛割"
+        "zhTW": "之破"
     },
     {
         "id": 2764,
         "Key": "burn",
         "enUS": "Burn",
-        "zhTW": "猛燃者",
-        "zhCN": "灼烧"
+        "zhTW": "猛燃者"
     },
     {
         "id": 2765,
         "Key": "rip",
         "enUS": "Ripper",
-        "zhTW": "開膛手",
-        "zhCN": "撕裂者"
+        "zhTW": "開膛手"
     },
     {
         "id": 2766,
         "Key": "kill",
         "enUS": "Kill",
-        "zhTW": "之殺",
-        "zhCN": "杀戮"
+        "zhTW": "之殺"
     },
     {
         "id": 2767,
         "Key": "callUM",
         "enUS": "Call",
-        "zhTW": "呼喚者",
-        "zhCN": "之唤"
+        "zhTW": "呼喚者"
     },
     {
         "id": 2768,
         "Key": "vex",
         "enUS": "Vex",
-        "zhTW": "之苦痛者",
-        "zhCN": "妖术"
+        "zhTW": "之苦痛者"
     },
     {
         "id": 2769,
         "Key": "jade",
         "enUS": "Jade",
-        "zhTW": "之玉",
-        "zhCN": "碧玉"
+        "zhTW": "之玉"
     },
     {
         "id": 2770,
         "Key": "web",
         "enUS": "Web",
-        "zhTW": "毒網",
-        "zhCN": "之网"
+        "zhTW": "毒網"
     },
     {
         "id": 2771,
         "Key": "shieldUM",
         "enUS": "Shield",
-        "zhTW": "之盾",
-        "zhCN": "之盾"
+        "zhTW": "之盾"
     },
     {
         "id": 2772,
         "Key": "KillerUM",
         "enUS": "Killer",
-        "zhTW": "殺手",
-        "zhCN": "杀戮者"
+        "zhTW": "殺手"
     },
     {
         "id": 2773,
         "Key": "RazorUM",
         "enUS": "Razor",
-        "zhTW": "剃刀",
-        "zhCN": "剃刀"
+        "zhTW": "剃刀"
     },
     {
         "id": 2774,
         "Key": "drinker",
         "enUS": "Drinker",
-        "zhTW": "暢飲者",
-        "zhCN": "饮血者"
+        "zhTW": "暢飲者"
     },
     {
         "id": 2775,
         "Key": "shifter",
         "enUS": "Shifter",
-        "zhTW": "變形者",
-        "zhCN": "变形者"
+        "zhTW": "變形者"
     },
     {
         "id": 2776,
         "Key": "crawler",
         "enUS": "Crawler",
-        "zhTW": "爬行者",
-        "zhCN": "爬行者"
+        "zhTW": "爬行者"
     },
     {
         "id": 2777,
         "Key": "dancer",
         "enUS": "Dancer",
-        "zhTW": "舞者",
-        "zhCN": "舞者"
+        "zhTW": "舞者"
     },
     {
         "id": 2778,
         "Key": "bender",
         "enUS": "Bender",
-        "zhTW": "彎曲者",
-        "zhCN": "酗酒者"
+        "zhTW": "彎曲者"
     },
     {
         "id": 2779,
         "Key": "weaverUM",
         "enUS": "Weaver",
-        "zhTW": "編織者",
-        "zhCN": "编织者"
+        "zhTW": "編織者"
     },
     {
         "id": 2780,
         "Key": "eater",
         "enUS": "Eater",
-        "zhTW": "吞食者",
-        "zhCN": "食人者"
+        "zhTW": "吞食者"
     },
     {
         "id": 2781,
         "Key": "widow",
         "enUS": "Widow",
-        "zhTW": "寡婦",
-        "zhCN": "寡妇"
+        "zhTW": "寡婦"
     },
     {
         "id": 2782,
         "Key": "maggot",
         "enUS": "Maggot",
-        "zhTW": "蛆蟲",
-        "zhCN": "蛆虫"
+        "zhTW": "蛆蟲"
     },
     {
         "id": 2783,
         "Key": "spawn",
         "enUS": "Spawn",
-        "zhTW": "鬼物",
-        "zhCN": "魔嗣"
+        "zhTW": "鬼物"
     },
     {
         "id": 2784,
         "Key": "wight",
         "enUS": "Wight",
-        "zhTW": "活屍",
-        "zhCN": "鬼魅"
+        "zhTW": "活屍"
     },
     {
         "id": 2785,
         "Key": "GrumbleUM",
         "enUS": "Grumble",
-        "zhTW": "泣怨者",
-        "zhCN": "咕噜魔"
+        "zhTW": "泣怨者"
     },
     {
         "id": 2786,
         "Key": "GrowlerUM",
         "enUS": "Growler",
-        "zhTW": "咆哮者",
-        "zhCN": "咆哮"
+        "zhTW": "咆哮者"
     },
     {
         "id": 2787,
         "Key": "SnarlUM",
         "enUS": "Snarl",
-        "zhTW": "吠叫者",
-        "zhCN": "凶啸"
+        "zhTW": "吠叫者"
     },
     {
         "id": 2788,
         "Key": "wolf",
         "enUS": "Wolf",
-        "zhTW": "狂狼",
-        "zhCN": "恶狼"
+        "zhTW": "狂狼"
     },
     {
         "id": 2789,
         "Key": "crow",
         "enUS": "Crow",
-        "zhTW": "魔鴉",
-        "zhCN": "乌鸦"
+        "zhTW": "魔鴉"
     },
     {
         "id": 2790,
         "Key": "raven",
         "enUS": "Raven",
-        "zhTW": "掠鴉",
-        "zhCN": "渡鸦"
+        "zhTW": "掠鴉"
     },
     {
         "id": 2791,
         "Key": "hawk",
         "enUS": "Hawk",
-        "zhTW": "天鷹",
-        "zhCN": "恶鹰"
+        "zhTW": "天鷹"
     },
     {
         "id": 2792,
         "Key": "cloud",
         "enUS": "Cloud",
-        "zhTW": "罩雲",
-        "zhCN": "阴云"
+        "zhTW": "罩雲"
     },
     {
         "id": 2793,
         "Key": "BangUM",
         "enUS": "Bang",
-        "zhTW": "之響",
-        "zhCN": "巨响"
+        "zhTW": "之響"
     },
     {
         "id": 2794,
         "Key": "head",
         "enUS": "Head",
-        "zhTW": "之首",
-        "zhCN": "之首"
+        "zhTW": "之首"
     },
     {
         "id": 2795,
         "Key": "skullUM",
         "enUS": "Skull",
-        "zhTW": "骷髏",
-        "zhCN": "之颅"
+        "zhTW": "骷髏"
     },
     {
         "id": 2796,
         "Key": "browUM",
         "enUS": "Brow",
-        "zhTW": "面容",
-        "zhCN": "恶面"
+        "zhTW": "面容"
     },
     {
         "id": 2797,
         "Key": "eyeUM",
         "enUS": "Eye",
-        "zhTW": "之眼",
-        "zhCN": "之眼"
+        "zhTW": "之眼"
     },
     {
         "id": 2798,
         "Key": "maw",
         "enUS": "Maw",
-        "zhTW": "魔口",
-        "zhCN": "之喉"
+        "zhTW": "魔口"
     },
     {
         "id": 2799,
         "Key": "tongue",
         "enUS": "Tongue",
-        "zhTW": "之舌",
-        "zhCN": "之舌"
+        "zhTW": "之舌"
     },
     {
         "id": 2800,
         "Key": "fangUM",
         "enUS": "Fang",
-        "zhTW": "之牙",
-        "zhCN": "之牙"
+        "zhTW": "之牙"
     },
     {
         "id": 2801,
         "Key": "hornUM",
         "enUS": "Horn",
-        "zhTW": "之角",
-        "zhCN": "之角"
+        "zhTW": "之角"
     },
     {
         "id": 2802,
         "Key": "thorn",
         "enUS": "Thorn",
-        "zhTW": "荊棘",
-        "zhCN": "荆棘"
+        "zhTW": "荊棘"
     },
     {
         "id": 2803,
         "Key": "clawUM",
         "enUS": "Claw",
-        "zhTW": "利爪",
-        "zhCN": "之爪"
+        "zhTW": "利爪"
     },
     {
         "id": 2804,
         "Key": "fistUM",
         "enUS": "Fist",
-        "zhTW": "之拳",
-        "zhCN": "之拳"
+        "zhTW": "之拳"
     },
     {
         "id": 2805,
         "Key": "heartUM",
         "enUS": "Heart",
-        "zhTW": "之心",
-        "zhCN": "之心"
+        "zhTW": "之心"
     },
     {
         "id": 2806,
         "Key": "shankUM",
         "enUS": "Shank",
-        "zhTW": "脛骨",
-        "zhCN": "跛足"
+        "zhTW": "脛骨"
     },
     {
         "id": 2807,
         "Key": "skinUM",
         "enUS": "Skin",
-        "zhTW": "之皮",
-        "zhCN": "魔皮"
+        "zhTW": "之皮"
     },
     {
         "id": 2808,
         "Key": "wingUM",
         "enUS": "Wing",
-        "zhTW": "飛翼",
-        "zhCN": "翼魔"
+        "zhTW": "飛翼"
     },
     {
         "id": 2809,
         "Key": "pox",
         "enUS": "Pox",
-        "zhTW": "疫病",
-        "zhCN": "恶疾"
+        "zhTW": "疫病"
     },
     {
         "id": 2810,
         "Key": "fester",
         "enUS": "Fester",
-        "zhTW": "潰爛",
-        "zhCN": "溃烂"
+        "zhTW": "潰爛"
     },
     {
         "id": 2811,
         "Key": "blister",
         "enUS": "Blister",
-        "zhTW": "毒皰",
-        "zhCN": "水泡"
+        "zhTW": "毒皰"
     },
     {
         "id": 2812,
         "Key": "pus",
         "enUS": "Pus",
-        "zhTW": "之膿",
-        "zhCN": "脓毒"
+        "zhTW": "之膿"
     },
     {
         "id": 2813,
         "Key": "SlimeUM",
         "enUS": "Slime",
-        "zhTW": "黏液",
-        "zhCN": "粘液"
+        "zhTW": "黏液"
     },
     {
         "id": 2814,
         "Key": "drool",
         "enUS": "Drool",
-        "zhTW": "之涎",
-        "zhCN": "涎魔"
+        "zhTW": "之涎"
     },
     {
         "id": 2815,
         "Key": "froth",
         "enUS": "Froth",
-        "zhTW": "白沫",
-        "zhCN": "邪沫"
+        "zhTW": "白沫"
     },
     {
         "id": 2816,
         "Key": "sludge",
         "enUS": "Sludge",
-        "zhTW": "汙泥",
-        "zhCN": "污魔"
+        "zhTW": "汙泥"
     },
     {
         "id": 2817,
         "Key": "venom",
         "enUS": "Venom",
-        "zhTW": "毒液",
-        "zhCN": "剧毒"
+        "zhTW": "毒液"
     },
     {
         "id": 2818,
         "Key": "poison",
         "enUS": "Poison",
-        "zhTW": "之毒",
-        "zhCN": "毒物"
+        "zhTW": "之毒"
     },
     {
         "id": 2819,
         "Key": "break",
         "enUS": "Break",
-        "zhTW": "破斷",
-        "zhCN": "碎击"
+        "zhTW": "破斷"
     },
     {
         "id": 2820,
         "Key": "shard",
         "enUS": "Shard",
-        "zhTW": "碎片",
-        "zhCN": "刺头"
+        "zhTW": "碎片"
     },
     {
         "id": 2821,
         "Key": "flame",
         "enUS": "Flame",
-        "zhTW": "火焰",
-        "zhCN": "烈焰"
+        "zhTW": "火焰"
     },
     {
         "id": 2822,
         "Key": "maul",
         "enUS": "Maul",
-        "zhTW": "捶打者",
-        "zhCN": "锤击"
+        "zhTW": "捶打者"
     },
     {
         "id": 2823,
         "Key": "thirstUM",
         "enUS": "Thirst",
-        "zhTW": "饑渴",
-        "zhCN": "饥渴"
+        "zhTW": "饑渴"
     },
     {
         "id": 2824,
         "Key": "lust",
         "enUS": "Lust",
-        "zhTW": "之慾",
-        "zhCN": "邪淫者"
+        "zhTW": "之慾"
     },
     {
         "id": 2825,
         "Key": "the Hammer",
         "enUS": "the Hammer",
-        "zhTW": "「重鎚者」",
-        "zhCN": "重锤手·"
+        "zhTW": "「重鎚者」"
     },
     {
         "id": 2826,
         "Key": "the Axe",
         "enUS": "the Axe",
-        "zhTW": "「銳斧」",
-        "zhCN": "巨斧手·"
+        "zhTW": "「銳斧」"
     },
     {
         "id": 2827,
         "Key": "the Sharp",
         "enUS": "the Sharp",
-        "zhTW": "銳不可當的",
-        "zhCN": "尖锋者·"
+        "zhTW": "銳不可當的"
     },
     {
         "id": 2828,
         "Key": "the Jagged",
         "enUS": "the Jagged",
-        "zhTW": "「鋸齒者」",
-        "zhCN": "尖刺者·"
+        "zhTW": "「鋸齒者」"
     },
     {
         "id": 2829,
         "Key": "the Flayer",
         "enUS": "the Flayer",
-        "zhTW": "「剝皮手」",
-        "zhCN": "剥皮者·"
+        "zhTW": "「剝皮手」"
     },
     {
         "id": 2830,
         "Key": "the Slasher",
         "enUS": "the Slasher",
-        "zhTW": "「切割者」",
-        "zhCN": "斩击者·"
+        "zhTW": "「切割者」"
     },
     {
         "id": 2831,
         "Key": "the Impaler",
         "enUS": "the Impaler",
-        "zhTW": "「刺穿者」",
-        "zhCN": "穿刺者·"
+        "zhTW": "「刺穿者」"
     },
     {
         "id": 2832,
         "Key": "the Hunter",
         "enUS": "the Hunter",
-        "zhTW": "「狩獵者」",
-        "zhCN": "猎杀者·"
+        "zhTW": "「狩獵者」"
     },
     {
         "id": 2833,
         "Key": "the Slayer",
         "enUS": "the Slayer",
-        "zhTW": "「屠殺者」",
-        "zhCN": "屠戮者·"
+        "zhTW": "「屠殺者」"
     },
     {
         "id": 2834,
         "Key": "the Mauler",
         "enUS": "the Mauler",
-        "zhTW": "「猛擊者」",
-        "zhCN": "重槌者·"
+        "zhTW": "「猛擊者」"
     },
     {
         "id": 2835,
         "Key": "the Destroyer",
         "enUS": "the Destroyer",
-        "zhTW": "「毀滅者」",
-        "zhCN": "毁灭者·"
+        "zhTW": "「毀滅者」"
     },
     {
         "id": 2836,
         "Key": "theQuick",
         "enUS": "the Quick",
-        "zhTW": "迅捷的",
-        "zhCN": "迅捷者·"
+        "zhTW": "迅捷的"
     },
     {
         "id": 2837,
         "Key": "the Witch",
         "enUS": "the Witch",
-        "zhTW": "巫異",
-        "zhCN": "巫术师·"
+        "zhTW": "巫異"
     },
     {
         "id": 2838,
         "Key": "the Mad",
         "enUS": "the Mad",
-        "zhTW": "瘋狂的",
-        "zhCN": "疯狂者·"
+        "zhTW": "瘋狂的"
     },
     {
         "id": 2839,
         "Key": "the Wraith",
         "enUS": "the Wraith",
-        "zhTW": "「怨靈化身」",
-        "zhCN": "怨魂·"
+        "zhTW": "「怨靈化身」"
     },
     {
         "id": 2840,
         "Key": "the Shade",
         "enUS": "the Shade",
-        "zhTW": "鬼影般的",
-        "zhCN": "阴魂·"
+        "zhTW": "鬼影般的"
     },
     {
         "id": 2841,
         "Key": "the Dead",
         "enUS": "the Dead",
-        "zhTW": "無法安息的",
-        "zhCN": "亡尸·"
+        "zhTW": "無法安息的"
     },
     {
         "id": 2842,
         "Key": "the Unholy",
         "enUS": "the Unholy",
-        "zhTW": "「穢邪者」",
-        "zhCN": "邪秽者·"
+        "zhTW": "「穢邪者」"
     },
     {
         "id": 2843,
         "Key": "the Howler",
         "enUS": "the Howler",
-        "zhTW": "「號哭者」",
-        "zhCN": "嗥叫者·"
+        "zhTW": "「號哭者」"
     },
     {
         "id": 2844,
         "Key": "the Grim",
         "enUS": "the Grim",
-        "zhTW": "陰森的",
-        "zhCN": "冷酷者·"
+        "zhTW": "陰森的"
     },
     {
         "id": 2845,
         "Key": "the Dark",
         "enUS": "the Dark",
-        "zhTW": "「黑暗者」",
-        "zhCN": "黑暗者·"
+        "zhTW": "「黑暗者」"
     },
     {
         "id": 2846,
         "Key": "the Tainted",
         "enUS": "the Tainted",
-        "zhTW": "「汙染者」",
-        "zhCN": "污堕者·"
+        "zhTW": "「汙染者」"
     },
     {
         "id": 2847,
         "Key": "the Unclean",
         "enUS": "the Unclean",
-        "zhTW": "「不潔者」",
-        "zhCN": "不洁者·"
+        "zhTW": "「不潔者」"
     },
     {
         "id": 2848,
         "Key": "the Hungry",
         "enUS": "the Hungry",
-        "zhTW": "「飢渴者」",
-        "zhCN": "饥饿者·"
+        "zhTW": "「飢渴者」"
     },
     {
         "id": 2849,
         "Key": "the Cold",
         "enUS": "the Cold",
-        "zhTW": "冷酷無情的",
-        "zhCN": "冷冰者·"
+        "zhTW": "冷酷無情的"
     },
     {
         "id": 3220,
         "Key": "Champion",
         "enUS": "Champion",
-        "zhTW": "精英",
-        "zhCN": "[勇士]"
+        "zhTW": "精英"
     },
     {
         "id": 10048,
         "Key": "of the Wraith",
         "enUS": "of the Wraith",
-        "zhTW": "怨靈之",
-        "zhCN": "怨魂之"
+        "zhTW": "怨靈之"
     },
     {
         "id": 10049,
         "Key": "of Equilibrium",
         "enUS": "of Equilibrium",
-        "zhTW": "均衡之",
-        "zhCN": "协调之"
+        "zhTW": "均衡之"
     },
     {
         "id": 10050,
         "Key": "Valkyrie's",
         "enUS": "Valkyrie's",
-        "zhTW": "女武神",
-        "zhCN": "女武神的"
+        "zhTW": "女武神"
     },
     {
         "id": 10051,
         "Key": "Maiden's",
         "enUS": "Maiden's",
-        "zhTW": "女戰士",
-        "zhCN": "女战士的"
+        "zhTW": "女戰士"
     },
     {
         "id": 10052,
         "Key": "Blank",
         "enUS": "Void",
-        "zhTW": "虛無之",
-        "zhCN": "空无"
+        "zhTW": "虛無之"
     },
     {
         "id": 11085,
         "Key": "champfanaticX",
         "enUS": "Fanatic",
-        "zhTW": "瘋迷",
-        "zhCN": "[癫狂者]"
+        "zhTW": "瘋迷"
     },
     {
         "id": 11087,
         "Key": "champberserkX",
         "enUS": "Berserker",
-        "zhTW": "狂暴",
-        "zhCN": "[狂战士]"
+        "zhTW": "狂暴"
     },
     {
         "id": 20688,
         "Key": "Stout",
         "enUS": "Stout",
-        "zhTW": "牢固",
-        "zhCN": "壮实"
+        "zhTW": "牢固"
     },
     {
         "id": 20689,
         "Key": "Antimagic",
         "enUS": "Antimagic",
-        "zhTW": "抗魔",
-        "zhCN": "抗魔"
+        "zhTW": "抗魔"
     },
     {
         "id": 20690,
         "Key": "Null",
         "enUS": "Null",
-        "zhTW": "無效",
-        "zhCN": "空白"
+        "zhTW": "無效"
     },
     {
         "id": 20691,
         "Key": "Godly",
         "enUS": "Godly",
-        "zhTW": "神威",
-        "zhCN": "神佑"
+        "zhTW": "神威"
     },
     {
         "id": 20692,
         "Key": "Ivory",
         "enUS": "Ivory",
-        "zhTW": "象牙",
-        "zhCN": "象牙"
+        "zhTW": "象牙"
     },
     {
         "id": 20693,
         "Key": "Eburin",
         "enUS": "Eburine",
-        "zhTW": "骨牙",
-        "zhCN": "白垩"
+        "zhTW": "骨牙"
     },
     {
         "id": 20694,
         "Key": "Blanched",
         "enUS": "Blanched",
-        "zhTW": "白化",
-        "zhCN": "白化"
+        "zhTW": "白化"
     },
     {
         "id": 20695,
         "Key": "Stalwart",
         "enUS": "Stalwart",
-        "zhTW": "健壯",
-        "zhCN": "敦实"
+        "zhTW": "健壯"
     },
     {
         "id": 20696,
         "Key": "Burly",
         "enUS": "Burly",
-        "zhTW": "魁梧",
-        "zhCN": "厚实"
+        "zhTW": "魁梧"
     },
     {
         "id": 20697,
         "Key": "Dense",
         "enUS": "Dense",
-        "zhTW": "密集",
-        "zhCN": "稠密"
+        "zhTW": "密集"
     },
     {
         "id": 20698,
         "Key": "Thin",
         "enUS": "Thin",
-        "zhTW": "細薄",
-        "zhCN": "密集"
+        "zhTW": "細薄"
     },
     {
         "id": 20699,
         "Key": "Compact",
         "enUS": "Compact",
-        "zhTW": "緊實",
-        "zhCN": "紧凑"
+        "zhTW": "緊實"
     },
     {
         "id": 20700,
         "Key": "Witch-hunter's",
         "enUS": "Witch-hunter's",
-        "zhTW": "女巫獵人",
-        "zhCN": "猎巫人的"
+        "zhTW": "女巫獵人"
     },
     {
         "id": 20701,
         "Key": "Magekiller's",
         "enUS": "Magekiller's",
-        "zhTW": "法師殺手",
-        "zhCN": "法师杀手的"
+        "zhTW": "法師殺手"
     },
     {
         "id": 20702,
         "Key": "Hierophant's",
         "enUS": "Hierophant's",
-        "zhTW": "祭司",
-        "zhCN": "圣师的"
+        "zhTW": "祭司"
     },
     {
         "id": 20703,
         "Key": "Shaman's",
         "enUS": "Shaman's",
-        "zhTW": "薩滿",
-        "zhCN": "萨满的"
+        "zhTW": "薩滿"
     },
     {
         "id": 20704,
         "Key": "Pestilent",
         "enUS": "Pestilent",
-        "zhTW": "疫病",
-        "zhCN": "疫毒"
+        "zhTW": "疫病"
     },
     {
         "id": 20705,
         "Key": "Toxic",
         "enUS": "Toxic",
-        "zhTW": "劇毒",
-        "zhCN": "毒素"
+        "zhTW": "劇毒"
     },
     {
         "id": 20706,
         "Key": "Corosive",
         "enUS": "Corrosive",
-        "zhTW": "腐蝕",
-        "zhCN": "腐毒"
+        "zhTW": "腐蝕"
     },
     {
         "id": 20707,
         "Key": "Envenomed",
         "enUS": "Foul",
-        "zhTW": "穢汙",
-        "zhCN": "污毒"
+        "zhTW": "穢汙"
     },
     {
         "id": 20708,
         "Key": "Septic",
         "enUS": "Septic",
-        "zhTW": "敗腐",
-        "zhCN": "脓毒"
+        "zhTW": "敗腐"
     },
     {
         "id": 20709,
         "Key": "Shocking",
         "enUS": "Shocking",
-        "zhTW": "電擊",
-        "zhCN": "雷光"
+        "zhTW": "電擊"
     },
     {
         "id": 20710,
         "Key": "Arcing",
         "enUS": "Arcing",
-        "zhTW": "電弧",
-        "zhCN": "弧光"
+        "zhTW": "電弧"
     },
     {
         "id": 20711,
         "Key": "Buzzing",
         "enUS": "Buzzing",
-        "zhTW": "電鳴",
-        "zhCN": "电光"
+        "zhTW": "電鳴"
     },
     {
         "id": 20712,
         "Key": "Static",
         "enUS": "Static",
-        "zhTW": "靜電",
-        "zhCN": "静电"
+        "zhTW": "靜電"
     },
     {
         "id": 20713,
         "Key": "Scorching",
         "enUS": "Condensing",
-        "zhTW": "焦火",
-        "zhCN": "爆燃"
+        "zhTW": "焦火"
     },
     {
         "id": 20714,
         "Key": "Flaming",
         "enUS": "Flaming",
-        "zhTW": "烈焰",
-        "zhCN": "烈焰"
+        "zhTW": "烈焰"
     },
     {
         "id": 20715,
         "Key": "Smoking",
         "enUS": "Smoking",
-        "zhTW": "火煙",
-        "zhCN": "熏燃"
+        "zhTW": "火煙"
     },
     {
         "id": 20716,
         "Key": "Smoldering",
         "enUS": "Smoldering",
-        "zhTW": "悶燃",
-        "zhCN": "闷燃"
+        "zhTW": "悶燃"
     },
     {
         "id": 20717,
         "Key": "Ember",
         "enUS": "Fiery",
-        "zhTW": "熾烈",
-        "zhCN": "余烬"
+        "zhTW": "熾烈"
     },
     {
         "id": 20718,
         "Key": "Hibernal",
         "enUS": "Hibernal",
-        "zhTW": "冬寒",
-        "zhCN": "凛冬"
+        "zhTW": "冬寒"
     },
     {
         "id": 20719,
         "Key": "Boreal",
         "enUS": "Boreal",
-        "zhTW": "凍原",
-        "zhCN": "极寒"
+        "zhTW": "凍原"
     },
     {
         "id": 20720,
         "Key": "Shivering",
         "enUS": "Shivering",
-        "zhTW": "凍顫",
-        "zhCN": "寒栗"
+        "zhTW": "凍顫"
     },
     {
         "id": 20721,
         "Key": "Snowflake",
         "enUS": "Snowy",
-        "zhTW": "落雪",
-        "zhCN": "冰雪"
+        "zhTW": "落雪"
     },
     {
         "id": 20722,
         "Key": "Mnemonic",
         "enUS": "Mnemonic",
-        "zhTW": "記憶",
-        "zhCN": "记忆"
+        "zhTW": "記憶"
     },
     {
         "id": 20723,
         "Key": "Visionary",
         "enUS": "Visionary",
-        "zhTW": "靈視",
-        "zhCN": "预见"
+        "zhTW": "靈視"
     },
     {
         "id": 20724,
         "Key": "Eagleeye",
         "enUS": "Eagleeye",
-        "zhTW": "鷲眼",
-        "zhCN": "鹰目"
+        "zhTW": "鷲眼"
     },
     {
         "id": 20725,
         "Key": "Hawkeye",
         "enUS": "Hawkeye",
-        "zhTW": "鷹眼",
-        "zhCN": "鹰眼"
+        "zhTW": "鷹眼"
     },
     {
         "id": 20726,
         "Key": "Falconeye",
         "enUS": "Falconeye",
-        "zhTW": "隼眼",
-        "zhCN": "隼目"
+        "zhTW": "隼眼"
     },
     {
         "id": 20727,
         "Key": "Sparroweye",
         "enUS": "Sparroweye",
-        "zhTW": "雀眼",
-        "zhCN": "雀目"
+        "zhTW": "雀眼"
     },
     {
         "id": 20728,
         "Key": "Robineye",
         "enUS": "Robineye",
-        "zhTW": "鴝眼",
-        "zhCN": "鸲目"
+        "zhTW": "鴝眼"
     },
     {
         "id": 20729,
         "Key": "Paradox",
         "enUS": "Paradox",
-        "zhTW": "矛盾",
-        "zhCN": "反背"
+        "zhTW": "矛盾"
     },
     {
         "id": 20730,
         "Key": "Shouting",
         "enUS": "Howling",
-        "zhTW": "嘶嚎",
-        "zhCN": "嗥叫"
+        "zhTW": "嘶嚎"
     },
     {
         "id": 20731,
         "Key": "Yelling",
         "enUS": "Yelling",
-        "zhTW": "嘶喊",
-        "zhCN": "呐喊"
+        "zhTW": "嘶喊"
     },
     {
         "id": 20732,
         "Key": "Calling",
         "enUS": "Calling",
-        "zhTW": "呼喚",
-        "zhCN": "呼喊"
+        "zhTW": "呼喚"
     },
     {
         "id": 20733,
         "Key": "Loud",
         "enUS": "Alarming",
-        "zhTW": "警告",
-        "zhCN": "大吼"
+        "zhTW": "警告"
     },
     {
         "id": 20734,
         "Key": "Trump",
         "enUS": "Fool's",
-        "zhTW": "愚者",
-        "zhCN": "愚者的"
+        "zhTW": "愚者"
     },
     {
         "id": 20735,
         "Key": "Joker's",
         "enUS": "Joker's",
-        "zhTW": "丑角",
-        "zhCN": "丑角的"
+        "zhTW": "丑角"
     },
     {
         "id": 20736,
         "Key": "Jester's",
         "enUS": "Jester's",
-        "zhTW": "弄臣",
-        "zhCN": "弄臣的"
+        "zhTW": "弄臣"
     },
     {
         "id": 20737,
         "Key": "Jack's",
         "enUS": "Jack's",
-        "zhTW": "少年",
-        "zhCN": "赌徒的"
+        "zhTW": "少年"
     },
     {
         "id": 20738,
         "Key": "Knave's",
         "enUS": "Knave's",
-        "zhTW": "惡棍",
-        "zhCN": "无赖的"
+        "zhTW": "惡棍"
     },
     {
         "id": 20739,
         "Key": "Paleocene",
         "enUS": "Faithful",
-        "zhTW": "忠貞",
-        "zhCN": "虔信者"
+        "zhTW": "忠貞"
     },
     {
         "id": 20740,
         "Key": "Eocene",
         "enUS": "Righteous",
-        "zhTW": "正義",
-        "zhCN": "正义"
+        "zhTW": "正義"
     },
     {
         "id": 20741,
         "Key": "Oligocene",
         "enUS": "Honorable",
-        "zhTW": "高貴",
-        "zhCN": "光荣"
+        "zhTW": "高貴"
     },
     {
         "id": 20742,
         "Key": "Miocene",
         "enUS": "Enlightened",
-        "zhTW": "啟悟",
-        "zhCN": "启迪"
+        "zhTW": "啟悟"
     },
     {
         "id": 20743,
         "Key": "Kenshi's",
         "enUS": "Kenshi's",
-        "zhTW": "劍士",
-        "zhCN": "剑士的"
+        "zhTW": "劍士"
     },
     {
         "id": 20744,
         "Key": "Sensei's",
         "enUS": "Sensei's",
-        "zhTW": "師尊",
-        "zhCN": "导师的"
+        "zhTW": "師尊"
     },
     {
         "id": 20745,
         "Key": "Shogukusha's",
         "enUS": "Shogukusha's",
-        "zhTW": "修武者",
-        "zhCN": "兵器师的"
+        "zhTW": "修武者"
     },
     {
         "id": 20746,
         "Key": "Psychic",
         "enUS": "Psychic",
-        "zhTW": "通靈",
-        "zhCN": "会心"
+        "zhTW": "通靈"
     },
     {
         "id": 20747,
         "Key": "Mentalist's",
         "enUS": "Mentalist's",
-        "zhTW": "讀心",
-        "zhCN": "会意者的"
+        "zhTW": "讀心"
     },
     {
         "id": 20748,
         "Key": "Cunning",
         "enUS": "Cunning",
-        "zhTW": "狡猾",
-        "zhCN": "陷阱大师的"
+        "zhTW": "狡猾"
     },
     {
         "id": 20749,
         "Key": "Trickster's",
         "enUS": "Trickster's",
-        "zhTW": "欺詐",
-        "zhCN": "骗术师的"
+        "zhTW": "欺詐"
     },
     {
         "id": 20750,
         "Key": "Entrapping",
         "enUS": "Entrapping",
-        "zhTW": "誘騙",
-        "zhCN": "布陷"
+        "zhTW": "誘騙"
     },
     {
         "id": 20751,
         "Key": "Gaea's",
         "enUS": "Gaean",
-        "zhTW": "蓋亞",
-        "zhCN": "盖亚"
+        "zhTW": "蓋亞"
     },
     {
         "id": 20752,
         "Key": "Terra's",
         "enUS": "Terrene",
-        "zhTW": "大地",
-        "zhCN": "大地"
+        "zhTW": "大地"
     },
     {
         "id": 20753,
         "Key": "Nature's",
         "enUS": "Natural",
-        "zhTW": "自然",
-        "zhCN": "自然"
+        "zhTW": "自然"
     },
     {
         "id": 20754,
         "Key": "Communal",
         "enUS": "Communal",
-        "zhTW": "獸群",
-        "zhCN": "灵语"
+        "zhTW": "獸群"
     },
     {
         "id": 20755,
         "Key": "Feral",
         "enUS": "Feral",
-        "zhTW": "野性",
-        "zhCN": "野性"
+        "zhTW": "野性"
     },
     {
         "id": 20756,
         "Key": "Spiritual",
         "enUS": "Spiritual",
-        "zhTW": "荒靈",
-        "zhCN": "灵性"
+        "zhTW": "荒靈"
     },
     {
         "id": 20757,
         "Key": "Keeper's",
         "enUS": "Keeper's",
-        "zhTW": "看管者",
-        "zhCN": "守林人的"
+        "zhTW": "看管者"
     },
     {
         "id": 20758,
         "Key": "Caretaker's",
         "enUS": "Caretaker's",
-        "zhTW": "照護者",
-        "zhCN": "护林人的"
+        "zhTW": "照護者"
     },
     {
         "id": 20759,
         "Key": "Trainer's",
         "enUS": "Trainer's",
-        "zhTW": "訓練師",
-        "zhCN": "训练师的"
+        "zhTW": "訓練師"
     },
     {
         "id": 20760,
         "Key": "Veteran's",
         "enUS": "Veteran's",
-        "zhTW": "老手",
-        "zhCN": "老兵的"
+        "zhTW": "老手"
     },
     {
         "id": 20761,
         "Key": "Expert's",
         "enUS": "Expert's",
-        "zhTW": "專家",
-        "zhCN": "老手的"
+        "zhTW": "專家"
     },
     {
         "id": 20762,
         "Key": "Furious",
         "enUS": "Furious",
-        "zhTW": "狂怒",
-        "zhCN": "暴怒"
+        "zhTW": "狂怒"
     },
     {
         "id": 20763,
         "Key": "Raging",
         "enUS": "Raging",
-        "zhTW": "烈怒",
-        "zhCN": "狂怒"
+        "zhTW": "烈怒"
     },
     {
         "id": 20764,
         "Key": "Echoing",
         "enUS": "Echoing",
-        "zhTW": "回音",
-        "zhCN": "回响"
+        "zhTW": "回音"
     },
     {
         "id": 20765,
         "Key": "Resonant",
         "enUS": "Resonant",
-        "zhTW": "共鳴",
-        "zhCN": "洪亮"
+        "zhTW": "共鳴"
     },
     {
         "id": 20766,
         "Key": "Sounding",
         "enUS": "Sounding",
-        "zhTW": "鳴響",
-        "zhCN": "嘹亮"
+        "zhTW": "鳴響"
     },
     {
         "id": 20767,
         "Key": "Guardian's",
         "enUS": "Guardian's",
-        "zhTW": "守護者",
-        "zhCN": "防御者的"
+        "zhTW": "守護者"
     },
     {
         "id": 20768,
         "Key": "Warder's",
         "enUS": "Warden's",
-        "zhTW": "看守者",
-        "zhCN": "守备者的"
+        "zhTW": "看守者"
     },
     {
         "id": 20769,
         "Key": "Preserver's",
         "enUS": "Preserver's",
-        "zhTW": "保護者",
-        "zhCN": "保护者的"
+        "zhTW": "保護者"
     },
     {
         "id": 20770,
         "Key": "Marshal's",
         "enUS": "Marshal's",
-        "zhTW": "元帥",
-        "zhCN": "元帅的"
+        "zhTW": "元帥"
     },
     {
         "id": 20771,
         "Key": "Commander's",
         "enUS": "Commander's",
-        "zhTW": "指揮官",
-        "zhCN": "指挥官的"
+        "zhTW": "指揮官"
     },
     {
         "id": 20772,
         "Key": "Captain's",
         "enUS": "Captain's",
-        "zhTW": "隊長",
-        "zhCN": "队长的"
+        "zhTW": "隊長"
     },
     {
         "id": 20773,
         "Key": "Rose Branded",
         "enUS": "Rose Branded",
-        "zhTW": "玫瑰烙印",
-        "zhCN": "玫瑰骑士"
+        "zhTW": "玫瑰烙印"
     },
     {
         "id": 20774,
         "Key": "Hawk Branded",
         "enUS": "Hawk Branded",
-        "zhTW": "天鷹烙印",
-        "zhCN": "雄鹰骑士"
+        "zhTW": "天鷹烙印"
     },
     {
         "id": 20775,
         "Key": "Lion Branded",
         "enUS": "Lion Branded",
-        "zhTW": "雄獅烙印",
-        "zhCN": "雄狮骑士"
+        "zhTW": "雄獅烙印"
     },
     {
         "id": 20776,
         "Key": "Golemlord's",
         "enUS": "Golemlord's",
-        "zhTW": "魔像王",
-        "zhCN": "魔像领主的"
+        "zhTW": "魔像王"
     },
     {
         "id": 20777,
         "Key": "Vodoun",
         "enUS": "Mojo",
-        "zhTW": "魔精",
-        "zhCN": "魔精"
+        "zhTW": "魔精"
     },
     {
         "id": 20778,
         "Key": "Graverobber's",
         "enUS": "Graverobber's",
-        "zhTW": "盜墓者",
-        "zhCN": "盗墓者的"
+        "zhTW": "盜墓者"
     },
     {
         "id": 20779,
         "Key": "Venomous",
         "enUS": "Venomous",
-        "zhTW": "猛毒",
-        "zhCN": "强毒"
+        "zhTW": "猛毒"
     },
     {
         "id": 20780,
         "Key": "Noxious",
         "enUS": "Noxious",
-        "zhTW": "毒害",
-        "zhCN": "厉毒"
+        "zhTW": "毒害"
     },
     {
         "id": 20781,
         "Key": "Fungal",
         "enUS": "Fungal",
-        "zhTW": "真菌",
-        "zhCN": "菌毒"
+        "zhTW": "真菌"
     },
     {
         "id": 20782,
         "Key": "Accursed",
         "enUS": "Cursing",
-        "zhTW": "詛咒",
-        "zhCN": "诅咒"
+        "zhTW": "詛咒"
     },
     {
         "id": 20783,
         "Key": "Blighting",
         "enUS": "Blighting",
-        "zhTW": "枯萎",
-        "zhCN": "咒怨"
+        "zhTW": "枯萎"
     },
     {
         "id": 20784,
         "Key": "Hexing",
         "enUS": "Hexing",
-        "zhTW": "妖術",
-        "zhCN": "咒术"
+        "zhTW": "妖術"
     },
     {
         "id": 20785,
         "Key": "Glacial",
         "enUS": "Glacial",
-        "zhTW": "冰河",
-        "zhCN": "冰川"
+        "zhTW": "冰河"
     },
     {
         "id": 20786,
         "Key": "Freezing",
         "enUS": "Freezing",
-        "zhTW": "凍結",
-        "zhCN": "冷冽"
+        "zhTW": "凍結"
     },
     {
         "id": 20787,
         "Key": "Chilling",
         "enUS": "Chilling",
-        "zhTW": "寒冰",
-        "zhCN": "寒冷"
+        "zhTW": "寒冰"
     },
     {
         "id": 20788,
         "Key": "Powered",
         "enUS": "Powered",
-        "zhTW": "電能",
-        "zhCN": "蕴雷"
+        "zhTW": "電能"
     },
     {
         "id": 20789,
         "Key": "Charged",
         "enUS": "Charged",
-        "zhTW": "電荷",
-        "zhCN": "电荷"
+        "zhTW": "電荷"
     },
     {
         "id": 20790,
         "Key": "Sparking",
         "enUS": "Sparking",
-        "zhTW": "電光",
-        "zhCN": "电花"
+        "zhTW": "電光"
     },
     {
         "id": 20791,
         "Key": "Volcanic",
         "enUS": "Volcanic",
-        "zhTW": "火山",
-        "zhCN": "火山"
+        "zhTW": "火山"
     },
     {
         "id": 20792,
         "Key": "Blazing",
         "enUS": "Blazing",
-        "zhTW": "烈火",
-        "zhCN": "炽燃"
+        "zhTW": "烈火"
     },
     {
         "id": 20793,
         "Key": "Burning",
         "enUS": "Burning",
-        "zhTW": "燃燒",
-        "zhCN": "燃烧"
+        "zhTW": "燃燒"
     },
     {
         "id": 20794,
         "Key": "Lancer's",
         "enUS": "Lancer's",
-        "zhTW": "長槍手",
-        "zhCN": "长枪手的"
+        "zhTW": "長槍手"
     },
     {
         "id": 20795,
         "Key": "Spearmaiden's",
         "enUS": "Spearmaiden's",
-        "zhTW": "女矛手",
-        "zhCN": "女矛手的"
+        "zhTW": "女矛手"
     },
     {
         "id": 20796,
         "Key": "Harpoonist's",
         "enUS": "Harpoonist's",
-        "zhTW": "魚叉手",
-        "zhCN": "投叉手的"
+        "zhTW": "魚叉手"
     },
     {
         "id": 20797,
         "Key": "Athlete's",
         "enUS": "Athletic",
-        "zhTW": "競技",
-        "zhCN": "矫健"
+        "zhTW": "競技"
     },
     {
         "id": 20798,
         "Key": "Gymnast's",
         "enUS": "Gymnastic",
-        "zhTW": "體技",
-        "zhCN": "灵巧"
+        "zhTW": "體技"
     },
     {
         "id": 20799,
         "Key": "Acrobat's",
         "enUS": "Acrobatic",
-        "zhTW": "特技",
-        "zhCN": "机敏"
+        "zhTW": "特技"
     },
     {
         "id": 20800,
         "Key": "Bowyer's",
         "enUS": "Bowyer's",
-        "zhTW": "製弓匠",
-        "zhCN": "制弓师的"
+        "zhTW": "製弓匠"
     },
     {
         "id": 20801,
         "Key": "Diamond",
         "enUS": "Diamond",
-        "zhTW": "鑽石",
-        "zhCN": "钻石"
+        "zhTW": "鑽石"
     },
     {
         "id": 20802,
         "Key": "Celestial",
         "enUS": "Celestial",
-        "zhTW": "天靈",
-        "zhCN": "神界"
+        "zhTW": "天靈"
     },
     {
         "id": 20803,
         "Key": "Elysian",
         "enUS": "Elysian",
-        "zhTW": "樂土",
-        "zhCN": "天界"
+        "zhTW": "樂土"
     },
     {
         "id": 20804,
         "Key": "Astral",
         "enUS": "Astral",
-        "zhTW": "星界",
-        "zhCN": "星界"
+        "zhTW": "星界"
     },
     {
         "id": 20805,
         "Key": "Unearthly",
         "enUS": "Unearthly",
-        "zhTW": "超凡",
-        "zhCN": "异界"
+        "zhTW": "超凡"
     },
     {
         "id": 20806,
         "Key": "Arcadian",
         "enUS": "Arcadian",
-        "zhTW": "世外",
-        "zhCN": "幻界"
+        "zhTW": "世外"
     },
     {
         "id": 20807,
         "Key": "Jeweler's",
         "enUS": "Jeweler's",
-        "zhTW": "珠寶匠",
-        "zhCN": "珠宝匠的"
+        "zhTW": "珠寶匠"
     },
     {
         "id": 20808,
         "Key": "Artificer's",
         "enUS": "Artisan's",
-        "zhTW": "工匠",
-        "zhCN": "巧匠的"
+        "zhTW": "工匠"
     },
     {
         "id": 20809,
         "Key": "Mechanist's",
         "enUS": "Mechanic's",
-        "zhTW": "技工",
-        "zhCN": "技师的"
+        "zhTW": "技工"
     },
     {
         "id": 20810,
         "Key": "Aureolin",
         "enUS": "Aureolic",
-        "zhTW": "光輪",
-        "zhCN": "光轮"
+        "zhTW": "光輪"
     },
     {
         "id": 20811,
         "Key": "Victorious",
         "enUS": "Victorious",
-        "zhTW": "勝利",
-        "zhCN": "胜利"
+        "zhTW": "勝利"
     },
     {
         "id": 20812,
         "Key": "Ambergris",
         "enUS": "Ambergris",
-        "zhTW": "龍涎香",
-        "zhCN": "龙涎香"
+        "zhTW": "龍涎香"
     },
     {
         "id": 20813,
         "Key": "Camphor",
         "enUS": "Camphor",
-        "zhTW": "樟腦",
-        "zhCN": "樟木"
+        "zhTW": "樟腦"
     },
     {
         "id": 20814,
         "Key": "Lapis Lazuli",
         "enUS": "Lapis Lazuli",
-        "zhTW": "青金石",
-        "zhCN": "青金石"
+        "zhTW": "青金石"
     },
     {
         "id": 20815,
         "Key": "Chromatic",
         "enUS": "Chromatic",
-        "zhTW": "絢彩",
-        "zhCN": "万华"
+        "zhTW": "絢彩"
     },
     {
         "id": 20816,
         "Key": "Scintillating",
         "enUS": "Scintillating",
-        "zhTW": "燦爛",
-        "zhCN": "五彩"
+        "zhTW": "燦爛"
     },
     {
         "id": 20817,
         "Key": "Turquoise",
         "enUS": "Turquoise",
-        "zhTW": "綠松石",
-        "zhCN": "绿松石"
+        "zhTW": "綠松石"
     },
     {
         "id": 20818,
         "Key": "Jacinth",
         "enUS": "Jacinth",
-        "zhTW": "紅鋯石",
-        "zhCN": "赤锆"
+        "zhTW": "紅鋯石"
     },
     {
         "id": 20819,
         "Key": "Zircon",
         "enUS": "Zircon",
-        "zhTW": "鋯石",
-        "zhCN": "锆石"
+        "zhTW": "鋯石"
     },
     {
         "id": 20820,
         "Key": "Bahamut's",
         "enUS": "Bahamut's",
-        "zhTW": "巴哈姆特",
-        "zhCN": "古龙的"
+        "zhTW": "巴哈姆特"
     },
     {
         "id": 20821,
         "Key": "Great Wyrm's",
         "enUS": "Great Wyrm's",
-        "zhTW": "上古巨龍",
-        "zhCN": "巨龙的"
+        "zhTW": "上古巨龍"
     },
     {
         "id": 20822,
         "Key": "Felicitous",
         "enUS": "Felicitous",
-        "zhTW": "福運",
-        "zhCN": "偶遇"
+        "zhTW": "福運"
     },
     {
         "id": 20823,
         "Key": "Lucky",
         "enUS": "Lucky",
-        "zhTW": "好運",
-        "zhCN": "幸运"
+        "zhTW": "好運"
     },
     {
         "id": 20824,
         "Key": "Wailing",
         "enUS": "Wailing",
-        "zhTW": "哭號",
-        "zhCN": "哀嚎"
+        "zhTW": "哭號"
     },
     {
         "id": 20825,
         "Key": "Screaming",
         "enUS": "Screaming",
-        "zhTW": "尖嘯",
-        "zhCN": "尖啸"
+        "zhTW": "尖嘯"
     },
     {
         "id": 20826,
         "Key": "Grandmaster's",
         "enUS": "Grandmaster's",
-        "zhTW": "宗師",
-        "zhCN": "宗师的"
+        "zhTW": "宗師"
     },
     {
         "id": 20827,
         "Key": "Master's",
         "enUS": "Master's",
-        "zhTW": "大師",
-        "zhCN": "大师的"
+        "zhTW": "大師"
     },
     {
         "id": 20828,
         "Key": "Argent",
         "enUS": "Argent",
-        "zhTW": "銀白",
-        "zhCN": "亮银"
+        "zhTW": "銀白"
     },
     {
         "id": 20829,
         "Key": "Tin",
         "enUS": "Tin",
-        "zhTW": "錫鑄",
-        "zhCN": "锡金"
+        "zhTW": "錫鑄"
     },
     {
         "id": 20830,
         "Key": "Nickel",
         "enUS": "Nickel",
-        "zhTW": "鎳鍍",
-        "zhCN": "镍金"
+        "zhTW": "鎳鍍"
     },
     {
         "id": 20831,
         "Key": "Maroon",
         "enUS": "Maroon",
-        "zhTW": "茶色",
-        "zhCN": "褐红"
+        "zhTW": "茶色"
     },
     {
         "id": 20832,
         "Key": "Chestnut",
         "enUS": "Chestnut",
-        "zhTW": "栗色",
-        "zhCN": "栗色"
+        "zhTW": "栗色"
     },
     {
         "id": 20833,
         "Key": "Vigorous",
         "enUS": "Vigorous",
-        "zhTW": "元氣",
-        "zhCN": "健壮"
+        "zhTW": "元氣"
     },
     {
         "id": 20834,
         "Key": "Brown",
         "enUS": "Brown",
-        "zhTW": "棕色",
-        "zhCN": "棕色"
+        "zhTW": "棕色"
     },
     {
         "id": 20835,
         "Key": "Dun",
         "enUS": "Dun",
-        "zhTW": "暗楬",
-        "zhCN": "索债"
+        "zhTW": "暗楬"
     },
     {
         "id": 20836,
         "Key": "Realgar",
         "enUS": "Realgar",
-        "zhTW": "雄黃",
-        "zhCN": "雄黄"
+        "zhTW": "雄黃"
     },
     {
         "id": 20837,
         "Key": "Rusty",
         "enUS": "Rusty",
-        "zhTW": "鐵鏽",
-        "zhCN": "红锈"
+        "zhTW": "鐵鏽"
     },
     {
         "id": 20838,
         "Key": "Cinnabar",
         "enUS": "Cinnabar",
-        "zhTW": "朱砂紅",
-        "zhCN": "朱砂"
+        "zhTW": "朱砂紅"
     },
     {
         "id": 20839,
         "Key": "Vermillion",
         "enUS": "Vermilion",
-        "zhTW": "朱紅",
-        "zhCN": "朱红"
+        "zhTW": "朱紅"
     },
     {
         "id": 20840,
         "Key": "Carmine",
         "enUS": "Carmine",
-        "zhTW": "胭脂",
-        "zhCN": "深红"
+        "zhTW": "胭脂"
     },
     {
         "id": 20841,
         "Key": "Carbuncle",
         "enUS": "Carbuncle",
-        "zhTW": "紅玉",
-        "zhCN": "刺红"
+        "zhTW": "紅玉"
     },
     {
         "id": 20842,
         "Key": "Serrated",
         "enUS": "Serrated",
-        "zhTW": "鋸刃",
-        "zhCN": "锯齿"
+        "zhTW": "鋸刃"
     },
     {
         "id": 20843,
         "Key": "Scarlet",
         "enUS": "Scarlet",
-        "zhTW": "猩紅",
-        "zhCN": "绯红"
+        "zhTW": "猩紅"
     },
     {
         "id": 20844,
         "Key": "Bloody",
         "enUS": "Bloody",
-        "zhTW": "染血",
-        "zhCN": "血红"
+        "zhTW": "染血"
     },
     {
         "id": 20845,
         "Key": "Sanguinary",
         "enUS": "Sanguinary",
-        "zhTW": "血腥",
-        "zhCN": "彤红"
+        "zhTW": "血腥"
     },
     {
         "id": 20846,
         "Key": "Pearl",
         "enUS": "Pearl",
-        "zhTW": "珍珠",
-        "zhCN": "珍珠"
+        "zhTW": "珍珠"
     },
     {
         "id": 20847,
         "Key": "Divine",
         "enUS": "Divine",
-        "zhTW": "聖恩",
-        "zhCN": "至圣"
+        "zhTW": "聖恩"
     },
     {
         "id": 20848,
         "Key": "Hallowed",
         "enUS": "Hallowed",
-        "zhTW": "崇聖",
-        "zhCN": "神圣"
+        "zhTW": "崇聖"
     },
     {
         "id": 20849,
         "Key": "Sacred",
         "enUS": "Sacred",
-        "zhTW": "聖潔",
-        "zhCN": "圣洁"
+        "zhTW": "聖潔"
     },
     {
         "id": 20850,
         "Key": "Pure",
         "enUS": "Pure",
-        "zhTW": "純潔",
-        "zhCN": "纯洁"
+        "zhTW": "純潔"
     },
     {
         "id": 20851,
         "Key": "Consecrated",
         "enUS": "Consecrated",
-        "zhTW": "聖化",
-        "zhCN": "圣化"
+        "zhTW": "聖化"
     },
     {
         "id": 20852,
         "Key": "Assamic",
         "enUS": "Lunar",
-        "zhTW": "月照",
-        "zhCN": "月佑"
+        "zhTW": "月照"
     },
     {
         "id": 20853,
         "Key": "Frantic",
         "enUS": "Frantic",
-        "zhTW": "狂亂",
-        "zhCN": "狂乱"
+        "zhTW": "狂亂"
     },
     {
         "id": 20854,
         "Key": "Hellatial",
         "enUS": "Hellacious",
-        "zhTW": "地獄般",
-        "zhCN": "怪力"
+        "zhTW": "地獄般"
     },
     {
         "id": 20855,
         "Key": "Quixotic",
         "enUS": "Quixotic",
-        "zhTW": "幻想",
-        "zhCN": "愚勇"
+        "zhTW": "幻想"
     },
     {
         "id": 20856,
         "Key": "Smiting",
         "enUS": "Smiting",
-        "zhTW": "重擊",
-        "zhCN": "惩击"
+        "zhTW": "重擊"
     },
     {
         "id": 20857,
         "Key": "Steller",
         "enUS": "Stellar",
-        "zhTW": "天星",
-        "zhCN": "星辰"
+        "zhTW": "天星"
     },
     {
         "id": 20858,
         "Key": "Stinging",
         "enUS": "Stinging",
-        "zhTW": "刺痛",
-        "zhCN": "钉刺"
+        "zhTW": "刺痛"
     },
     {
         "id": 20859,
         "Key": "Singing",
         "enUS": "Singing",
-        "zhTW": "歌唱",
-        "zhCN": "歌唱"
+        "zhTW": "歌唱"
     },
     {
         "id": 20860,
         "Key": "Timeless",
         "enUS": "Timeless",
-        "zhTW": "無窮",
-        "zhCN": "永恒"
+        "zhTW": "無窮"
     },
     {
         "id": 20861,
         "Key": "Original",
         "enUS": "Original",
-        "zhTW": "原始",
-        "zhCN": "原初"
+        "zhTW": "原始"
     },
     {
         "id": 20862,
         "Key": "Corporal",
         "enUS": "Corporal",
-        "zhTW": "肉體",
-        "zhCN": "凡躯"
+        "zhTW": "肉體"
     },
     {
         "id": 20863,
         "Key": "Lawful",
         "enUS": "Lawful",
-        "zhTW": "守序",
-        "zhCN": "守序"
+        "zhTW": "守序"
     },
     {
         "id": 20864,
         "Key": "Chaotic",
         "enUS": "Chaotic",
-        "zhTW": "混沌",
-        "zhCN": "混乱"
+        "zhTW": "混沌"
     },
     {
         "id": 20865,
         "Key": "Fierce",
         "enUS": "Fierce",
-        "zhTW": "兇猛",
-        "zhCN": "凶暴"
+        "zhTW": "兇猛"
     },
     {
         "id": 20866,
         "Key": "Ferocious",
         "enUS": "Ferocious",
-        "zhTW": "兇猛",
-        "zhCN": "残暴"
+        "zhTW": "兇猛"
     },
     {
         "id": 20867,
         "Key": "Perpetual",
         "enUS": "Perpetual",
-        "zhTW": "永恆",
-        "zhCN": "永久"
+        "zhTW": "永恆"
     },
     {
         "id": 20868,
         "Key": "Continuous",
         "enUS": "Everlasting",
-        "zhTW": "無盡",
-        "zhCN": "永存"
+        "zhTW": "無盡"
     },
     {
         "id": 20869,
         "Key": "Laden",
         "enUS": "Laden",
-        "zhTW": "滿載",
-        "zhCN": "负重"
+        "zhTW": "滿載"
     },
     {
         "id": 20870,
         "Key": "Pernicious",
         "enUS": "Pernicious",
-        "zhTW": "致命",
-        "zhCN": "苛毒"
+        "zhTW": "致命"
     },
     {
         "id": 20871,
         "Key": "Harmful",
         "enUS": "Harmful",
-        "zhTW": "有害",
-        "zhCN": "有害"
+        "zhTW": "有害"
     },
     {
         "id": 20872,
         "Key": "Evil",
         "enUS": "Evil",
-        "zhTW": "邪惡",
-        "zhCN": "邪恶"
+        "zhTW": "邪惡"
     },
     {
         "id": 20873,
         "Key": "Insidious",
         "enUS": "Insidious",
-        "zhTW": "凶險",
-        "zhCN": "阴险"
+        "zhTW": "凶險"
     },
     {
         "id": 20874,
         "Key": "Malicious",
         "enUS": "Malicious",
-        "zhTW": "懷恨",
-        "zhCN": "恶意"
+        "zhTW": "懷恨"
     },
     {
         "id": 20875,
         "Key": "Spiteful",
         "enUS": "Spiteful",
-        "zhTW": "惡意",
-        "zhCN": "歹意"
+        "zhTW": "惡意"
     },
     {
         "id": 20876,
         "Key": "Precocious",
         "enUS": "Precocious",
-        "zhTW": "早熟",
-        "zhCN": "早熟"
+        "zhTW": "早熟"
     },
     {
         "id": 20877,
         "Key": "Majestic",
         "enUS": "Majestic",
-        "zhTW": "莊嚴",
-        "zhCN": "威严"
+        "zhTW": "莊嚴"
     },
     {
         "id": 20878,
         "Key": "Sanguine",
         "enUS": "Sanguine",
-        "zhTW": "舐血",
-        "zhCN": "红润"
+        "zhTW": "舐血"
     },
     {
         "id": 20879,
         "Key": "Monumental",
         "enUS": "Monumental",
-        "zhTW": "刻印",
-        "zhCN": "丰碑"
+        "zhTW": "刻印"
     },
     {
         "id": 20880,
         "Key": "Irresistible",
         "enUS": "Irresistible",
-        "zhTW": "無法抵抗",
-        "zhCN": "不可抗"
+        "zhTW": "無法抵抗"
     },
     {
         "id": 20881,
         "Key": "Festering",
         "enUS": "Festering",
-        "zhTW": "潰爛",
-        "zhCN": "溃烂"
+        "zhTW": "潰爛"
     },
     {
         "id": 20882,
         "Key": "Musty",
         "enUS": "Musty",
-        "zhTW": "陳腐",
-        "zhCN": "霉臭"
+        "zhTW": "陳腐"
     },
     {
         "id": 20883,
         "Key": "Dusty",
         "enUS": "Dusty",
-        "zhTW": "塵漫",
-        "zhCN": "蒙尘"
+        "zhTW": "塵漫"
     },
     {
         "id": 20884,
         "Key": "Decaying",
         "enUS": "Decaying",
-        "zhTW": "衰退",
-        "zhCN": "衰败"
+        "zhTW": "衰退"
     },
     {
         "id": 20885,
         "Key": "Rotting",
         "enUS": "Rotting",
-        "zhTW": "腐壞",
-        "zhCN": "腐烂"
+        "zhTW": "腐壞"
     },
     {
         "id": 20886,
         "Key": "Infectious",
         "enUS": "Infectious",
-        "zhTW": "傳染",
-        "zhCN": "感染"
+        "zhTW": "傳染"
     },
     {
         "id": 20887,
         "Key": "Foggy",
         "enUS": "Foggy",
-        "zhTW": "迷霧",
-        "zhCN": "浓雾"
+        "zhTW": "迷霧"
     },
     {
         "id": 20888,
         "Key": "Cloudy",
         "enUS": "Cloudy",
-        "zhTW": "多雲",
-        "zhCN": "迷云"
+        "zhTW": "多雲"
     },
     {
         "id": 20889,
         "Key": "Hazy",
         "enUS": "Hazy",
-        "zhTW": "朦朧",
-        "zhCN": "朦胧"
+        "zhTW": "朦朧"
     },
     {
         "id": 20890,
         "Key": "Punishing",
         "enUS": "Punishing",
-        "zhTW": "懲罰",
-        "zhCN": "惩罚"
+        "zhTW": "懲罰"
     },
     {
         "id": 20891,
         "Key": "Obsidian",
         "enUS": "Obsidian",
-        "zhTW": "黑曜石",
-        "zhCN": "黑曜石"
+        "zhTW": "黑曜石"
     },
     {
         "id": 20892,
         "Key": "Royal",
         "enUS": "Royal",
-        "zhTW": "皇家",
-        "zhCN": "皇家"
+        "zhTW": "皇家"
     },
     {
         "id": 20893,
         "Key": "Frigid",
         "enUS": "Frigid",
-        "zhTW": "酷寒",
-        "zhCN": "僵冷"
+        "zhTW": "酷寒"
     },
     {
         "id": 20894,
         "Key": "Moldy",
         "enUS": "Moldy",
-        "zhTW": "發霉",
-        "zhCN": "发霉"
+        "zhTW": "發霉"
     },
     {
         "id": 20895,
         "Key": "Gaudy",
         "enUS": "Gaudy",
-        "zhTW": "炫耀",
-        "zhCN": "俗丽"
+        "zhTW": "炫耀"
     },
     {
         "id": 20896,
         "Key": "Impecable",
         "enUS": "Impeccable",
-        "zhTW": "無暇",
-        "zhCN": "无瑕"
+        "zhTW": "無暇"
     },
     {
         "id": 20897,
         "Key": "Soulless",
         "enUS": "Soulless",
-        "zhTW": "無魂",
-        "zhCN": "无魂"
+        "zhTW": "無魂"
     },
     {
         "id": 20898,
         "Key": "Heated",
         "enUS": "Heated",
-        "zhTW": "熱火",
-        "zhCN": "加热"
+        "zhTW": "熱火"
     },
     {
         "id": 20899,
         "Key": "Lasting",
         "enUS": "Lasting",
-        "zhTW": "持續",
-        "zhCN": "持续"
+        "zhTW": "持續"
     },
     {
         "id": 20900,
         "Key": "Scorched",
         "enUS": "Scorched",
-        "zhTW": "燒炙",
-        "zhCN": "灼烧"
+        "zhTW": "燒炙"
     },
     {
         "id": 20901,
         "Key": "Marred",
         "enUS": "Marred",
-        "zhTW": "損傷",
-        "zhCN": "焦灼"
+        "zhTW": "損傷"
     },
     {
         "id": 20902,
         "Key": "Lilac",
         "enUS": "Lilac",
-        "zhTW": "丁香",
-        "zhCN": "紫丁"
+        "zhTW": "丁香"
     },
     {
         "id": 20903,
         "Key": "Rose",
         "enUS": "Rose",
-        "zhTW": "玫瑰",
-        "zhCN": "玫瑰"
+        "zhTW": "玫瑰"
     },
     {
         "id": 20904,
         "Key": "Shimmering",
         "enUS": "Shimmering",
-        "zhTW": "閃耀",
-        "zhCN": "光彩"
+        "zhTW": "閃耀"
     },
     {
         "id": 20905,
         "Key": "Green",
         "enUS": "Green",
-        "zhTW": "綠色",
-        "zhCN": "绿色"
+        "zhTW": "綠色"
     },
     {
         "id": 20906,
         "Key": "Wicked",
         "enUS": "Wicked",
-        "zhTW": "凶邪",
-        "zhCN": "凶邪"
+        "zhTW": "凶邪"
     },
     {
         "id": 20907,
         "Key": "Strange",
         "enUS": "Strange",
-        "zhTW": "陌異",
-        "zhCN": "奇异"
+        "zhTW": "陌異"
     },
     {
         "id": 20908,
         "Key": "Repulsive",
         "enUS": "Repulsive",
-        "zhTW": "噁心",
-        "zhCN": "憎恶"
+        "zhTW": "噁心"
     },
     {
         "id": 20909,
         "Key": "Reclusive",
         "enUS": "Reclusive",
-        "zhTW": "避世",
-        "zhCN": "隐遁"
+        "zhTW": "避世"
     },
     {
         "id": 20910,
         "Key": "Crude",
         "enUS": "ÿc6",
-        "zhTW": "粗製的",
-        "zhCN": "粗制"
+        "zhTW": "粗製的"
     },
     {
         "id": 20911,
         "Key": "Rude",
         "enUS": "Rude",
-        "zhTW": "粗野",
-        "zhCN": "粗鲁"
+        "zhTW": "粗野"
     },
     {
         "id": 20912,
         "Key": "Hermetic",
         "enUS": "Hermetic",
-        "zhTW": "奧密",
-        "zhCN": "隐秘"
+        "zhTW": "奧密"
     },
     {
         "id": 20913,
         "Key": "Rainbow",
         "enUS": "Rainbow",
-        "zhTW": "彩虹",
-        "zhCN": "彩虹"
+        "zhTW": "彩虹"
     },
     {
         "id": 20914,
         "Key": "Colorful",
         "enUS": "Colorful",
-        "zhTW": "多彩",
-        "zhCN": "多彩"
+        "zhTW": "多彩"
     },
     {
         "id": 20915,
         "Key": "Stinky",
         "enUS": "Odiferous",
-        "zhTW": "惡臭",
-        "zhCN": "恶臭"
+        "zhTW": "惡臭"
     },
     {
         "id": 20916,
         "Key": "Gritty",
         "enUS": "Grinding",
-        "zhTW": "碾壓",
-        "zhCN": "碾压"
+        "zhTW": "碾壓"
     },
     {
         "id": 20917,
         "Key": "of Warming",
         "enUS": "of Warming",
-        "zhTW": "溫暖之",
-        "zhCN": "温暖之"
+        "zhTW": "溫暖之"
     },
     {
         "id": 20918,
         "Key": "of Stoicism",
         "enUS": "of Stoicism",
-        "zhTW": "堅忍之",
-        "zhCN": "坚忍之"
+        "zhTW": "堅忍之"
     },
     {
         "id": 20919,
         "Key": "of the Dynamo",
         "enUS": "of the Dynamo",
-        "zhTW": "爆發之",
-        "zhCN": "生电之"
+        "zhTW": "爆發之"
     },
     {
         "id": 20920,
         "Key": "of Grounding",
         "enUS": "of Grounding",
-        "zhTW": "接地之",
-        "zhCN": "接地之"
+        "zhTW": "接地之"
     },
     {
         "id": 20921,
         "Key": "of Insulation",
         "enUS": "of Insulation",
-        "zhTW": "絕緣之",
-        "zhCN": "绝缘之"
+        "zhTW": "絕緣之"
     },
     {
         "id": 20922,
         "Key": "of Resistance",
         "enUS": "of Resistance",
-        "zhTW": "阻抗之",
-        "zhCN": "抗性之"
+        "zhTW": "阻抗之"
     },
     {
         "id": 20923,
         "Key": "of Faith",
         "enUS": "of Faith",
-        "zhTW": "信仰之",
-        "zhCN": "信念之"
+        "zhTW": "信仰之"
     },
     {
         "id": 20924,
         "Key": "of Fire Quenching",
         "enUS": "of Quenching",
-        "zhTW": "猝滅之",
-        "zhCN": "熄火之"
+        "zhTW": "猝滅之"
     },
     {
         "id": 20925,
         "Key": "of Amianthus",
         "enUS": "of Amianthus",
-        "zhTW": "石絨之",
-        "zhCN": "石绒之"
+        "zhTW": "石絨之"
     },
     {
         "id": 20926,
         "Key": "of Incombustibility",
         "enUS": "of Inflammability",
-        "zhTW": "易燃之",
-        "zhCN": "阻燃之"
+        "zhTW": "易燃之"
     },
     {
         "id": 20927,
         "Key": "of Coolness",
         "enUS": "of Coolness",
-        "zhTW": "降溫之",
-        "zhCN": "降温之"
+        "zhTW": "降溫之"
     },
     {
         "id": 20928,
         "Key": "of Anima",
         "enUS": "of Amicae",
-        "zhTW": "和睦之",
-        "zhCN": "护命之"
+        "zhTW": "和睦之"
     },
     {
         "id": 20929,
         "Key": "of Life Everlasting",
         "enUS": "of Life Everlasting",
-        "zhTW": "永生之",
-        "zhCN": "永生之"
+        "zhTW": "永生之"
     },
     {
         "id": 20930,
         "Key": "of Sunlight",
         "enUS": "of Sunlight",
-        "zhTW": "陽光之",
-        "zhCN": "阳光之"
+        "zhTW": "陽光之"
     },
     {
         "id": 20931,
         "Key": "of Frozen Orb",
         "enUS": "of Frozen Orb",
-        "zhTW": "冰封球之",
-        "zhCN": "冰封球之"
+        "zhTW": "冰封球之"
     },
     {
         "id": 20932,
         "Key": "of Hydra Shield",
         "enUS": "of Hydra Shield",
-        "zhTW": "多頭蛇盾之",
-        "zhCN": "多头蛇护盾之"
+        "zhTW": "多頭蛇盾之"
     },
     {
         "id": 20933,
         "Key": "of Chilling Armor",
         "enUS": "of Chilling Armor",
-        "zhTW": "寒冰甲之",
-        "zhCN": "冰棱甲之"
+        "zhTW": "寒冰甲之"
     },
     {
         "id": 20934,
         "Key": "of Blizzard",
         "enUS": "of Blizzard",
-        "zhTW": "暴風雪之",
-        "zhCN": "暴风雪之"
+        "zhTW": "暴風雪之"
     },
     {
         "id": 20935,
         "Key": "of Energy Shield",
         "enUS": "of Energy Shield",
-        "zhTW": "能量護盾之",
-        "zhCN": "能量盾之"
+        "zhTW": "能量護盾之"
     },
     {
         "id": 20936,
         "Key": "of Thunder Storm",
         "enUS": "of Thunder Storm",
-        "zhTW": "雷暴之",
-        "zhCN": "雷暴术之"
+        "zhTW": "雷暴之"
     },
     {
         "id": 20937,
         "Key": "of Meteor",
         "enUS": "of Meteor",
-        "zhTW": "隕石之",
-        "zhCN": "陨石之"
+        "zhTW": "隕石之"
     },
     {
         "id": 20938,
         "Key": "of Glacial Spike",
         "enUS": "of Glacial Spike",
-        "zhTW": "冰川之槍",
-        "zhCN": "冰尖柱之"
+        "zhTW": "冰川之槍"
     },
     {
         "id": 20939,
         "Key": "of Teleport Shield",
         "enUS": "of Teleport Shield",
-        "zhTW": "傳送盾之",
-        "zhCN": "传送盾之"
+        "zhTW": "傳送盾之"
     },
     {
         "id": 20940,
         "Key": "of Chain Lightning",
         "enUS": "of Chain Lightning",
-        "zhTW": "連鎖閃電之",
-        "zhCN": "连锁闪电之"
+        "zhTW": "連鎖閃電之"
     },
     {
         "id": 20941,
         "Key": "of Enchant",
         "enUS": "of Enchant",
-        "zhTW": "附魔之",
-        "zhCN": "附魔火焰之"
+        "zhTW": "附魔之"
     },
     {
         "id": 20942,
         "Key": "of Fire Wall",
         "enUS": "of Fire Wall",
-        "zhTW": "火牆之",
-        "zhCN": "火焰墙之"
+        "zhTW": "火牆之"
     },
     {
         "id": 20943,
         "Key": "of Shiver Armor",
         "enUS": "of Shiver Armor",
-        "zhTW": "碎冰甲之",
-        "zhCN": "碎冰甲之"
+        "zhTW": "碎冰甲之"
     },
     {
         "id": 20944,
         "Key": "of Nova Shield",
         "enUS": "of Nova Shield",
-        "zhTW": "新星之盾",
-        "zhCN": "新星护盾之"
+        "zhTW": "新星之盾"
     },
     {
         "id": 20945,
         "Key": "of Nova",
         "enUS": "of Nova",
-        "zhTW": "閃電新星之",
-        "zhCN": "闪电新星之"
+        "zhTW": "閃電新星之"
     },
     {
         "id": 20946,
         "Key": "of Fire Ball",
         "enUS": "of Fire Ball",
-        "zhTW": "火球之",
-        "zhCN": "火球术之"
+        "zhTW": "火球之"
     },
     {
         "id": 20947,
         "Key": "of Blaze",
         "enUS": "of Blaze",
-        "zhTW": "熾熱之徑",
-        "zhCN": "足跟火之"
+        "zhTW": "熾熱之徑"
     },
     {
         "id": 20948,
         "Key": "of Ice Blast",
         "enUS": "of Ice Blast",
-        "zhTW": "寒冰球之",
-        "zhCN": "冰球爆之"
+        "zhTW": "寒冰球之"
     },
     {
         "id": 20949,
         "Key": "of Frost Shield",
         "enUS": "of Frost Shield",
-        "zhTW": "冰霜護盾之",
-        "zhCN": "冰封盾之"
+        "zhTW": "冰霜護盾之"
     },
     {
         "id": 20950,
         "Key": "of Telekinesis",
         "enUS": "of Telekinesis",
-        "zhTW": "心靈傳動之",
-        "zhCN": "心灵传动之"
+        "zhTW": "心靈傳動之"
     },
     {
         "id": 20951,
         "Key": "of Static Field",
         "enUS": "of Static Field",
-        "zhTW": "靜電力場之",
-        "zhCN": "静电场之"
+        "zhTW": "靜電力場之"
     },
     {
         "id": 20952,
         "Key": "of Frozen Armor",
         "enUS": "of Frozen Armor",
-        "zhTW": "冰封甲之",
-        "zhCN": "冰封甲之"
+        "zhTW": "冰封甲之"
     },
     {
         "id": 20953,
         "Key": "of Icebolt",
         "enUS": "of Icebolt",
-        "zhTW": "寒冰彈之",
-        "zhCN": "冰霜弹之"
+        "zhTW": "寒冰彈之"
     },
     {
         "id": 20954,
         "Key": "of Charged Shield",
         "enUS": "of Charged Bolt",
-        "zhTW": "電能彈之",
-        "zhCN": "电荷弹之"
+        "zhTW": "電能彈之"
     },
     {
         "id": 20955,
         "Key": "of Firebolts",
         "enUS": "of Firebolts",
-        "zhTW": "火焰彈之",
-        "zhCN": "火焰弹之"
+        "zhTW": "火焰彈之"
     },
     {
         "id": 20956,
         "Key": "of the Elements",
         "enUS": "of the Elements",
-        "zhTW": "元素之",
-        "zhCN": "元素之"
+        "zhTW": "元素之"
     },
     {
         "id": 20957,
         "Key": "of the Cobra",
         "enUS": "of the Cobra",
-        "zhTW": "眼鏡蛇之",
-        "zhCN": "眼镜蛇之"
+        "zhTW": "眼鏡蛇之"
     },
     {
         "id": 20958,
         "Key": "of the Efreeti",
         "enUS": "of the Efreeti",
-        "zhTW": "火靈之",
-        "zhCN": "火灵之"
+        "zhTW": "火靈之"
     },
     {
         "id": 20959,
         "Key": "of the Phoenix",
         "enUS": "of the Phoenix",
-        "zhTW": "鳳凰之",
-        "zhCN": "凤凰之"
+        "zhTW": "鳳凰之"
     },
     {
         "id": 20960,
         "Key": "of the Yeti",
         "enUS": "of the Yeti",
-        "zhTW": "雪怪之",
-        "zhCN": "雪人之"
+        "zhTW": "雪怪之"
     },
     {
         "id": 20961,
         "Key": "of Grace and Power",
         "enUS": "of Grace and Power",
-        "zhTW": "優雅與力量之",
-        "zhCN": "恩威之"
+        "zhTW": "優雅與力量之"
     },
     {
         "id": 20962,
         "Key": "of Grace",
         "enUS": "of Grace",
-        "zhTW": "優雅之",
-        "zhCN": "神恩之"
+        "zhTW": "優雅之"
     },
     {
         "id": 20963,
         "Key": "of Power",
         "enUS": "of Power",
-        "zhTW": "力量之",
-        "zhCN": "权能之"
+        "zhTW": "力量之"
     },
     {
         "id": 20964,
         "Key": "of the Elephant",
         "enUS": "of the Elephant",
-        "zhTW": "巨象之",
-        "zhCN": "大象之"
+        "zhTW": "巨象之"
     },
     {
         "id": 20965,
         "Key": "of Memory",
         "enUS": "of Memory",
-        "zhTW": "記憶之",
-        "zhCN": "回忆之"
+        "zhTW": "記憶之"
     },
     {
         "id": 20966,
         "Key": "of the Kraken1",
         "enUS": "of the Kraken",
-        "zhTW": "海怪之",
-        "zhCN": "海怪之"
+        "zhTW": "海怪之"
     },
     {
         "id": 20967,
         "Key": "of Propogation",
         "enUS": "of Propogation",
-        "zhTW": "增殖之",
-        "zhCN": "增补之"
+        "zhTW": "增殖之"
     },
     {
         "id": 20968,
         "Key": "of Replenishing",
         "enUS": "of Replenishing",
-        "zhTW": "補充之",
-        "zhCN": "补充之"
+        "zhTW": "補充之"
     },
     {
         "id": 20969,
         "Key": "of Ages",
         "enUS": "of Ages",
-        "zhTW": "歲月之",
-        "zhCN": "永世之"
+        "zhTW": "歲月之"
     },
     {
         "id": 20970,
         "Key": "of Fast Repair",
         "enUS": "of Restoration",
-        "zhTW": "修復之",
-        "zhCN": "复原之"
+        "zhTW": "修復之"
     },
     {
         "id": 20971,
         "Key": "of Self-Repair",
         "enUS": "of Self-Repair",
-        "zhTW": "自我修復",
-        "zhCN": "自我修复之"
+        "zhTW": "自我修復"
     },
     {
         "id": 20972,
         "Key": "of Acceleration",
         "enUS": "of Acceleration",
-        "zhTW": "加速之",
-        "zhCN": "疾速之"
+        "zhTW": "加速之"
     },
     {
         "id": 20973,
         "Key": "of Traveling",
         "enUS": "of Transportation",
-        "zhTW": "運輸之",
-        "zhCN": "疾驰之"
+        "zhTW": "運輸之"
     },
     {
         "id": 20974,
         "Key": "of Virility",
         "enUS": "of Virility",
-        "zhTW": "氣力之",
-        "zhCN": "刚勇之"
+        "zhTW": "氣力之"
     },
     {
         "id": 20975,
         "Key": "of Atlus",
         "enUS": "of Atlas",
-        "zhTW": "擎天神之",
-        "zhCN": "擎天神之"
+        "zhTW": "擎天神之"
     },
     {
         "id": 20976,
         "Key": "of Freedom",
         "enUS": "of Freedom",
-        "zhTW": "自由之",
-        "zhCN": "自由之"
+        "zhTW": "自由之"
     },
     {
         "id": 20977,
         "Key": "of the Lamprey",
         "enUS": "of the Lamprey",
-        "zhTW": "八目鰻之",
-        "zhCN": "血鳗之"
+        "zhTW": "八目鰻之"
     },
     {
         "id": 20978,
         "Key": "of Hope",
         "enUS": "of Hope",
-        "zhTW": "希望之",
-        "zhCN": "希望之"
+        "zhTW": "希望之"
     },
     {
         "id": 20979,
         "Key": "of Spirit",
         "enUS": "of Spirit",
-        "zhTW": "魂靈之",
-        "zhCN": "精神之"
+        "zhTW": "魂靈之"
     },
     {
         "id": 20980,
         "Key": "of Vita",
         "enUS": "of Vita",
-        "zhTW": "活力之",
-        "zhCN": "生机之"
+        "zhTW": "活力之"
     },
     {
         "id": 20981,
         "Key": "of Substinence",
         "enUS": "of Sustenance",
-        "zhTW": "維續之",
-        "zhCN": "续命之"
+        "zhTW": "維續之"
     },
     {
         "id": 20982,
         "Key": "of the Whale",
         "enUS": "of the Whale",
-        "zhTW": "巨鯨之",
-        "zhCN": "巨鲸之"
+        "zhTW": "巨鯨之"
     },
     {
         "id": 20983,
         "Key": "of the Squid",
         "enUS": "of the Squid",
-        "zhTW": "烏賊之",
-        "zhCN": "乌贼之"
+        "zhTW": "烏賊之"
     },
     {
         "id": 20984,
         "Key": "of the Colossus1",
         "enUS": "of the Colossus",
-        "zhTW": "巨神之",
-        "zhCN": "巨神之"
+        "zhTW": "巨神之"
     },
     {
         "id": 20985,
         "Key": "of Knowledge",
         "enUS": "of Knowledge",
-        "zhTW": "知識之",
-        "zhCN": "知识之"
+        "zhTW": "知識之"
     },
     {
         "id": 20986,
         "Key": "of Enlightenment",
         "enUS": "of Enlightenment",
-        "zhTW": "啟發之",
-        "zhCN": "启迪之"
+        "zhTW": "啟發之"
     },
     {
         "id": 20987,
         "Key": "of Prosperity",
         "enUS": "of Prosperity",
-        "zhTW": "富饒之",
-        "zhCN": "发达之"
+        "zhTW": "富饒之"
     },
     {
         "id": 20988,
         "Key": "of Good Luck",
         "enUS": "of Good Luck",
-        "zhTW": "幸運之",
-        "zhCN": "好运之"
+        "zhTW": "幸運之"
     },
     {
         "id": 20989,
         "Key": "of Luck",
         "enUS": "of Luck",
-        "zhTW": "運氣之",
-        "zhCN": "幸运之"
+        "zhTW": "運氣之"
     },
     {
         "id": 20990,
         "Key": "of Avarice",
         "enUS": "of Avarice",
-        "zhTW": "貪慾之",
-        "zhCN": "贪财之"
+        "zhTW": "貪慾之"
     },
     {
         "id": 20991,
         "Key": "of Honor",
         "enUS": "of Honor",
-        "zhTW": "榮耀之",
-        "zhCN": "荣誉之"
+        "zhTW": "榮耀之"
     },
     {
         "id": 20992,
         "Key": "of Revivification",
         "enUS": "of Revivification",
-        "zhTW": "復元之",
-        "zhCN": "复苏之"
+        "zhTW": "復元之"
     },
     {
         "id": 20993,
         "Key": "of Truth",
         "enUS": "of Truth",
-        "zhTW": "真理之",
-        "zhCN": "真理之"
+        "zhTW": "真理之"
     },
     {
         "id": 20994,
         "Key": "of Daring",
         "enUS": "of Daring",
-        "zhTW": "膽識之",
-        "zhCN": "胆识之"
+        "zhTW": "膽識之"
     },
     {
         "id": 20995,
         "Key": "of Nirvana",
         "enUS": "of Nirvana",
-        "zhTW": "涅槃之",
-        "zhCN": "涅盘之"
+        "zhTW": "涅槃之"
     },
     {
         "id": 20996,
         "Key": "of Envy",
         "enUS": "of Envy",
-        "zhTW": "嫉妒之",
-        "zhCN": "嫉妒之"
+        "zhTW": "嫉妒之"
     },
     {
         "id": 20997,
         "Key": "of Anthrax",
         "enUS": "of Anthrax",
-        "zhTW": "炭疽之",
-        "zhCN": "炭疽之"
+        "zhTW": "炭疽之"
     },
     {
         "id": 20998,
         "Key": "of Bliss",
         "enUS": "of Bliss",
-        "zhTW": "喜樂之",
-        "zhCN": "欣喜之"
+        "zhTW": "喜樂之"
     },
     {
         "id": 20999,
         "Key": "of Joy",
         "enUS": "of Joy",
-        "zhTW": "歡喜之",
-        "zhCN": "欢喜之"
+        "zhTW": "歡喜之"
     },
     {
         "id": 21000,
         "Key": "of Transcendence",
         "enUS": "of Transcendence",
-        "zhTW": "超凡之",
-        "zhCN": "超凡之"
+        "zhTW": "超凡之"
     },
     {
         "id": 21001,
         "Key": "of Wrath",
         "enUS": "of Wrath",
-        "zhTW": "怒氣之",
-        "zhCN": "怒火之"
+        "zhTW": "怒氣之"
     },
     {
         "id": 21002,
         "Key": "of Ire",
         "enUS": "of Ire",
-        "zhTW": "盛怒之",
-        "zhCN": "愤怒之"
+        "zhTW": "盛怒之"
     },
     {
         "id": 21003,
         "Key": "of Evisceration",
         "enUS": "of Evisceration",
-        "zhTW": "開膛之",
-        "zhCN": "开膛之"
+        "zhTW": "開膛之"
     },
     {
         "id": 21004,
         "Key": "of Butchery",
         "enUS": "of Butchery",
-        "zhTW": "屠虐之",
-        "zhCN": "屠夫之"
+        "zhTW": "屠虐之"
     },
     {
         "id": 21005,
         "Key": "of Ennui",
         "enUS": "of Ennui",
-        "zhTW": "倦怠之",
-        "zhCN": "霹雳之"
+        "zhTW": "倦怠之"
     },
     {
         "id": 21006,
         "Key": "of Storms",
         "enUS": "of Storms",
-        "zhTW": "風暴之",
-        "zhCN": "雷暴之"
+        "zhTW": "風暴之"
     },
     {
         "id": 21007,
         "Key": "of Passion",
         "enUS": "of Passion",
-        "zhTW": "熱情之",
-        "zhCN": "热情之"
+        "zhTW": "熱情之"
     },
     {
         "id": 21008,
         "Key": "of Incineration",
         "enUS": "of Incineration",
-        "zhTW": "焚絕之",
-        "zhCN": "焚烧之"
+        "zhTW": "焚絕之"
     },
     {
         "id": 21009,
         "Key": "of Frigidity",
         "enUS": "of Frigidity",
-        "zhTW": "嚴寒之",
-        "zhCN": "僵冻之"
+        "zhTW": "嚴寒之"
     },
     {
         "id": 21010,
         "Key": "of Winter",
         "enUS": "of Winter",
-        "zhTW": "嚴冬之",
-        "zhCN": "寒冬之"
+        "zhTW": "嚴冬之"
     },
     {
         "id": 21011,
         "Key": "of the Icicle",
         "enUS": "of the Icicle",
-        "zhTW": "冰刺之",
-        "zhCN": "冰凌之"
+        "zhTW": "冰刺之"
     },
     {
         "id": 21012,
         "Key": "of Fervor",
         "enUS": "of Fervor",
-        "zhTW": "白熱之",
-        "zhCN": "狂热之"
+        "zhTW": "白熱之"
     },
     {
         "id": 21013,
         "Key": "of Malice",
         "enUS": "of Malice",
-        "zhTW": "惡謀之",
-        "zhCN": "恶意之"
+        "zhTW": "惡謀之"
     },
     {
         "id": 21014,
         "Key": "of Swords",
         "enUS": "of Swords",
-        "zhTW": "劍刺之",
-        "zhCN": "剑刃之"
+        "zhTW": "劍刺之"
     },
     {
         "id": 21015,
         "Key": "of Razors",
         "enUS": "of Razors",
-        "zhTW": "刃刺之",
-        "zhCN": "剃刀之"
+        "zhTW": "刃刺之"
     },
     {
         "id": 21016,
         "Key": "of Desire",
         "enUS": "of Desire",
-        "zhTW": "慾望之",
-        "zhCN": "欲望之"
+        "zhTW": "慾望之"
     },
     {
         "id": 21017,
         "Key": "of the Sirocco",
         "enUS": "of the Scirocco",
-        "zhTW": "熱風之",
-        "zhCN": "热风之"
+        "zhTW": "熱風之"
     },
     {
         "id": 21018,
         "Key": "of the Dunes",
         "enUS": "of the Dunes",
-        "zhTW": "沙丘之",
-        "zhCN": "沙丘之"
+        "zhTW": "沙丘之"
     },
     {
         "id": 21019,
         "Key": "of Thawing",
         "enUS": "of Thawing",
-        "zhTW": "融冰之",
-        "zhCN": "解冻之"
+        "zhTW": "融冰之"
     },
     {
         "id": 21020,
         "Key": "Of the Choir",
         "enUS": "Of the Choir",
-        "zhTW": "合唱之",
-        "zhCN": "唱诗班之"
+        "zhTW": "合唱之"
     },
     {
         "id": 21021,
         "Key": "Of the Sniper",
         "enUS": "Of the Sniper",
-        "zhTW": "狙擊之",
-        "zhCN": "狙击手之"
+        "zhTW": "狙擊之"
     },
     {
         "id": 21022,
         "Key": "Of the Stiletto",
         "enUS": "Of the Stiletto",
-        "zhTW": "尖錐之",
-        "zhCN": "细剑之"
+        "zhTW": "尖錐之"
     },
     {
         "id": 21023,
         "Key": "Of Bile",
         "enUS": "of Bile",
-        "zhTW": "乖戾之",
-        "zhCN": "躁怒之"
+        "zhTW": "乖戾之"
     },
     {
         "id": 21024,
         "Key": "Of Blitzen",
         "enUS": "of Blitzen",
-        "zhTW": "閃擊之",
-        "zhCN": "雷殛之"
+        "zhTW": "閃擊之"
     },
     {
         "id": 21025,
         "Key": "Of Cremation",
         "enUS": "of Cremation",
-        "zhTW": "焚化之",
-        "zhCN": "焚化之"
+        "zhTW": "焚化之"
     },
     {
         "id": 21026,
         "Key": "Of Darkness",
         "enUS": "of Darkness",
-        "zhTW": "黑暗之",
-        "zhCN": "黑暗之"
+        "zhTW": "黑暗之"
     },
     {
         "id": 21027,
         "Key": "Of Disease",
         "enUS": "of Disease",
-        "zhTW": "疾病之",
-        "zhCN": "疾病之"
+        "zhTW": "疾病之"
     },
     {
         "id": 21028,
         "Key": "Of Remorse",
         "enUS": "of Remorse",
-        "zhTW": "悔恨之",
-        "zhCN": "懊悔之"
+        "zhTW": "悔恨之"
     },
     {
         "id": 21029,
         "Key": "Of Terror",
         "enUS": "of Terror",
-        "zhTW": "恐懼之",
-        "zhCN": "恐惧之"
+        "zhTW": "恐懼之"
     },
     {
         "id": 21030,
         "Key": "Of the Sky",
         "enUS": "of the Sky",
-        "zhTW": "蒼穹之",
-        "zhCN": "天空之"
+        "zhTW": "蒼穹之"
     },
     {
         "id": 21031,
         "Key": "Of Valhalla",
         "enUS": "of Valhalla",
-        "zhTW": "英靈之",
-        "zhCN": "英灵殿之"
+        "zhTW": "英靈之"
     },
     {
         "id": 21032,
         "Key": "Of Waste",
         "enUS": "of Waste",
-        "zhTW": "荒地之",
-        "zhCN": "荒原之"
+        "zhTW": "荒地之"
     },
     {
         "id": 21033,
         "Key": "Of Nobility",
         "enUS": "of Nobility",
-        "zhTW": "貴冑之",
-        "zhCN": "贵族之"
+        "zhTW": "貴冑之"
     },
     {
         "id": 21034,
         "Key": "Of Karma",
         "enUS": "of Karma",
-        "zhTW": "因果之",
-        "zhCN": "业报之"
+        "zhTW": "因果之"
     },
     {
         "id": 21035,
         "Key": "Of Grounding",
         "enUS": "of Grounding",
-        "zhTW": "接地之",
-        "zhCN": "接地之"
+        "zhTW": "接地之"
     },
     {
         "id": 21036,
         "Key": "Of the River",
         "enUS": "of the River",
-        "zhTW": "河流之",
-        "zhCN": "河流之"
+        "zhTW": "河流之"
     },
     {
         "id": 21037,
         "Key": "Of the Lake",
         "enUS": "of the Lake",
-        "zhTW": "湖泊之",
-        "zhCN": "湖泊之"
+        "zhTW": "湖泊之"
     },
     {
         "id": 21038,
         "Key": "Of the Ocean",
         "enUS": "of the Ocean",
-        "zhTW": "海洋之",
-        "zhCN": "海洋之"
+        "zhTW": "海洋之"
     },
     {
         "id": 21039,
         "Key": "Of the Bayou",
         "enUS": "of the Bayou",
-        "zhTW": "支流之",
-        "zhCN": "海湾之"
+        "zhTW": "支流之"
     },
     {
         "id": 21040,
         "Key": "Of the Stream",
         "enUS": "of the Stream",
-        "zhTW": "小溪之",
-        "zhCN": "溪流之"
+        "zhTW": "小溪之"
     },
     {
         "id": 21041,
         "Key": "Of the Lady",
         "enUS": "of the Lady",
-        "zhTW": "女士之",
-        "zhCN": "淑女之"
+        "zhTW": "女士之"
     },
     {
         "id": 21042,
         "Key": "Of the Maiden",
         "enUS": "Of the Maiden",
-        "zhTW": "少女之",
-        "zhCN": "处子之"
+        "zhTW": "少女之"
     },
     {
         "id": 21043,
         "Key": "Of the Virgin",
         "enUS": "of the Virgin",
-        "zhTW": "處女之",
-        "zhCN": "处女之"
+        "zhTW": "處女之"
     },
     {
         "id": 21044,
         "Key": "Of the Hag",
         "enUS": "of the Hag",
-        "zhTW": "巫婆之",
-        "zhCN": "巫婆之"
+        "zhTW": "巫婆之"
     },
     {
         "id": 21045,
         "Key": "Of the Witch",
         "enUS": "of the Witch",
-        "zhTW": "女巫之",
-        "zhCN": "巫女之"
+        "zhTW": "女巫之"
     },
     {
         "id": 21046,
         "Key": "Of Judgement",
         "enUS": "of Judgement",
-        "zhTW": "審判之",
-        "zhCN": "裁决之"
+        "zhTW": "審判之"
     },
     {
         "id": 21047,
         "Key": "Of Illusion",
         "enUS": "of Illusion",
-        "zhTW": "幻覺之",
-        "zhCN": "幻象之"
+        "zhTW": "幻覺之"
     },
     {
         "id": 21048,
         "Key": "Of Elusion",
         "enUS": "of Eluding",
-        "zhTW": "閃避之",
-        "zhCN": "规避之"
+        "zhTW": "閃避之"
     },
     {
         "id": 21049,
         "Key": "Of Combat",
         "enUS": "of Combat",
-        "zhTW": "戰鬥之",
-        "zhCN": "战斗之"
+        "zhTW": "戰鬥之"
     },
     {
         "id": 21050,
         "Key": "Of Attrition",
         "enUS": "of Attrition",
-        "zhTW": "摩擦之",
-        "zhCN": "损耗之"
+        "zhTW": "摩擦之"
     },
     {
         "id": 21051,
         "Key": "Of Abrasion",
         "enUS": "of Abrasion",
-        "zhTW": "侵蝕之",
-        "zhCN": "磨蚀之"
+        "zhTW": "侵蝕之"
     },
     {
         "id": 21052,
         "Key": "Of Erosion",
         "enUS": "of Erosion",
-        "zhTW": "腐蝕之",
-        "zhCN": "腐蚀之"
+        "zhTW": "腐蝕之"
     },
     {
         "id": 21053,
         "Key": "Of Searing",
         "enUS": "of Searing",
-        "zhTW": "灼熱之",
-        "zhCN": "烧灼之"
+        "zhTW": "灼熱之"
     },
     {
         "id": 21054,
         "Key": "Of Stone",
         "enUS": "of Stone",
-        "zhTW": "石岩之",
-        "zhCN": "顽石之"
+        "zhTW": "石岩之"
     },
     {
         "id": 21055,
         "Key": "Of Stature",
         "enUS": "of Stature",
-        "zhTW": "聲譽之",
-        "zhCN": "雕像之"
+        "zhTW": "聲譽之"
     },
     {
         "id": 21056,
         "Key": "Of Fortication",
         "enUS": "of Fortification",
-        "zhTW": "強化之",
-        "zhCN": "筑垒之"
+        "zhTW": "強化之"
     },
     {
         "id": 21057,
         "Key": "Of Quickening",
         "enUS": "of Quickening",
-        "zhTW": "加速之",
-        "zhCN": "急速之"
+        "zhTW": "加速之"
     },
     {
         "id": 21058,
         "Key": "Of Dispatch",
         "enUS": "of Dispatch",
-        "zhTW": "急速之",
-        "zhCN": "急发之"
+        "zhTW": "急速之"
     },
     {
         "id": 21059,
         "Key": "Of Daring",
         "enUS": "of Daring",
-        "zhTW": "膽識之",
-        "zhCN": "胆识之"
+        "zhTW": "膽識之"
     },
     {
         "id": 21060,
         "Key": "Of Dread",
         "enUS": "of Dread",
-        "zhTW": "畏怖之",
-        "zhCN": "惊悚之"
+        "zhTW": "畏怖之"
     },
     {
         "id": 21061,
         "Key": "Of Suffering",
         "enUS": "of Suffering",
-        "zhTW": "苦難之",
-        "zhCN": "苦难之"
+        "zhTW": "苦難之"
     },
     {
         "id": 21062,
         "Key": "Of Doom",
         "enUS": "of Doom",
-        "zhTW": "末日之",
-        "zhCN": "厄运之"
+        "zhTW": "末日之"
     },
     {
         "id": 21063,
         "Key": "Of Vengence",
         "enUS": "of Vengence",
-        "zhTW": "復仇之",
-        "zhCN": "复仇之"
+        "zhTW": "復仇之"
     },
     {
         "id": 21064,
         "Key": "Of Redemption",
         "enUS": "of Redemption",
-        "zhTW": "救贖之",
-        "zhCN": "救赎之"
+        "zhTW": "救贖之"
     },
     {
         "id": 21065,
         "Key": "Of Luck",
         "enUS": "of Luck",
-        "zhTW": "運氣之",
-        "zhCN": "幸运之"
+        "zhTW": "運氣之"
     },
     {
         "id": 21066,
         "Key": "Of the Avenger",
         "enUS": "of the Avenger",
-        "zhTW": "復仇者之",
-        "zhCN": "复仇者之"
+        "zhTW": "復仇者之"
     },
     {
         "id": 21067,
         "Key": "Of the Specter",
         "enUS": "of the Specter",
-        "zhTW": "邪鬼之",
-        "zhCN": "鬼怪之"
+        "zhTW": "邪鬼之"
     },
     {
         "id": 21068,
         "Key": "Of the Ghost",
         "enUS": "of the Ghost",
-        "zhTW": "鬼靈之",
-        "zhCN": "鬼魂之"
+        "zhTW": "鬼靈之"
     },
     {
         "id": 21069,
         "Key": "Of the Infantry",
         "enUS": "of the Infantry",
-        "zhTW": "步兵之",
-        "zhCN": "步兵之"
+        "zhTW": "步兵之"
     },
     {
         "id": 21070,
         "Key": "Of the Mosquito",
         "enUS": "of the Mosquito",
-        "zhTW": "飛蚊之",
-        "zhCN": "蚊虫之"
+        "zhTW": "飛蚊之"
     },
     {
         "id": 21071,
         "Key": "Of the Gnat",
         "enUS": "of the Gnat",
-        "zhTW": "蚊蚋之",
-        "zhCN": "蚋虫之"
+        "zhTW": "蚊蚋之"
     },
     {
         "id": 21072,
         "Key": "Of the Fly",
         "enUS": "of the Fly",
-        "zhTW": "飛蠅之",
-        "zhCN": "蝇虫之"
+        "zhTW": "飛蠅之"
     },
     {
         "id": 21073,
         "Key": "Of the Plague",
         "enUS": "of the Plague",
-        "zhTW": "瘟疫之",
-        "zhCN": "瘟疫之"
+        "zhTW": "瘟疫之"
     },
     {
         "id": 21074,
         "Key": "Of Twilight",
         "enUS": "of Twilight",
-        "zhTW": "暮光之",
-        "zhCN": "暮光之"
+        "zhTW": "暮光之"
     },
     {
         "id": 21075,
         "Key": "Of Dusk",
         "enUS": "of Dusk",
-        "zhTW": "黃昏之",
-        "zhCN": "黄昏之"
+        "zhTW": "黃昏之"
     },
     {
         "id": 21076,
         "Key": "Of Dawn",
         "enUS": "of Dawn",
-        "zhTW": "黎明之",
-        "zhCN": "黎明之"
+        "zhTW": "黎明之"
     },
     {
         "id": 21077,
         "Key": "Of the Imbecile",
         "enUS": "of the Imbecile",
-        "zhTW": "低能之",
-        "zhCN": "低能之"
+        "zhTW": "低能之"
     },
     {
         "id": 21078,
         "Key": "Of the Idiot",
         "enUS": "of the Idiot",
-        "zhTW": "愚蠢之",
-        "zhCN": "痴呆之"
+        "zhTW": "愚蠢之"
     },
     {
         "id": 21079,
         "Key": "Of the Retard",
         "enUS": "of the Moron",
-        "zhTW": "笨蛋之",
-        "zhCN": "愚笨之"
+        "zhTW": "笨蛋之"
     },
     {
         "id": 21080,
         "Key": "Of the Jujube",
         "enUS": "of the Jujube",
-        "zhTW": "刺棗之",
-        "zhCN": "红枣之"
+        "zhTW": "刺棗之"
     },
     {
         "id": 21081,
         "Key": "Of the Obscenity",
         "enUS": "of the Obscene",
-        "zhTW": "淫穢之",
-        "zhCN": "淫秽之"
+        "zhTW": "淫穢之"
     },
     {
         "id": 21082,
         "Key": "Of Quota",
         "enUS": "of the Quota",
-        "zhTW": "配額之",
-        "zhCN": "配额之"
+        "zhTW": "配額之"
     },
     {
         "id": 21083,
         "Key": "Of the Maggot",
         "enUS": "of Maggots",
-        "zhTW": "蛆蟲之",
-        "zhCN": "蛆虫之"
+        "zhTW": "蛆蟲之"
     },
     {
         "id": 21084,
         "Key": "Of Horror",
         "enUS": "of Horror",
-        "zhTW": "驚怖之",
-        "zhCN": "恐惧之"
+        "zhTW": "驚怖之"
     },
     {
         "id": 21085,
         "Key": "Of Baddass",
         "enUS": "of the Abyss",
-        "zhTW": "深淵之",
-        "zhCN": "冥渊之"
+        "zhTW": "深淵之"
     },
     {
         "id": 21086,
         "Key": "Of the Beast",
         "enUS": "of the Beast",
-        "zhTW": "野獸之",
-        "zhCN": "野兽之"
+        "zhTW": "野獸之"
     },
     {
         "id": 21087,
         "Key": "Of Cruelty",
         "enUS": "of Cruelty",
-        "zhTW": "殘酷之",
-        "zhCN": "残忍之"
+        "zhTW": "殘酷之"
     },
     {
         "id": 21088,
         "Key": "Of Badness",
         "enUS": "of Badness",
-        "zhTW": "壞毒之",
-        "zhCN": "恶行之"
+        "zhTW": "壞毒之"
     },
     {
         "id": 21089,
         "Key": "Of the Horde",
         "enUS": "of the Horde",
-        "zhTW": "部落之",
-        "zhCN": "部族之"
+        "zhTW": "部落之"
     },
     {
         "id": 21090,
         "Key": "Of the Forest",
         "enUS": "of the Forest",
-        "zhTW": "森林之",
-        "zhCN": "森林之"
+        "zhTW": "森林之"
     },
     {
         "id": 21091,
         "Key": "Of the Lilly",
         "enUS": "of the Lilly",
-        "zhTW": "百合之",
-        "zhCN": "百合之"
+        "zhTW": "百合之"
     },
     {
         "id": 21092,
         "Key": "Of the Grassy Gnoll",
         "enUS": "of the Grassy Gnoll",
-        "zhTW": "深綠豺狼人之",
-        "zhCN": "绿草豺狼人之"
+        "zhTW": "深綠豺狼人之"
     },
     {
         "id": 21093,
         "Key": "Of the Stars",
         "enUS": "of the Stars",
-        "zhTW": "星辰之",
-        "zhCN": "星辰之"
+        "zhTW": "星辰之"
     },
     {
         "id": 21094,
         "Key": "Of the Moon",
         "enUS": "of the Moon",
-        "zhTW": "月亮之",
-        "zhCN": "月亮之"
+        "zhTW": "月亮之"
     },
     {
         "id": 21095,
         "Key": "Of Love",
         "enUS": "of Love",
-        "zhTW": "愛情之",
-        "zhCN": "爱意之"
+        "zhTW": "愛情之"
     },
     {
         "id": 21096,
         "Key": "Of the Unicorn",
         "enUS": "of the Unicorn",
-        "zhTW": "獨角獸之",
-        "zhCN": "独角兽之"
+        "zhTW": "獨角獸之"
     },
     {
         "id": 21097,
         "Key": "Of the Walrus",
         "enUS": "of the Walrus",
-        "zhTW": "海象之",
-        "zhCN": "海象之"
+        "zhTW": "海象之"
     },
     {
         "id": 21098,
         "Key": "Of the Earth",
         "enUS": "of the Earth",
-        "zhTW": "土地之",
-        "zhCN": "大地之"
+        "zhTW": "土地之"
     },
     {
         "id": 21099,
         "Key": "Of Vines",
         "enUS": "of Vines",
-        "zhTW": "藤蔓之",
-        "zhCN": "藤蔓之"
+        "zhTW": "藤蔓之"
     },
     {
         "id": 21100,
         "Key": "Of Honor",
         "enUS": "of Honor",
-        "zhTW": "榮耀之",
-        "zhCN": "荣誉之"
+        "zhTW": "榮耀之"
     },
     {
         "id": 21101,
         "Key": "Of Tribute",
         "enUS": "of Tribute",
-        "zhTW": "奉獻之",
-        "zhCN": "敬重之"
+        "zhTW": "奉獻之"
     },
     {
         "id": 21102,
         "Key": "Of Credit",
         "enUS": "of Credit",
-        "zhTW": "致敬之",
-        "zhCN": "称颂之"
+        "zhTW": "致敬之"
     },
     {
         "id": 21103,
         "Key": "Of Admiration",
         "enUS": "of Admiration",
-        "zhTW": "佩服之",
-        "zhCN": "仰慕之"
+        "zhTW": "佩服之"
     },
     {
         "id": 21104,
         "Key": "Of Sweetness",
         "enUS": "of Sweetness",
-        "zhTW": "甜美之",
-        "zhCN": "甜蜜之"
+        "zhTW": "甜美之"
     },
     {
         "id": 21105,
         "Key": "Of Beauty",
         "enUS": "of Beauty",
-        "zhTW": "美麗之",
-        "zhCN": "美貌之"
+        "zhTW": "美麗之"
     },
     {
         "id": 21106,
         "Key": "Of Pilfering",
         "enUS": "of Pilfering",
-        "zhTW": "盜竊之",
-        "zhCN": "偷窃之"
+        "zhTW": "盜竊之"
     },
     {
         "id": 21107,
         "Key": "of Damage Amplification",
         "enUS": "of Amplify Damage",
-        "zhTW": "傷害加深之",
-        "zhCN": "伤害加深之"
+        "zhTW": "傷害加深之"
     },
     {
         "id": 21108,
         "Key": "of Hurricane",
         "enUS": "of Hurricane",
-        "zhTW": "颶風之",
-        "zhCN": "飓风之"
+        "zhTW": "颶風之"
     },
     {
         "id": 21109,
         "Key": "of Armageddon",
         "enUS": "of Armageddon",
-        "zhTW": "毀天滅地之",
-        "zhCN": "毁天灭地之"
+        "zhTW": "毀天滅地之"
     },
     {
         "id": 21110,
         "Key": "of Tornado",
         "enUS": "of Tornado",
-        "zhTW": "龍捲風之",
-        "zhCN": "龙卷风之"
+        "zhTW": "龍捲風之"
     },
     {
         "id": 21111,
         "Key": "of Volcano",
         "enUS": "of Volcano",
-        "zhTW": "火山噴發之",
-        "zhCN": "火山爆之"
+        "zhTW": "火山噴發之"
     },
     {
         "id": 21112,
         "Key": "of Twister",
         "enUS": "of Twister",
-        "zhTW": "旋風之",
-        "zhCN": "小旋风之"
+        "zhTW": "旋風之"
     },
     {
         "id": 21113,
         "Key": "of Cyclone Armor",
         "enUS": "of Cyclone Armor",
-        "zhTW": "氣旋護甲之",
-        "zhCN": "气旋护甲之"
+        "zhTW": "氣旋護甲之"
     },
     {
         "id": 21114,
         "Key": "of Eruption",
         "enUS": "of Fissure",
-        "zhTW": "裂地之火",
-        "zhCN": "熔岩裂地之"
+        "zhTW": "裂地之火"
     },
     {
         "id": 21115,
         "Key": "of Molten Boulders",
         "enUS": "of Molten Boulder",
-        "zhTW": "熔火巨石之",
-        "zhCN": "熔岩巨石之"
+        "zhTW": "熔火巨石之"
     },
     {
         "id": 21116,
         "Key": "of Firestorms",
         "enUS": "of Firestorms",
-        "zhTW": "火焰風暴之",
-        "zhCN": "火焰风暴之"
+        "zhTW": "火焰風暴之"
     },
     {
         "id": 21117,
         "Key": "of Battle Command",
         "enUS": "of Battle Command",
-        "zhTW": "戰鬥指揮之",
-        "zhCN": "战斗指挥之"
+        "zhTW": "戰鬥指揮之"
     },
     {
         "id": 21118,
         "Key": "of War Cry",
         "enUS": "of War Cry",
-        "zhTW": "戰爭狂嘯之",
-        "zhCN": "怒嗥之"
+        "zhTW": "戰爭狂嘯之"
     },
     {
         "id": 21119,
         "Key": "of Grim Ward",
         "enUS": "of Grim Ward",
-        "zhTW": "恐怖圖騰之",
-        "zhCN": "骇物阻吓之"
+        "zhTW": "恐怖圖騰之"
     },
     {
         "id": 21120,
         "Key": "of Battle Orders",
         "enUS": "of Battle Orders",
-        "zhTW": "戰鬥命令之",
-        "zhCN": "战斗号令之"
+        "zhTW": "戰鬥命令之"
     },
     {
         "id": 21121,
         "Key": "of Battle Cry",
         "enUS": "of Battle Cry",
-        "zhTW": "戰鬥怒吼之",
-        "zhCN": "战嗥之"
+        "zhTW": "戰鬥怒吼之"
     },
     {
         "id": 21122,
         "Key": "of Concentration",
         "enUS": "of Concentration",
-        "zhTW": "專注打擊之",
-        "zhCN": "专注之"
+        "zhTW": "專注打擊之"
     },
     {
         "id": 21123,
         "Key": "of Item Finding",
         "enUS": "of Find Item",
-        "zhTW": "尋找物品",
-        "zhCN": "寻物之"
+        "zhTW": "尋找物品"
     },
     {
         "id": 21124,
         "Key": "of Stunning",
         "enUS": "of Stun",
-        "zhTW": "擊昏之",
-        "zhCN": "击昏之"
+        "zhTW": "擊昏之"
     },
     {
         "id": 21125,
         "Key": "of Shouting",
         "enUS": "of Shout",
-        "zhTW": "大吼之",
-        "zhCN": "大吼之"
+        "zhTW": "大吼之"
     },
     {
         "id": 21126,
         "Key": "of Taunting",
         "enUS": "of Taunt",
-        "zhTW": "嘲諷之",
-        "zhCN": "嘲讽之"
+        "zhTW": "嘲諷之"
     },
     {
         "id": 21127,
         "Key": "of Potion Finding",
         "enUS": "of Find Potion",
-        "zhTW": "尋找藥水",
-        "zhCN": "寻药之"
+        "zhTW": "尋找藥水"
     },
     {
         "id": 21128,
         "Key": "of Howling",
         "enUS": "of Howl",
-        "zhTW": "狂嗥之",
-        "zhCN": "狂嗥之"
+        "zhTW": "狂嗥之"
     },
     {
         "id": 21129,
         "Key": "of Fist of the Heavens",
         "enUS": "of Fist of the Heavens",
-        "zhTW": "天堂之拳",
-        "zhCN": "天堂之拳之"
+        "zhTW": "天堂之拳"
     },
     {
         "id": 21130,
         "Key": "of Holy Shield",
         "enUS": "of Holy Shield",
-        "zhTW": "神聖之盾",
-        "zhCN": "圣盾术之"
+        "zhTW": "神聖之盾"
     },
     {
         "id": 21131,
         "Key": "of Conversion",
         "enUS": "of Conversion",
-        "zhTW": "招降之",
-        "zhCN": "圣光转化之"
+        "zhTW": "招降之"
     },
     {
         "id": 21132,
         "Key": "of Blessed Hammers",
         "enUS": "of Blessed Hammer",
-        "zhTW": "祝福之鎚",
-        "zhCN": "祝福之锤之"
+        "zhTW": "祝福之鎚"
     },
     {
         "id": 21133,
         "Key": "of Vengeance",
         "enUS": "of Vengeance",
-        "zhTW": "復仇之",
-        "zhCN": "复仇之"
+        "zhTW": "復仇之"
     },
     {
         "id": 21134,
         "Key": "of Charging",
         "enUS": "of Charge",
-        "zhTW": "衝鋒之",
-        "zhCN": "冲锋之"
+        "zhTW": "衝鋒之"
     },
     {
         "id": 21135,
         "Key": "of Zeal",
         "enUS": "of Zeal",
-        "zhTW": "熱忱之",
-        "zhCN": "热忱之"
+        "zhTW": "熱忱之"
     },
     {
         "id": 21136,
         "Key": "of Holy Bolts",
         "enUS": "of Holy Bolt",
-        "zhTW": "聖光彈之",
-        "zhCN": "圣光弹之"
+        "zhTW": "聖光彈之"
     },
     {
         "id": 21137,
         "Key": "of Sacrifice",
         "enUS": "of Sacrifice",
-        "zhTW": "犧牲之",
-        "zhCN": "牺牲之"
+        "zhTW": "犧牲之"
     },
     {
         "id": 21138,
         "Key": "of Fire Golem Summoning",
         "enUS": "of Fire Golem",
-        "zhTW": "火焰魔像之",
-        "zhCN": "火焰魔像之"
+        "zhTW": "火焰魔像之"
     },
     {
         "id": 21139,
         "Key": "of Bone Spirits",
         "enUS": "of Bone Spirit",
-        "zhTW": "骸骨之魂",
-        "zhCN": "骨灵之"
+        "zhTW": "骸骨之魂"
     },
     {
         "id": 21140,
         "Key": "of Poison Novas",
         "enUS": "of Poison Nova",
-        "zhTW": "劇毒新星之",
-        "zhCN": "剧毒新星之"
+        "zhTW": "劇毒新星之"
     },
     {
         "id": 21141,
         "Key": "of Lower Resistance",
         "enUS": "of Lower Resistance",
-        "zhTW": "降低抗性之",
-        "zhCN": "降低抗性之"
+        "zhTW": "降低抗性之"
     },
     {
         "id": 21142,
         "Key": "of Iron Golem Creation",
         "enUS": "of Iron Golem",
-        "zhTW": "鋼鐵魔像之",
-        "zhCN": "钢铁魔像之"
+        "zhTW": "鋼鐵魔像之"
     },
     {
         "id": 21143,
         "Key": "of Bone Imprisonment",
         "enUS": "of Bone Prison",
-        "zhTW": "骨牢之",
-        "zhCN": "骨牢之"
+        "zhTW": "骨牢之"
     },
     {
         "id": 21144,
         "Key": "of Decrepification",
         "enUS": "of Decrepify",
-        "zhTW": "衰老之",
-        "zhCN": "衰老之"
+        "zhTW": "衰老之"
     },
     {
         "id": 21145,
         "Key": "of Attraction",
         "enUS": "of Attract",
-        "zhTW": "致命吸引之",
-        "zhCN": "吸引之"
+        "zhTW": "致命吸引之"
     },
     {
         "id": 21146,
         "Key": "of Blood Golem Summoning",
         "enUS": "of Blood Golem",
-        "zhTW": "鮮血魔像之",
-        "zhCN": "鲜血魔像之"
+        "zhTW": "鮮血魔像之"
     },
     {
         "id": 21147,
         "Key": "of Bone Spears",
         "enUS": "of Bone Spear",
-        "zhTW": "骨矛之",
-        "zhCN": "骨矛之"
+        "zhTW": "骨矛之"
     },
     {
         "id": 21148,
         "Key": "of Poison Explosion",
         "enUS": "of Poison Explosion",
-        "zhTW": "毒爆之",
-        "zhCN": "毒爆之"
+        "zhTW": "毒爆之"
     },
     {
         "id": 21149,
         "Key": "of Life Tap",
         "enUS": "of Life Tap",
-        "zhTW": "偷取生命之",
-        "zhCN": "生命吸取之"
+        "zhTW": "偷取生命之"
     },
     {
         "id": 21150,
         "Key": "of Confusion",
         "enUS": "of Confusion",
-        "zhTW": "混亂之",
-        "zhCN": "迷惑之"
+        "zhTW": "混亂之"
     },
     {
         "id": 21151,
         "Key": "of Raise Skeletal Mages",
         "enUS": "of Skeletal Mages",
-        "zhTW": "骷髏法師之",
-        "zhCN": "骷髅法师之"
+        "zhTW": "骷髏法師之"
     },
     {
         "id": 21152,
         "Key": "of Bone Walls",
         "enUS": "of Bone Wall",
-        "zhTW": "骨牆之",
-        "zhCN": "骨墙之"
+        "zhTW": "骨牆之"
     },
     {
         "id": 21153,
         "Key": "of Terror",
         "enUS": "of Terror",
-        "zhTW": "恐懼之",
-        "zhCN": "恐惧之"
+        "zhTW": "恐懼之"
     },
     {
         "id": 21154,
         "Key": "of Iron Maiden",
         "enUS": "of Iron Maiden",
-        "zhTW": "攻擊反噬之",
-        "zhCN": "铁处女之"
+        "zhTW": "攻擊反噬之"
     },
     {
         "id": 21155,
         "Key": "of Clay Golem Summoning",
         "enUS": "of Clay Golem",
-        "zhTW": "黏土魔像之",
-        "zhCN": "黏土魔像之"
+        "zhTW": "黏土魔像之"
     },
     {
         "id": 21156,
         "Key": "of Corpse Explosions",
         "enUS": "of Corpse Explosion",
-        "zhTW": "屍爆之",
-        "zhCN": "邪爆之"
+        "zhTW": "屍爆之"
     },
     {
         "id": 21157,
         "Key": "of Poison Dagger",
         "enUS": "of Poison Dagger",
-        "zhTW": "淬毒匕首之",
-        "zhCN": "毒匕之"
+        "zhTW": "淬毒匕首之"
     },
     {
         "id": 21158,
         "Key": "of Weaken",
         "enUS": "of Weaken",
-        "zhTW": "削弱之",
-        "zhCN": "削弱之"
+        "zhTW": "削弱之"
     },
     {
         "id": 21159,
         "Key": "of Dim Vision",
         "enUS": "of Dim Vision",
-        "zhTW": "昏暗視野之",
-        "zhCN": "微暗灵视之"
+        "zhTW": "昏暗視野之"
     },
     {
         "id": 21160,
         "Key": "of Raise Skeletons",
         "enUS": "of Raise Skeleton",
-        "zhTW": "復生骷髏之",
-        "zhCN": "复生骷髅之"
+        "zhTW": "復生骷髏之"
     },
     {
         "id": 21161,
         "Key": "of Bone Armor",
         "enUS": "of Bone Armor",
-        "zhTW": "骸骨護甲之",
-        "zhCN": "骨甲之"
+        "zhTW": "骸骨護甲之"
     },
     {
         "id": 21162,
         "Key": "of Teeth",
         "enUS": "of Teeth",
-        "zhTW": "剔骨之牙",
-        "zhCN": "骨牙之"
+        "zhTW": "剔骨之牙"
     },
     {
         "id": 21163,
         "Key": "of Amplify Damage",
         "enUS": "of Amplify Damage",
-        "zhTW": "傷害加深之",
-        "zhCN": "伤害加深之"
+        "zhTW": "傷害加深之"
     },
     {
         "id": 21164,
         "Key": "of Frozen Orbs",
         "enUS": "of Frozen Orb",
-        "zhTW": "冰封球之",
-        "zhCN": "冰封球之"
+        "zhTW": "冰封球之"
     },
     {
         "id": 21165,
         "Key": "of Hydras",
         "enUS": "of Hydra",
-        "zhTW": "多頭蛇之",
-        "zhCN": "多头蛇之"
+        "zhTW": "多頭蛇之"
     },
     {
         "id": 21166,
         "Key": "of Blizzards",
         "enUS": "of Blizzard",
-        "zhTW": "暴風雪之",
-        "zhCN": "暴风雪之"
+        "zhTW": "暴風雪之"
     },
     {
         "id": 21167,
         "Key": "of Meteors",
         "enUS": "of Meteor",
-        "zhTW": "隕石之",
-        "zhCN": "陨石之"
+        "zhTW": "隕石之"
     },
     {
         "id": 21168,
         "Key": "of Glacial Spikes",
         "enUS": "of Glacial Spike",
-        "zhTW": "冰川之槍",
-        "zhCN": "冰尖柱之"
+        "zhTW": "冰川之槍"
     },
     {
         "id": 21169,
         "Key": "of Teleportation",
         "enUS": "of Teleportation",
-        "zhTW": "傳送之",
-        "zhCN": "传送术之"
+        "zhTW": "傳送之"
     },
     {
         "id": 21170,
         "Key": "of Enchantment",
         "enUS": "of Enchantment",
-        "zhTW": "附魔之",
-        "zhCN": "附魔火焰之"
+        "zhTW": "附魔之"
     },
     {
         "id": 21171,
         "Key": "of Fire Walls",
         "enUS": "of Fire Wall",
-        "zhTW": "火牆之",
-        "zhCN": "火焰墙之"
+        "zhTW": "火牆之"
     },
     {
         "id": 21172,
         "Key": "of Novas",
         "enUS": "of Nova",
-        "zhTW": "閃電新星之",
-        "zhCN": "闪电新星之"
+        "zhTW": "閃電新星之"
     },
     {
         "id": 21173,
         "Key": "of Fire Balls",
         "enUS": "of Fire Ball",
-        "zhTW": "火球之",
-        "zhCN": "火球术之"
+        "zhTW": "火球之"
     },
     {
         "id": 21174,
         "Key": "of Blazing",
         "enUS": "of Blazing",
-        "zhTW": "熾烈之徑",
-        "zhCN": "足跟火之"
+        "zhTW": "熾烈之徑"
     },
     {
         "id": 21175,
         "Key": "of Ice Blasts",
         "enUS": "of Ice Blast",
-        "zhTW": "寒冰球之",
-        "zhCN": "冰球爆之"
+        "zhTW": "寒冰球之"
     },
     {
         "id": 21176,
         "Key": "of Frost Novas",
         "enUS": "of Frost Nova",
-        "zhTW": "冰霜新星之",
-        "zhCN": "冰霜新星之"
+        "zhTW": "冰霜新星之"
     },
     {
         "id": 21177,
         "Key": "of Ice Bolts",
         "enUS": "of Ice Bolt",
-        "zhTW": "寒冰彈之",
-        "zhCN": "冰霜弹之"
+        "zhTW": "寒冰彈之"
     },
     {
         "id": 21178,
         "Key": "of Charged Bolts",
         "enUS": "of Charged Bolt",
-        "zhTW": "電能彈之",
-        "zhCN": "电荷弹之"
+        "zhTW": "電能彈之"
     },
     {
         "id": 21179,
         "Key": "of Fire Bolts",
         "enUS": "of Fire Bolt",
-        "zhTW": "火焰彈之",
-        "zhCN": "火焰弹之"
+        "zhTW": "火焰彈之"
     },
     {
         "id": 21180,
         "Key": "of Lightning Fury",
         "enUS": "of Lightning Fury",
-        "zhTW": "閃電烈怒之",
-        "zhCN": "雷霆之怒之"
+        "zhTW": "閃電烈怒之"
     },
     {
         "id": 21181,
         "Key": "of Lightning Spear",
         "enUS": "of Lightning Spear",
-        "zhTW": "閃電長矛之",
-        "zhCN": "闪电刺矛之"
+        "zhTW": "閃電長矛之"
     },
     {
         "id": 21182,
         "Key": "of Freezing Arrows",
         "enUS": "of Freezing Arrow",
-        "zhTW": "冰凍箭之",
-        "zhCN": "冻结箭之"
+        "zhTW": "冰凍箭之"
     },
     {
         "id": 21183,
         "Key": "of Fending",
         "enUS": "of Fending",
-        "zhTW": "疾刺之",
-        "zhCN": "猛刺之"
+        "zhTW": "疾刺之"
     },
     {
         "id": 21184,
         "Key": "of Immolating Arrows",
         "enUS": "of Immolating Arrow",
-        "zhTW": "熾炎箭",
-        "zhCN": "献祭箭之"
+        "zhTW": "熾炎箭"
     },
     {
         "id": 21185,
         "Key": "of Plague Javelin",
         "enUS": "of Plague Javelin",
-        "zhTW": "瘟疫標槍之",
-        "zhCN": "瘟疫标枪之"
+        "zhTW": "瘟疫標槍之"
     },
     {
         "id": 21186,
         "Key": "of Charged Spear",
         "enUS": "of Charged Spear",
-        "zhTW": "聚能長矛之",
-        "zhCN": "充能矛刺之"
+        "zhTW": "聚能長矛之"
     },
     {
         "id": 21187,
         "Key": "of Guided Arrows",
         "enUS": "of Guided Arrow",
-        "zhTW": "導引箭",
-        "zhCN": "导引箭之"
+        "zhTW": "導引箭"
     },
     {
         "id": 21188,
         "Key": "of Ice Arrows",
         "enUS": "of Ice Arrow",
-        "zhTW": "寒冰箭之",
-        "zhCN": "急冻箭之"
+        "zhTW": "寒冰箭之"
     },
     {
         "id": 21189,
         "Key": "of Lightning Javelin",
         "enUS": "of Lightning Javelin",
-        "zhTW": "閃電標槍之",
-        "zhCN": "闪电标枪之"
+        "zhTW": "閃電標槍之"
     },
     {
         "id": 21190,
         "Key": "of Impaling Spear",
         "enUS": "of Impaling Spear",
-        "zhTW": "穿刺長矛之",
-        "zhCN": "刺矛之"
+        "zhTW": "穿刺長矛之"
     },
     {
         "id": 21191,
         "Key": "of Slow Missiles",
         "enUS": "of Slow Missile",
-        "zhTW": "緩箭術之",
-        "zhCN": "缓速箭之"
+        "zhTW": "緩箭術之"
     },
     {
         "id": 21192,
         "Key": "of Exploding Arrows",
         "enUS": "of Exploding Arrow",
-        "zhTW": "爆裂箭之",
-        "zhCN": "爆裂箭之"
+        "zhTW": "爆裂箭之"
     },
     {
         "id": 21193,
         "Key": "of Poison Javelin",
         "enUS": "of Poison Javelin",
-        "zhTW": "劇毒標槍之",
-        "zhCN": "剧毒标枪之"
+        "zhTW": "劇毒標槍之"
     },
     {
         "id": 21194,
         "Key": "of Power Spear",
         "enUS": "of Power Spear",
-        "zhTW": "充能長矛之",
-        "zhCN": "电荷刺矛之"
+        "zhTW": "充能長矛之"
     },
     {
         "id": 21195,
         "Key": "of Multiple Shot",
         "enUS": "of Multiple Shot",
-        "zhTW": "多重箭之",
-        "zhCN": "多重箭之"
+        "zhTW": "多重箭之"
     },
     {
         "id": 21196,
         "Key": "of Cold Arrows",
         "enUS": "of Cold Arrow",
-        "zhTW": "冷霜箭之",
-        "zhCN": "冰霜箭之"
+        "zhTW": "冷霜箭之"
     },
     {
         "id": 21197,
         "Key": "of Jabbing",
         "enUS": "of Jab",
-        "zhTW": "戳刺之",
-        "zhCN": "戳刺之"
+        "zhTW": "戳刺之"
     },
     {
         "id": 21198,
         "Key": "of Inner Sight",
         "enUS": "of Inner Sight",
-        "zhTW": "心靈視野之",
-        "zhCN": "内视之"
+        "zhTW": "心靈視野之"
     },
     {
         "id": 21199,
         "Key": "of Fire Arrows",
         "enUS": "of Fire Arrow",
-        "zhTW": "火焰箭之",
-        "zhCN": "火焰箭之"
+        "zhTW": "火焰箭之"
     },
     {
         "id": 21200,
         "Key": "of Magic Arrows",
         "enUS": "of Magic Arrow",
-        "zhTW": "魔法箭之",
-        "zhCN": "魔法箭之"
+        "zhTW": "魔法箭之"
     },
     {
         "id": 21201,
         "Key": "Of self-repair",
         "enUS": "Self-Repair",
-        "zhTW": "自我修復",
-        "zhCN": "自我修复"
+        "zhTW": "自我修復"
     },
     {
         "id": 21202,
         "Key": "of Dawn",
         "enUS": "of Dawn",
-        "zhTW": "黎明之",
-        "zhCN": "黎明之"
+        "zhTW": "黎明之"
     },
     {
         "id": 21203,
         "Key": "of Inertia",
         "enUS": "of Inertia",
-        "zhTW": "慣性之",
-        "zhCN": "惯性之"
+        "zhTW": "慣性之"
     },
     {
         "id": 21204,
         "Key": "of Joyfulness",
         "enUS": "of Joyfulness",
-        "zhTW": "歡愉之",
-        "zhCN": "喜悦之"
+        "zhTW": "歡愉之"
     },
     {
         "id": 21807,
         "Key": "of Lightning Strike",
         "enUS": "of Lightning Strike",
-        "zhTW": "閃電強擊之",
-        "zhCN": "闪电攻击之"
+        "zhTW": "閃電強擊之"
     },
     {
         "id": 21808,
         "Key": "of Plague Jab",
         "enUS": "of Plague Jab",
-        "zhTW": "瘟疫戳刺之",
-        "zhCN": "瘟疫戳刺之"
+        "zhTW": "瘟疫戳刺之"
     },
     {
         "id": 21809,
         "Key": "of Charged Strike",
         "enUS": "of Charged Strike",
-        "zhTW": "聚能強擊之",
-        "zhCN": "充能一击之"
+        "zhTW": "聚能強擊之"
     },
     {
         "id": 21810,
         "Key": "of Impaling Strike",
         "enUS": "of Impaling Strike",
-        "zhTW": "穿刺之",
-        "zhCN": "刺击之"
+        "zhTW": "穿刺之"
     },
     {
         "id": 21811,
         "Key": "of Poison Jab",
         "enUS": "of Poison Jab",
-        "zhTW": "劇毒戳刺之",
-        "zhCN": "剧毒戳刺之"
+        "zhTW": "劇毒戳刺之"
     },
     {
         "id": 21812,
         "Key": "of Power Strike",
         "enUS": "of Power Strike",
-        "zhTW": "充能強擊之",
-        "zhCN": "电荷攻击之"
+        "zhTW": "充能強擊之"
     },
     {
         "id": 21813,
         "Key": "of the Colossus",
         "enUS": "of the Gargantuan",
-        "zhTW": "龐然巨物之",
-        "zhCN": "僵尸巨兽之"
+        "zhTW": "龐然巨物之"
     },
     {
         "id": 21814,
         "Key": "of the Kraken",
         "enUS": "of the Centaur",
-        "zhTW": "半人馬之",
-        "zhCN": "半人马之"
+        "zhTW": "半人馬之"
     },
     {
         "id": 21883,
         "Key": "of the Plague",
         "enUS": "of the Plague",
-        "zhTW": "瘟疫之",
-        "zhCN": "疫病之"
+        "zhTW": "瘟疫之"
     },
     {
         "id": 22332,
         "Key": "UiShadowUI",
         "enUS": "Shadow",
-        "zhTW": "暗影分身",
-        "zhCN": "影身"
+        "zhTW": "暗影分身"
     },
     {
         "id": 22472,
         "Key": "Ghostly",
         "enUS": "Ghostly",
-        "zhTW": "幽靈",
-        "zhCN": "厉魂"
+        "zhTW": "幽靈"
     },
     {
         "id": 22473,
         "Key": "Fanatic",
         "enUS": "Fanatic",
-        "zhTW": "暴怒",
-        "zhCN": "凶怒"
+        "zhTW": "暴怒"
     },
     {
         "id": 22474,
         "Key": "Possessed",
         "enUS": "Possessed",
-        "zhTW": "著魔",
-        "zhCN": "附身"
+        "zhTW": "著魔"
     },
     {
         "id": 22475,
         "Key": "Berserk",
         "enUS": "Berserker",
-        "zhTW": "狂暴",
-        "zhCN": "狂战士"
+        "zhTW": "狂暴"
     }
 ]
