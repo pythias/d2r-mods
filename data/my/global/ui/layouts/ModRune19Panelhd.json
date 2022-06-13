@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4混沌(Chaos)\nÿc3打擊時有 9% 幾率施展等級 11 冰封球\n打擊時有 11% 幾率施展等級 9 充能彈\n+35% 增加攻擊速度\n+290-340% 增強傷害 (可變)\n增加 216-471 魔法傷害\n25% 撕開傷口機會\n+1 致 旋風\n+10 力量\n+15 點生命在每殺一個惡魔敵人後取得",
+                                                        "tooltipString": "@ztrwchaos",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4饑荒(Famine)\nÿc3+30% 增加攻擊速度\n+320-370% 增強傷害 (可變)\n無視目標防禦\n+180-200 魔法傷害\n+50-200 火焰傷害\n+51-250 閃電傷害\n+50-200 冰冷傷害\n12% 擊中偷取生命\n防止怪物自療\n+10 力量",
+                                                        "tooltipString": "@ztrwfamine",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4幽暗(Gloom)\nÿc915% 概率當被擊中時施放出 3級 微暗靈視\n+10% 快速再度攻擊\nÿc8200-260% 增強防禦ÿcU(變動)\nÿc3+10 力量\nÿc8所有抗性 +45\n冰凍時間減半\n5% 傷害轉移到法力\n-3 到照亮範圍\nÿcO重要屬性：45RES、260ed\n其他亮點：觸發3級微暗靈視、10FHR\n美中不足：缺DR\n和石塊同等價位且都是偏重防禦的盔甲，對上電鬼時會有點優勢\n但總體性能比不上石塊，也只有SOLO中才有可能做\nÿcC底材推薦\nÿc8灰幕布衣：最容易入手的精華級甲，在噩夢就有機會出\n其他：法師鎧甲相比之下更容易入手，只是DEF略低",
+                                                        "tooltipString": "@ztrwgloom",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4弒君者(Kingslayer)\nÿc330% 提升攻擊速度\n230-270% 增強傷害 ÿcU(變動)\nÿc3-25% 目標防禦\n20% 額外攻擊準確率加成\n33% 機會出現壓碎性打擊\n50% 機會撕裂傷口\n+1 到復仇\n防止怪物自療\n+10 力量\n40% 額外金幣從怪物身上取得\nÿcO重要屬性：33CB、50OW、30IAS\n其他亮點：270ED、-25%目標防禦、+1復仇\n美中不足：缺無法破壞\nCB、OW、IAS等屬性使其成為名符其實的殺BOSS利器\n可以單憑一件武器通殺，但都可以被其他裝備替換，這也是評價褒貶不一的原因\nÿcC底材推薦\nÿc8幻化之刃：基礎攻速最高的單手武器，還有無法破壞的特性\n狂戰士斧：單手武器中RANGE最大，可惜耐久較低，只能給不消耗耐久的CHAR使用\n冠軍斧：耐久最高的精華斧之一，較高的基礎攻速給滿電火支配的SOR玩復仇容易達到急速\n其他：猛禽斧和銀刃斧通過適當搭配都可以復仇SOR使用，不過是回城修理次數頻繁一些",
+                                                        "tooltipString": "@ztrwkingslayer",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4獅心(Lionheart)\nÿc3+20% 傷害力\n裝備要求 -15%\n+25 強壯\n+10 能量\n+20 活力\n+15 敏捷\n+50 生命\n四防 +30",
+                                                        "tooltipString": "@ztrwlionheart",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4遵從(Obedience)\nÿc830% 概率當你殺死敵人時施放出 21 級強化\nÿc940% 快速再度攻擊\nÿc8+370% 增強傷害\nÿc3-25% 目標防禦\n+3-14 冰冷傷害\n-25% 對敵人火焰系抗性\nÿc840% 壓碎打擊\nÿc3+200-300 防禦 ÿcU(變動)\nÿc3+10 力量\n+10 敏捷\nÿc9所有抗性 +20-30 ÿcU(變動)\nÿc9-20%需求\nÿcO重要屬性：370ED、40CB、觸發21級火焰強化\n其他亮點：40FHR、30RES、20REQ\n美中不足：缺IAS，有CD\n低造價與高CB共同助其成為平民殺BOSS利器，攻防一體的屬性也讓PET更能抗\n可惜DPS被眼光壓一頭，CB效率也略遜於宏森丹，終極搭配裏一般都不會出現\nÿcC底材推薦\nÿc8鮫尾巨斧：CB效率最高的底材\n銳利之斧：有形的可以給狂怒狼放副手出強化，無形的沒有鮫尾的次選擇\n巨長斧：CB效率較鮫尾略低，但DPS高出不少\n殘酷鐮刀：傷害相當於有形的精華長柄，20REQ也讓PET更容易裝備\n其他：神秘之斧與安臉搭配中DPS最高，可惜低攻速不利於觸發CB",
+                                                        "tooltipString": "@ztrwobedience",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4不屈意志(Unbending Will)\nÿc3攻擊有 18% 幾率施展18級嘲諷\n+3 戰鬥技能（僅限野蠻人）\n+20-30% 攻速\n+300-350% 增強傷害\n+9 最大傷害\n+50 命中率（AR）\n+75% 對不死者傷害\n 對不死者 +50命中率\n每次命中偷取 8-10% 生命\n阻止怪物治療\n+10 力量\n+10 活力\n傷害減少 8\n+1 光照範圍\n需求 -20%\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwunbendingwill",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

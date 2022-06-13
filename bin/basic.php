@@ -80,3 +80,119 @@ function log_error($message) {
 define("ORIGIN_PATH", __DIR__ . "/../data/origin");
 define("MY_PATH", __DIR__ . "/../data/my");
 define("SETTINGS_PATH", __DIR__ . "/../data/settings");
+
+class ItemNames {
+    private $_byId = [];
+    public function __construct() {
+        $items = decode_file(MY_PATH . "/local/lng/strings/item-names.json");
+        foreach ($items as $item) {
+            $this->_byId[$item['id']] = $item;
+        }
+    }
+
+    public function add($item) {
+        $this->_byId[$item['id']] = $item;
+    }
+
+    public function save() {
+        encode_file(MY_PATH . "/local/lng/strings/item-names.json", array_values($this->_byId));
+    }
+}
+
+class Table {
+    private $_name = "Default Table";
+    private $_type = "TableWidget";
+    private $_width = 1700;
+    private $_height = 100;
+    private $_fields = [
+        "columns" => [],
+        "rowHeight" => "\$ModTableRowHeightSmall"
+    ];
+    private $_rows = [];
+
+    public function addColumn($width, $ah = 'fit', $av = 'fix') {
+        $this->_fields['columns'] = [
+            'width' => intval($width),
+            'alignment' => [
+                'h' => $ah,
+                'v' => $av
+            ],
+        ];
+    }
+
+    public function setRowHeight($height) {
+        $this->_fields["rowHeight"] = $height;
+    }
+
+    public function setTitleRow($title) {
+        $this->_fields["rowHeight"] = $height;
+    }
+
+    public function gen() {
+        return [
+            'name' => $this->_name,
+            'type' => $this->_type,
+            'fields' => [
+                'rect' => [
+                    'width' => $this->_width,
+                    'height' => $this->_height,
+                ]
+            ],
+            'children' => [
+                
+            ],
+        ];
+    }
+}
+
+class TableRow {
+    private $_name = "Default Table";
+    private $_type = "TableRowWidget";
+    private $_width = 1700;
+    private $_height = 100;
+    private $_chilrens = [];
+
+    public function gen() {
+        return [
+            'name' => $this->_name,
+            'type' => $this->_type,
+            'fields' => [
+                'rect' => [
+                    'width' => $this->_width,
+                    'height' => $this->_height,
+                ]
+            ],
+            'children' => [
+                
+            ],
+        ];
+    }
+}
+
+class TablePanel {
+    private $_path = "";
+    private $_config;
+    private $_tables = [];
+    public function __construct() {
+        $this->_path = MY_PATH . "/global/ui/layouts/ModMFPanelhd.json";
+        $this->_config = decode_file($this->_path);
+        
+        $row85 = $this->_config['children'][1]['children'][0]['children'][0];
+        $rows85 = $row85['children'][0]['children'];
+        $name85 = $rows85[0];
+        $head85 = $rows85[1];
+
+        $rootAll = $this->_config['children'][1]['children'][0]['children'][2];
+        $rowsAll = $row85['children'][0]['children'];
+        $nameAll = $rows85[0];
+        $headAll = $rows85[1];
+    }
+
+    public function add($item) {
+        $this->_byId[$item['id']] = $item;
+    }
+
+    public function save() {
+        encode_file($this->_path, array_values($this->_config));
+    }
+}

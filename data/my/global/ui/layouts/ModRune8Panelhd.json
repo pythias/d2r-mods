@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4遠古誓言(Ancients' Pledge)\nÿc3+50% 防禦強化\n+43% 冰冷抗性\n+48% 火焰抗性\n+48% 閃電抗性\n+48% 毒素抗性\n10% 受損生命轉移至法力\nÿcO重要屬性：40+RES\n其他亮點：符文來源\n美中不足：缺無法冰凍\n單看RES還不如3白PG盾，只因A5的第二個任務獎勵即是全套符文，入手可算是毫無壓力\nÿcC底材推薦\nÿc8輕盾：普通級唯一的通用3孔輕型盾，STR需求也不算太高\n皇冠之盾：普通級PAL專用盾中格擋和DEF都是最高的\n其他：龍盾的STR需求略高，BB這類高STR的CHAR可以考慮",
+                                                        "tooltipString": "@ztrwancients'pledge",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4荊棘(Bramble)\nÿc3裝備後具有 15-21 級 刺針靈氣(可變)\n50% 快速恢復打擊\n+25-50% 毒技能傷害 (可變)\n+300 防禦力\n提升 法力 上限 5%\n提升 法力 回復速度 15%\n+5% 防冰上限\n防火 +30%\n防毒 +100%\n每殺一個怪物 +13 生命\n13級 棘靈 (33次)",
+                                                        "tooltipString": "@ztrwbramble",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4武裝號召(Call to Arms)\nÿc8+1 到所有技能\nÿc940% 提升攻擊速度\n250-290% 增強傷害 ÿcU(變動)\nÿc3加 5-30 火焰傷害\n7% 生命於擊中時偷取\nÿc8+2-6 到戰鬥指揮 ÿcU(變動)\nÿc8+1-6 到戰鬥體製 ÿcU(變動)\nÿc3+1-4 到戰嗥 ÿcU(變動)\nÿc3防止怪物自療\n生命恢復速度 +12\n30% 更佳機會取得魔法裝備\nÿcO重要屬性：+6戰鬥體製、+6戰鬥指揮、1SKILL\n其他亮點：40IAS、270ED\n美中不足：缺+大叫\n俗稱CTA，以戰鬥體製著稱，通常放在副手撐高LIFE和MANA\nPK中更是必不可少，極少數CHAR也用來做輸出的武器\nÿcC底材推薦\nÿc8水晶劍：STR需求低且造型美觀就是選擇的理由\n巨戰權杖：除了自帶的救贖能夠在PVC中省下點數，撐高的凈化也能減少中毒與詛咒的時間\n神使之杖：不同技能不同練法的PAL，一在PK中不僅可以用沖鋒偷襲還可以開審判放天堂之拳猥瑣對手\n二和流亡搭配，開狂熱快速打出LT；三給雙熱對付物免的不死怪\n其他：雙刃斧和連枷的需求也不高，大院長之弓做的成品也能成為元素弓AMA不錯的武器",
+                                                        "tooltipString": "@ztrwcalltoarms",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4啟迪(Enlightenment)\nÿc35% 概率在攻擊時施放出 15 級 火球\n5% 概率當被擊中時施放出 15 級 冰尖柱\n+2 所有女巫技能\n+1 暖氣\n+30% 防禦\n減少物理傷害 7\n+30% 火抗",
+                                                        "tooltipString": "@ztrwenlightenment",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4悔恨(Grief)\nÿc335% 概率在擊中目標時施放出 15級 毒牙\nÿc8+30-40% 提升攻擊速度 ÿcU(變動)\nÿc8傷害 +340-400 ÿcU(變動)\nÿc3忽視目標防禦\n-25% 目標防禦\n+1-15% 對惡魔傷害 (角色等級乘1.875)\n增加 5-30 火焰傷害\n-20-25% 對敵人毒素系抗性 ÿcU(變動)\nÿc920% 致命一擊\n防止怪物自療\nÿc3每殺一個怪物 +2 法力\n每殺一個怪物 +10-15 生命 ÿcU(變動)\nÿcO重要屬性：400DAM、40IAS\n其他亮點：20DS、ITD、防自療\n美中不足：缺無法破壞\n無視底材直接增加400DAM使其成為名符其實的單手武器之王\n40IAS進一步解放了裝備，ITD也讓我們對小怪時無需考慮AR，實為近戰物理CHAR的首選\nÿcC底材推薦\nÿc8幻化之刃：最高的基礎攻速加上無法破壞的特性，簡直是為悔恨量身定做的底材\n韓瑞德之劍：RANGE比幻化之刃大1，最低變量的IAS也能保證WW達到4F，非超強的修理費也不貴\n狂戰士斧：由於低耐久和高修理費的原因無法出現在PVC中，但在PK場上憑借野獸和末日的\n輔助一躍成為最熱門的底材，要使WW達到4F需要34IAS\n其他：巨神之刃的IAS變量在39以上時能使WW達到4F，PVC裏追求最高傷害時可以選用",
+                                                        "tooltipString": "@ztrwgrief",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4聖雷(Holy Thunder)\nÿc3+60% 增強傷害\n-25% 目標防禦\n+5-30 火焰傷害\n+21-110 閃電傷害\n+75 毒素傷害, 持續時間 5 秒\n+10 最大傷害\n抗閃電 +60%\n+5 抗閃電上限\n+3 神聖撞擊 (限聖騎士使用)\n等級 7 連鎖閃電 (60 次)",
+                                                        "tooltipString": "@ztrwholythunder",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4眼光(Insight)\nÿc8等級12-17冥思靈氣賦予 ÿcU(變動)\n+35% 高速施展速度\nÿc9+200-260% 增強傷害 ÿcU(變動)\nÿc3+9 最小傷害\nÿc9180-250% 額外攻擊準確率 ÿcU(變動)\nÿc3增加 5-30 火焰傷害\n+75 毒素傷害於每5秒作用\nÿc9+1-6 致命攻擊 ÿcU(變動)\nÿc3+5 所有屬性\n+2 法力在每殺一個敵人後取得\n23% 更佳機會取得魔法裝備\nÿcO重要屬性：17級冥思光環、35FCR\n其他亮點：+6雙倍打擊、260ED、250%AR\n美中不足：缺IAS、-LR\n冥思光環帶來的MANA高速回復讓法系CHAR從此不必擔心續航性\n搭配上普通難度A2戰鬥PET的祈禱光環更是能雙倍LIFE回復雙倍打擊技能\n也讓好變量的DPS一舉超越無限和遵從，SOLO中必做\nÿcC底材推薦\nÿc8神秘之斧：在與安臉的搭配中能有最高的DPS\n巨長斧：在與鰻魚頭的搭配中能有最高的DPS\n鮫尾巨斧：與鰻魚頭的搭配中DPS和巨長斧相差無幾\n銳利之斧：沒有鮫尾的次選擇\n戰鬥鐮刀：相當低的STR和DEX需求讓達到等級的A2PET馬上即可使用\n戰鬥法杖：眼光女的手抓底材，犧牲傷害換取了續航性，爭議比鐮刀女更大",
+                                                        "tooltipString": "@ztrwinsight",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4葉子(Leaf)\nÿc3增加 5-30 火焰傷害\nÿc8+3 火焰技能\n+3 火彈 (限法師)\nÿc3+3 地獄之火 (限法師)\nÿc9+3 暖氣 (限法師)\n+2 法力在每殺死一名敵人之後取得\nÿc3+2-198 防禦 (依角色等級乘2)\n+33% 冰冷抗性\nÿcO美中不足：缺FCR，純火SOR和冰火SOR的開荒利器\nÿcC底材推薦\n底材可以找阿卡拉或者卓格南\nÿc8短棍：技能自然是火系為佳，帶輔助技能省技能點也可以考慮\n其他：SOLO中有3火球的底材皆可使用",
+                                                        "tooltipString": "@ztrwleaf",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -558,7 +558,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4原則(Principle)\nÿc3100% 概率在攻擊時施放出 5 級 聖光彈\n+2 所有聖騎士技能\n+100-150 生命\n+50% 對不死系傷害\n+30% 火抗\n+5% 抗毒上限\n耐力消耗減慢 15%",
+                                                        "tooltipString": "@ztrwprinciple",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

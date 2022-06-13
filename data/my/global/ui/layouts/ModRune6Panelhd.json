@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4迷團(Enigma)\nÿc8+2 到所有技能\nÿc945% 高速跑步\/行走\nÿc8+1 傳送\nÿc3+750-775 防禦ÿcU(變動)\nÿc9+0-74 力量(角色等級乘0.75)\nÿc3增加最大生命 5%\nÿc9傷害減少 8%\n每殺一個敵人 +14 生命\n15% 傷害轉移到法力\nÿc8+1-99% 更佳機會取得魔法裝備(角色等級乘1)\nÿcO重要屬性：+1TP、1MF每級、2SKILL\n其他亮點：0.75STR每級、8%DR、45FRW\n美中不足：缺RES\n俗稱TP+，可謂是1.10以後暗黑的象征，+1TP讓PK場上的格局從此改變\n大量的MF也讓幾乎所有的CHAR都有了MF能力，海量的STR更是能幫助實現0STR投入\nÿcC底材推薦\nÿc8法師鎧甲：DEF最高的擴展輕甲，即使在沒有ULC的1.10中仍然能夠輕松實現0STR投入\n灰幕布衣：STR需求最低的精華甲，在ULC出現之後被越來越多的使用\n執政官鎧甲：DEF最高的精華輕甲，由於PK中常常需要用到年紀\n所以STR一般不會浪費，而在PVC中也可以BUG穿裝備，只是撿屍體的時候有些麻煩",
+                                                        "tooltipString": "@ztrwenigma",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4和諧(Harmony)\nÿc8等級 10 精力靈氣賦予\n+200-275% 增強傷害 ÿcU(變動)\nÿc3+9 最小傷害\n+9 最大傷害\n增加 55-160的火焰傷害\n增加 55-160的冰冷傷害\n增加 55-160的閃電傷害\n+2-6 到女武神 ÿcU(變動)\nÿc3+10 敏捷\n法力重生 20%\n+2 點法力在美殺一個敵人後取得\n+2 照亮範圍\nÿc9等級20重生 (25聚氣)\nÿcO重要屬性：10級活力光環、275ED\n其他亮點：+6女武神、重生聚氣\n美中不足：缺IAS\n賦予的活力光環成為除PAL之外的跑路首選\n不低的ED和元素傷害能讓物理弓AMA在PASS時一路通殺，重生聚氣更是在殺BOSS時大放異彩\nÿcC底材推薦\nÿc8女族長之弓：基礎攻速-10的弓裏均傷最高的，3弓技能也聊勝於無\n刀鋒弓：和巨弓相比，低STR需求更適合物理弓AMA，而且同樣是最大4孔\n獵弓：需求最低的4孔弓，放在副手跑路用\n其他：低需求的4孔弓都可以給MFCHAR做副手跑路",
+                                                        "tooltipString": "@ztrwharmony",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4榮耀(Honor)\nÿc3+160% 傷害力\n+9 最小傷害力\n+9 最大傷害力\n25% 概率雙倍打擊\n+250 命中率\n+1 級所有技能\n每次命中偷取 7% 生命\n自動恢復生命 +10\n+10 強壯\n+1 光明度\n每殺一個敵人 +2 法力",
+                                                        "tooltipString": "@ztrwhonor",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4怨恨(Malice)\nÿc3+33% 增強傷害\n+9 最大傷害\nÿc8100% 撕開傷口機會\n-25% 目標防禦\n-100 每擊中減怪物防禦\nÿc3防止怪物自療\n+50 準確率\n消耗生命 -5",
+                                                        "tooltipString": "@ztrwmalice",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4迷霧(Mist)\nÿc3裝備時獲得 8-12 級專註光環\n+3 所有技能\n+20% 攻擊速度\n+100% 穿刺攻擊\n+325-375% 增強傷害\n+9 最大傷害\n+20% 命中率加成\n追加 3-14 冰冷傷害\n+10 強壯\n+40 全抗性\n凍結目標+3\n+24 活力\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwmist",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4光輝(Radiance)\nÿc3+75% 防禦力\n+30 防禦力對遠程攻擊\n+10 能量\n+10 活力\n15% 傷害轉移到 mana\n抵消魔法傷害 3\n+33 法力\n抵消物理傷害 7\n+5 光明度",
+                                                        "tooltipString": "@ztrwradiance",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4雨(Rain)\nÿc35% 概率在攻擊時施放出 15 級 小旋風\n5% 概率當被擊中時施放出 5 級 颶風裝甲\n+2 所有德魯依技能\n+100-150 法力\n+30% 防禦\n減少魔法傷害 7\n15% 受損生命轉移至法力",
+                                                        "tooltipString": "@ztrwrain",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4不屈意志(Unbending Will)\nÿc3攻擊有 18% 幾率施展18級嘲諷\n+3 戰鬥技能（僅限野蠻人）\n+20-30% 攻速\n+300-350% 增強傷害\n+9 最大傷害\n+50 命中率（AR）\n+75% 對不死者傷害\n 對不死者 +50命中率\n每次命中偷取 8-10% 生命\n阻止怪物治療\n+10 力量\n+10 活力\n傷害減少 8\n+1 光照範圍\n需求 -20%\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwunbendingwill",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -558,7 +558,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4智慧(Wisdom)\nÿc3+33% 穿刺攻擊\n+15-25% 命中率\n每擊竊取 4-8% 法力值\n +30% 增強防禦\n+10 能量\n耐力消耗降低 15%\n無法凍結\n每次擊殺 +5 法力值\n15% 承受傷害轉變成法力\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwwisdom",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

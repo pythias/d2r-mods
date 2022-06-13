@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4毀滅(Destruction)\nÿc323% 概率在擊中目標時施放出12級火山\n5% 概率在擊中目標時施放出23級熔漿巨巖\n100% 概率當你死亡時施放出45級隕石\n攻擊時 15% 概率在攻擊時施放出22級新星\n+350% 增強傷害\n忽視目標防禦\n增加 100-180 魔法傷害\n每次命中偷取 7% 法力\n20% 壓碎打擊\n20% 致命一擊\n防止怪物自療\n+10 敏捷\nÿcC坑爹貨，也許還等待著誰去挖掘他們的價值",
+                                                        "tooltipString": "@ztrwdestruction",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4和諧(Harmony)\nÿc8等級 10 精力靈氣賦予\n+200-275% 增強傷害 ÿcU(變動)\nÿc3+9 最小傷害\n+9 最大傷害\n增加 55-160的火焰傷害\n增加 55-160的冰冷傷害\n增加 55-160的閃電傷害\n+2-6 到女武神 ÿcU(變動)\nÿc3+10 敏捷\n法力重生 20%\n+2 點法力在美殺一個敵人後取得\n+2 照亮範圍\nÿc9等級20重生 (25聚氣)\nÿcO重要屬性：10級活力光環、275ED\n其他亮點：+6女武神、重生聚氣\n美中不足：缺IAS\n賦予的活力光環成為除PAL之外的跑路首選\n不低的ED和元素傷害能讓物理弓AMA在PASS時一路通殺，重生聚氣更是在殺BOSS時大放異彩\nÿcC底材推薦\nÿc8女族長之弓：基礎攻速-10的弓裏均傷最高的，3弓技能也聊勝於無\n刀鋒弓：和巨弓相比，低STR需求更適合物理弓AMA，而且同樣是最大4孔\n獵弓：需求最低的4孔弓，放在副手跑路用\n其他：低需求的4孔弓都可以給MFCHAR做副手跑路",
+                                                        "tooltipString": "@ztrwharmony",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4橡樹之心(Heart of the Oak)\nÿc3+3 到所有技能\n40% 高速施展\n+75% 對惡魔系生物的傷害\n+100 對惡魔系生物的準確率\n加 3-14 冰冷傷害\n7% 法力於擊中時偷取\n+10 敏捷\n生命恢復速度 +20\n增加最大法力 15%\n所有抗性 +30-40 ÿcU(變動)\nÿc3等級 4 橡木智者 (25 聚氣)\n等級 14 烏鴉 (60 聚氣)\nÿcO重要屬性：3SKILL、40FCR、40RES\n其他亮點：橡木智者聚氣、15%MANA上限、20生命恢復\n美中不足：缺LIFE\n俗稱OAK，高SKILL和高FCR可說是法系的萬金油，橡樹智者聚氣也能給BHPAL製造召喚BUG\nÿcC底材推薦\nÿc8連枷：需求最低的底材，也是通用的唯一底材了",
+                                                        "tooltipString": "@ztrwheartoftheoak",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4執法者(Lawbringer)\nÿc8打擊時有 20% 幾率施展等級 15 衰老\n等級 16-18 庇護所靈氣賦予 (可變)\n-50% 目標防禦\nÿc3+150-210 火焰傷害\n+130-180 冰冷傷害\n7% 擊中偷取生命\n殺死怪物回復平靜\n+200-250 對飛射性防禦 (可變)\n+10 敏捷\n75% 額外金幣從怪物身上取得",
+                                                        "tooltipString": "@ztrwlawbringer",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4優雅旋律(Melody)\nÿc3+50% 增強傷害\n+300% 對不死生物的傷害\n+3 弓和十字弓技能 (限亞馬遜使用)\n+3 致命攻擊 (限亞馬遜使用)\n+3 閃避 (限亞馬遜使用)\n+3 慢速箭 (限亞馬遜使用)\n20% 增加攻擊速度\n+10 敏捷\n擊退",
+                                                        "tooltipString": "@ztrwmelody",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4遵從(Obedience)\nÿc830% 概率當你殺死敵人時施放出 21 級強化\nÿc940% 快速再度攻擊\nÿc8+370% 增強傷害\nÿc3-25% 目標防禦\n+3-14 冰冷傷害\n-25% 對敵人火焰系抗性\nÿc840% 壓碎打擊\nÿc3+200-300 防禦 ÿcU(變動)\nÿc3+10 力量\n+10 敏捷\nÿc9所有抗性 +20-30 ÿcU(變動)\nÿc9-20%需求\nÿcO重要屬性：370ED、40CB、觸發21級火焰強化\n其他亮點：40FHR、30RES、20REQ\n美中不足：缺IAS，有CD\n低造價與高CB共同助其成為平民殺BOSS利器，攻防一體的屬性也讓PET更能抗\n可惜DPS被眼光壓一頭，CB效率也略遜於宏森丹，終極搭配裏一般都不會出現\nÿcC底材推薦\nÿc8鮫尾巨斧：CB效率最高的底材\n銳利之斧：有形的可以給狂怒狼放副手出強化，無形的沒有鮫尾的次選擇\n巨長斧：CB效率較鮫尾略低，但DPS高出不少\n殘酷鐮刀：傷害相當於有形的精華長柄，20REQ也讓PET更容易裝備\n其他：神秘之斧與安臉搭配中DPS最高，可惜低攻速不利於觸發CB",
+                                                        "tooltipString": "@ztrwobedience",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4裂縫(Rift)\nÿc3打擊時有 20% 幾率施展等級 16 龍卷風\n攻擊時有 16% 幾率施展等級 21 冰封球\n20% 額外的攻擊準確率加成\n+160-250 魔法傷害\n+60-180 火焰傷害\n+5-10 轉為所有的屬性 (可變)\n+10 敏捷\n38% 受損的生命移至法力\n75% 額外金幣從怪物身上取得\n等級 15 鋼鐵處女 (40 次)\n需求 -20%",
+                                                        "tooltipString": "@ztrwrift",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4聖堂(Sanctuary)\nÿc920% 快速再度攻擊\nÿc820% 快速格檔率\n20% 增加格檔率\nÿc3130-160% 增強防禦 ÿcU(變動)\nÿc3+250 對飛射性武器的防禦\nÿc9+20 敏捷\nÿc8所有抗性 +50-70ÿcU(變動)\nÿc3魔法傷害減少 7\nÿc9等級 12 慢速箭 (60 聚氣)\nÿcO重要屬性：20CTB、20FBR、70RES\n其他亮點：慢速箭聚氣、20FHR、20DEX\n美中不足：缺DR\n綜合性能相當好的盾牌，慢速箭聚氣對付大群弓箭手等遠程怪時作用明顯\n可惜飾金盾和暴風盾的存在使其出場率降低不少\nÿcC底材推薦\nÿc8洞穴巨魔骨盾：精華盾中DEF最高的通用盾\n最大3孔也是優勢之一，可惜格擋率略低\n神聖小盾：格擋率最高的PAL盾，需求等級也很低\n其他：神聖輕圓盾是沒有神聖小盾時的次選擇",
+                                                        "tooltipString": "@ztrwsanctuary",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -558,7 +558,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4財富(Wealth)\nÿc3300% 得到額外金錢\n100% 提升魔法裝備出現概率\n每殺一個敵人 +2 法力\n+10 敏捷",
+                                                        "tooltipString": "@ztrwwealth",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

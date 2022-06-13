@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4黑色(Black)\nÿc3+120% 增強傷害\n40% 造成壓碎性打擊的概率\n+200 準確率\n+3-14 冰冷傷害, 3 秒持續時間\n+10 體力\n15% 增加攻擊速度\n擊退\n法術傷害減少 2\n等級 4 屍體爆炸 (12 次)",
+                                                        "tooltipString": "@ztrwblack",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4閃爍火焰(Flickering Flame)\nÿc3裝備時獲得 等級4-8 的抵抗火焰光環\n+3 火系技能\n敵人火抗 -10-15%\n +30% 增強防禦\n+30 對遠程投射物防禦\n+50-75 法力值\n+5% 最大火焰抗性\n凍結時間減半\n中毒時間減少50%\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwflickeringflame",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4優雅旋律(Melody)\nÿc3+50% 增強傷害\n+300% 對不死生物的傷害\n+3 弓和十字弓技能 (限亞馬遜使用)\n+3 致命攻擊 (限亞馬遜使用)\n+3 閃避 (限亞馬遜使用)\n+3 慢速箭 (限亞馬遜使用)\n20% 增加攻擊速度\n+10 敏捷\n擊退",
+                                                        "tooltipString": "@ztrwmelody",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4神話(Myth)\nÿc310% 概率在攻擊時施放出 1 級 嘲弄\n3% 概率當被擊中時施放出 1 級 狂嗥\n+2 所有野蠻人技能\n+10 生命恢復速度\n-15% 裝備需求\n攻擊者受到傷害 14\n+30 對遠程攻擊防禦",
+                                                        "tooltipString": "@ztrwmyth",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4天底(Nadir)\nÿc3+50% 防禦力\n+10 防禦力\n+30 防禦力對遠程攻擊\n13級的 魔影鬥篷(9次)\n每殺一個敵人 +2 法力\n+5 強壯\n-33% 得到金錢\n-3 光明度",
+                                                        "tooltipString": "@ztrwnadir",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4執念(Obsession)\nÿc3無法損壞\n24% 幾率在被擊中時施展 等級10 削弱\n+4 所有技能\n+65% 施法速度\n+60% 快速打擊恢復\n擊退\n+10 活力\n+10能量\n最大生命值增加 15-25%\n法力再生 +15-30%\n全抗性 +60-70\n從怪物身上獲得 75%額外金幣\n獲得魔法物品的幾率提高 30%\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwobsession",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4光輝(Radiance)\nÿc3+75% 防禦力\n+30 防禦力對遠程攻擊\n+10 能量\n+10 活力\n15% 傷害轉移到 mana\n抵消魔法傷害 3\n+33 法力\n抵消物理傷害 7\n+5 光明度",
+                                                        "tooltipString": "@ztrwradiance",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4煙塵(Smoke)\nÿc3+75% 防禦力\n+280 防禦力對遠程攻擊\nÿc8四防 +50\nÿc920% 快速恢復打擊\nÿc36級 削弱 (18 次)\n+10 能量\n-1 光明度\nÿcO重要屬性：50RES\n其他亮點：20FHR\n美中不足：ed低\n綜合性能並不顯眼，只能在SOLO中幫CHAR補RES\nÿcC底材推薦\nÿc8法師鎧甲：DEF最高的擴展輕甲\n其他：SOLO中任何2孔輕甲都可以做",
+                                                        "tooltipString": "@ztrwsmoke",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

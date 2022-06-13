@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4死亡呼吸(Breath of the Dying)\nÿc350% 概率當你殺死敵人時施放出 20級 劇毒新星\nÿc8無法破壞\n60% 提升攻擊速度\n+350-400% 增強傷害 ÿcU(變動)\nÿc3+200% 對不死系生物傷害\n-25% 目標防禦\n+50 到準確率\n+50 對不死系生物的準確率\nÿc9每次命中偷取 7% 法力\n每次命中偷取 12-15% 生命ÿcU(變動)\nÿc9防止怪物自療\n+30 到所有屬性\nÿc3+1 到照亮範圍\n需求 -20%\nÿcO重要屬性：60IAS、400ED、無法破壞\n其他亮點：30全屬性、LL、LM、防自療\n美中不足：缺DS\n俗稱BOTD，天梯符文出來以後，單手武器絕大多數被悔恨壓過\nA2PET武器裏也多數被無限、喪鐘、眼光壓得擡不起頭\nÿcC底材推薦\nÿc8鬼魂之矛：相對而言通用性最好的底材，宏森丹的存在也助其壓巨長斧一頭\n巨長斧：對WWBB而言傷害比鬼魂之矛更高，只因長柄裏沒有能達到4F的CB武器而少人問津\n戰槍：除了打錢BB外，對應的練法多是冷門，不過性能還是不錯\n狂戰士斧：在DAM無法作用的復仇上，BOTD終於吐氣揚眉了一把\n巨神之刃：在沒有天梯符文的版本裏，出場率還是蠻高的\n其他：雷錘是狂戰士BB的最佳選擇，女族長之矛可以給矛馬物電雙修\n十字軍之弓也在娛樂練法中出現，冠軍斧和食人魔之錘給狂怒狼也能比誓約的DPS更高",
+                                                        "tooltipString": "@ztrwbreathofthedying",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4死神(Death)\nÿc3當死亡時 100% 產生44級的連鎖閃電\n攻擊時 25% 產生 18 級的冰尖柱\nÿc8無法破壞\n300-385% 增強傷害 ÿcU(變動)\nÿc320% 額外準確率增加\n+50 攻擊準確率\n1-50 閃電傷害\nÿc97% 偷取法力\nÿc850% 壓碎打擊\n+0-49% 致命攻擊 (依角色等級乘0.5)\nÿc3+1 照亮範圍\n等級 22 鮮血石魔 (15聚氣)\n-20% 需求\nÿcO重要屬性：385ED、無法破壞、0.5DS每級\n其他亮點：50CB、7LM\n美中不足：缺IAS\n無法破壞、高ED、高CB、高DS，條條屬性都如此兇殘\n，就因為缺了IAS而多被淪為側手，只有在攻速超高的雙熱PAL手裏才能與悔恨相提並論\nÿcC底材推薦\nÿc8狂戰士斧：單手武器中RANGE最大、基礎攻速和傷害最均衡的底材\n巨神之劍：狂亂BB只算主手的IAS，所以側手可以盡量用無IAS的武器，同時也是雙手雙熱的利器\n其他：雙頭斧是沒有狂戰士斧時的次選擇，巨神之刃是沒有巨神之劍時的次選擇",
+                                                        "tooltipString": "@ztrwdeath",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4末日(Doom)\nÿc3擊中敵人時有5% 機會施展等級 18 火山\nÿc8等級 12 神聖冰凍靈氣賦予\nÿc3+2 到所有技能\nÿc945% 提升攻擊速度\n330-370% 增強傷害 ÿcU(變動)\nÿc8-40-60% 敵人冰冷抗性 ÿcU(變動)\nÿc920% 致命攻擊\nÿc325% 機會撕裂傷口\n防止怪物自療\n凍結目標\n需求 -20%\nÿcO重要屬性：12級神聖冰凍光環、-60CR\n其他亮點：380ED、45IAS、20DS\n美中不足：缺無法破壞\n賦予的聖冰光環可以提高安全性，-60CR也讓風德有了選擇的理由，因缺少無法破壞\n近戰武器只出現在PK場上，和野獸一同撐起了斧支配WWBB的天下，但也有少數練法可作為PET武器\nÿcC底材推薦\nÿc8狂戰士斧：RANGE最大的單手斧，風德也能輕松拿起\n神秘之斧：對於側手使用執法者的狂亂BB，喪鐘的重要性大減\n聖冰對狂戰士BB追擊小怪的用處也不小，搭配鰻魚頭能達到最大輸出\n巨長斧：安臉搭配下DPS最高的底材\n其他：銳利之斧最大5孔，入手比巨長斧容易，可作為候選",
+                                                        "tooltipString": "@ztrwdoom",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4獅心(Lionheart)\nÿc3+20% 傷害力\n裝備要求 -15%\n+25 強壯\n+10 能量\n+20 活力\n+15 敏捷\n+50 生命\n四防 +30",
+                                                        "tooltipString": "@ztrwlionheart",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4神話(Myth)\nÿc310% 概率在攻擊時施放出 1 級 嘲弄\n3% 概率當被擊中時施放出 1 級 狂嗥\n+2 所有野蠻人技能\n+10 生命恢復速度\n-15% 裝備需求\n攻擊者受到傷害 14\n+30 對遠程攻擊防禦",
+                                                        "tooltipString": "@ztrwmyth",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4遵從(Obedience)\nÿc830% 概率當你殺死敵人時施放出 21 級強化\nÿc940% 快速再度攻擊\nÿc8+370% 增強傷害\nÿc3-25% 目標防禦\n+3-14 冰冷傷害\n-25% 對敵人火焰系抗性\nÿc840% 壓碎打擊\nÿc3+200-300 防禦 ÿcU(變動)\nÿc3+10 力量\n+10 敏捷\nÿc9所有抗性 +20-30 ÿcU(變動)\nÿc9-20%需求\nÿcO重要屬性：370ED、40CB、觸發21級火焰強化\n其他亮點：40FHR、30RES、20REQ\n美中不足：缺IAS，有CD\n低造價與高CB共同助其成為平民殺BOSS利器，攻防一體的屬性也讓PET更能抗\n可惜DPS被眼光壓一頭，CB效率也略遜於宏森丹，終極搭配裏一般都不會出現\nÿcC底材推薦\nÿc8鮫尾巨斧：CB效率最高的底材\n銳利之斧：有形的可以給狂怒狼放副手出強化，無形的沒有鮫尾的次選擇\n巨長斧：CB效率較鮫尾略低，但DPS高出不少\n殘酷鐮刀：傷害相當於有形的精華長柄，20REQ也讓PET更容易裝備\n其他：神秘之斧與安臉搭配中DPS最高，可惜低攻速不利於觸發CB",
+                                                        "tooltipString": "@ztrwobedience",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4裂縫(Rift)\nÿc3打擊時有 20% 幾率施展等級 16 龍卷風\n攻擊時有 16% 幾率施展等級 21 冰封球\n20% 額外的攻擊準確率加成\n+160-250 魔法傷害\n+60-180 火焰傷害\n+5-10 轉為所有的屬性 (可變)\n+10 敏捷\n38% 受損的生命移至法力\n75% 額外金幣從怪物身上取得\n等級 15 鋼鐵處女 (40 次)\n需求 -20%",
+                                                        "tooltipString": "@ztrwrift",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4寂靜(Silence)\nÿc3+200% 傷害力\n+75% 傷害力對不死系怪物\n裝備要求 -20%\n20% 提升攻擊速度\n+50 攻擊命中率對不死系怪物\n+2 級所以技能\n四防 +75\n20% 快速恢復打擊\n每次命中偷取 11% 法力\n命中後嚇跑怪物概率 25%\n命中後使目標失明 [33]\n每殺一個敵人 +2 法力\n30% 提升魔法裝備出現概率",
+                                                        "tooltipString": "@ztrwsilence",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -558,7 +558,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4不屈意志(Unbending Will)\nÿc3攻擊有 18% 幾率施展18級嘲諷\n+3 戰鬥技能（僅限野蠻人）\n+20-30% 攻速\n+300-350% 增強傷害\n+9 最大傷害\n+50 命中率（AR）\n+75% 對不死者傷害\n 對不死者 +50命中率\n每次命中偷取 8-10% 生命\n阻止怪物治療\n+10 力量\n+10 活力\n傷害減少 8\n+1 光照範圍\n需求 -20%\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwunbendingwill",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

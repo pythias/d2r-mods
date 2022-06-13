@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4荊棘(Bramble)\nÿc3裝備後具有 15-21 級 刺針靈氣(可變)\n50% 快速恢復打擊\n+25-50% 毒技能傷害 (可變)\n+300 防禦力\n提升 法力 上限 5%\n提升 法力 回復速度 15%\n+5% 防冰上限\n防火 +30%\n防毒 +100%\n每殺一個怪物 +13 生命\n13級 棘靈 (33次)",
+                                                        "tooltipString": "@ztrwbramble",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4武裝號召(Call to Arms)\nÿc8+1 到所有技能\nÿc940% 提升攻擊速度\n250-290% 增強傷害 ÿcU(變動)\nÿc3加 5-30 火焰傷害\n7% 生命於擊中時偷取\nÿc8+2-6 到戰鬥指揮 ÿcU(變動)\nÿc8+1-6 到戰鬥體製 ÿcU(變動)\nÿc3+1-4 到戰嗥 ÿcU(變動)\nÿc3防止怪物自療\n生命恢復速度 +12\n30% 更佳機會取得魔法裝備\nÿcO重要屬性：+6戰鬥體製、+6戰鬥指揮、1SKILL\n其他亮點：40IAS、270ED\n美中不足：缺+大叫\n俗稱CTA，以戰鬥體製著稱，通常放在副手撐高LIFE和MANA\nPK中更是必不可少，極少數CHAR也用來做輸出的武器\nÿcC底材推薦\nÿc8水晶劍：STR需求低且造型美觀就是選擇的理由\n巨戰權杖：除了自帶的救贖能夠在PVC中省下點數，撐高的凈化也能減少中毒與詛咒的時間\n神使之杖：不同技能不同練法的PAL，一在PK中不僅可以用沖鋒偷襲還可以開審判放天堂之拳猥瑣對手\n二和流亡搭配，開狂熱快速打出LT；三給雙熱對付物免的不死怪\n其他：雙刃斧和連枷的需求也不高，大院長之弓做的成品也能成為元素弓AMA不錯的武器",
+                                                        "tooltipString": "@ztrwcalltoarms",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4混沌(Chaos)\nÿc3打擊時有 9% 幾率施展等級 11 冰封球\n打擊時有 11% 幾率施展等級 9 充能彈\n+35% 增加攻擊速度\n+290-340% 增強傷害 (可變)\n增加 216-471 魔法傷害\n25% 撕開傷口機會\n+1 致 旋風\n+10 力量\n+15 點生命在每殺一個惡魔敵人後取得",
+                                                        "tooltipString": "@ztrwchaos",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4末日(Doom)\nÿc3擊中敵人時有5% 機會施展等級 18 火山\nÿc8等級 12 神聖冰凍靈氣賦予\nÿc3+2 到所有技能\nÿc945% 提升攻擊速度\n330-370% 增強傷害 ÿcU(變動)\nÿc8-40-60% 敵人冰冷抗性 ÿcU(變動)\nÿc920% 致命攻擊\nÿc325% 機會撕裂傷口\n防止怪物自療\n凍結目標\n需求 -20%\nÿcO重要屬性：12級神聖冰凍光環、-60CR\n其他亮點：380ED、45IAS、20DS\n美中不足：缺無法破壞\n賦予的聖冰光環可以提高安全性，-60CR也讓風德有了選擇的理由，因缺少無法破壞\n近戰武器只出現在PK場上，和野獸一同撐起了斧支配WWBB的天下，但也有少數練法可作為PET武器\nÿcC底材推薦\nÿc8狂戰士斧：RANGE最大的單手斧，風德也能輕松拿起\n神秘之斧：對於側手使用執法者的狂亂BB，喪鐘的重要性大減\n聖冰對狂戰士BB追擊小怪的用處也不小，搭配鰻魚頭能達到最大輸出\n巨長斧：安臉搭配下DPS最高的底材\n其他：銳利之斧最大5孔，入手比巨長斧容易，可作為候選",
+                                                        "tooltipString": "@ztrwdoom",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4流亡(Exile)\nÿc815% 概率在攻擊時施放出 5級 偷取生命\n當裝備時具有 13-16級 反抗靈氣ÿcU(變動)\nÿc3+2 到攻擊性靈氣 (限聖騎士)\n+30% 快速格檔率\n凍結目標\nÿc9220-260% 增強防禦ÿcU(變動)\nÿc3生命恢復速度 +7\n+5% 到最大冰冷抵抗\n+5% 到最大火焰抵抗\n25% 更佳機會取得魔法裝備\nÿc9回復耐久度1於4秒內\nÿcO重要屬性：16級反抗光環、觸發5級偷取生命\n其他亮點：恢復耐久、260ed\n美中不足：缺RES、CTB，反抗光環極大地提高了DEF，恢復耐久能夠放心地使用無形底材\n偷取生命的詛咒更是提高了殺BOSS時的安全性\nÿcC底材推薦\nÿc8旋風盾：DEF最高的PAL盾，能將DEF最大化，RES類型的較為通用\n神聖小盾：格擋率最高的PAL盾，STR需求更適合PVC\n其他：神聖輕圓盾是沒有神聖小盾時的次選擇",
+                                                        "tooltipString": "@ztrwexile",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4信心(Faith)\nÿc8等級 12-15 狂熱靈氣賦予 ÿcU(變動)\nÿc3+1-2 所有技能 ÿcU(變動)\nÿc8+330% 增強傷害\nÿc9忽視目標防禦\n300% 額外攻擊準確率\nÿc3+75% 對不死生物傷害\n+50 對不死生物準確率\n所有抗性 +15\n10% 復活為 復活的怪物\n75% 額外金錢自怪物取得\nÿcO重要屬性：15級狂熱光環、330ED\n其他亮點：ITD、300%AR、復活亡靈\n美中不足：缺IAS\n15級狂熱光環帶來的大量攻速、ED和AR使其成為物理輸出第一弓，同時也讓A1PET有了作為承載器出場的機會\nÿcC底材推薦\nÿc8大院長之弓：PVC中追求DPS的最佳底材，搭配IAS甲更是如虎添翼\n陰影弓：傷害與攻速較平衡的底材，PK中出場率很高，盜賊皇冠的存在也使其比巨弓更適合作為A1PET武器\n其他：沒有陰影弓時，鉆石弓可作為自用代替品，傷害穩定是亮點\n巨弓可作為PET用代替品，能夠更快地觸發裝備上的CB等效果",
+                                                        "tooltipString": "@ztrwfaith",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4饑荒(Famine)\nÿc3+30% 增加攻擊速度\n+320-370% 增強傷害 (可變)\n無視目標防禦\n+180-200 魔法傷害\n+50-200 火焰傷害\n+51-250 閃電傷害\n+50-200 冰冷傷害\n12% 擊中偷取生命\n防止怪物自療\n+10 力量",
+                                                        "tooltipString": "@ztrwfamine",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

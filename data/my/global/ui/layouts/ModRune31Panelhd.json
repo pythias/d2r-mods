@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4烙印(Brand)\nÿc3攻擊時有 35% 幾率施展等級 14 傷害加深\n打擊時有 100% 幾率施展等級 18 骨矛\n+260-340% 增強傷害 (可變)\n無視目標防禦\n20% 額外的攻擊準確率加成\n+280-330% 對惡魔的傷害 (可變)\n20% 致命攻擊\n防止怪物自療\n擊退\n火焰爆炸傷害 (15)",
+                                                        "tooltipString": "@ztrwbrand",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4毀滅(Destruction)\nÿc323% 概率在擊中目標時施放出12級火山\n5% 概率在擊中目標時施放出23級熔漿巨巖\n100% 概率當你死亡時施放出45級隕石\n攻擊時 15% 概率在攻擊時施放出22級新星\n+350% 增強傷害\n忽視目標防禦\n增加 100-180 魔法傷害\n每次命中偷取 7% 法力\n20% 壓碎打擊\n20% 致命一擊\n防止怪物自療\n+10 敏捷\nÿcC坑爹貨，也許還等待著誰去挖掘他們的價值",
+                                                        "tooltipString": "@ztrwdestruction",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4夢境(Dream)\nÿc310% 概率當被擊中時施放出 15級 迷亂\nÿc8當裝備後擁有 15級 神聖衝擊靈氣\nÿc9+20-30% 再度快速攻擊ÿcU(變動)\nÿc3330%增強防禦\n+150-220 防禦 ÿcU(變動)\nÿc3+10 體力\n+50 生命\nÿc9+0-61 法力(角色等級乘 0.625)\n所有抗性 +5-20(變動)\nÿc312-25% 更佳取得魔法裝備 ÿcU(變動)\nÿcO重要屬性：15級神聖沖擊光環\n其他亮點：30FHR、20RES、0.625MANA每級\n美中不足：缺-LR\nÿcC底材推薦\nÿc8骸骨面罩：STR需求和DEF較平衡的頭盔\n巨魔骨盾：DEF最高的精華輕盾，適合給VIT型的雙夢SOR\n亥伯龍盾：格擋率最高的通用盾中DEF最高的，適合給BLOCK型的雙夢SOR\n神聖小盾：格擋率最高的PAL盾\n其他：神聖輕圓盾是沒有神聖小盾時的次選擇",
+                                                        "tooltipString": "@ztrwdream",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4迷團(Enigma)\nÿc8+2 到所有技能\nÿc945% 高速跑步\/行走\nÿc8+1 傳送\nÿc3+750-775 防禦ÿcU(變動)\nÿc9+0-74 力量(角色等級乘0.75)\nÿc3增加最大生命 5%\nÿc9傷害減少 8%\n每殺一個敵人 +14 生命\n15% 傷害轉移到法力\nÿc8+1-99% 更佳機會取得魔法裝備(角色等級乘1)\nÿcO重要屬性：+1TP、1MF每級、2SKILL\n其他亮點：0.75STR每級、8%DR、45FRW\n美中不足：缺RES\n俗稱TP+，可謂是1.10以後暗黑的象征，+1TP讓PK場上的格局從此改變\n大量的MF也讓幾乎所有的CHAR都有了MF能力，海量的STR更是能幫助實現0STR投入\nÿcC底材推薦\nÿc8法師鎧甲：DEF最高的擴展輕甲，即使在沒有ULC的1.10中仍然能夠輕松實現0STR投入\n灰幕布衣：STR需求最低的精華甲，在ULC出現之後被越來越多的使用\n執政官鎧甲：DEF最高的精華輕甲，由於PK中常常需要用到年紀\n所以STR一般不會浪費，而在PVC中也可以BUG穿裝備，只是撿屍體的時候有些麻煩",
+                                                        "tooltipString": "@ztrwenigma",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4信心(Faith)\nÿc8等級 12-15 狂熱靈氣賦予 ÿcU(變動)\nÿc3+1-2 所有技能 ÿcU(變動)\nÿc8+330% 增強傷害\nÿc9忽視目標防禦\n300% 額外攻擊準確率\nÿc3+75% 對不死生物傷害\n+50 對不死生物準確率\n所有抗性 +15\n10% 復活為 復活的怪物\n75% 額外金錢自怪物取得\nÿcO重要屬性：15級狂熱光環、330ED\n其他亮點：ITD、300%AR、復活亡靈\n美中不足：缺IAS\n15級狂熱光環帶來的大量攻速、ED和AR使其成為物理輸出第一弓，同時也讓A1PET有了作為承載器出場的機會\nÿcC底材推薦\nÿc8大院長之弓：PVC中追求DPS的最佳底材，搭配IAS甲更是如虎添翼\n陰影弓：傷害與攻速較平衡的底材，PK中出場率很高，盜賊皇冠的存在也使其比巨弓更適合作為A1PET武器\n其他：沒有陰影弓時，鉆石弓可作為自用代替品，傷害穩定是亮點\n巨弓可作為PET用代替品，能夠更快地觸發裝備上的CB等效果",
+                                                        "tooltipString": "@ztrwfaith",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4饑荒(Famine)\nÿc3+30% 增加攻擊速度\n+320-370% 增強傷害 (可變)\n無視目標防禦\n+180-200 魔法傷害\n+50-200 火焰傷害\n+51-250 閃電傷害\n+50-200 冰冷傷害\n12% 擊中偷取生命\n防止怪物自療\n+10 力量",
+                                                        "tooltipString": "@ztrwfamine",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4狂暴(Fury)\nÿc3+209% 增強傷害\nÿc840% 增加攻擊速度\n防止怪物自療\n66% 撕開傷口機會\n33% 致命攻擊\n無視目標防禦\n-25% 目標防禦\n20% 額外的攻擊準確率加成\n6% 擊中偷取生命\nÿc3+5 狂亂 (限野蠻人使用)",
+                                                        "tooltipString": "@ztrwfury",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4冰凍(Ice)\nÿc3升級時有 100% 幾率施展等級 40 暴風雪\n打擊時有 25% 幾率施展等級 22 霜之新星\n等級 18 神聖冰凍靈氣賦予\n+20% 增加攻擊速度\n+140-210% 增強傷害 (可變)\n無視目標防禦\n+25-30% 冰冷技能傷害 (可變)\n-20% 敵人抗性\n7% 擊中偷取生命\n20% 致命攻擊\n3.125-309.375% 額外金幣從怪物身上取得(以角色等級決定)",
+                                                        "tooltipString": "@ztrwice",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -558,7 +558,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4最後希望(Last Wish)\nÿc96% 概率當被擊中時施放出 11級 能量消減\nÿc810% 概率在擊中目標時施放出 18級 偷取生命\nÿc320% 概率在攻擊時施放出 20級 充能彈\nÿc9當裝備後擁有 17級 力量靈氣\nÿc3+330-375% 增強傷害 ÿcU(變動)\nÿc3忽視目標防禦\nÿc860-70% 壓碎打擊ÿcU(變動)\nÿc3防止怪物自療\n擊中使怪物盲目\n+0-49% 魔法裝備出現概率(角色等級乘0.5)\nÿcO重要屬性：70CB、觸發18級偷取生命\n其他亮點：觸發11級能量消解、17級力量光環\n美中不足：缺IAS、無法破壞\n造價最高的符文之語，只有在殺6BOSS的時候才較能發揮性能\nÿcC底材推薦\nÿc8幻化之刃：盾擊無視武器傷害，雙夢也以LD為主，底材基礎攻速越快越好\n巨神之刃：對於偏愛A5PET的可以作為輔助",
+                                                        "tooltipString": "@ztrwlastwish",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -603,7 +603,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4鳳凰(Phoenix)\nÿc3100% 概率當你升級時施放出 40級 熾烈之徑\n40% 概率在擊中目標時施放出 22級 火風暴\nÿc8當裝備後擁有 10~15級 救贖靈氣ÿcU(變動)\nÿc9+350-400% 增強傷害 ÿcU(變動)\n-28% 對敵人火焰系抗性\nÿc3+350-400 對遠距防禦 ÿcU(變動)\nÿc3+50 生命\n+5% 最大閃電抵抗\n+10% 最大火焰抵抗\nÿc9+15-21 火焰吸收 ÿcU(變動)\nÿcO重要屬性：13級救贖光環\n其他亮點：400ED、-28FR、21火吸\n美中不足：觸發22級火風暴\n救贖光環能極大地提高續航性，400ED和BOTD並列為符文之語的最高ED\n卻因觸發的火風暴有15F的技能延遲，而廢了絕大部分功用\nÿcC底材推薦\nÿc8統治者大盾：需求最低的4孔通用盾，可以犧牲副手精神的2級BO換來續航\n主手使用有的因為需要救贖續航，有的需要-FR，而WW需要ED且不會觸發火風暴\n其他：聖盾和保護盾牌可供WWBB專用",
+                                                        "tooltipString": "@ztrwphoenix",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

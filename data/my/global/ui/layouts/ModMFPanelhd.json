@@ -255,7 +255,7 @@
                                                     "type": "TextBoxWidget",
                                                     "name": "MRName",
                                                     "fields": {
-                                                        "text": "Act1 大陵墓",
+                                                        "text": "@ztmf851n",
                                                         "style": "$StyleModGold"
                                                     }
                                                 },
@@ -263,7 +263,7 @@
                                                     "type": "TextBoxWidget",
                                                     "name": "MRLocation",
                                                     "fields": {
-                                                        "text": "@埋骨之地 @mom851",
+                                                        "text": "@ztmf851l",
                                                         "style": "$StyleModWhite"
                                                     }
                                                 },
@@ -272,7 +272,7 @@
                                                     "name": "MRTips",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "@mom851",
+                                                        "tooltipString": "@ztmf851t",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

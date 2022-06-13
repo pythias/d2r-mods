@@ -1,0 +1,24 @@
+{
+    "name": "pythias/d2r-mods",
+    "description": "d2r mod generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pythias",
+            "email": "pythias@gmail.com"
+        }
+    ],
+    "keywords": [
+        "d2r",
+        "mods"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mod\\": "src/"
+        },
+        "files": [
+            "conf/paths.php"
+        ]
+    },
+    "require": {}
+}

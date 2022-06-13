@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4骨頭(Bone)\nÿc315% 概率在攻擊時施放出 10 級 骨矛\n15% 概率當被擊中時施放出 10 級 白骨裝甲\n+2 所有男巫技能\n+100-150 法力\n減少物理傷害 7\n+30 所有抗性",
+                                                        "tooltipString": "@ztrwbone",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4飛龍(Dragon)\nÿc320% 概率當被擊中時施放出 18 級 毒牙\n12% 概率在擊中目標時施放出 15 級 九頭海蛇\n當裝備後擁有 14 級 聖火靈氣\n+360 防禦力\n+230 防禦力對遠程攻擊\n+3-5 所有屬性 (可變)\n+0.375 (每級) 強壯 (在角色級別基礎上)\n+50 點 法力\n+5% 防電上限\n抵消物理傷害 7",
+                                                        "tooltipString": "@ztrwdragon",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4啟迪(Enlightenment)\nÿc35% 概率在攻擊時施放出 15 級 火球\n5% 概率當被擊中時施放出 15 級 冰尖柱\n+2 所有女巫技能\n+1 暖氣\n+30% 防禦\n減少物理傷害 7\n+30% 火抗",
+                                                        "tooltipString": "@ztrwenlightenment",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4永恒(Eternity)\nÿc3永不魔損\n+260-310% 傷害力\n+9 最小傷害力\n每次命中偷取 7% 生命\n20% 概率決定性打擊\n使目標失明\n減慢目標速度 33%\n提升法力回復速度 16%\n自動恢復生命 +16\n不被冰凍\n30% 提升魔法裝備出現概率\n8 級 重生 (88 次)",
+                                                        "tooltipString": "@ztrweternity",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4剛毅(Fortitude)\nÿc9被擊中時 20% 機率產生 15 級寒冰裝甲\nÿc325% 高速施法速度\nÿc8增加 300% 傷害\n增加 200% 防禦\n+15 防禦\n+1-148 生命(角色等級乘 1-1.5)ÿcU(變動)\nÿc3恢復生命速度 +7\n+5% 最大閃電抗性\nÿc8所有抗性 +25-30 ÿcU(變動)\nÿc3減少傷害 7\n12% 傷害轉化為法力\n+1 照亮範圍\nÿcO重要屬性：300ED、1.5LIFE每級、30RES\n其他亮點：25FCR、觸發15級寒冰裝甲\n美中不足：缺IAS\n300ED使其成為近戰物理CHAR的最強輸出甲\n綜合防禦能力也是數一數二，同時也是PET的最強甲\nÿcC底材推薦\nÿc8執政官鎧甲：DEF最高的精華輕甲，STR需求也容易達到\n神聖盔甲：DEF最高的甲，適合STR高的CHAR，在安臉或CB頭的支持下A2PET也能使用\n漆甲：PET無需任何加STR的裝備即能使用，常搭配鰻魚頭\n其他：精華輕甲都是可考慮的對象，海妖殼甲和炎魔皮板甲也可以PET用",
+                                                        "tooltipString": "@ztrwfortitude",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4和諧(Harmony)\nÿc8等級 10 精力靈氣賦予\n+200-275% 增強傷害 ÿcU(變動)\nÿc3+9 最小傷害\n+9 最大傷害\n增加 55-160的火焰傷害\n增加 55-160的冰冷傷害\n增加 55-160的閃電傷害\n+2-6 到女武神 ÿcU(變動)\nÿc3+10 敏捷\n法力重生 20%\n+2 點法力在美殺一個敵人後取得\n+2 照亮範圍\nÿc9等級20重生 (25聚氣)\nÿcO重要屬性：10級活力光環、275ED\n其他亮點：+6女武神、重生聚氣\n美中不足：缺IAS\n賦予的活力光環成為除PAL之外的跑路首選\n不低的ED和元素傷害能讓物理弓AMA在PASS時一路通殺，重生聚氣更是在殺BOSS時大放異彩\nÿcC底材推薦\nÿc8女族長之弓：基礎攻速-10的弓裏均傷最高的，3弓技能也聊勝於無\n刀鋒弓：和巨弓相比，低STR需求更適合物理弓AMA，而且同樣是最大4孔\n獵弓：需求最低的4孔弓，放在副手跑路用\n其他：低需求的4孔弓都可以給MFCHAR做副手跑路",
+                                                        "tooltipString": "@ztrwharmony",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4榮耀(Honor)\nÿc3+160% 傷害力\n+9 最小傷害力\n+9 最大傷害力\n25% 概率雙倍打擊\n+250 命中率\n+1 級所有技能\n每次命中偷取 7% 生命\n自動恢復生命 +10\n+10 強壯\n+1 光明度\n每殺一個敵人 +2 法力",
+                                                        "tooltipString": "@ztrwhonor",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4眼光(Insight)\nÿc8等級12-17冥思靈氣賦予 ÿcU(變動)\n+35% 高速施展速度\nÿc9+200-260% 增強傷害 ÿcU(變動)\nÿc3+9 最小傷害\nÿc9180-250% 額外攻擊準確率 ÿcU(變動)\nÿc3增加 5-30 火焰傷害\n+75 毒素傷害於每5秒作用\nÿc9+1-6 致命攻擊 ÿcU(變動)\nÿc3+5 所有屬性\n+2 法力在每殺一個敵人後取得\n23% 更佳機會取得魔法裝備\nÿcO重要屬性：17級冥思光環、35FCR\n其他亮點：+6雙倍打擊、260ED、250%AR\n美中不足：缺IAS、-LR\n冥思光環帶來的MANA高速回復讓法系CHAR從此不必擔心續航性\n搭配上普通難度A2戰鬥PET的祈禱光環更是能雙倍LIFE回復雙倍打擊技能\n也讓好變量的DPS一舉超越無限和遵從，SOLO中必做\nÿcC底材推薦\nÿc8神秘之斧：在與安臉的搭配中能有最高的DPS\n巨長斧：在與鰻魚頭的搭配中能有最高的DPS\n鮫尾巨斧：與鰻魚頭的搭配中DPS和巨長斧相差無幾\n銳利之斧：沒有鮫尾的次選擇\n戰鬥鐮刀：相當低的STR和DEX需求讓達到等級的A2PET馬上即可使用\n戰鬥法杖：眼光女的手抓底材，犧牲傷害換取了續航性，爭議比鐮刀女更大",
+                                                        "tooltipString": "@ztrwinsight",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -558,7 +558,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4知識(Lore)\nÿc8+1 所有技能等級\nÿc3+10 精力\nÿc8每殺一個敵人 +2 法力\nÿc9+30% 閃電抗性\n傷害減少 7\nÿc3+2 照亮範圍\nÿcO重要屬性：1SKILL、2EK\n其他亮點：30LR、7DR\n美中不足：缺FCR\n對法系CHAR而言每一條都是有用的屬性，入手也很容易\nÿcC底材推薦\nÿc8殘酷頭盔：擴展級中DEF最高的通用頭盔\n其他：頭環適合給對造型有要求的玩家，BB和DRU可以選有STAFFMOD的專用頭",
+                                                        "tooltipString": "@ztrwlore",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -603,7 +603,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4回憶(Memory)\nÿc3+3 法師技能\n33% 高速施展速度\n增加法力上限 20%\n+3 能量護盾 (限法師使用)\n+2 靜態力場 (限法師使用)\n+10 精力\n+10 體力\n+9 最小傷害\n-25% 目標防禦\n法術傷害減少 7\n+50% 防禦強化",
+                                                        "tooltipString": "@ztrwmemory",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -648,7 +648,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4光輝(Radiance)\nÿc3+75% 防禦力\n+30 防禦力對遠程攻擊\n+10 能量\n+10 活力\n15% 傷害轉移到 mana\n抵消魔法傷害 3\n+33 法力\n抵消物理傷害 7\n+5 光明度",
+                                                        "tooltipString": "@ztrwradiance",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

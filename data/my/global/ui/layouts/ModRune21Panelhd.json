@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4夢境(Dream)\nÿc310% 概率當被擊中時施放出 15級 迷亂\nÿc8當裝備後擁有 15級 神聖衝擊靈氣\nÿc9+20-30% 再度快速攻擊ÿcU(變動)\nÿc3330%增強防禦\n+150-220 防禦 ÿcU(變動)\nÿc3+10 體力\n+50 生命\nÿc9+0-61 法力(角色等級乘 0.625)\n所有抗性 +5-20(變動)\nÿc312-25% 更佳取得魔法裝備 ÿcU(變動)\nÿcO重要屬性：15級神聖沖擊光環\n其他亮點：30FHR、20RES、0.625MANA每級\n美中不足：缺-LR\nÿcC底材推薦\nÿc8骸骨面罩：STR需求和DEF較平衡的頭盔\n巨魔骨盾：DEF最高的精華輕盾，適合給VIT型的雙夢SOR\n亥伯龍盾：格擋率最高的通用盾中DEF最高的，適合給BLOCK型的雙夢SOR\n神聖小盾：格擋率最高的PAL盾\n其他：神聖輕圓盾是沒有神聖小盾時的次選擇",
+                                                        "tooltipString": "@ztrwdream",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4啟迪(Enlightenment)\nÿc35% 概率在攻擊時施放出 15 級 火球\n5% 概率當被擊中時施放出 15 級 冰尖柱\n+2 所有女巫技能\n+1 暖氣\n+30% 防禦\n減少物理傷害 7\n+30% 火抗",
+                                                        "tooltipString": "@ztrwenlightenment",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4閃爍火焰(Flickering Flame)\nÿc3裝備時獲得 等級4-8 的抵抗火焰光環\n+3 火系技能\n敵人火抗 -10-15%\n +30% 增強防禦\n+30 對遠程投射物防禦\n+50-75 法力值\n+5% 最大火焰抗性\n凍結時間減半\n中毒時間減少50%\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwflickeringflame",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4幽暗(Gloom)\nÿc915% 概率當被擊中時施放出 3級 微暗靈視\n+10% 快速再度攻擊\nÿc8200-260% 增強防禦ÿcU(變動)\nÿc3+10 力量\nÿc8所有抗性 +45\n冰凍時間減半\n5% 傷害轉移到法力\n-3 到照亮範圍\nÿcO重要屬性：45RES、260ed\n其他亮點：觸發3級微暗靈視、10FHR\n美中不足：缺DR\n和石塊同等價位且都是偏重防禦的盔甲，對上電鬼時會有點優勢\n但總體性能比不上石塊，也只有SOLO中才有可能做\nÿcC底材推薦\nÿc8灰幕布衣：最容易入手的精華級甲，在噩夢就有機會出\n其他：法師鎧甲相比之下更容易入手，只是DEF略低",
+                                                        "tooltipString": "@ztrwgloom",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4橡樹之心(Heart of the Oak)\nÿc3+3 到所有技能\n40% 高速施展\n+75% 對惡魔系生物的傷害\n+100 對惡魔系生物的準確率\n加 3-14 冰冷傷害\n7% 法力於擊中時偷取\n+10 敏捷\n生命恢復速度 +20\n增加最大法力 15%\n所有抗性 +30-40 ÿcU(變動)\nÿc3等級 4 橡木智者 (25 聚氣)\n等級 14 烏鴉 (60 聚氣)\nÿcO重要屬性：3SKILL、40FCR、40RES\n其他亮點：橡木智者聚氣、15%MANA上限、20生命恢復\n美中不足：缺LIFE\n俗稱OAK，高SKILL和高FCR可說是法系的萬金油，橡樹智者聚氣也能給BHPAL製造召喚BUG\nÿcC底材推薦\nÿc8連枷：需求最低的底材，也是通用的唯一底材了",
+                                                        "tooltipString": "@ztrwheartoftheoak",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4誓約(Oath)\nÿc3擊中敵人有 30% 機會施展等級20白骨之魂\nÿc8無法破壞\n+50% 增加攻擊速度\n+210-340% 增強傷害 ÿcU(變動)\nÿc3+75% 對惡魔傷害\n+100 對惡魔準確率\nÿc9防止怪物自療\nÿc3+10 精力\n+10-15 魔法吸收 ÿcU(變動)\nÿc3等級 16 狼獾之心 (20聚氣)\n等級 17 鋼鐵石魔 (14聚氣)\nÿcO重要屬性：340ED、無法破壞、50IAS\n其他亮點：防自療\n美中不足：缺DS\n武器該有的無法破壞、高IAS、高ED都有了\n加上極其廣泛的通用性，可謂是平民武器之王\nÿcC底材推薦\nÿc8狂戰士斧：單手武器中RANGE最大、基礎攻速和傷害最均衡的底材\n彎月斧：雙頭斧的次選擇，極低的入手難度和最大4孔的優勢反而使其出場率遠高於雙頭斧\n銀刃斧：對狂怒狼而言DPS最高的底材\n猛禽斧：對熊德而言最容易搭配裝備的底材，給BB也可以讓WW到4F\n巨神之劍：所有刀劍類均傷最高的底材，50IAS能保證WW達到4F\n炎魔之刃：基礎攻速比巨神之劍稍快，能讓誓約+死神搭配的狂亂BB起手速度快0.5F\n也讓專心BB更容易達到9F急速，最大4孔也是優勢之一\n天罰之錘：基礎攻速-10的單手武器中，STR和DEX需求、均傷、RANGE都壓倒其他底材\n其他：巨神之刃可以作為WWBB的候選，高地之劍可以作為狂亂BB和狂戰士BB的候選",
+                                                        "tooltipString": "@ztrwoath",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4石塊(Stone)\nÿc860% 快速再度攻擊\n+250-290% 增強防禦ÿcU(變動)\nÿc3+300 對飛射性武器的防禦\n+16 力量\n+16 體力\n+10 精力\nÿc9所有抗性 +15\nÿc8等級 16 溶漿巨巖 (80 聚氣)\nÿc9等級 16 黏土石魔 (16 聚氣)\nÿcO重要屬性：熔漿巨巖聚氣、60FHR、290ed\n其他亮點：15RES、黏土石魔聚氣\n美中不足：缺OW\n偏重防禦的盔甲，更多人願意選擇同等價位的強製\n但在有聚氣BUG的1.10中，可以給炎爪熊剩下大量點數\nÿcC底材推薦\nÿc8執政官鎧甲：DEF最高的精華輕甲，STR需求也容易達到\n神聖盔甲：DEF最高的甲，適合STR高的CHAR，在安臉或CB頭的支持下A2PET也能使用\n漆甲：PET無需任何加STR的裝備即能使用，常搭配鰻魚頭\n其他：精華輕甲都是可考慮的對象，海妖殼甲和炎魔皮板甲也可以PET用",
+                                                        "tooltipString": "@ztrwstone",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4智慧(Wisdom)\nÿc3+33% 穿刺攻擊\n+15-25% 命中率\n每擊竊取 4-8% 法力值\n +30% 增強防禦\n+10 能量\n耐力消耗降低 15%\n無法凍結\n每次擊殺 +5 法力值\n15% 承受傷害轉變成法力\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwwisdom",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -558,7 +558,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4憤怒(Wrath)\nÿc3打擊時有 30% 幾率施展等級 1 衰老\n打擊時有 5% 幾率施展等級 10 偷取生命\n+375% 對惡魔的傷害\n+100 對惡魔的準確率\n+250-300% 對不死生物的傷害 (可變)\n+85-120 魔法傷害\n+41-240 閃電傷害\n20% 造成壓碎性打擊的概率\n防止怪物自療\n+10 精力\n無法冰凍",
+                                                        "tooltipString": "@ztrwwrath",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

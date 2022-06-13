@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4荊棘(Bramble)\nÿc3裝備後具有 15-21 級 刺針靈氣(可變)\n50% 快速恢復打擊\n+25-50% 毒技能傷害 (可變)\n+300 防禦力\n提升 法力 上限 5%\n提升 法力 回復速度 15%\n+5% 防冰上限\n防火 +30%\n防毒 +100%\n每殺一個怪物 +13 生命\n13級 棘靈 (33次)",
+                                                        "tooltipString": "@ztrwbramble",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4死亡呼吸(Breath of the Dying)\nÿc350% 概率當你殺死敵人時施放出 20級 劇毒新星\nÿc8無法破壞\n60% 提升攻擊速度\n+350-400% 增強傷害 ÿcU(變動)\nÿc3+200% 對不死系生物傷害\n-25% 目標防禦\n+50 到準確率\n+50 對不死系生物的準確率\nÿc9每次命中偷取 7% 法力\n每次命中偷取 12-15% 生命ÿcU(變動)\nÿc9防止怪物自療\n+30 到所有屬性\nÿc3+1 到照亮範圍\n需求 -20%\nÿcO重要屬性：60IAS、400ED、無法破壞\n其他亮點：30全屬性、LL、LM、防自療\n美中不足：缺DS\n俗稱BOTD，天梯符文出來以後，單手武器絕大多數被悔恨壓過\nA2PET武器裏也多數被無限、喪鐘、眼光壓得擡不起頭\nÿcC底材推薦\nÿc8鬼魂之矛：相對而言通用性最好的底材，宏森丹的存在也助其壓巨長斧一頭\n巨長斧：對WWBB而言傷害比鬼魂之矛更高，只因長柄裏沒有能達到4F的CB武器而少人問津\n戰槍：除了打錢BB外，對應的練法多是冷門，不過性能還是不錯\n狂戰士斧：在DAM無法作用的復仇上，BOTD終於吐氣揚眉了一把\n巨神之刃：在沒有天梯符文的版本裏，出場率還是蠻高的\n其他：雷錘是狂戰士BB的最佳選擇，女族長之矛可以給矛馬物電雙修\n十字軍之弓也在娛樂練法中出現，冠軍斧和食人魔之錘給狂怒狼也能比誓約的DPS更高",
+                                                        "tooltipString": "@ztrwbreathofthedying",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4狂暴(Fury)\nÿc3+209% 增強傷害\nÿc840% 增加攻擊速度\n防止怪物自療\n66% 撕開傷口機會\n33% 致命攻擊\n無視目標防禦\n-25% 目標防禦\n20% 額外的攻擊準確率加成\n6% 擊中偷取生命\nÿc3+5 狂亂 (限野蠻人使用)",
+                                                        "tooltipString": "@ztrwfury",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4悔恨(Grief)\nÿc335% 概率在擊中目標時施放出 15級 毒牙\nÿc8+30-40% 提升攻擊速度 ÿcU(變動)\nÿc8傷害 +340-400 ÿcU(變動)\nÿc3忽視目標防禦\n-25% 目標防禦\n+1-15% 對惡魔傷害 (角色等級乘1.875)\n增加 5-30 火焰傷害\n-20-25% 對敵人毒素系抗性 ÿcU(變動)\nÿc920% 致命一擊\n防止怪物自療\nÿc3每殺一個怪物 +2 法力\n每殺一個怪物 +10-15 生命 ÿcU(變動)\nÿcO重要屬性：400DAM、40IAS\n其他亮點：20DS、ITD、防自療\n美中不足：缺無法破壞\n無視底材直接增加400DAM使其成為名符其實的單手武器之王\n40IAS進一步解放了裝備，ITD也讓我們對小怪時無需考慮AR，實為近戰物理CHAR的首選\nÿcC底材推薦\nÿc8幻化之刃：最高的基礎攻速加上無法破壞的特性，簡直是為悔恨量身定做的底材\n韓瑞德之劍：RANGE比幻化之刃大1，最低變量的IAS也能保證WW達到4F，非超強的修理費也不貴\n狂戰士斧：由於低耐久和高修理費的原因無法出現在PVC中，但在PK場上憑借野獸和末日的\n輔助一躍成為最熱門的底材，要使WW達到4F需要34IAS\n其他：巨神之刃的IAS變量在39以上時能使WW達到4F，PVC裏追求最高傷害時可以選用",
+                                                        "tooltipString": "@ztrwgrief",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4聖雷(Holy Thunder)\nÿc3+60% 增強傷害\n-25% 目標防禦\n+5-30 火焰傷害\n+21-110 閃電傷害\n+75 毒素傷害, 持續時間 5 秒\n+10 最大傷害\n抗閃電 +60%\n+5 抗閃電上限\n+3 神聖撞擊 (限聖騎士使用)\n等級 7 連鎖閃電 (60 次)",
+                                                        "tooltipString": "@ztrwholythunder",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4怨恨(Malice)\nÿc3+33% 增強傷害\n+9 最大傷害\nÿc8100% 撕開傷口機會\n-25% 目標防禦\n-100 每擊中減怪物防禦\nÿc3防止怪物自療\n+50 準確率\n消耗生命 -5",
+                                                        "tooltipString": "@ztrwmalice",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4回憶(Memory)\nÿc3+3 法師技能\n33% 高速施展速度\n增加法力上限 20%\n+3 能量護盾 (限法師使用)\n+2 靜態力場 (限法師使用)\n+10 精力\n+10 體力\n+9 最小傷害\n-25% 目標防禦\n法術傷害減少 7\n+50% 防禦強化",
+                                                        "tooltipString": "@ztrwmemory",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4遵從(Obedience)\nÿc830% 概率當你殺死敵人時施放出 21 級強化\nÿc940% 快速再度攻擊\nÿc8+370% 增強傷害\nÿc3-25% 目標防禦\n+3-14 冰冷傷害\n-25% 對敵人火焰系抗性\nÿc840% 壓碎打擊\nÿc3+200-300 防禦 ÿcU(變動)\nÿc3+10 力量\n+10 敏捷\nÿc9所有抗性 +20-30 ÿcU(變動)\nÿc9-20%需求\nÿcO重要屬性：370ED、40CB、觸發21級火焰強化\n其他亮點：40FHR、30RES、20REQ\n美中不足：缺IAS，有CD\n低造價與高CB共同助其成為平民殺BOSS利器，攻防一體的屬性也讓PET更能抗\n可惜DPS被眼光壓一頭，CB效率也略遜於宏森丹，終極搭配裏一般都不會出現\nÿcC底材推薦\nÿc8鮫尾巨斧：CB效率最高的底材\n銳利之斧：有形的可以給狂怒狼放副手出強化，無形的沒有鮫尾的次選擇\n巨長斧：CB效率較鮫尾略低，但DPS高出不少\n殘酷鐮刀：傷害相當於有形的精華長柄，20REQ也讓PET更容易裝備\n其他：神秘之斧與安臉搭配中DPS最高，可惜低攻速不利於觸發CB",
+                                                        "tooltipString": "@ztrwobedience",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -558,7 +558,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4韻律(Rhyme)\nÿc820% 增加格擋率\n40% 快速再度格擋\nÿc9全面抵抗 +25%\nÿc3法力重生 15%\n無法冰凍\n50% 額外金錢從敵人身上取得\nÿc925% 更佳的機會取得魔法物品\nÿcO重要屬性：無法冰凍、20CTB、40FBR\n其他亮點：25MF、25RES\n美中不足：缺SKILL\n無法冰凍、CTB、RES、MF等屬性簡直為SOLO的近戰CHAR量身打造，平民MFCHAR也常放副手撐高MF\nÿcC底材推薦\nÿc8冷酷之盾：DEF最高的擴展通用盾，最大2孔也是優勢之一\n亞克南輕圓盾：等級需求和韻律較吻合，格擋也較亞克南圓盾高\n其他：倒刺護盾同樣最大2孔，亞克南圓盾也是沒有亞克南輕圓盾時的次選擇",
+                                                        "tooltipString": "@ztrwrhyme",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -603,7 +603,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4燦爛(Splendor)\nÿc3+1 級所有技能\n10% 快速施放法術\n+20% 快速抵擋率\n+60-100% 防禦力 (可變)\n+10 能量\n提升 法力 回復速度 15%\n50% 額外得到金錢\n20% 提升魔法裝備出現概率\n+3 光明度\n提升耐久度上限 12%",
+                                                        "tooltipString": "@ztrwsplendor",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -648,7 +648,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4潛行(Stealth)\nÿc3抵消魔法傷害 3\n+6 敏捷\n+15 體力上限\n防毒 +30%\n提升 法力 回復速度 15%\nÿc825% 快速移動\/奔跑\n25% 快速施放法術\nÿc925% 快速恢復打擊\nÿcO重要屬性：25FCR、25FRW\n其他亮點：25FHR、+15%法力回復速度\n美中不足：缺SKILL\n性價比極高的盔甲，SOLO中任何CHAR都值得一做，法系更是能夠用到PASS\nÿcC底材推薦\nÿc8輕型裝甲：DEF最高的普通輕甲\n法師鎧甲：DEF最高的擴展輕甲\n其他：所有的普通級輕甲都可以做，SOLO中不挑底材",
+                                                        "tooltipString": "@ztrwstealth",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -693,7 +693,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4和風(Zephyr)\nÿc3+33% 增強傷害\n+66 準確率\n+1-50 閃電傷害\n-25% 目標防禦\n+25 防禦\n25% 高速跑步\/行走\nÿc825% 增加攻擊速度\nÿc3攻擊時有 7% 幾率施展等級 1 小旋風",
+                                                        "tooltipString": "@ztrwzephyr",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

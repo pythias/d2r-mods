@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4死亡呼吸(Breath of the Dying)\nÿc350% 概率當你殺死敵人時施放出 20級 劇毒新星\nÿc8無法破壞\n60% 提升攻擊速度\n+350-400% 增強傷害 ÿcU(變動)\nÿc3+200% 對不死系生物傷害\n-25% 目標防禦\n+50 到準確率\n+50 對不死系生物的準確率\nÿc9每次命中偷取 7% 法力\n每次命中偷取 12-15% 生命ÿcU(變動)\nÿc9防止怪物自療\n+30 到所有屬性\nÿc3+1 到照亮範圍\n需求 -20%\nÿcO重要屬性：60IAS、400ED、無法破壞\n其他亮點：30全屬性、LL、LM、防自療\n美中不足：缺DS\n俗稱BOTD，天梯符文出來以後，單手武器絕大多數被悔恨壓過\nA2PET武器裏也多數被無限、喪鐘、眼光壓得擡不起頭\nÿcC底材推薦\nÿc8鬼魂之矛：相對而言通用性最好的底材，宏森丹的存在也助其壓巨長斧一頭\n巨長斧：對WWBB而言傷害比鬼魂之矛更高，只因長柄裏沒有能達到4F的CB武器而少人問津\n戰槍：除了打錢BB外，對應的練法多是冷門，不過性能還是不錯\n狂戰士斧：在DAM無法作用的復仇上，BOTD終於吐氣揚眉了一把\n巨神之刃：在沒有天梯符文的版本裏，出場率還是蠻高的\n其他：雷錘是狂戰士BB的最佳選擇，女族長之矛可以給矛馬物電雙修\n十字軍之弓也在娛樂練法中出現，冠軍斧和食人魔之錘給狂怒狼也能比誓約的DPS更高",
+                                                        "tooltipString": "@ztrwbreathofthedying",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4死神(Death)\nÿc3當死亡時 100% 產生44級的連鎖閃電\n攻擊時 25% 產生 18 級的冰尖柱\nÿc8無法破壞\n300-385% 增強傷害 ÿcU(變動)\nÿc320% 額外準確率增加\n+50 攻擊準確率\n1-50 閃電傷害\nÿc97% 偷取法力\nÿc850% 壓碎打擊\n+0-49% 致命攻擊 (依角色等級乘0.5)\nÿc3+1 照亮範圍\n等級 22 鮮血石魔 (15聚氣)\n-20% 需求\nÿcO重要屬性：385ED、無法破壞、0.5DS每級\n其他亮點：50CB、7LM\n美中不足：缺IAS\n無法破壞、高ED、高CB、高DS，條條屬性都如此兇殘\n，就因為缺了IAS而多被淪為側手，只有在攻速超高的雙熱PAL手裏才能與悔恨相提並論\nÿcC底材推薦\nÿc8狂戰士斧：單手武器中RANGE最大、基礎攻速和傷害最均衡的底材\n巨神之劍：狂亂BB只算主手的IAS，所以側手可以盡量用無IAS的武器，同時也是雙手雙熱的利器\n其他：雙頭斧是沒有狂戰士斧時的次選擇，巨神之刃是沒有巨神之劍時的次選擇",
+                                                        "tooltipString": "@ztrwdeath",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4毀滅(Destruction)\nÿc323% 概率在擊中目標時施放出12級火山\n5% 概率在擊中目標時施放出23級熔漿巨巖\n100% 概率當你死亡時施放出45級隕石\n攻擊時 15% 概率在攻擊時施放出22級新星\n+350% 增強傷害\n忽視目標防禦\n增加 100-180 魔法傷害\n每次命中偷取 7% 法力\n20% 壓碎打擊\n20% 致命一擊\n防止怪物自療\n+10 敏捷\nÿcC坑爹貨，也許還等待著誰去挖掘他們的價值",
+                                                        "tooltipString": "@ztrwdestruction",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4流亡(Exile)\nÿc815% 概率在攻擊時施放出 5級 偷取生命\n當裝備時具有 13-16級 反抗靈氣ÿcU(變動)\nÿc3+2 到攻擊性靈氣 (限聖騎士)\n+30% 快速格檔率\n凍結目標\nÿc9220-260% 增強防禦ÿcU(變動)\nÿc3生命恢復速度 +7\n+5% 到最大冰冷抵抗\n+5% 到最大火焰抵抗\n25% 更佳機會取得魔法裝備\nÿc9回復耐久度1於4秒內\nÿcO重要屬性：16級反抗光環、觸發5級偷取生命\n其他亮點：恢復耐久、260ed\n美中不足：缺RES、CTB，反抗光環極大地提高了DEF，恢復耐久能夠放心地使用無形底材\n偷取生命的詛咒更是提高了殺BOSS時的安全性\nÿcC底材推薦\nÿc8旋風盾：DEF最高的PAL盾，能將DEF最大化，RES類型的較為通用\n神聖小盾：格擋率最高的PAL盾，STR需求更適合PVC\n其他：神聖輕圓盾是沒有神聖小盾時的次選擇",
+                                                        "tooltipString": "@ztrwexile",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4閃爍火焰(Flickering Flame)\nÿc3裝備時獲得 等級4-8 的抵抗火焰光環\n+3 火系技能\n敵人火抗 -10-15%\n +30% 增強防禦\n+30 對遠程投射物防禦\n+50-75 法力值\n+5% 最大火焰抗性\n凍結時間減半\n中毒時間減少50%\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwflickeringflame",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4橡樹之心(Heart of the Oak)\nÿc3+3 到所有技能\n40% 高速施展\n+75% 對惡魔系生物的傷害\n+100 對惡魔系生物的準確率\n加 3-14 冰冷傷害\n7% 法力於擊中時偷取\n+10 敏捷\n生命恢復速度 +20\n增加最大法力 15%\n所有抗性 +30-40 ÿcU(變動)\nÿc3等級 4 橡木智者 (25 聚氣)\n等級 14 烏鴉 (60 聚氣)\nÿcO重要屬性：3SKILL、40FCR、40RES\n其他亮點：橡木智者聚氣、15%MANA上限、20生命恢復\n美中不足：缺LIFE\n俗稱OAK，高SKILL和高FCR可說是法系的萬金油，橡樹智者聚氣也能給BHPAL製造召喚BUG\nÿcC底材推薦\nÿc8連枷：需求最低的底材，也是通用的唯一底材了",
+                                                        "tooltipString": "@ztrwheartoftheoak",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4鳳凰(Phoenix)\nÿc3100% 概率當你升級時施放出 40級 熾烈之徑\n40% 概率在擊中目標時施放出 22級 火風暴\nÿc8當裝備後擁有 10~15級 救贖靈氣ÿcU(變動)\nÿc9+350-400% 增強傷害 ÿcU(變動)\n-28% 對敵人火焰系抗性\nÿc3+350-400 對遠距防禦 ÿcU(變動)\nÿc3+50 生命\n+5% 最大閃電抵抗\n+10% 最大火焰抵抗\nÿc9+15-21 火焰吸收 ÿcU(變動)\nÿcO重要屬性：13級救贖光環\n其他亮點：400ED、-28FR、21火吸\n美中不足：觸發22級火風暴\n救贖光環能極大地提高續航性，400ED和BOTD並列為符文之語的最高ED\n卻因觸發的火風暴有15F的技能延遲，而廢了絕大部分功用\nÿcC底材推薦\nÿc8統治者大盾：需求最低的4孔通用盾，可以犧牲副手精神的2級BO換來續航\n主手使用有的因為需要救贖續航，有的需要-FR，而WW需要ED且不會觸發火風暴\n其他：聖盾和保護盾牌可供WWBB專用",
+                                                        "tooltipString": "@ztrwphoenix",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4寂靜(Silence)\nÿc3+200% 傷害力\n+75% 傷害力對不死系怪物\n裝備要求 -20%\n20% 提升攻擊速度\n+50 攻擊命中率對不死系怪物\n+2 級所以技能\n四防 +75\n20% 快速恢復打擊\n每次命中偷取 11% 法力\n命中後嚇跑怪物概率 25%\n命中後使目標失明 [33]\n每殺一個敵人 +2 法力\n30% 提升魔法裝備出現概率",
+                                                        "tooltipString": "@ztrwsilence",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4死亡呼吸(Breath of the Dying)\nÿc350% 概率當你殺死敵人時施放出 20級 劇毒新星\nÿc8無法破壞\n60% 提升攻擊速度\n+350-400% 增強傷害 ÿcU(變動)\nÿc3+200% 對不死系生物傷害\n-25% 目標防禦\n+50 到準確率\n+50 對不死系生物的準確率\nÿc9每次命中偷取 7% 法力\n每次命中偷取 12-15% 生命ÿcU(變動)\nÿc9防止怪物自療\n+30 到所有屬性\nÿc3+1 到照亮範圍\n需求 -20%\nÿcO重要屬性：60IAS、400ED、無法破壞\n其他亮點：30全屬性、LL、LM、防自療\n美中不足：缺DS\n俗稱BOTD，天梯符文出來以後，單手武器絕大多數被悔恨壓過\nA2PET武器裏也多數被無限、喪鐘、眼光壓得擡不起頭\nÿcC底材推薦\nÿc8鬼魂之矛：相對而言通用性最好的底材，宏森丹的存在也助其壓巨長斧一頭\n巨長斧：對WWBB而言傷害比鬼魂之矛更高，只因長柄裏沒有能達到4F的CB武器而少人問津\n戰槍：除了打錢BB外，對應的練法多是冷門，不過性能還是不錯\n狂戰士斧：在DAM無法作用的復仇上，BOTD終於吐氣揚眉了一把\n巨神之刃：在沒有天梯符文的版本裏，出場率還是蠻高的\n其他：雷錘是狂戰士BB的最佳選擇，女族長之矛可以給矛馬物電雙修\n十字軍之弓也在娛樂練法中出現，冠軍斧和食人魔之錘給狂怒狼也能比誓約的DPS更高",
+                                                        "tooltipString": "@ztrwbreathofthedying",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4執念(Obsession)\nÿc3無法損壞\n24% 幾率在被擊中時施展 等級10 削弱\n+4 所有技能\n+65% 施法速度\n+60% 快速打擊恢復\n擊退\n+10 活力\n+10能量\n最大生命值增加 15-25%\n法力再生 +15-30%\n全抗性 +60-70\n從怪物身上獲得 75%額外金幣\n獲得魔法物品的幾率提高 30%\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwobsession",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

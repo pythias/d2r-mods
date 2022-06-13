@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4遠古誓言(Ancients' Pledge)\nÿc3+50% 防禦強化\n+43% 冰冷抗性\n+48% 火焰抗性\n+48% 閃電抗性\n+48% 毒素抗性\n10% 受損生命轉移至法力\nÿcO重要屬性：40+RES\n其他亮點：符文來源\n美中不足：缺無法冰凍\n單看RES還不如3白PG盾，只因A5的第二個任務獎勵即是全套符文，入手可算是毫無壓力\nÿcC底材推薦\nÿc8輕盾：普通級唯一的通用3孔輕型盾，STR需求也不算太高\n皇冠之盾：普通級PAL專用盾中格擋和DEF都是最高的\n其他：龍盾的STR需求略高，BB這類高STR的CHAR可以考慮",
+                                                        "tooltipString": "@ztrwancients'pledge",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4死神(Death)\nÿc3當死亡時 100% 產生44級的連鎖閃電\n攻擊時 25% 產生 18 級的冰尖柱\nÿc8無法破壞\n300-385% 增強傷害 ÿcU(變動)\nÿc320% 額外準確率增加\n+50 攻擊準確率\n1-50 閃電傷害\nÿc97% 偷取法力\nÿc850% 壓碎打擊\n+0-49% 致命攻擊 (依角色等級乘0.5)\nÿc3+1 照亮範圍\n等級 22 鮮血石魔 (15聚氣)\n-20% 需求\nÿcO重要屬性：385ED、無法破壞、0.5DS每級\n其他亮點：50CB、7LM\n美中不足：缺IAS\n無法破壞、高ED、高CB、高DS，條條屬性都如此兇殘\n，就因為缺了IAS而多被淪為側手，只有在攻速超高的雙熱PAL手裏才能與悔恨相提並論\nÿcC底材推薦\nÿc8狂戰士斧：單手武器中RANGE最大、基礎攻速和傷害最均衡的底材\n巨神之劍：狂亂BB只算主手的IAS，所以側手可以盡量用無IAS的武器，同時也是雙手雙熱的利器\n其他：雙頭斧是沒有狂戰士斧時的次選擇，巨神之刃是沒有巨神之劍時的次選擇",
+                                                        "tooltipString": "@ztrwdeath",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4饑荒(Famine)\nÿc3+30% 增加攻擊速度\n+320-370% 增強傷害 (可變)\n無視目標防禦\n+180-200 魔法傷害\n+50-200 火焰傷害\n+51-250 閃電傷害\n+50-200 冰冷傷害\n12% 擊中偷取生命\n防止怪物自療\n+10 力量",
+                                                        "tooltipString": "@ztrwfamine",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4聖雷(Holy Thunder)\nÿc3+60% 增強傷害\n-25% 目標防禦\n+5-30 火焰傷害\n+21-110 閃電傷害\n+75 毒素傷害, 持續時間 5 秒\n+10 最大傷害\n抗閃電 +60%\n+5 抗閃電上限\n+3 神聖撞擊 (限聖騎士使用)\n等級 7 連鎖閃電 (60 次)",
+                                                        "tooltipString": "@ztrwholythunder",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4知識(Lore)\nÿc8+1 所有技能等級\nÿc3+10 精力\nÿc8每殺一個敵人 +2 法力\nÿc9+30% 閃電抗性\n傷害減少 7\nÿc3+2 照亮範圍\nÿcO重要屬性：1SKILL、2EK\n其他亮點：30LR、7DR\n美中不足：缺FCR\n對法系CHAR而言每一條都是有用的屬性，入手也很容易\nÿcC底材推薦\nÿc8殘酷頭盔：擴展級中DEF最高的通用頭盔\n其他：頭環適合給對造型有要求的玩家，BB和DRU可以選有STAFFMOD的專用頭",
+                                                        "tooltipString": "@ztrwlore",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4熱情(Passion)\nÿc3+25% 增加攻擊速度\n+160-210% 增強傷害 (可變)\n50-80% 額外的攻擊準確率加成 (可變)\n+75% 對不死生物的傷害\n+50 對不死生物的準確率\n+1-50 閃電傷害\n+1 狂暴\n+1 熱誠\n擊中使目標目盲 +10\n擊中使怪物逃跑 25%\n75% 額外金幣從怪物身上取得\n等級 3 狼灌之心 (12 次)",
+                                                        "tooltipString": "@ztrwpassion",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4圖紋(Pattern)\nÿc3 +30% 快速格擋\n+40-80% 增強傷害\n+10% 命中率加成\n追加 17-62 火焰傷害\n追加 3-14 冰冷傷害\n追加 1-50 閃電傷害\n+5 秒內 75 毒素傷害\n+6 力量\n+6 敏捷\n+15 全抗性\n（2.4天梯新增）",
+                                                        "tooltipString": "@ztrwpattern",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4雨(Rain)\nÿc35% 概率在攻擊時施放出 15 級 小旋風\n5% 概率當被擊中時施放出 5 級 颶風裝甲\n+2 所有德魯依技能\n+100-150 法力\n+30% 防禦\n減少魔法傷害 7\n15% 受損生命轉移至法力",
+                                                        "tooltipString": "@ztrwrain",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -558,7 +558,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4精神(Spirit)\nÿc8+2 所有技能\n+25%-35% 高速施展速度ÿcU(變動)\nÿc3+55% 快速度再攻擊\nÿc3+250 對飛射性防禦\nÿc9+22 體力\n+89-112 法力ÿcU(變動)\nÿc3抗寒+35%\n抗閃電+35%\n抗毒+35%\n+3-8 魔法吸收 ÿcU(變動)\nÿc3攻擊者受到傷害14\nÿcO重要屬性：35FCR、2SKILL、55FHR\n其他亮點：112MANA、22VIT\n美中不足：缺REQ\n精神盾是大多數法系CHAR的最佳選擇，精神劍在PASS的過程中也是常常出現，風德在PK中有時用來撐FHR\nÿcC底材推薦\nÿc8統治者大盾：STR需求最低的通用4孔盾，也是唯一的輕盾，ETH的可以放副手省STR，多搭配戰爭召喚\n神聖小盾：格擋率最高的PAL盾，ETH的可以放副手\n其他：BHPAL在PASS過程中可用亞克南圓盾過渡，26級即可使用\n神聖輕圓盾的格擋僅比神聖小盾稍低，也可一用",
+                                                        "tooltipString": "@ztrwspirit",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -603,7 +603,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4和風(Zephyr)\nÿc3+33% 增強傷害\n+66 準確率\n+1-50 閃電傷害\n-25% 目標防禦\n+25 防禦\n25% 高速跑步\/行走\nÿc825% 增加攻擊速度\nÿc3攻擊時有 7% 幾率施展等級 1 小旋風",
+                                                        "tooltipString": "@ztrwzephyr",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

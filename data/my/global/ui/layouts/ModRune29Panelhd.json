@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4荊棘(Bramble)\nÿc3裝備後具有 15-21 級 刺針靈氣(可變)\n50% 快速恢復打擊\n+25-50% 毒技能傷害 (可變)\n+300 防禦力\n提升 法力 上限 5%\n提升 法力 回復速度 15%\n+5% 防冰上限\n防火 +30%\n防毒 +100%\n每殺一個怪物 +13 生命\n13級 棘靈 (33次)",
+                                                        "tooltipString": "@ztrwbramble",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4飛龍(Dragon)\nÿc320% 概率當被擊中時施放出 18 級 毒牙\n12% 概率在擊中目標時施放出 15 級 九頭海蛇\n當裝備後擁有 14 級 聖火靈氣\n+360 防禦力\n+230 防禦力對遠程攻擊\n+3-5 所有屬性 (可變)\n+0.375 (每級) 強壯 (在角色級別基礎上)\n+50 點 法力\n+5% 防電上限\n抵消物理傷害 7",
+                                                        "tooltipString": "@ztrwdragon",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4永恒(Eternity)\nÿc3永不魔損\n+260-310% 傷害力\n+9 最小傷害力\n每次命中偷取 7% 生命\n20% 概率決定性打擊\n使目標失明\n減慢目標速度 33%\n提升法力回復速度 16%\n自動恢復生命 +16\n不被冰凍\n30% 提升魔法裝備出現概率\n8 級 重生 (88 次)",
+                                                        "tooltipString": "@ztrweternity",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4正義之手(Hand of Justice)\nÿc3升級時有 100% 幾率施展等級 36 熾烈之徑\n死亡時有 100% 幾率施展等級 48 隕石\n等級 16 聖火靈氣賦予\n+33% 增加攻擊速度\n+280-330% 增強傷害 (可變)\n無視目標防禦\n7% 擊中偷取生命\n-20% 敵人火焰抗性\n20% 致命攻擊\n擊中使目標目盲\n冰凍目標 +3",
+                                                        "tooltipString": "@ztrwhandofjustice",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4最後希望(Last Wish)\nÿc96% 概率當被擊中時施放出 11級 能量消減\nÿc810% 概率在擊中目標時施放出 18級 偷取生命\nÿc320% 概率在攻擊時施放出 20級 充能彈\nÿc9當裝備後擁有 17級 力量靈氣\nÿc3+330-375% 增強傷害 ÿcU(變動)\nÿc3忽視目標防禦\nÿc860-70% 壓碎打擊ÿcU(變動)\nÿc3防止怪物自療\n擊中使怪物盲目\n+0-49% 魔法裝備出現概率(角色等級乘0.5)\nÿcO重要屬性：70CB、觸發18級偷取生命\n其他亮點：觸發11級能量消解、17級力量光環\n美中不足：缺IAS、無法破壞\n造價最高的符文之語，只有在殺6BOSS的時候才較能發揮性能\nÿcC底材推薦\nÿc8幻化之刃：盾擊無視武器傷害，雙夢也以LD為主，底材基礎攻速越快越好\n巨神之刃：對於偏愛A5PET的可以作為輔助",
+                                                        "tooltipString": "@ztrwlastwish",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4驕傲(Pride)\nÿc325% 機率受攻擊時施展等級 17 火牆\nÿc8等級 16-20 專註靈氣賦予 ÿcU(變動)\nÿc9+260-300% 額外攻擊準確率 ÿcU(變動)\nÿc3+1-99% 對惡魔傷害 (依角色等級乘1)\n增加 50-280 閃電傷害\nÿc920% 致命攻擊\nÿc3擊中使目標目盲\n冰凍目標 +3\n+10 體力\n生命補滿 +8\n+1-185% 額外金錢取自怪物 (依角色等級乘1.875)\nÿcO重要屬性：20級專註光環\n其他亮點：20DS、300%AR\n美中不足：有致盲\n專註光環能極大地提高傷害，但本身沒有ED加成且會碎屍\n一般只給物理弓AMA的PET使用，夠土豪的純招NEC也能用來做鋼鐵石魔\nÿcC底材推薦\nÿc8鮫尾巨斧：一般不看重PET的DPS，需要的是高攻速觸發效果控場\n銳利之斧：沒有鮫尾的次選擇\n巨長斧：最通用的底材，可惜與無限、眼光等更常用的符文之語沖突\n鐮刀：在有攻擊反噬的版本裏，最低的傷害可以防止自殺\n其他：神秘之斧也能作為候選，只是攻速較慢",
+                                                        "tooltipString": "@ztrwpride",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4輕風(Wind)\nÿc3打擊時有 10% 幾率施展等級 9 龍卷風\n+20% 高速跑步\/行走\nÿc8+40% 增加攻擊速度\nÿc3+15% 快速再度攻擊\n+120-160% 增強傷害 (可變)\n-50% 目標防禦\n+50 準確率\n擊中使目標目盲\n+1 照亮範圍\n等級 13 小旋風 (127 次)",
+                                                        "tooltipString": "@ztrwwind",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {

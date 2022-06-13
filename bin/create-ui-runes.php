@@ -47,7 +47,7 @@ function get_rune_word_runes($word, $cn_names, $en_names) {
 
 function create_rune_panel($simplify_rune_words, $rune_cn_names, $rune_en_names, $num) {
     $name = "ModRune{$num}Panel";
-    $base_config = decode_file(MY_PATH . "/global/ui/layouts/ModRuneBasehb.json");
+    $base_config = decode_file(SETTINGS_PATH . "/ModRuneBasehb.json");
     $items_config = $base_config['children'][0]['children'][1]['children'][4]['children'][0]['children'];
     $base_item = array_pop($items_config);
     
@@ -76,8 +76,31 @@ function create_rune_panel($simplify_rune_words, $rune_cn_names, $rune_en_names,
     encode_file(MY_PATH . "/global/ui/layouts/ModRune{$num}Panelhd.json", $base_config);
 }
 
+function create_rune_words_lng() {
+    $namesConfig = new ItemNames();
+    $rune_descripts = decode_file(SETTINGS_PATH . "/runes.json");
+
+    $i = 0;
+    $rune_word_lngs = [];
+    foreach ($rune_descripts as $key => $descript) {
+        $item =  [
+            "id" => 1100000 + ($i++),
+            "Key" => "ztrw" . strtolower(str_replace(" ", "", $key)),
+            "zhTW" => $descript,
+        ];
+        $rune_word_lngs[$key] = $item;
+        $namesConfig->add($item);
+    }
+
+    encode_file(SETTINGS_PATH . "/runeword-names.json", array_values($rune_word_lngs));
+    $namesConfig->save();
+
+    return $rune_word_lngs;
+}
+
 $rune_words = parse_txt(ORIGIN_PATH . "/global/excel/runes.txt");
-$rune_descripts = decode_file(SETTINGS_PATH . "/runes.json");
+$rune_word_lngs = create_rune_words_lng();
+
 $rune_cn_names = get_names("item-runes");
 $rune_en_names = get_names("item-runes", "enUS");
 $item_names = get_names("item-names");
@@ -92,7 +115,7 @@ foreach ($rune_words as $rune_word) {
     }
 
     $title = $rune_cn_names[$rune_word["Name"]];
-    if (empty($rune_descripts[$name])) {
+    if (empty($rune_word_lngs[$name])) {
         log_error("empty descript, {$title}, {$name}");
         continue;
     }
@@ -105,7 +128,7 @@ foreach ($rune_words as $rune_word) {
         'title' => $title,
         'types' => $types,
         'runes' => $runes,
-        'descript' => $rune_descripts[$name],
+        'descript' => "@{$rune_word_lngs[$name]['Key']}",
     ];
 }
 

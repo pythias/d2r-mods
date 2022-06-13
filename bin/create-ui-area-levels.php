@@ -1,6 +1,35 @@
 <?php
 include __DIR__ . "/basic.php";
 
+class MfAreas {
+    private $_path = "";
+    private $_config;
+    private $_table85 = [];
+    private $_tableAll = [];
+    public function __construct() {
+        $this->_path = MY_PATH . "/global/ui/layouts/ModMFPanelhd.json";
+        $this->_config = decode_file($this->_path);
+        
+        $row85 = $this->_config['children'][1]['children'][0]['children'][0];
+        $rows85 = $row85['children'][0]['children'];
+        $name85 = $rows85[0];
+        $head85 = $rows85[1];
+
+        $rootAll = $this->_config['children'][1]['children'][0]['children'][2];
+        $rowsAll = $row85['children'][0]['children'];
+        $nameAll = $rows85[0];
+        $headAll = $rows85[1];
+    }
+
+    public function add($item) {
+        $this->_byId[$item['id']] = $item;
+    }
+
+    public function save() {
+        encode_file($this->_path, array_values($this->_config));
+    }
+}
+
 $config = '{
     "type": "TableRowWidget",
     "name": "MRItem",
@@ -78,6 +107,8 @@ $config85 = '{
     ]
 }';
 
+$a = new MfAreas();
+exit;
 
 function get_area_names($lang = "zhTW") {
     $names = [];

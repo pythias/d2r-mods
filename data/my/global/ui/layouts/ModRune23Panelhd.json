@@ -198,7 +198,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4野獸(Beast)\nÿc8在裝備後具備 9 級 狂熱靈氣\n40% 提升攻擊速度\nÿc3+240-270% 傷害力 (可變)\n20% 概率決定性打擊\n25% 概率造成傷口\n+3 級 熊人變化\n+3 級 變形術\n防止怪物治療\n+25-40 強壯 (可變)\n+10 能量\n每殺一個怪物 +2 點 法力\n13 級 召喚灰熊 (5 次)",
+                                                        "tooltipString": "@ztrwbeast",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -243,7 +243,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4烙印(Brand)\nÿc3攻擊時有 35% 幾率施展等級 14 傷害加深\n打擊時有 100% 幾率施展等級 18 骨矛\n+260-340% 增強傷害 (可變)\n無視目標防禦\n20% 額外的攻擊準確率加成\n+280-330% 對惡魔的傷害 (可變)\n20% 致命攻擊\n防止怪物自療\n擊退\n火焰爆炸傷害 (15)",
+                                                        "tooltipString": "@ztrwbrand",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -288,7 +288,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4武裝號召(Call to Arms)\nÿc8+1 到所有技能\nÿc940% 提升攻擊速度\n250-290% 增強傷害 ÿcU(變動)\nÿc3加 5-30 火焰傷害\n7% 生命於擊中時偷取\nÿc8+2-6 到戰鬥指揮 ÿcU(變動)\nÿc8+1-6 到戰鬥體製 ÿcU(變動)\nÿc3+1-4 到戰嗥 ÿcU(變動)\nÿc3防止怪物自療\n生命恢復速度 +12\n30% 更佳機會取得魔法裝備\nÿcO重要屬性：+6戰鬥體製、+6戰鬥指揮、1SKILL\n其他亮點：40IAS、270ED\n美中不足：缺+大叫\n俗稱CTA，以戰鬥體製著稱，通常放在副手撐高LIFE和MANA\nPK中更是必不可少，極少數CHAR也用來做輸出的武器\nÿcC底材推薦\nÿc8水晶劍：STR需求低且造型美觀就是選擇的理由\n巨戰權杖：除了自帶的救贖能夠在PVC中省下點數，撐高的凈化也能減少中毒與詛咒的時間\n神使之杖：不同技能不同練法的PAL，一在PK中不僅可以用沖鋒偷襲還可以開審判放天堂之拳猥瑣對手\n二和流亡搭配，開狂熱快速打出LT；三給雙熱對付物免的不死怪\n其他：雙刃斧和連枷的需求也不高，大院長之弓做的成品也能成為元素弓AMA不錯的武器",
+                                                        "tooltipString": "@ztrwcalltoarms",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -333,7 +333,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4悔恨(Grief)\nÿc335% 概率在擊中目標時施放出 15級 毒牙\nÿc8+30-40% 提升攻擊速度 ÿcU(變動)\nÿc8傷害 +340-400 ÿcU(變動)\nÿc3忽視目標防禦\n-25% 目標防禦\n+1-15% 對惡魔傷害 (角色等級乘1.875)\n增加 5-30 火焰傷害\n-20-25% 對敵人毒素系抗性 ÿcU(變動)\nÿc920% 致命一擊\n防止怪物自療\nÿc3每殺一個怪物 +2 法力\n每殺一個怪物 +10-15 生命 ÿcU(變動)\nÿcO重要屬性：400DAM、40IAS\n其他亮點：20DS、ITD、防自療\n美中不足：缺無法破壞\n無視底材直接增加400DAM使其成為名符其實的單手武器之王\n40IAS進一步解放了裝備，ITD也讓我們對小怪時無需考慮AR，實為近戰物理CHAR的首選\nÿcC底材推薦\nÿc8幻化之刃：最高的基礎攻速加上無法破壞的特性，簡直是為悔恨量身定做的底材\n韓瑞德之劍：RANGE比幻化之刃大1，最低變量的IAS也能保證WW達到4F，非超強的修理費也不貴\n狂戰士斧：由於低耐久和高修理費的原因無法出現在PVC中，但在PK場上憑借野獸和末日的\n輔助一躍成為最熱門的底材，要使WW達到4F需要34IAS\n其他：巨神之刃的IAS變量在39以上時能使WW達到4F，PVC裏追求最高傷害時可以選用",
+                                                        "tooltipString": "@ztrwgrief",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -378,7 +378,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4無限(Infinity)\nÿc350% 機率施展等級20連鎖閃電於殺敵之後\nÿc8等級 12 信念靈氣賦予\nÿc9+35% 高速跑步\n+255-325% 增強傷害 ÿcU(變動)\nÿc8-45-55% 敵人電抗 ÿcU(變動)\nÿc940% 機率壓碎打擊\nÿc3防治怪物自療\n+0-49 體力 (依角色等級乘0.5)\n30% 更佳機會取得魔法裝備\nÿc9等級 21 颶風裝甲 (30 聚氣)\nÿcO重要屬性：12級審判光環、-55LR\n其他亮點：40CB、325ED、颶風裝甲聚氣、35FRW\n美中不足：缺IAS、FCR\n賦予的審判光環成為以元素傷害為主CHAR的最佳PET武器\n40CB也能在殺BOSS時起不小的作用，由於缺少LL，常與安臉和鰻魚頭搭配使用\nÿcC底材推薦\nÿc8巨長斧：對於持有野獸的CHAR是不二選擇，對於無野獸的CHAR也是DPS與CB較平衡的底材\n鮫尾巨斧：利用最高的基礎攻速觸發CB殺BOSS，搭配鰻魚頭的DPS也與巨長相差無幾\n銳利之斧：沒有鮫尾的次選擇\n鐮刀：為了充分利用-55LR，出現了CHAR手持無限的純電SOR練法，鐮刀的STR和DEX需求是最低的\n其他：對於無野獸CHAR來說，神秘之斧在安臉搭配下能達到最高DPS，可惜低攻速不利於觸發CB",
+                                                        "tooltipString": "@ztrwinfinity",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -423,7 +423,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4弒君者(Kingslayer)\nÿc330% 提升攻擊速度\n230-270% 增強傷害 ÿcU(變動)\nÿc3-25% 目標防禦\n20% 額外攻擊準確率加成\n33% 機會出現壓碎性打擊\n50% 機會撕裂傷口\n+1 到復仇\n防止怪物自療\n+10 力量\n40% 額外金幣從怪物身上取得\nÿcO重要屬性：33CB、50OW、30IAS\n其他亮點：270ED、-25%目標防禦、+1復仇\n美中不足：缺無法破壞\nCB、OW、IAS等屬性使其成為名符其實的殺BOSS利器\n可以單憑一件武器通殺，但都可以被其他裝備替換，這也是評價褒貶不一的原因\nÿcC底材推薦\nÿc8幻化之刃：基礎攻速最高的單手武器，還有無法破壞的特性\n狂戰士斧：單手武器中RANGE最大，可惜耐久較低，只能給不消耗耐久的CHAR使用\n冠軍斧：耐久最高的精華斧之一，較高的基礎攻速給滿電火支配的SOR玩復仇容易達到急速\n其他：猛禽斧和銀刃斧通過適當搭配都可以復仇SOR使用，不過是回城修理次數頻繁一些",
+                                                        "tooltipString": "@ztrwkingslayer",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -468,7 +468,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4最後希望(Last Wish)\nÿc96% 概率當被擊中時施放出 11級 能量消減\nÿc810% 概率在擊中目標時施放出 18級 偷取生命\nÿc320% 概率在攻擊時施放出 20級 充能彈\nÿc9當裝備後擁有 17級 力量靈氣\nÿc3+330-375% 增強傷害 ÿcU(變動)\nÿc3忽視目標防禦\nÿc860-70% 壓碎打擊ÿcU(變動)\nÿc3防止怪物自療\n擊中使怪物盲目\n+0-49% 魔法裝備出現概率(角色等級乘0.5)\nÿcO重要屬性：70CB、觸發18級偷取生命\n其他亮點：觸發11級能量消解、17級力量光環\n美中不足：缺IAS、無法破壞\n造價最高的符文之語，只有在殺6BOSS的時候才較能發揮性能\nÿcC底材推薦\nÿc8幻化之刃：盾擊無視武器傷害，雙夢也以LD為主，底材基礎攻速越快越好\n巨神之刃：對於偏愛A5PET的可以作為輔助",
+                                                        "tooltipString": "@ztrwlastwish",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -513,7 +513,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4誓約(Oath)\nÿc3擊中敵人有 30% 機會施展等級20白骨之魂\nÿc8無法破壞\n+50% 增加攻擊速度\n+210-340% 增強傷害 ÿcU(變動)\nÿc3+75% 對惡魔傷害\n+100 對惡魔準確率\nÿc9防止怪物自療\nÿc3+10 精力\n+10-15 魔法吸收 ÿcU(變動)\nÿc3等級 16 狼獾之心 (20聚氣)\n等級 17 鋼鐵石魔 (14聚氣)\nÿcO重要屬性：340ED、無法破壞、50IAS\n其他亮點：防自療\n美中不足：缺DS\n武器該有的無法破壞、高IAS、高ED都有了\n加上極其廣泛的通用性，可謂是平民武器之王\nÿcC底材推薦\nÿc8狂戰士斧：單手武器中RANGE最大、基礎攻速和傷害最均衡的底材\n彎月斧：雙頭斧的次選擇，極低的入手難度和最大4孔的優勢反而使其出場率遠高於雙頭斧\n銀刃斧：對狂怒狼而言DPS最高的底材\n猛禽斧：對熊德而言最容易搭配裝備的底材，給BB也可以讓WW到4F\n巨神之劍：所有刀劍類均傷最高的底材，50IAS能保證WW達到4F\n炎魔之刃：基礎攻速比巨神之劍稍快，能讓誓約+死神搭配的狂亂BB起手速度快0.5F\n也讓專心BB更容易達到9F急速，最大4孔也是優勢之一\n天罰之錘：基礎攻速-10的單手武器中，STR和DEX需求、均傷、RANGE都壓倒其他底材\n其他：巨神之刃可以作為WWBB的候選，高地之劍可以作為狂亂BB和狂戰士BB的候選",
+                                                        "tooltipString": "@ztrwoath",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -558,7 +558,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4慎重(Prudence)\nÿc925% 快速再度攻擊\nÿc8+140-170% 增強防禦ÿcU(變動)\nÿc9全面抵抗 +25-35ÿcU(變動)\nÿc3物理傷害減少 3\n魔法傷害減少 17\n+2 法力在每殺死一名敵人之後取得\n+2 照亮範圍\nÿc8每 4 秒恢復 1 耐久度\nÿcO重要屬性：恢復耐久、170ed\n其他亮點：25FHR、35RES\n美中不足：缺屬性\n由於有恢復耐久的屬性，可以放心地給CHAR用無形甲大幅提高DEF，也讓打壞的2孔盔甲有了用途\nÿcC底材推薦\nÿc8執政官鎧甲：DEF最高的精華輕甲\n神聖盔甲：DEF最高的精華甲\n其他：打壞的2孔精華甲都是可選用的底材",
+                                                        "tooltipString": "@ztrwprudence",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -603,7 +603,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4雨(Rain)\nÿc35% 概率在攻擊時施放出 15 級 小旋風\n5% 概率當被擊中時施放出 5 級 颶風裝甲\n+2 所有德魯依技能\n+100-150 法力\n+30% 防禦\n減少魔法傷害 7\n15% 受損生命轉移至法力",
+                                                        "tooltipString": "@ztrwrain",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -648,7 +648,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4聖堂(Sanctuary)\nÿc920% 快速再度攻擊\nÿc820% 快速格檔率\n20% 增加格檔率\nÿc3130-160% 增強防禦 ÿcU(變動)\nÿc3+250 對飛射性武器的防禦\nÿc9+20 敏捷\nÿc8所有抗性 +50-70ÿcU(變動)\nÿc3魔法傷害減少 7\nÿc9等級 12 慢速箭 (60 聚氣)\nÿcO重要屬性：20CTB、20FBR、70RES\n其他亮點：慢速箭聚氣、20FHR、20DEX\n美中不足：缺DR\n綜合性能相當好的盾牌，慢速箭聚氣對付大群弓箭手等遠程怪時作用明顯\n可惜飾金盾和暴風盾的存在使其出場率降低不少\nÿcC底材推薦\nÿc8洞穴巨魔骨盾：精華盾中DEF最高的通用盾\n最大3孔也是優勢之一，可惜格擋率略低\n神聖小盾：格擋率最高的PAL盾，需求等級也很低\n其他：神聖輕圓盾是沒有神聖小盾時的次選擇",
+                                                        "tooltipString": "@ztrwsanctuary",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -693,7 +693,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4毒液(Venom)\nÿc3擊中使怪物逃跑概率 25%\n防止怪物自療\n無視目標防禦\n7% 擊中偷取法力\n等級 15 毒爆 (27 次)\n等級 13 劇毒新星 (11 次)\n+273 毒素傷害, 持續時間 6 秒",
+                                                        "tooltipString": "@ztrwvenom",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
@@ -738,7 +738,7 @@
                                                     "name": "MRButton",
                                                     "fields": {
                                                         "fitToParent": true,
-                                                        "tooltipString": "ÿc4憤怒(Wrath)\nÿc3打擊時有 30% 幾率施展等級 1 衰老\n打擊時有 5% 幾率施展等級 10 偷取生命\n+375% 對惡魔的傷害\n+100 對惡魔的準確率\n+250-300% 對不死生物的傷害 (可變)\n+85-120 魔法傷害\n+41-240 閃電傷害\n20% 造成壓碎性打擊的概率\n防止怪物自療\n+10 精力\n無法冰凍",
+                                                        "tooltipString": "@ztrwwrath",
                                                         "tooltipStyle": {
                                                             "fontStyle": {
                                                                 "options": {
