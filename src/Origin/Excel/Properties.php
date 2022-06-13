@@ -9,9 +9,14 @@ class Properties extends Base {
     private $_byCode = [];
 
     /**
-     * @var $_itemModifiers \Mod\Strings\ItemModifiers
+     * @var \Mod\Strings\ItemModifiers
      */
-    private $_itemModifiers;
+    private static $_itemModifiers;
+
+    /**
+     * @var \Mod\Origin\Excel\Skills
+     */
+    private static $_skills;
 
     private $_customKeys = [
         'dmg-to-mana' => 'ModStr3w',
@@ -46,18 +51,26 @@ class Properties extends Base {
         "dmg-elem" => "ElementDamages",
         "reanimate" => "Returned",
         "dmg-pois" => "PoisonDamage",
+        "Repair Speed" => "Repair",
     ];
 
     protected function _load() {
         $this->_byCode = $this->_groupBy('code');
-        $this->_itemModifiers = new ItemModifiers(true);
+
+        if (empty(self::$_itemModifiers)) {
+            self::$_itemModifiers = new ItemModifiers(true);
+        }
+
+        if (empty(self::$_skills)) {
+            self::$_skills = new Skills(true);
+        }
     }
 
     public function getByCode($code) {
         return $this->_byCode[$code] ?? null;
     }
 
-    private function _tipsToKey($tips) {
+    public static function tipsToKey($tips) {
         $tips = strtolower($tips);
         $tips = str_replace('-#%', '-%d%%', $tips);
         $tips = str_replace('+#%', '%+d%%', $tips); //注意和-的不太一样
@@ -95,22 +108,20 @@ class Properties extends Base {
         if (empty($property)) {
             return null;
         }
+        
+        Log::error("... $code, $param, $min, $max" . json_encode($property, JSON_UNESCAPED_UNICODE));
 
         $processor = $this->_getProcessor($code, $property);
         if ($processor !== false) {
-            return [
-                'tip' => $property['*Tooltip'],
-                'key' => $code,
-                'title' => $processor->get($param, $min, $max),
-            ];
+            return $processor->get($param, $min, $max);
         }
 
         $tips = $property['*Tooltip'];
         if (isset($this->_customKeys[$code])) {
-            $modifier = $this->_itemModifiers->get($this->_customKeys[$code]);
+            $modifier = self::$_itemModifiers->get($this->_customKeys[$code]);
         } else {
-            $tips = $this->_tipsToKey($tips);
-            $modifier = $this->_itemModifiers->getByEn($tips);
+            $tips = self::tipsToKey($tips);
+            $modifier = self::$_itemModifiers->getByEn($tips);
         }
 
         if (empty($modifier)) {
@@ -119,21 +130,13 @@ class Properties extends Base {
 
         $name = $modifier[$lng] ?? $tips;
         $key = $modifier['Key'] ?? $tips;
+
+        if (strpos($name, '%s')) {
+            // 此處為技能，需要特別處理，太複雜，有點亂了
+            $param = "@" . self::$_skills->getStrBy($param) . " ";
+        }
         $name = str_replace('%s', $param, $name);
-        $title = sprintf($name, $min, $max);
-
-        return [
-            'tip' => $property['*Tooltip'],
-            'key' => $key,
-            'title' => $title,
-        ];
-    }
-
-    private function _normal($property, $params, $min, $max) {
         
-    }
-
-    private function _monsterIdx() {
-        
+        return sprintf($name, $min, $max);
     }
 }

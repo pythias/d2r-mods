@@ -1,8 +1,6 @@
 <?php
 namespace Mod\Origin\Excel;
 
-use mod\File\Text;
-
 class Types extends Base {
     protected $_name = "itemtypes";
     private $_byCode;

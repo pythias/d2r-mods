@@ -82,7 +82,11 @@ class Runes extends Base {
             $min = $word["T1Min{$i}"];
             $max = $word["T1Max{$i}"];
             $property = $this->_properties->getProperty($code, $param, $min, $max);
-            $effects[] = $property;
+            if (is_array($property)) {
+                $effects = array_merge($effects, $property);
+            } else {
+                $effects[] = $property;
+            }
         }
 
         return $effects;

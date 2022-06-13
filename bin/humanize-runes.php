@@ -8,14 +8,9 @@ $runes = new Mod\Origin\Excel\Runes();
 $types = new Mod\Origin\Excel\Types();
 $words = $runes->getValues();
 foreach ($words as $id => $word) {
-    try {
-        //Log::info("word:{$word['*Rune Name']}");
-        $runes->humanize($word);
-        var_dump($runes->humanize($word));
-    } catch (Exception $e) {
-        Log::error("{$word['*Rune Name']} error:{$e->getMessage()}");
-    }
+    //$v = $runes->humanize($word);
 }
 
-Mod\Log::info(sprintf("runes %d", count($runes->getValues())));
+Log::info(json_encode($runes->humanize($words[$argv[1]]), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+
 
