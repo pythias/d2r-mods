@@ -70,7 +70,7 @@ ama	1	21	item_addclassskills		0																									+# to Amazon Skill Level
 pal	1	21	item_addclassskills		3																									+# to Paladin Skill Levels		Min #	Max #		0
 nec	1	21	item_addclassskills		2																									+# to Necromancer Skill Levels		Min #	Max #		0
 sor	1	21	item_addclassskills		1																									+# to Sorceress Skill Levels		Min #	Max #		0
-bar	1	21	item_addclassskills		4																									+#  to Barbarian Skill Levels		Min #	Max #		0
+bar	1	21	item_addclassskills		4																									+# to Barbarian Skill Levels		Min #	Max #		0
 herb	1	1	item_doubleherbduration																													Min #	Max #	Currently Not Used	0
 light	1	1	item_lightradius																											+# to Light Radius		Min #	Max #		0
 color	1	1	item_lightcolor	1																												Min #	Max #	Currently Not Used	0

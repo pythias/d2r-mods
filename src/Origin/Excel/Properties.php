@@ -7,6 +7,10 @@ use Mod\Strings\ItemModifiers;
 class Properties extends Base {
     protected $_name = "properties";
     private $_byCode = [];
+
+    /**
+     * @var $_itemModifiers \Mod\Strings\ItemModifiers
+     */
     private $_itemModifiers;
 
     private $_customKeys = [
@@ -20,9 +24,28 @@ class Properties extends Base {
         'rep-dur' => 'ModStre9u',
         'ethereal' => 'strethereal',
         'pierce' => 'ModStr6g',
-        'abs-mag' => 'ModStr5k',
         'abs-fire' => 'ModStr5g',
         'stupidity' => 'ModStr6d',
+    ];
+
+    private $_customPropertyProcessors = [
+        "monstats.txt hcIdx" => "",
+        "Class Skill Tab ID" => "",
+        "Length (Frames)" => "",
+        "ac/lvl (8ths)" => "LevelT",
+        "#/8 per Level" => "Level8",
+        "#/2 per Level" => "Level2",
+        "Repair Speed" => "",
+        "Time Period for Max value" => "",
+        "monstats.txt MonType" => "",
+        "Skill Level" => "",
+        "State" => "",
+        "charged" => "Charged",
+        "skill" => "Skill",
+        "skilltab" => "SkillTab",
+        "dmg-elem" => "ElementDamages",
+        "reanimate" => "Returned",
+        "dmg-pois" => "PoisonDamage",
     ];
 
     protected function _load() {
@@ -44,9 +67,27 @@ class Properties extends Base {
         $tips = str_replace('#-#', '%d-%d', $tips);
         $tips = str_replace('-#', '%d', $tips); //-# to Monster Defense Per Hit 特例
         $tips = str_replace('#', '%d', $tips);
-        
-        $tips = str_replace('[skill]', '%s', $tips);
-        return $tips;
+
+        return str_replace('[skill]', '%s', $tips);
+    }
+
+    /**
+     * @param $code
+     * @param $property
+     * @return false|\Mod\Origin\Excel\Properties\Base
+     */
+    private function _getProcessor($code, $property) {
+        $param = $property["*Parameter"];
+        if (!empty($this->_customPropertyProcessors[$param])) {
+            $typeClass = $this->_customPropertyProcessors[$param];
+        } else if (!empty($this->_customPropertyProcessors[$code])) {
+            $typeClass = $this->_customPropertyProcessors[$code];
+        } else {
+            return false;
+        }
+
+        $className = "\\Mod\\Origin\\Excel\\Properties\\" . $typeClass;
+        return new $className($property);
     }
 
     public function getProperty($code, $param, $min, $max, $lng = "zhTW") {
@@ -54,40 +95,18 @@ class Properties extends Base {
         if (empty($property)) {
             return null;
         }
-        
-        $type = $property["*Parameter"];
-        switch ($type) {
-            case "monstats.txt hcIdx":
-                break;
-            case "Skill":
-                break;
-            case "Class Skill Tab ID":
-                break;
-            case "Length (Frames)":
-                break;
-            case "ac/lvl (8ths)":
-                break;
-            case "#/8 per Level":
-                break;
-            case "#/2 per Level":
-                break;
-            case "Repair Speed":
-                break;
-            case "Time Period for Max value":
-                break;
-            case "monstats.txt MonType":
-                break;
-            case "Skill Level":
-                break;
-            case "State":
-                break;
-            default:
-                break;
+
+        $processor = $this->_getProcessor($code, $property);
+        if ($processor !== false) {
+            return [
+                'tip' => $property['*Tooltip'],
+                'key' => $code,
+                'title' => $processor->get($param, $min, $max),
+            ];
         }
 
         $tips = $property['*Tooltip'];
         if (isset($this->_customKeys[$code])) {
-            // dmg-elem 各种元素伤害
             $modifier = $this->_itemModifiers->get($this->_customKeys[$code]);
         } else {
             $tips = $this->_tipsToKey($tips);
@@ -95,7 +114,7 @@ class Properties extends Base {
         }
 
         if (empty($modifier)) {
-            Log::error("unknown modifier: {$property['*Tooltip']}");
+            Log::error("unknown modifier, code:{$code}, tips: {$property['*Tooltip']}");
         }
 
         $name = $modifier[$lng] ?? $tips;

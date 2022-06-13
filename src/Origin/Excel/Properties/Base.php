@@ -10,5 +10,5 @@ abstract class Base {
         $this->_property = $property;
     }
 
-    abstract public function get($param, $min, $max);
+    abstract public function get($param, $min, $max): array;
 }

@@ -13,7 +13,6 @@ class Text {
         foreach ($lines as $line) {
             $values = explode("\t", trim($line));
             if (count($columns) != count($values)) {
-                Log::error("line invalid, content:{$line}");
                 continue;
             }
             

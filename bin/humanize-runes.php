@@ -11,6 +11,7 @@ foreach ($words as $id => $word) {
     try {
         //Log::info("word:{$word['*Rune Name']}");
         $runes->humanize($word);
+        var_dump($runes->humanize($word));
     } catch (Exception $e) {
         Log::error("{$word['*Rune Name']} error:{$e->getMessage()}");
     }

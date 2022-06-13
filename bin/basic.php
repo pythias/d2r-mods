@@ -45,7 +45,6 @@ function parse_txt($file) {
     foreach ($lines as $line) {
         $values = explode("\t", trim($line));
         if (count($columns) != count($values)) {
-            log_error("line invalid, content:{$line}");
             continue;
         }
         

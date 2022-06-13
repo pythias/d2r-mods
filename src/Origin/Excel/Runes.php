@@ -8,8 +8,15 @@ use Mod\Origin\Excel\Properties;
 
 class Runes extends Base {
     protected $_name = "runes";
-    
+
+    /**
+     * @var $_properties \Mod\Origin\Excel\Types
+     */
     private $_itemTypes = null;
+
+    /**
+     * @var $_properties \Mod\Origin\Excel\Properties
+     */
     private $_properties = null;
 
     protected function _load() {
