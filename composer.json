@@ -20,5 +20,8 @@
             "conf/paths.php"
         ]
     },
-    "require": {}
+    "require": {
+        "php": "7.*|8.*",
+        "ext-json": "*"
+    }
 }

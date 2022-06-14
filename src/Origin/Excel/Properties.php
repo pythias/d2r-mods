@@ -40,7 +40,6 @@ class Properties extends Base {
         "ac/lvl (8ths)" => "LevelT",
         "#/8 per Level" => "Level8",
         "#/2 per Level" => "Level2",
-        "Repair Speed" => "",
         "Time Period for Max value" => "",
         "monstats.txt MonType" => "",
         "Skill Level" => "",

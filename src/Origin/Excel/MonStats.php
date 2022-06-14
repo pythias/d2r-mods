@@ -1,7 +1,7 @@
 <?php
 namespace Mod\Origin\Excel;
 
-class Monstats extends Base {
+class MonStats extends Base {
     protected $_name = "monstats";
     private $_byIdx;
 

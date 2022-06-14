@@ -1,24 +1,31 @@
 <?php
 namespace Mod\Origin\Excel\Properties;
 
-use \Mod\Origin\Excel\Monstats;
+use Mod\Origin\Excel\CharStats;
+use \Mod\Origin\Excel\MonStats;
 use \Mod\Origin\Excel\Skills;
 use \Mod\Strings\ItemModifiers;
 
 abstract class Base {
     /**
-     * @var \Mod\Origin\Excel\Skills
+     * @var Skills
      */
     protected static $_skills;
 
     /**
-     * @var \Mod\Strings\ItemModifiers
+     * @var ItemModifiers
      */
     protected static $_itemModifiers;
+
     /**
-     * @var \Mod\Origin\Excel\Monstats
+     * @var MonStats
      */
-    protected static $_monstats;
+    protected static $_monStats;
+
+    /**
+     * @var CharStats
+     */
+    protected static $_charStats;
 
     protected $_property;
 
@@ -33,8 +40,12 @@ abstract class Base {
             self::$_itemModifiers = new ItemModifiers(true);
         }
 
-        if (empty(self::$_monstats)) {
-            self::$_monstats = new Monstats(true);
+        if (empty(self::$_monStats)) {
+            self::$_monStats = new MonStats(true);
+        }
+
+        if (empty(self::$_charStats)) {
+            self::$_charStats = new CharStats(true);
         }
     }
 

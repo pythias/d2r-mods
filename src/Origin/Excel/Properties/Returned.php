@@ -8,7 +8,7 @@ class Returned extends Base {
         //reanimate, 1, 10, 10
         //10% 機率將目標復生為：返世亡靈
         $modifier = self::$_itemModifiers->get("Moditemreanimas");
-        $monster = self::$_monstats->getByIdx($param);
+        $monster = self::$_monStats->getByIdx($param);
         $monsterName = $monster['NameStr'] ?? $param;
 
         $name = $modifier["zhTW"] ?? "";

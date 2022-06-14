@@ -2,12 +2,14 @@
 
 namespace Mod\Origin\Excel\Properties;
 
+use Mod\Origin\Excel\Properties;
+
 class Level extends Base {
     protected $_divide = 8;
 
     public function get($param, $min, $max) : array {
         $tmp = explode(' (', $this->_property["*Tooltip"]);
-        $key = \Mod\Origin\Excel\Properties::tipsToKey($tmp[0]);
+        $key = Properties::tipsToKey($tmp[0]);
         $modifier = self::$_itemModifiers->getByEn($key);
         if (empty($modifier)) {
             $modifier = self::$_itemModifiers->getByEn(str_replace("%d%%", "%+d%%", $key));
