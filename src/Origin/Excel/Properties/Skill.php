@@ -2,24 +2,20 @@
 
 namespace Mod\Origin\Excel\Properties;
 
-use Mod\Origin\Excel\CharStats;
+use \Mod\Origin\Excel\CharStats;
 use \Mod\Origin\Excel\Skills;
+use \Mod\Origin\Excel\PlayerClass;
 
 class Skill extends Base {
-    private $_classIds = [
-        1 => "Amazon",
-        2 => "Sorceress",
-        3 => "Necromancer",
-        4 => "Paladin",
-        5 => "Barbarian",
-        6 => "Druid",
-        7 => "Assassin",
-    ];
-
     public function get($param, $min, $max) : array {
-        $class = self::$_charStats->getByClass($this->_classIds[$max] ?? "Barbarian");
-        $onlyStr = $class[CharStats::KeyStrOnly] ?? "BarOnly";
+        $skill = self::$_skills->getBy($param);
+        $charClass = $this->_getCharClass($skill[Skills::KEY_CHAR_CLASS] ?? null);
+        $onlyStr = $charClass[CharStats::KEY_STR_ONLY] ?? false;
 
-        return [sprintf("+%d至@%s (@%s)", $min, self::$_skills->getStrBy($param), $onlyStr)];
+        if ($min == $max) {
+            return [sprintf("+%d至@%s (@%s)", $min, self::$_skills->getStrBy($param), $onlyStr)];
+        } else {
+            return [sprintf("+[%d-%d]至@%s (@%s)", $min, $max, self::$_skills->getStrBy($param), $onlyStr)];
+        }
     }
 }

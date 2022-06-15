@@ -5,6 +5,7 @@ use \Mod\Origin\Excel\SkillDesc;
 
 class Skills extends Base {
     const KEY_DESC = "skilldesc";
+    const KEY_CHAR_CLASS = "charclass";
 
     protected $_name = "skills";
     private $_byId;
@@ -21,35 +22,29 @@ class Skills extends Base {
         }
     }
 
+    public function getBy($id) {
+        if (is_numeric($id)) {
+            return $this->getById($id);
+        } else {
+            return $this->getByName($id);
+        }
+    }
+
     public function getById($id) {
         return $this->_byId[$id] ?? null;
     }
 
-    public function getStrBy($id) {
-        if (is_numeric($id)) {
-            return $this->getStrById($id);
-        } else {
-            return $this->getStrByName($id);
-        }
+    public function getByName($name) {
+        return $this->_byName[$name] ?? null;
     }
 
-    public function getStrById($id) {
-        $skill = $this->getById($id);
+    public function getStrBy($id) {
+        $skill = $this->getBy($id);
         if (empty($skill)) {
             return $id;
         }
 
         $desc = self::$_desc->getByDesc($skill[self::KEY_DESC]);
         return $desc[SkillDesc::KEY_STR_NAME] ?? $id;
-    }
-
-    public function getStrByName($name) {
-        $skill = $this->_byName[$name] ?? null;
-        if (empty($skill)) {
-            return $name;
-        }
-
-        $desc = self::$_desc->getByDesc($skill[self::KEY_DESC]);
-        return $desc[SkillDesc::KEY_STR_NAME] ?? $name;
     }
 }

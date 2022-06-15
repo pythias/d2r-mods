@@ -4,6 +4,7 @@ namespace Mod\Origin\Excel\Properties;
 use Mod\Origin\Excel\CharStats;
 use \Mod\Origin\Excel\MonStats;
 use \Mod\Origin\Excel\Skills;
+use \Mod\Origin\Excel\PlayerClass;
 use \Mod\Strings\ItemModifiers;
 
 abstract class Base {
@@ -27,6 +28,11 @@ abstract class Base {
      */
     protected static $_charStats;
 
+    /**
+     * @var PlayerClass
+     */
+    protected static $_playerClass;
+
     protected $_property;
 
     public function __construct($property) {
@@ -47,7 +53,17 @@ abstract class Base {
         if (empty(self::$_charStats)) {
             self::$_charStats = new CharStats(true);
         }
+
+        if (empty(self::$_playerClass)) {
+            self::$_playerClass = new PlayerClass(true);
+        }
     }
 
     abstract public function get($param, $min, $max): array;
+
+    protected function _getCharClass($code) {
+        $playerClass = self::$_playerClass->getByCode($code);
+        $className = $playerClass[PlayerClass::KEY_CLASS] ?? "";
+        return self::$_charStats->getByClass($className);
+    }
 }

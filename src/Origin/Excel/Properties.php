@@ -108,8 +108,7 @@ class Properties extends Base {
             return null;
         }
         
-        Log::error("... $code, $param, $min, $max" . json_encode($property, JSON_UNESCAPED_UNICODE));
-
+        //Log::error("... $code, $param, $min, $max" . json_encode($property, JSON_UNESCAPED_UNICODE));
         $processor = $this->_getProcessor($code, $property);
         if ($processor !== false) {
             return $processor->get($param, $min, $max);
@@ -128,14 +127,18 @@ class Properties extends Base {
         }
 
         $name = $modifier[$lng] ?? $tips;
-        $key = $modifier['Key'] ?? $tips;
-
         if (strpos($name, '%s')) {
             // 此處為技能，需要特別處理，太複雜，有點亂了
             $param = "@" . self::$_skills->getStrBy($param) . " ";
         }
         $name = str_replace('%s', $param, $name);
-        
+
+        //Log::error("... $name, $min, $max");
+        if ($min > 0 && $max > 0 && $min != $max && strpos($name, '%d-%d') === false && (substr_count($name, "%d") == 1 || substr_count($name, "%+d") == 1)) {
+            $name = str_replace("%d", "[%d-%d]", $name);
+            $name = str_replace("%+d", "+[%d-%d]", $name);
+        }
+
         return sprintf($name, $min, $max);
     }
 }

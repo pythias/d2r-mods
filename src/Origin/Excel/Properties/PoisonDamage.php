@@ -5,6 +5,6 @@ namespace Mod\Origin\Excel\Properties;
 class PoisonDamage {
     public function get($param, $min, $max) : array {
         //todo get level title
-        return [sprintf("Adds %d-%d Poison Damage Over %d Seconds", $min, $max, $param / 25)];
+        return [sprintf("+[%d-%d] 毒素傷害，時效 %d 秒", $min, $max, $param / 25)];
     }
 }

@@ -16,7 +16,7 @@ class Level extends Base {
         }
         
         $name = $modifier["zhTW"] ?? $key;
-        if ($min == 0) {
+        if (empty($min)) {
             $range = sprintf("+[%0.3f-%0.3f]", 1 * $param / $this->_divide, 99 * $param / $this->_divide);
             $name = str_replace("%+d", $range, $name);
             return [sprintf("%s @ModStre9c [%0.3f * clvl]", $name, $param / $this->_divide)];

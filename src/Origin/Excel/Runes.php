@@ -1,21 +1,19 @@
 <?php
 namespace Mod\Origin\Excel;
 
-use Mod\Log;
-use Mod\File\Text;
-use Mod\Origin\Excel\Types;
-use Mod\Origin\Excel\Properties;
+use \Mod\Origin\Excel\Types;
+use \Mod\Origin\Excel\Properties;
 
 class Runes extends Base {
     protected $_name = "runes";
 
     /**
-     * @var $_properties \Mod\Origin\Excel\Types
+     * @var Types
      */
     private $_itemTypes = null;
 
     /**
-     * @var $_properties \Mod\Origin\Excel\Properties
+     * @var Properties
      */
     private $_properties = null;
 
