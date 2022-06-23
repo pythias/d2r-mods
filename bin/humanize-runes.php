@@ -11,6 +11,7 @@ foreach ($words as $id => $word) {
     //$v = $runes->humanize($word);
 }
 
-Log::info(json_encode($runes->humanize($words[$argv[1]]), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+$humanized = $runes->humanize($runes->getByName($argv[1]));
+print(json_encode($humanized, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE) . PHP_EOL);
 
 

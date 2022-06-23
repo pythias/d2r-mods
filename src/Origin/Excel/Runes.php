@@ -6,6 +6,7 @@ use \Mod\Origin\Excel\Properties;
 
 class Runes extends Base {
     protected $_name = "runes";
+    private $_byName = [];
 
     /**
      * @var Types
@@ -20,6 +21,12 @@ class Runes extends Base {
     protected function _load() {
         $this->_itemTypes = new Types();
         $this->_properties = new Properties();
+
+        $this->_byName = $this->_groupBy("*Rune Name");
+    }
+
+    public function getByName($name) {
+        return $this->_byName[$name] ?? null;
     }
 
     public function humanize($word) {
