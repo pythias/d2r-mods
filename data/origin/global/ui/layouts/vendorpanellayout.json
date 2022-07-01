@@ -152,11 +152,11 @@
                     "x": 220,
                     "y": 385
                 },
-                "filename": "PANEL\\buysellbtn",
+                "filename": "PANEL\\refreshbtn",
                 "sound": "pass",
                 "pointSize": 24,
-                "normalFrame": 23,
-                "pressedFrame": 24,
+                "normalFrame": 0,
+                "pressedFrame": 1,
                 "tooltipString": "@refresh",
                 "onClickMessage": "VendorPanelMessage:RefreshAll"
             }

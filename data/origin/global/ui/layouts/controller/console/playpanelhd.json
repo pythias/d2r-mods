@@ -2,7 +2,7 @@
     "type": "Panel",
     "name": "PlayPanel",
     "fields": {
-        "defaultWidget": "SoloPlay",
+        "defaultWidget": "SoloPlayButton",
         "priority": 2,
         "anchor": {
             "x": 0.5
@@ -22,7 +22,7 @@
                     "x": 0,
                     "y": 0
                 },
-                "filename": "Controller\\Lobby\\Play\\ConsolePlay_BG"
+                "filename": "Controller\\Lobby\\Play\\ConsoleLobby_BG"
             }
         },
         {
@@ -30,7 +30,7 @@
             "name": "SoloPlayTitle",
             "fields": {
                 "rect": {
-                    "x": 484,
+                    "x": 126,
                     "y": 62,
                     "width": 670,
                     "height": 75
@@ -51,10 +51,10 @@
         },
         {
             "type": "ButtonWidget",
-            "name": "SoloPlay",
+            "name": "SoloPlayButton",
             "fields": {
                 "rect": {
-                    "x": 366,
+                    "x": 8,
                     "y": 190
                 },
                 "filename": "Controller\\Lobby\\Play\\console_panel_lobby_SoloPlay",
@@ -63,50 +63,7 @@
                 "hoveredFrame": 1,
                 "navigation": {
                     "right": {
-                        "name": "MultiPlay"
-                    }
-                }
-            }
-        },
-        {
-            "type": "TextBoxWidget",
-            "name": "MultiPlayTitle",
-            "fields": {
-                "rect": {
-                    "x": 1566,
-                    "y": 62,
-                    "width": 670,
-                    "height": 75
-                },
-                "text": "@PartyFinder",
-                "style": {
-                    "fontColor": "$FontColorGold",
-                    "pointSize": "$LargeFontSize",
-                    "options": {
-                        "newlineHandling": "standard"
-                    },
-                    "alignment": {
-                        "h": "center",
-                        "v": "center"
-                    }
-                }
-            }
-        },
-        {
-            "type": "ButtonWidget",
-            "name": "MultiPlay",
-            "fields": {
-                "rect": {
-                    "x": 1460,
-                    "y": 190
-                },
-                "filename": "Controller\\Lobby\\Play\\console_panel_lobby_MultiPlay",
-                "focusIndicatorFilename": "Controller\/HoverImages\/ConsolePlay_Hover",
-                "onClickMessage": "MainMenuHD:OpenGameFinder",
-                "hoveredFrame": 1,
-                "navigation": {
-                    "left": {
-                        "name": "SoloPlay"
+                        "name": "CreateGameButton"
                     }
                 }
             }
@@ -116,7 +73,7 @@
             "name": "SoloPlayDetails",
             "fields": {
                 "rect": {
-                    "x": 379,
+                    "x": 20,
                     "y": 1246,
                     "width": 890,
                     "height": 110
@@ -137,15 +94,128 @@
         },
         {
             "type": "TextBoxWidget",
-            "name": "MultiPlayDetails",
+            "name": "CreateGameTitle",
             "fields": {
                 "rect": {
-                    "x": 1464,
+                    "x": 1018,
+                    "y": 62,
+                    "width": 670,
+                    "height": 75
+                },
+                "text": "@GameCreatorTitle",
+                "style": {
+                    "fontColor": "$FontColorGold",
+                    "pointSize": "$LargeFontSize",
+                    "options": {
+                        "newlineHandling": "standard"
+                    },
+                    "alignment": {
+                        "h": "center",
+                        "v": "center"
+                    }
+                }
+            }
+        },
+        {
+            "type": "ButtonWidget",
+            "name": "CreateGameButton",
+            "fields": {
+                "rect": {
+                    "x": 912,
+                    "y": 190
+                },
+                "filename": "Controller\\Lobby\\Play\\console_panel_lobby_MultiPlay",
+                "focusIndicatorFilename": "Controller\/HoverImages\/ConsolePlay_Hover",
+                "onClickMessage": "ConsoleLobby:OpenPlaySubPanel:GameCreatorPanel",
+                "hoveredFrame": 1,
+                "navigation": {
+                    "left": {
+                        "name": "SoloPlayButton"
+                    },
+                    "right": {
+                        "name": "JoinGameButton"
+                    }
+                }
+            }
+        },
+        {
+            "type": "TextBoxWidget",
+            "name": "CreateGameDetails",
+            "fields": {
+                "rect": {
+                    "x": 916,
                     "y": 1246,
                     "width": 890,
                     "height": 110
                 },
-                "text": "@PartyFinderDetails",
+                "text": "@GameCreatorDetails",
+                "style": {
+                    "fontColor": "$FontColorGold",
+                    "pointSize": "$MediumFontSize",
+                    "options": {
+                        "newlineHandling": "standard"
+                    },
+                    "alignment": {
+                        "h": "center",
+                        "v": "center"
+                    }
+                }
+            }
+        },
+        {
+            "type": "TextBoxWidget",
+            "name": "JoinGameTitle",
+            "fields": {
+                "rect": {
+                    "x": 1918,
+                    "y": 62,
+                    "width": 670,
+                    "height": 75
+                },
+                "text": "@JoinGameTitle",
+                "style": {
+                    "fontColor": "$FontColorGold",
+                    "pointSize": "$LargeFontSize",
+                    "options": {
+                        "newlineHandling": "standard"
+                    },
+                    "alignment": {
+                        "h": "center",
+                        "v": "center"
+                    }
+                }
+            }
+        },
+        {
+            "type": "ButtonWidget",
+            "name": "JoinGameButton",
+            "fields": {
+                "rect": {
+                    "x": 1812,
+                    "y": 190
+                },
+                "filename": "Controller\\Lobby\\Play\\console_panel_lobby_GameList",
+                "focusIndicatorFilename": "Controller\/HoverImages\/ConsolePlay_Hover",
+                "onClickMessage": "ConsoleLobby:OpenPlaySubPanel:GameListPanel",
+                "hoveredFrame": 1,
+                "navigation": {
+                    "left": {
+                        "name": "CreateGameButton"
+                    }
+                }
+            }
+        },
+        {
+            "type": "TextBoxWidget",
+            "name": "JoinGameDetails",
+            "fields": {
+                "rect": {
+                    "x": 1816,
+                    "y": 1246,
+                    "width": 890,
+                    "height": 110
+                },
+                "text": "@JoinGameDetails",
                 "style": {
                     "fontColor": "$FontColorGold",
                     "pointSize": "$MediumFontSize",

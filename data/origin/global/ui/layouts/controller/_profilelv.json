@@ -6,10 +6,6 @@
         "width": 1164,
         "height": 106
     },
-    "PanelTabPadding": {
-        "x": 9,
-        "y": 0
-    },
     "ScrollSpeechWidth": 1350,
     "ScrollSpeechBorderWidth": 1550,
     "ScrollSpeechOffset": -675,
@@ -137,7 +133,7 @@
         "EventItemsColor": "$FontColorOrange"
     },
     "SecondSetIconOffset": {
-        "x": 238
+        "x": 225
     },
     "AccountLinkingTileRect": {
         "x": -875,
@@ -198,13 +194,19 @@
         "height": 1400
     },
     "TutorialTooltipConsoleSoloRect": {
-        "x": 275,
+        "x": -200,
         "y": 451,
         "width": 900,
         "height": 800
     },
-    "TutorialTooltipConsoleMultiRect": {
-        "x": -1375,
+    "TutorialTooltipConsoleGameCreatorRect": {
+        "x": -1600,
+        "y": 451,
+        "width": 900,
+        "height": 800
+    },
+    "TutorialTooltipConsoleGameListRect": {
+        "x": -700,
         "y": 451,
         "width": 900,
         "height": 800

@@ -14,6 +14,9 @@
         "animations": [],
         "textures": [
             {
+                "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head_ALB.texture"
+            },
+            {
                 "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head_alpha_ALB.texture"
             },
             {
@@ -23,22 +26,13 @@
                 "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head_alpha_ORM.texture"
             },
             {
-                "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head_China_ALB.texture"
+                "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head_mask.texture"
             },
             {
-                "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head_China_NRM.texture"
+                "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head_NRM.texture"
             },
             {
-                "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head_China_ORM.texture"
-            },
-            {
-                "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head2_China_ALB.texture"
-            },
-            {
-                "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head2_China_NRM.texture"
-            },
-            {
-                "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head2_China_ORM.texture"
+                "path": "data\/hd\/items\/armor\/voodoo_head\/preserved_head\/armor_preserved_head_ORM.texture"
             }
         ],
         "physics": [],

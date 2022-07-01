@@ -3,6 +3,9 @@
     "MediumLargeFontSize": 34,
     "SmallFontSize": 30,
     "TooltipFontSize": 42,
+    "SecondSetIconOffset": {
+        "x": 238
+    },
     "ConsoleUIScale": 1.16,
     "ConsoleLeftPanelRect": {
         "x": -1584,

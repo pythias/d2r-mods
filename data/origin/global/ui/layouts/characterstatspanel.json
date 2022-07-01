@@ -1501,7 +1501,7 @@
                     }
                 },
                 {
-                    "type": "ButtonWidget",
+                    "type": "CharacterStatLevelUpButtonWidget",
                     "name": "StrengthPointButton",
                     "fields": {
                         "rect": {
@@ -1509,11 +1509,11 @@
                             "y": 76
                         },
                         "filename": "PANEL\\level",
-                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:0"
+                        "statsIndex": 0
                     }
                 },
                 {
-                    "type": "ButtonWidget",
+                    "type": "CharacterStatLevelUpButtonWidget",
                     "name": "DexPointButton",
                     "fields": {
                         "rect": {
@@ -1521,11 +1521,11 @@
                             "y": 138
                         },
                         "filename": "PANEL\\level",
-                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:1"
+                        "statsIndex": 1
                     }
                 },
                 {
-                    "type": "ButtonWidget",
+                    "type": "CharacterStatLevelUpButtonWidget",
                     "name": "VitalityPointButton",
                     "fields": {
                         "rect": {
@@ -1533,11 +1533,11 @@
                             "y": 224
                         },
                         "filename": "PANEL\\level",
-                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:2"
+                        "statsIndex": 2
                     }
                 },
                 {
-                    "type": "ButtonWidget",
+                    "type": "CharacterStatLevelUpButtonWidget",
                     "name": "EnergyPointButton",
                     "fields": {
                         "rect": {
@@ -1545,7 +1545,7 @@
                             "y": 286
                         },
                         "filename": "PANEL\\level",
-                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:3"
+                        "statsIndex": 3
                     }
                 },
                 {

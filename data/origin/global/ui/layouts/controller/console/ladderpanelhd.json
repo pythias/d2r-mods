@@ -129,8 +129,8 @@
                                     "name": "Rank",
                                     "fields": {
                                         "rect": {
-                                            "x": 15,
-                                            "width": 120,
+                                            "x": 20,
+                                            "width": 260,
                                             "height": 54
                                         }
                                     }
@@ -140,8 +140,8 @@
                                     "name": "Name",
                                     "fields": {
                                         "rect": {
-                                            "x": 225,
-                                            "width": 300,
+                                            "x": 320,
+                                            "width": 800,
                                             "height": 54
                                         }
                                     }
@@ -151,7 +151,7 @@
                                     "name": "Class",
                                     "fields": {
                                         "rect": {
-                                            "x": 720,
+                                            "x": 1150,
                                             "width": 120,
                                             "height": 54
                                         }
@@ -162,7 +162,7 @@
                                     "name": "Level",
                                     "fields": {
                                         "rect": {
-                                            "x": 1100,
+                                            "x": 1370,
                                             "width": 85,
                                             "height": 54
                                         }
@@ -173,7 +173,7 @@
                                     "name": "Experience",
                                     "fields": {
                                         "rect": {
-                                            "x": 1525,
+                                            "x": 1600,
                                             "width": 340,
                                             "height": 54
                                         }
@@ -184,6 +184,16 @@
                         {
                             "type": "ListWidgetFocusRedirector",
                             "name": "LadderListRedirector",
+                            "fields": {
+                                "navigation": {
+                                    "left": {
+                                        "name": "SeasonDropdown"
+                                    },
+                                    "right": {
+                                        "name": "SeasonDropdown"
+                                    }
+                                }
+                            },
                             "children": [
                                 {
                                     "type": "ListWidgetFocusReceiver",
@@ -214,9 +224,9 @@
                     "name": "MainListRankTitle",
                     "fields": {
                         "rect": {
-                            "x": -120,
+                            "x": -100,
                             "y": 100,
-                            "width": 200,
+                            "width": 260,
                             "height": 40
                         }
                     }
@@ -226,9 +236,9 @@
                     "name": "MainListNameTitle",
                     "fields": {
                         "rect": {
-                            "x": 100,
+                            "x": 200,
                             "y": 100,
-                            "width": 200,
+                            "width": 800,
                             "height": 40
                         }
                     }
@@ -238,9 +248,9 @@
                     "name": "MainListClassTitle",
                     "fields": {
                         "rect": {
-                            "x": 600,
+                            "x": 1010,
                             "y": 100,
-                            "width": 200,
+                            "width": 120,
                             "height": 40
                         }
                     }
@@ -250,7 +260,7 @@
                     "name": "MainListLevelTitle",
                     "fields": {
                         "rect": {
-                            "x": 950,
+                            "x": 1220,
                             "y": 100,
                             "width": 120,
                             "height": 40
@@ -262,7 +272,7 @@
                     "name": "MainListExperienceTitle",
                     "fields": {
                         "rect": {
-                            "x": 1450,
+                            "x": 1520,
                             "y": 100,
                             "width": 255,
                             "height": 40
@@ -339,8 +349,8 @@
                                             "name": "Rank",
                                             "fields": {
                                                 "rect": {
-                                                    "x": 15,
-                                                    "width": 120,
+                                                    "x": 20,
+                                                    "width": 260,
                                                     "height": 54
                                                 }
                                             }
@@ -350,8 +360,8 @@
                                             "name": "Name",
                                             "fields": {
                                                 "rect": {
-                                                    "x": 225,
-                                                    "width": 300,
+                                                    "x": 320,
+                                                    "width": 800,
                                                     "height": 54
                                                 }
                                             }
@@ -361,7 +371,7 @@
                                             "name": "Class",
                                             "fields": {
                                                 "rect": {
-                                                    "x": 720,
+                                                    "x": 1150,
                                                     "width": 120,
                                                     "height": 54
                                                 }
@@ -372,7 +382,7 @@
                                             "name": "Level",
                                             "fields": {
                                                 "rect": {
-                                                    "x": 1100,
+                                                    "x": 1370,
                                                     "width": 85,
                                                     "height": 54
                                                 }
@@ -383,7 +393,7 @@
                                             "name": "Experience",
                                             "fields": {
                                                 "rect": {
-                                                    "x": 1525,
+                                                    "x": 1600,
                                                     "width": 340,
                                                     "height": 54
                                                 }

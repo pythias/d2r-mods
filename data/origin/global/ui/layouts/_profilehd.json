@@ -258,6 +258,7 @@
     "TooltipFontSize": 36,
     "CinematicsFontSize": 32,
     "AddFriendModalFontSize": 26,
+    "GameNameFilterFontSize": 28,
     "XMediumPanelFontSize": "$XMediumFontSize",
     "MediumPanelFontSize": "$MediumFontSize",
     "SmallPanelFontSize": "$SmallFontSize",
@@ -1124,13 +1125,19 @@
         "height": 1150
     },
     "TutorialTooltipConsoleSoloRect": {
-        "x": 275,
+        "x": -200,
         "y": 451,
         "width": 900,
         "height": 700
     },
-    "TutorialTooltipConsoleMultiRect": {
-        "x": -1375,
+    "TutorialTooltipConsoleGameCreatorRect": {
+        "x": -1600,
+        "y": 451,
+        "width": 900,
+        "height": 700
+    },
+    "TutorialTooltipConsoleGameListRect": {
+        "x": -700,
         "y": 451,
         "width": 900,
         "height": 700

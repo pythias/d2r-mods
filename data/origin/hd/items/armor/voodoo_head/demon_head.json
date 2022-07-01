@@ -24,18 +24,6 @@
             },
             {
                 "path": "data\/hd\/items\/armor\/voodoo_head\/demon_head\/armor_head_demon_ORM.texture"
-            },
-            {
-                "path": "data\/hd\/items\/armor\/voodoo_head\/demon_head\/demonhead_CN_ALB.texture"
-            },
-            {
-                "path": "data\/hd\/items\/armor\/voodoo_head\/demon_head\/demonhead_CN_KTINT.texture"
-            },
-            {
-                "path": "data\/hd\/items\/armor\/voodoo_head\/demon_head\/demonhead_CN_NRM.texture"
-            },
-            {
-                "path": "data\/hd\/items\/armor\/voodoo_head\/demon_head\/demonhead_CN_ORM.texture"
             }
         ],
         "physics": [],

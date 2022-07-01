@@ -4,6 +4,9 @@
     "MediumFontSize": 28,
     "SmallFontSize": 26,
     "ConsoleUIScale": 1.16,
+    "SecondSetIconOffset": {
+        "x": 210
+    },
     "ConsoleLeftPanelRect": {
         "x": -1584,
         "y": -618,

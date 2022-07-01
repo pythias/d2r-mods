@@ -1256,7 +1256,7 @@
             "name": "LevelUpInfo",
             "children": [
                 {
-                    "type": "ButtonWidget",
+                    "type": "CharacterStatLevelUpButtonWidget",
                     "name": "StrengthPointButton",
                     "fields": {
                         "rect": {
@@ -1281,7 +1281,7 @@
                     }
                 },
                 {
-                    "type": "ButtonWidget",
+                    "type": "CharacterStatLevelUpButtonWidget",
                     "name": "DexPointButton",
                     "fields": {
                         "rect": {
@@ -1305,7 +1305,7 @@
                     }
                 },
                 {
-                    "type": "ButtonWidget",
+                    "type": "CharacterStatLevelUpButtonWidget",
                     "name": "VitalityPointButton",
                     "fields": {
                         "rect": {
@@ -1329,7 +1329,7 @@
                     }
                 },
                 {
-                    "type": "ButtonWidget",
+                    "type": "CharacterStatLevelUpButtonWidget",
                     "name": "EnergyPointButton",
                     "fields": {
                         "rect": {

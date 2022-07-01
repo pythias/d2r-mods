@@ -20,6 +20,13 @@
             },
             "children": [
                 {
+                    "type": "ClickCatcherWidget",
+                    "name": "ClickCatcher",
+                    "fields": {
+                        "fitToParent": true
+                    }
+                },
+                {
                     "type": "TextBoxWidget",
                     "name": "Prompt",
                     "fields": {

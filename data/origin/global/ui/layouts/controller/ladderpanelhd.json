@@ -55,7 +55,15 @@
                             "type": "ListWidgetFocusRedirector",
                             "name": "LadderListRedirector",
                             "fields": {
-                                "listWidget": "MainLadderList"
+                                "listWidget": "MainLadderList",
+                                "navigation": {
+                                    "up": {
+                                        "name": "SeasonDropdown"
+                                    },
+                                    "down": {
+                                        "name": "personalRankDown"
+                                    }
+                                }
                             },
                             "children": [
                                 {
@@ -151,7 +159,15 @@
                                         "upReceiverName": "personalRankUp",
                                         "downReceiverName": "personalRankDown",
                                         "leftReceiverName": "personalRankLeft",
-                                        "rightReceiverName": "personalRankRight"
+                                        "rightReceiverName": "personalRankRight",
+                                        "navigation": {
+                                            "up": {
+                                                "name": "up"
+                                            },
+                                            "down": {
+                                                "panelBoundary": true
+                                            }
+                                        }
                                     },
                                     "children": [
                                         {

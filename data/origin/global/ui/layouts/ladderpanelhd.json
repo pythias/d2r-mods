@@ -64,8 +64,8 @@
                                     "name": "Rank",
                                     "fields": {
                                         "rect": {
-                                            "x": 15,
-                                            "width": 120,
+                                            "x": 10,
+                                            "width": 240,
                                             "height": 54
                                         },
                                         "style": {
@@ -85,8 +85,8 @@
                                     "fields": {
                                         "truncateWithEllipsis": true,
                                         "rect": {
-                                            "x": 135,
-                                            "width": 300,
+                                            "x": 250,
+                                            "width": 310,
                                             "height": 54
                                         },
                                         "style": {
@@ -105,7 +105,7 @@
                                     "name": "Class",
                                     "fields": {
                                         "rect": {
-                                            "x": 465,
+                                            "x": 560,
                                             "width": 120,
                                             "height": 54
                                         },
@@ -125,8 +125,8 @@
                                     "name": "Level",
                                     "fields": {
                                         "rect": {
-                                            "x": 660,
-                                            "width": 85,
+                                            "x": 730,
+                                            "width": 70,
                                             "height": 54
                                         },
                                         "style": {
@@ -145,8 +145,8 @@
                                     "name": "Experience",
                                     "fields": {
                                         "rect": {
-                                            "x": 765,
-                                            "width": 340,
+                                            "x": 800,
+                                            "width": 300,
                                             "height": 54
                                         },
                                         "style": {
@@ -175,13 +175,14 @@
                         "rect": {
                             "x": 20,
                             "y": 105,
-                            "width": 200,
+                            "width": 240,
                             "height": 40
                         },
                         "text": "@RankX",
                         "style": {
                             "fontColor": "$FontColorLightGray",
                             "pointSize": "$MediumFontSize",
+                            "spacing": "$ReducedSpacing",
                             "alignment": {
                                 "h": "left",
                                 "v": "center"
@@ -194,15 +195,16 @@
                     "name": "MainListNameTitle",
                     "fields": {
                         "rect": {
-                            "x": 150,
+                            "x": 260,
                             "y": 105,
-                            "width": 200,
+                            "width": 340,
                             "height": 40
                         },
                         "text": "@strName",
                         "style": {
                             "fontColor": "$FontColorLightGray",
                             "pointSize": "$MediumFontSize",
+                            "spacing": "$ReducedSpacing",
                             "alignment": {
                                 "h": "left",
                                 "v": "center"
@@ -215,17 +217,18 @@
                     "name": "MainListClassTitle",
                     "fields": {
                         "rect": {
-                            "x": 475,
+                            "x": 530,
                             "y": 105,
-                            "width": 200,
+                            "width": 160,
                             "height": 40
                         },
                         "text": "@strClass",
                         "style": {
                             "fontColor": "$FontColorLightGray",
                             "pointSize": "$MediumFontSize",
+                            "spacing": "$ReducedSpacing",
                             "alignment": {
-                                "h": "left",
+                                "h": "center",
                                 "v": "center"
                             }
                         }
@@ -236,17 +239,18 @@
                     "name": "MainListLevelTitle",
                     "fields": {
                         "rect": {
-                            "x": 670,
+                            "x": 680,
                             "y": 105,
-                            "width": 120,
+                            "width": 180,
                             "height": 40
                         },
                         "text": "@strchrlvl",
                         "style": {
                             "fontColor": "$FontColorLightGray",
                             "pointSize": "$MediumFontSize",
+                            "spacing": "$ReducedSpacing",
                             "alignment": {
-                                "h": "left",
+                                "h": "center",
                                 "v": "center"
                             }
                         }
@@ -266,8 +270,9 @@
                         "style": {
                             "fontColor": "$FontColorLightGray",
                             "pointSize": "$MediumFontSize",
+                            "spacing": "$ReducedSpacing",
                             "alignment": {
-                                "h": "left",
+                                "h": "center",
                                 "v": "center"
                             }
                         }
@@ -317,8 +322,8 @@
                                             "name": "Rank",
                                             "fields": {
                                                 "rect": {
-                                                    "x": 15,
-                                                    "width": 120,
+                                                    "x": 10,
+                                                    "width": 240,
                                                     "height": 54
                                                 },
                                                 "style": {
@@ -338,8 +343,8 @@
                                             "fields": {
                                                 "truncateWithEllipsis": true,
                                                 "rect": {
-                                                    "x": 135,
-                                                    "width": 300,
+                                                    "x": 250,
+                                                    "width": 310,
                                                     "height": 54
                                                 },
                                                 "style": {
@@ -358,7 +363,7 @@
                                             "name": "Class",
                                             "fields": {
                                                 "rect": {
-                                                    "x": 465,
+                                                    "x": 560,
                                                     "width": 120,
                                                     "height": 54
                                                 },
@@ -378,8 +383,8 @@
                                             "name": "Level",
                                             "fields": {
                                                 "rect": {
-                                                    "x": 660,
-                                                    "width": 85,
+                                                    "x": 730,
+                                                    "width": 70,
                                                     "height": 54
                                                 },
                                                 "style": {
@@ -398,8 +403,8 @@
                                             "name": "Experience",
                                             "fields": {
                                                 "rect": {
-                                                    "x": 765,
-                                                    "width": 340,
+                                                    "x": 800,
+                                                    "width": 300,
                                                     "height": 54
                                                 },
                                                 "style": {

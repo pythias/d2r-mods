@@ -82,11 +82,6 @@
                             1,
                             1
                         ],
-                        "disabledFrames": [
-                            0,
-                            0,
-                            0
-                        ],
                         "textStrings": [
                             "@PlayButton",
                             "@FriendsList",
@@ -102,6 +97,7 @@
                         },
                         "activeTextColor": "$TabsActiveTextColor",
                         "inactiveTextColor": "$TabsInactiveTextColor",
+                        "unavailableTabsLeaveGaps": true,
                         "tabSize": {
                             "x": 913,
                             "y": 71

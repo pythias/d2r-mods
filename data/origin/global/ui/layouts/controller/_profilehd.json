@@ -141,9 +141,6 @@
             "kerning": 0.95
         }
     },
-    "SecondSetIconOffset": {
-        "x": 175
-    },
     "LeftHingeSprite": "",
     "RightHingeSprite": "",
     "LeftSideSprite": "",

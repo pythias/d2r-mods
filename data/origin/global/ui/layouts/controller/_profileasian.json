@@ -3,6 +3,9 @@
     "XMediumFontSize": 30,
     "MediumFontSize": 28,
     "SmallFontSize": 26,
+    "SecondSetIconOffset": {
+        "x": 210
+    },
     "JoinGamePlayerEntryHeight": 140,
     "JoinGamePlayerNameHeight": 100
 }

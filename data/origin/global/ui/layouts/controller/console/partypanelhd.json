@@ -16,7 +16,20 @@
             "name": "GameInformationBackground",
             "fields": {
                 "rect": {
-                    "x": 175,
+                    "x": -246,
+                    "y": 68,
+                    "width": 962,
+                    "height": 146
+                },
+                "filename": "Controller\/Panel\/Party\/V2\/GameInformationBackground_console"
+            }
+        },
+        {
+            "type": "ImageWidget",
+            "name": "PlayerInformationBackground",
+            "fields": {
+                "rect": {
+                    "x": 600,
                     "y": 68,
                     "width": 962,
                     "height": 146
@@ -26,10 +39,46 @@
         },
         {
             "type": "TextBoxWidget",
+            "name": "GameNameHeadingText",
+            "fields": {
+                "rect": {
+                    "x": 233,
+                    "y": 75,
+                    "width": 434,
+                    "height": 30
+                },
+                "style": "$StylePartyPanelSmallHeading",
+                "text": "@strGameName"
+            }
+        },
+        {
+            "type": "TextBoxWidget",
+            "name": "GameNameText",
+            "fields": {
+                "rect": {
+                    "x": 136,
+                    "y": 137,
+                    "width": 668,
+                    "height": 40
+                },
+                "style": "$StylePartyPanelGameInfo"
+            },
+            "children": [
+                {
+                    "type": "FocusableWidget",
+                    "name": "GameNameTooltip",
+                    "fields": {
+                        "fitToParent": true
+                    }
+                }
+            ]
+        },
+        {
+            "type": "TextBoxWidget",
             "name": "PlayerNameHeadingText",
             "fields": {
                 "rect": {
-                    "x": 677,
+                    "x": 1102,
                     "y": 75,
                     "width": 434,
                     "height": 30
@@ -43,10 +92,10 @@
             "name": "PlayerName",
             "fields": {
                 "rect": {
-                    "x": 688,
-                    "y": 142,
-                    "width": 413,
-                    "height": 30
+                    "x": 983,
+                    "y": 137,
+                    "width": 668,
+                    "height": 40
                 },
                 "style": "$StylePartyPanelGameInfo"
             }
