@@ -1,5 +1,7 @@
-﻿{
+{
+    // Base (parent) profile.
     "basedOn": "HandheldHD",
+
     "MediumFontSize": 34,
-    "SmallFontSize": 32
+    "SmallFontSize": 32,
 }

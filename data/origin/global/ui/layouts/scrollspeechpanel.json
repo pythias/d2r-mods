@@ -1,101 +1,59 @@
-﻿{
-    "type": "ScrollSpeechPanel",
-    "name": "ScrollSpeechPanel",
+{
+    "type": "ScrollSpeechPanel", "name": "ScrollSpeechPanel",
     "fields": {
-        "rect": {
-            "x": -165,
-            "y": 6,
-            "width": 325,
-            "height": 122
-        },
-        "anchor": {
-            "x": 0.5,
-            "y": 0
-        },
+        "rect": { "x": -165, "y": 6, "width": 325, "height": 122 },
+        "anchor": { "x": 0.5, "y": 0 },
         "scrollStartOffset": -24,
-        "priority": 101
+        "priority": 101,
     },
     "children": [
         {
-            "type": "NineTileImageWidget",
-            "name": "DialogBorder",
+            "type": "NineTileImageWidget", "name": "DialogBorder",
             "fields": {
-                "rect": {
-                    "width": 325,
-                    "height": 122
-                },
-                "filename": "MENU\/boxpieces",
+                "rect": { "width": 325, "height": 122 },
+                "filename": "MENU/boxpieces",
                 "tileFrames": "$NineTileBoxPiecesFrames",
-                "backgroundColor": [
-                    0,
-                    0,
-                    0,
-                    0.5
-                ]
+                "backgroundColor": [ 0.0, 0.0, 0.0, 0.5 ]
             },
             "children": [
                 {
-                    "type": "ScrollingSpeechWidget",
-                    "name": "ScrollSpeechWidget",
+                    "type": "ScrollingSpeechWidget", "name": "ScrollSpeechWidget",
                     "fields": {
-                        "rect": {
-                            "x": 10,
-                            "y": 0,
-                            "width": 300,
-                            "height": 120
-                        },
+                        "rect": { "x": 10, "y": 0, "width": 300, "height": 120 },
                         "onSpeechOverMessage": "DialogMessage:ScrollingTextEnd",
                         "scrollRate": -0.23,
-                        "scrollControllerName": "ScrollController"
+                        "scrollControllerName": "ScrollController",
                     },
                     "children": [
                         {
-                            "type": "TextBoxWidget",
-                            "name": "ScrollingText",
+                            "type": "TextBoxWidget", "name": "ScrollingText",
                             "fields": {
-                                "rect": {
-                                    "x": 0,
-                                    "y": 0,
-                                    "width": 300,
-                                    "height": 100
-                                },
+                                "rect": { "x": 0, "y": 0, "width": 300, "height": 100 },
                                 "fontType": "11ptF",
                                 "style": {
                                     "fontColor": "$FontColorWhite",
-                                    "alignment": {
-                                        "h": "left"
-                                    },
-                                    "options": {
-                                        "newlineHandling": "standard",
-                                        "lineWrap": true
-                                    }
+                                    "alignment": { "h": "left" },
+                                    "options": { "newlineHandling": "standard", "lineWrap": true },
                                 }
                             }
                         }
                     ]
                 },
                 {
-                    "type": "ImageWidget",
-                    "name": "ScrollBarBackground",
+                    "type": "ImageWidget", "name": "ScrollBarBackground",
                     "children": [
                         {
-                            "type": "ScrollControllerWidget",
-                            "name": "ScrollController",
+                            "type": "ScrollControllerWidget", "name": "ScrollController",
                             "fields": {
-                                "rect": {
-                                    "x": 807,
-                                    "y": 8,
-                                    "width": 26,
-                                    "height": 332
-                                },
+                                "rect": { "x": 807, "y": 8, "width": 26, "height": 332 },
                                 "viewName": "ScrollSpeechWidget",
                                 "isFullscreenScroll": true,
                                 "wheelScrollAmount": 50
                             }
-                        }
+                        },
                     ]
-                }
+                },
             ]
-        }
+        },
     ]
 }

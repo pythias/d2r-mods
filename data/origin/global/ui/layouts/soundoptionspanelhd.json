@@ -1,101 +1,81 @@
-﻿{
-    "type": "SoundOptionsPanel",
-    "name": "SoundOptionsPanel",
+{
+    "type": "SoundOptionsPanel", "name": "SoundOptionsPanel",
     "fields": {
         "priority": 9003,
         "rect": "$OptionsPanelRect",
-        "anchor": {
-            "x": 0.5
-        }
+        "anchor": { "x": 0.5 },
     },
     "children": [
         {
-            "type": "ImageWidget",
-            "name": "ScrollBarBackground",
+            "type": "ImageWidget", "name": "ScrollBarBackground",
             "fields": {
                 "rect": "$OptionsScrollBarBackgroundRect",
-                "anchor": {
-                    "x": 1
-                },
-                "filename": "PauseMenu\\VerticalScroll"
+                "anchor": { "x": 1.0 },
+                "filename": "PauseMenu\\VerticalScroll",
             },
             "children": [
                 {
-                    "type": "ScrollControllerWidget",
-                    "name": "ScrollController",
+                    "type": "ScrollControllerWidget", "name": "ScrollController",
                     "fields": {
                         "rect": "$OptionsScrollBarRect",
-                        "anchor": {
-                            "x": 1
-                        },
+                        "anchor": { "x": 1.0 },
                         "upArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollUpBtn",
                         "downArrowFilepath": "FrontEnd\\HD\\Final\\FrontEnd_ScrollDownBtn",
                         "barFilepath": "PauseMenu\\VerticalIndicator",
                         "viewName": "ScrollView",
                         "wheelScrollSound": "cursor_scroll_hd",
-                        "buttonScrollSound": "cursor_scroll_hd"
+                        "buttonScrollSound": "cursor_scroll_hd",
                     }
-                }
+                },
             ]
         },
         {
-            "type": "ScrollViewWidget",
-            "name": "ScrollView",
+            "type": "ScrollViewWidget", "name": "ScrollView",
             "fields": {
                 "fitToParent": true,
-                "scrollControllerName": "ScrollController"
+                "scrollControllerName": "ScrollController",
             },
             "children": [
                 {
-                    "type": "TableWidget",
-                    "name": "OptionsTable",
+                    "type": "TableWidget", "name": "OptionsTable",
                     "fields": {
-                        "columns": [
-                            "$OptionsTableColumn1",
-                            "$OptionsTableColumn2"
-                        ],
-                        "rowHeight": "$OptionsTableRowHeight"
+                        "columns": [ "$OptionsTableColumn1", "$OptionsTableColumn2" ],
+                        "rowHeight": "$OptionsTableRowHeight",
                     },
                     "children": [
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row Sound Options",
+                            "type": "TableRowWidget", "name": "Row Sound Options",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "Sound Options",
+                                    "type": "TextBoxWidget", "name": "Sound Options",
                                     "fields": {
                                         "text": "@SoundOptionsHD",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
                                         {
-                                            "type": "ImageWidget",
-                                            "name": "Divider",
+                                            "type": "ImageWidget", "name": "Divider",
                                             "fields": {
                                                 "rect": "$OptionsDividerRect",
-                                                "filename": "PauseMenu\\Divider"
+                                                "filename": "PauseMenu\\Divider",
                                             }
-                                        }
+                                        },
                                     ]
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row Sound",
+                            "type": "TableRowWidget", "name": "Row Sound",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "SoundText",
+                                    "type": "TextBoxWidget", "name": "SoundText",
                                     "fields": {
                                         "text": "@strOptSound",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "Sound",
+                                    "type": "SettingsSliderWidget", "name": "Sound",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -110,31 +90,26 @@
                                         "tooltipString": "@OptionsMenuMasterVolumeTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
-                                    }
-                                }
+                                    },
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row Music",
+                            "type": "TableRowWidget", "name": "Row Music",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "MusicText",
+                                    "type": "TextBoxWidget", "name": "MusicText",
                                     "fields": {
                                         "text": "@strOptMusic",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "Music",
+                                    "type": "SettingsSliderWidget", "name": "Music",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -149,232 +124,173 @@
                                         "tooltipString": "@OptionsMenuMusicVolumeTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row NPCSpeech",
+                            "type": "TableRowWidget", "name": "Row NPCSpeech",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "NPC Speech",
+                                    "type": "TextBoxWidget", "name": "NPC Speech",
                                     "fields": {
                                         "text": "@NPCSpeechHD",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "CarouselWidget",
-                                    "name": "NPCSpeech",
+                                    "type": "CarouselWidget", "name": "NPCSpeech",
                                     "fields": {
                                         "rect": "$OptionsCarouselRect",
                                         "focusIndicatorPadding": "$OptionsCarouselFocusIndicatorPadding",
                                         "focusIndicatorFilename": "$OptionsCarouselFocusIndicatorFilename",
-                                        "states": [
-                                            "OptionsMenuNPCSpeechAudioOnly",
-                                            "OptionsMenuNPCSpeechTextOnly",
-                                            "OptionsMenuNPCSpeechAudioAndText"
-                                        ],
+                                        "states": [ "OptionsMenuNPCSpeechAudioOnly", "OptionsMenuNPCSpeechTextOnly", "OptionsMenuNPCSpeechAudioAndText" ],
                                         "fontType": "8ptE",
                                         "onUpdateMessage": "OptionsPanelMessage:SetNPCSpeech",
                                         "style": "$StyleSettingsCarousel",
-                                        "enabledColor": "$CarouselEnabledColor",
-                                        "disabledColor": "$CarouselDisabledColor",
+                                        "enabledColor" : "$CarouselEnabledColor",
+                                        "disabledColor" : "$CarouselDisabledColor",
                                         "tooltipString": "@OptionsMenuNPCSpeechTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row LanguageOptions",
+                            "type": "TableRowWidget", "name": "Row LanguageOptions",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "LanguageOptionsText",
+                                    "type": "TextBoxWidget", "name": "LanguageOptionsText",
                                     "fields": {
                                         "text": "@LanguageOptions",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
                                         {
-                                            "type": "ImageWidget",
-                                            "name": "Divider",
+                                            "type": "ImageWidget", "name": "Divider",
                                             "fields": {
                                                 "rect": "$OptionsDividerRect",
-                                                "filename": "PauseMenu\\Divider"
+                                                "filename": "PauseMenu\\Divider",
                                             }
-                                        }
+                                        },
                                     ]
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row VoiceLanguage",
+                            "type": "TableRowWidget", "name": "Row VoiceLanguage",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "VoiceLanguageText",
+                                    "type": "TextBoxWidget", "name": "VoiceLanguageText",
                                     "fields": {
                                         "text": "@VoiceLanguage",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "CarouselWidget",
-                                    "name": "VoiceLanguage",
+                                    "type": "CarouselWidget", "name": "VoiceLanguage",
                                     "fields": {
                                         "rect": "$OptionsCarouselRect",
+                                        //"focusIndicatorPadding": "$OptionsCarouselFocusIndicatorPadding",
                                         "focusIndicatorFilename": "$OptionsCarouselFocusIndicatorFilename",
-                                        "states": [
-                                            "English",
-                                            "German",
-                                            "Spanish",
-                                            "French",
-                                            "Italian",
-                                            "Korean",
-                                            "Polish",
-                                            "Russian",
-                                            "ChineseSimplified",
-                                            "ChineseTraditional",
-                                            "SpanishMexican",
-                                            "Japanese",
-                                            "Portuguese"
-                                        ],
+                                        "states": [ "English", "German", "Spanish", "French", "Italian", "Korean", "Polish", "Russian", "ChineseSimplified", "ChineseTraditional", "SpanishMexican", "Japanese", "Portuguese" ],
                                         "fontType": "8ptE",
                                         "onUpdateMessage": "OptionsPanelMessage:SetVoiceLanguage",
                                         "style": "$StyleSettingsCarousel",
-                                        "enabledColor": "$CarouselEnabledColor",
-                                        "disabledColor": "$CarouselDisabledColor",
-                                        "tooltipString": "@OptionsMenuVoiceLanguageTooltip",
+                                        "enabledColor" : "$CarouselEnabledColor",
+                                        "disabledColor" : "$CarouselDisabledColor",
+										"tooltipString": "@OptionsMenuVoiceLanguageTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
-                                        }
+                                            "showAfterDelay": true,
+										}
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row TextLanguage",
+                            "type": "TableRowWidget", "name": "Row TextLanguage",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "TextLanguageText",
+                                    "type": "TextBoxWidget", "name": "TextLanguageText",
                                     "fields": {
                                         "text": "@TextLanguage",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "CarouselWidget",
-                                    "name": "TextLanguage",
+                                    "type": "CarouselWidget", "name": "TextLanguage",
                                     "fields": {
                                         "rect": "$OptionsCarouselRect",
+                                        //"focusIndicatorPadding": "$OptionsCarouselFocusIndicatorPadding",
                                         "focusIndicatorFilename": "$OptionsCarouselFocusIndicatorFilename",
-                                        "states": [
-                                            "English",
-                                            "German",
-                                            "Spanish",
-                                            "French",
-                                            "Italian",
-                                            "Korean",
-                                            "Polish",
-                                            "Russian",
-                                            "ChineseSimplified",
-                                            "ChineseTraditional",
-                                            "SpanishMexican",
-                                            "Japanese",
-                                            "Portuguese"
-                                        ],
+                                        "states": [ "English", "German", "Spanish", "French", "Italian", "Korean", "Polish", "Russian", "ChineseSimplified", "ChineseTraditional", "SpanishMexican", "Japanese", "Portuguese" ],
                                         "fontType": "8ptE",
                                         "onUpdateMessage": "OptionsPanelMessage:SetTextLanguage",
                                         "style": "$StyleSettingsCarousel",
-                                        "enabledColor": "$CarouselEnabledColor",
-                                        "disabledColor": "$CarouselDisabledColor",
+                                        "enabledColor" : "$CarouselEnabledColor",
+                                        "disabledColor" : "$CarouselDisabledColor",
                                         "tooltipString": "@OptionsMenuTextLanguageTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row Advanced Audio",
+                            "type": "TableRowWidget", "name": "Row Advanced Audio",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "Advanced Audio",
+                                    "type": "TextBoxWidget", "name": "Advanced Audio",
                                     "fields": {
                                         "text": "@AudioAccessibility",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
                                         {
-                                            "type": "ImageWidget",
-                                            "name": "Divider",
+                                            "type": "ImageWidget", "name": "Divider",
                                             "fields": {
                                                 "rect": "$OptionsDividerRect",
-                                                "filename": "PauseMenu\\Divider"
+                                                "filename": "PauseMenu\\Divider",
                                             }
-                                        }
+                                        },
                                     ]
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row Verb Disable",
+                            "type": "TableRowWidget", "name": "Row Verb Disable",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "VerbDisableText",
+                                    "type": "TextBoxWidget", "name": "VerbDisableText",
                                     "fields": {
                                         "text": "@OptionsMenuDisableReverb",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "ToggleButtonWidget",
-                                    "name": "VerbDisable",
+                                    "type": "ToggleButtonWidget", "name": "VerbDisable",
                                     "fields": {
                                         "rect": "$OptionsToggleRect",
                                         "sound": "cursor_menu_select_hd",
                                         "focusIndicatorPadding": "$OptionsToggleFocusIndicatorPadding",
                                         "focusIndicatorFilename": "$OptionsToggleFocusIndicatorFilename",
-                                        "focusIndicatorOffset": {
-                                            "x": 0,
-                                            "y": -4
-                                        },
+                                        "focusIndicatorOffset": { "x": 0, "y": -4 },
                                         "filename": "Lobby\\CreateGame\\CreateGame_AdvancedCheckbox",
                                         "untoggledFrame": 0,
                                         "untoggledPressedFrame": 1,
@@ -386,36 +302,30 @@
                                         "onClickMessage": "OptionsPanelMessage:VerbDisable",
                                         "tooltipString": "@SoundOptionsMenuDisableReverbTooltip",
                                         "tooltipStyle": {
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
-                                    }
-                                }
+                                    },
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row Text to Speech",
+                            "type": "TableRowWidget", "name": "Row Text to Speech",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "TextToSpeechText",
+                                    "type": "TextBoxWidget", "name": "TextToSpeechText",
                                     "fields": {
                                         "text": "@OptionsMenuTextToSpeech",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "ToggleButtonWidget",
-                                    "name": "TextToSpeech",
+                                    "type": "ToggleButtonWidget", "name": "TextToSpeech",
                                     "fields": {
                                         "rect": "$OptionsToggleRect",
                                         "sound": "cursor_menu_select_hd",
                                         "focusIndicatorPadding": "$OptionsToggleFocusIndicatorPadding",
                                         "focusIndicatorFilename": "$OptionsToggleFocusIndicatorFilename",
-                                        "focusIndicatorOffset": {
-                                            "x": 0,
-                                            "y": -4
-                                        },
+                                        "focusIndicatorOffset": { "x": 0, "y": -4 },
                                         "filename": "Lobby\\CreateGame\\CreateGame_AdvancedCheckbox",
                                         "untoggledFrame": 0,
                                         "untoggledPressedFrame": 1,
@@ -427,28 +337,25 @@
                                         "onClickMessage": "OptionsPanelMessage:SetTextToSpeech",
                                         "tooltipString": "@SoundOptionsMenuTextToSpeechTooltip",
                                         "tooltipStyle": {
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
-                                    }
-                                }
+                                    },
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row TTS Speed",
-                            "fields": [],
+                            "type": "TableRowWidget", "name": "Row TTS Speed",
+                            "fields": {},
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "TTSSpeedText",
+                                    "type": "TextBoxWidget", "name": "TTSSpeedText",
                                     "fields": {
                                         "text": "        @OptionsMenuTextToSpeechSpeed",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "TTSSpeed",
+                                    "type": "SettingsSliderWidget", "name": "TTSSpeed",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -463,32 +370,27 @@
                                         "tooltipString": "@SoundOptionsMenuTextToSpeechSpeedTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row TTS Volume",
-                            "fields": [],
+                            "type": "TableRowWidget", "name": "Row TTS Volume",
+                            "fields": {},
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "TTSVolumeText",
+                                    "type": "TextBoxWidget", "name": "TTSVolumeText",
                                     "fields": {
                                         "text": "        @SoundOptionsHD",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "TTSVolume",
+                                    "type": "SettingsSliderWidget", "name": "TTSVolume",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -503,40 +405,32 @@
                                         "tooltipString": "@SoundOptionsMenuTextToSpeechVolTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row Controller Feedback",
+                            "type": "TableRowWidget", "name": "Row Controller Feedback",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "VerbDisableText",
+                                    "type": "TextBoxWidget", "name": "VerbDisableText",
                                     "fields": {
                                         "text": "@SoundOptionsMenuControllerFeedback",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "ToggleButtonWidget",
-                                    "name": "ControllerFeedback",
+                                    "type": "ToggleButtonWidget", "name": "ControllerFeedback",
                                     "fields": {
                                         "rect": "$OptionsToggleRect",
                                         "sound": "cursor_menu_select_hd",
                                         "focusIndicatorPadding": "$OptionsToggleFocusIndicatorPadding",
                                         "focusIndicatorFilename": "$OptionsToggleFocusIndicatorFilename",
-                                        "focusIndicatorOffset": {
-                                            "x": 0,
-                                            "y": -4
-                                        },
+                                        "focusIndicatorOffset": { "x": 0, "y": -4 },
                                         "filename": "Lobby\\CreateGame\\CreateGame_AdvancedCheckbox",
                                         "untoggledFrame": 0,
                                         "untoggledPressedFrame": 1,
@@ -548,70 +442,58 @@
                                         "onClickMessage": "OptionsPanelMessage:ControllerFeedback",
                                         "tooltipString": "@SoundOptionsMenuControllerFeedbackTooltip",
                                         "tooltipStyle": {
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
-                                    }
-                                }
+                                    },
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row AdvancedAudioPreset",
-                            "fields": [],
+                            "type": "TableRowWidget", "name": "Row AdvancedAudioPreset",
+                            "fields": {},
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "AdvancedAudioPresetText",
+                                    "type": "TextBoxWidget", "name": "AdvancedAudioPresetText",
                                     "fields": {
                                         "text": "@Preset",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "CarouselWidget",
-                                    "name": "AdvancedAudioPreset",
+                                    "type": "CarouselWidget", "name": "AdvancedAudioPreset",
                                     "fields": {
                                         "rect": "$OptionsCarouselRect",
                                         "focusIndicatorPadding": "$OptionsCarouselFocusIndicatorPadding",
                                         "focusIndicatorFilename": "$OptionsCarouselFocusIndicatorFilename",
-                                        "states": [
-                                            "1",
-                                            "2",
-                                            "3"
-                                        ],
+                                        "states": [ "1", "2", "3" ],
                                         "fontType": "8ptE",
                                         "onUpdateMessage": "OptionsPanelMessage:AdvancedAudioPreset",
                                         "style": "$StyleSettingsCarousel",
-                                        "enabledColor": "$CarouselEnabledColor",
-                                        "disabledColor": "$CarouselDisabledColor",
+                                        "enabledColor" : "$CarouselEnabledColor",
+                                        "disabledColor" : "$CarouselDisabledColor",
                                         "tooltipString": "@SoundOptionsMenuPresetTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row AdvancedVO",
+                            "type": "TableRowWidget", "name": "Row AdvancedVO",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "AdvancedVOText",
+                                    "type": "TextBoxWidget", "name": "AdvancedVOText",
                                     "fields": {
                                         "text": "@AdvancedVO",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "AdvancedVO",
+                                    "type": "SettingsSliderWidget", "name": "AdvancedVO",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -626,31 +508,26 @@
                                         "tooltipString": "@SoundOptionsMenuVoicesTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row AdvancedSFX",
+                            "type": "TableRowWidget", "name": "Row AdvancedSFX",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "AdvancedSFXText",
+                                    "type": "TextBoxWidget", "name": "AdvancedSFXText",
                                     "fields": {
                                         "text": "@AdvancedSFX",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "AdvancedSFX",
+                                    "type": "SettingsSliderWidget", "name": "AdvancedSFX",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -665,32 +542,27 @@
                                         "tooltipString": "@SoundOptionsMenuSoundEffectsTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row AdvancedUI",
-                            "fields": [],
+                            "type": "TableRowWidget", "name": "Row AdvancedUI",
+                            "fields": {},
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "AdvancedUIText",
+                                    "type": "TextBoxWidget", "name": "AdvancedUIText",
                                     "fields": {
                                         "text": "        @AdvancedUI",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "AdvancedUI",
+                                    "type": "SettingsSliderWidget", "name": "AdvancedUI",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -705,32 +577,27 @@
                                         "tooltipString": "@SoundOptionsMenuUITooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row AdvancedItems",
-                            "fields": [],
+                            "type": "TableRowWidget", "name": "Row AdvancedItems",
+                            "fields": {},
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "AdvancedItemsText",
+                                    "type": "TextBoxWidget", "name": "AdvancedItemsText",
                                     "fields": {
                                         "text": "        @AdvancedItems",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "AdvancedItems",
+                                    "type": "SettingsSliderWidget", "name": "AdvancedItems",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -745,32 +612,27 @@
                                         "tooltipString": "@SoundOptionsMenuItemsTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row AdvancedMonsters",
-                            "fields": [],
+                            "type": "TableRowWidget", "name": "Row AdvancedMonsters",
+                            "fields": {},
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "AdvancedMonstersText",
+                                    "type": "TextBoxWidget", "name": "AdvancedMonstersText",
                                     "fields": {
                                         "text": "        @AdvancedMonsters",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "AdvancedMonsters",
+                                    "type": "SettingsSliderWidget", "name": "AdvancedMonsters",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -785,32 +647,27 @@
                                         "tooltipString": "@SoundOptionsMenuMonstersTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row AdvancedPlayerSkills",
-                            "fields": [],
+                            "type": "TableRowWidget", "name": "Row AdvancedPlayerSkills",
+                            "fields": {},
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "AdvancedPlayerSkillsText",
+                                    "type": "TextBoxWidget", "name": "AdvancedPlayerSkillsText",
                                     "fields": {
                                         "text": "        @AdvancedPlayerSkills",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "AdvancedPlayerSkills",
+                                    "type": "SettingsSliderWidget", "name": "AdvancedPlayerSkills",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -825,32 +682,27 @@
                                         "tooltipString": "@SoundOptionsMenuSkillsTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row AdvancedAmbient",
-                            "fields": [],
+                            "type": "TableRowWidget", "name": "Row AdvancedAmbient",
+                            "fields": {},
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "AdvancedAmbientText",
+                                    "type": "TextBoxWidget", "name": "AdvancedAmbientText",
                                     "fields": {
                                         "text": "        @AdvancedAmbient",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "AdvancedAmbient",
+                                    "type": "SettingsSliderWidget", "name": "AdvancedAmbient",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -865,32 +717,27 @@
                                         "tooltipString": "@SoundOptionsMenuAmbientTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
-                        },
+                        },   
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row AdvancedCombat",
-                            "fields": [],
+                            "type": "TableRowWidget", "name": "Row AdvancedCombat",
+                            "fields": {},
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "AdvancedCombatText",
+                                    "type": "TextBoxWidget", "name": "AdvancedCombatText",
                                     "fields": {
                                         "text": "        @AdvancedCombat",
                                         "style": "$StyleSettingsText"
                                     }
                                 },
                                 {
-                                    "type": "SettingsSliderWidget",
-                                    "name": "AdvancedCombat",
+                                    "type": "SettingsSliderWidget", "name": "AdvancedCombat",
                                     "fields": {
                                         "rect": "$OptionsSliderRect",
                                         "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
@@ -905,23 +752,20 @@
                                         "tooltipString": "@SoundOptionsMenuCombatTooltip",
                                         "tooltipStyle": {
                                             "fontStyle": {
-                                                "options": {
-                                                    "newlineHandling": "standard"
-                                                }
+                                                "options": { "newlineHandling": "standard" },
                                             },
-                                            "showAfterDelay": true
+                                            "showAfterDelay": true,
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TableRowWidget",
-                            "name": "Row Spacer"
-                        }
+                            "type": "TableRowWidget", "name": "Row Spacer",
+                        },
                     ]
-                }
+                },
             ]
-        }
+        },
     ]
 }

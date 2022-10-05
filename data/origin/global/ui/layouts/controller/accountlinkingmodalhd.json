@@ -1,74 +1,57 @@
-﻿{
+{
     "basedOn": "AccountLinkingModalHD.json",
-    "type": "AccountLinkingModal",
-    "name": "AccountLinkingModal",
+    "type": "AccountLinkingModal", "name": "AccountLinkingModal",
     "fields": {
-        "defaultWidget": "Ok"
+        "defaultWidget": "Ok",
     },
     "children": [
         {
-            "type": "ClickCatcherWidget",
-            "name": "ClickCatcher"
+            "type": "ClickCatcherWidget", "name": "ClickCatcher",
         },
         {
-            "type": "RectangleWidget",
-            "name": "backgroundShading"
+            "type": "RectangleWidget", "name": "backgroundShading",
         },
         {
-            "type": "NineTileImageWidget",
-            "name": "Title",
+            "type": "NineTileImageWidget", "name": "Title",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "TitleText"
-                }
+                    "type": "TextBoxWidget", "name": "TitleText",
+                },
             ]
         },
         {
-            "type": "NineTileImageWidget",
-            "name": "TextTile",
+            "type": "NineTileImageWidget", "name": "TextTile",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "ActiveUserName"
+                    "type": "TextBoxWidget", "name": "ActiveUserName",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "Description"
+                    "type": "TextBoxWidget", "name": "Description",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "UserCode"
+                    "type": "TextBoxWidget", "name": "UserCode",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "Url"
-                }
+                    "type": "TextBoxWidget", "name": "Url",
+                },
             ]
         },
         {
-            "type": "ButtonWidget",
-            "name": "Cancel",
+            "type": "ButtonWidget", "name": "Cancel",
             "children": [
                 {
-                    "type": "ButtonLegendWidget",
-                    "name": "CancelLegend",
+                    "type": "ButtonLegendWidget", "name": "CancelLegend",
                     "fields": {
-                        "anchor": {
-                            "x": 0.5,
-                            "y": 1
-                        },
-                        "focusIndicatorFilename": "Controller\/HoverImages\/ModalButton_Hover",
-                        "text": {
-                            "style": "$StyleButtonLegend"
-                        },
+                        "anchor": { "x": 0.5, "y": 1.0 },
+                        "focusIndicatorFilename": "Controller/HoverImages/ModalButton_Hover",
+                        "text": { "style": "$StyleButtonLegend" },
                         "presets": [
                             {
-                                "action": "select"
-                            }
-                        ]
+                              "action": "select",
+                            },
+                        ],
                     }
-                }
+                },
             ]
         }
     ]

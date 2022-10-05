@@ -1,23 +1,17 @@
-﻿{
-    "type": "HelpPanel",
-    "name": "HelpPanelBackground",
+{
+    "type": "HelpPanel", "name": "HelpPanelBackground",
     "fields": {
+        // This needs to be low enough to draw below the HUD.
         "priority": -10,
-        "fitToParent": true
+        "fitToParent": true,
     },
     "children": [
         {
-            "type": "RectangleWidget",
-            "name": "backgroundShading",
+            "type": "RectangleWidget", "name": "backgroundShading",
             "fields": {
                 "fitToScreen": true,
-                "color": [
-                    0,
-                    0,
-                    0,
-                    0.6
-                ]
+                "color": [ 0.0, 0.0, 0.0, 0.6 ]
             }
-        }
+        },
     ]
 }

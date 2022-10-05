@@ -1,106 +1,73 @@
-﻿{
+{
     "basedOn": "BugPanelHD.json",
-    "type": "BugPanel",
-    "name": "BugPanel",
+    "type": "BugPanel", "name": "BugPanel",
     "children": [
         {
-            "type": "ClickCatcherWidget",
-            "name": "BugClickCatcher"
+            "type": "ClickCatcherWidget", "name": "BugClickCatcher",
         },
         {
-            "type": "Widget",
-            "name": "BugParent",
+            "type": "Widget", "name": "BugParent",
             "fields": {
-                "rect": {
-                    "x": -438,
-                    "y": -510
-                },
-                "anchor": {
-                    "x": 0.5,
-                    "y": 0.5
-                }
+                "rect": { "x": -438, "y": -510 },
+                "anchor": { "x": 0.5, "y": 0.5 },
             },
             "children": [
                 {
-                    "type": "NineTileImageWidget",
-                    "name": "BugTitleTile",
+                    "type": "NineTileImageWidget", "name": "BugTitleTile",
                     "children": [
                         {
-                            "type": "TextBoxWidget",
-                            "name": "BugBuildText"
-                        }
+                            "type": "TextBoxWidget", "name": "BugBuildText",
+                        },
                     ]
                 },
                 {
-                    "type": "NineTileImageWidget",
-                    "name": "BugDescriptionTile"
+                    "type": "NineTileImageWidget", "name": "BugDescriptionTile",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "ReportTypeLabel"
+                    "type": "TextBoxWidget", "name": "ReportTypeLabel",
                 },
                 {
-                    "type": "DropdownListWidget",
-                    "name": "ReportType",
+                    "type": "DropdownListWidget", "name": "ReportType",
                     "fields": {
                         "navigation": {
-                            "down": {
-                                "name": "BugDescription"
-                            }
+                            "down": { "name": "BugDescription" },
+                        }
+                    },
+                },
+                {
+                    "type": "TextBoxWidget", "name": "ErrorLabel",
+                },
+                {
+                    "type": "RectangleWidget", "name": "DescriptionBackgroundBox",
+                },
+                {
+                    "type": "InputTextBoxWidget", "name": "BugDescription",
+                    "fields": {
+                        "navigation": {
+                            "up": { "name": "ReportType" },
+                            "down": { "name": "Ok" },
                         }
                     }
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "ErrorLabel"
-                },
-                {
-                    "type": "RectangleWidget",
-                    "name": "DescriptionBackgroundBox"
-                },
-                {
-                    "type": "InputTextBoxWidget",
-                    "name": "BugDescription",
+                    "type": "ButtonWidget", "name": "Ok",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "ReportType"
-                            },
-                            "down": {
-                                "name": "Ok"
-                            }
+                            "up": { "name": "BugDescription" },
+                            "right": { "name": "Cancel" },
                         }
                     }
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Ok",
+                    "type": "ButtonWidget", "name": "Cancel",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "BugDescription"
-                            },
-                            "right": {
-                                "name": "Cancel"
-                            }
-                        }
-                    }
-                },
-                {
-                    "type": "ButtonWidget",
-                    "name": "Cancel",
-                    "fields": {
-                        "navigation": {
-                            "up": {
-                                "name": "BugDescription"
-                            },
-                            "left": {
-                                "name": "Ok"
-                            }
+                            "up": { "name": "BugDescription" },
+                            "left": { "name": "Ok" },
                         }
                     }
                 }
             ]
-        }
+        },
     ]
 }

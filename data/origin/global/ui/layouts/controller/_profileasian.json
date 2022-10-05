@@ -1,11 +1,15 @@
-﻿{
+{
+    // Base (parent) profile.
     "basedOn": "ControllerHD",
+
     "XMediumFontSize": 30,
     "MediumFontSize": 28,
     "SmallFontSize": 26,
-    "SecondSetIconOffset": {
-        "x": 210
-    },
+
+    // HirablesPanel
+    "SecondSetIconOffset": { "x": 210 },
+
+    // Join game tweaks.
     "JoinGamePlayerEntryHeight": 140,
-    "JoinGamePlayerNameHeight": 100
+    "JoinGamePlayerNameHeight": 100,
 }

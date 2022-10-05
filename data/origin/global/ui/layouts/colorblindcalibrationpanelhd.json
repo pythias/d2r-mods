@@ -1,172 +1,109 @@
-﻿{
-    "type": "ColorBlindCalibrationPanel",
-    "name": "ColorBlindCalibrationPanel",
+{
+    "type": "ColorBlindCalibrationPanel", "name": "ColorBlindCalibrationPanel",
     "fields": {
         "priority": 9500,
-        "fitToParent": true,
-        "parentOptionsPanelName": "GameplayOptionsPanel",
-        "saveAndClosePosition": {
-            "x": -700,
-            "y": 1750
-        },
-        "continuePosition": {
-            "x": -329,
-            "y": 1750
-        }
+		"fitToParent": true,
+        "parentOptionsPanelName": "GameplayOptionsPanel", 
+        "saveAndClosePosition": { "x": -700, "y": 1750 },
+        "continuePosition": { "x": -329, "y": 1750 },
     },
     "children": [
         {
-            "type": "RectangleWidget",
-            "name": "Background",
+            "type": "RectangleWidget", "name": "Background",
             "fields": {
                 "fitToScreen": true,
-                "color": [
-                    0,
-                    0,
-                    0,
-                    1
-                ]
+                "color": [ 0.0, 0.0, 0.0, 1.0 ]
             },
             "children": [
                 {
-                    "type": "ClickCatcherWidget",
-                    "name": "ClickCatcher",
+                    "type": "ClickCatcherWidget", "name": "ClickCatcher",
                     "fields": {
                         "fitToParent": true
                     }
-                }
+                },  
             ]
         },
-        {
-            "type": "ImageWidget",
-            "name": "CalibrationImage",
+        // Image for calibration
+        
+		{
+			"type": "ImageWidget", "name": "CalibrationImage",
+			"fields": { 
+				"anchor": { "x": 0.5, "y": 0 },
+				"rect": { "x": -960, "y": 350, "scale": 1.0 },
+				"filename": "FrontEnd/HD/HDR_Calibration",
+                "isLinear": true,
+			}
+		},
+		{
+            "type": "TextBoxWidget", "name": "Title",
             "fields": {
-                "anchor": {
-                    "x": 0.5,
-                    "y": 0
-                },
-                "rect": {
-                    "x": -960,
-                    "y": 350,
-                    "scale": 1
-                },
-                "filename": "FrontEnd\/HD\/HDR_Calibration",
-                "isLinear": true
-            }
-        },
-        {
-            "type": "TextBoxWidget",
-            "name": "Title",
-            "fields": {
-                "anchor": {
-                    "x": 0.5,
-                    "y": 0
-                },
-                "rect": {
-                    "x": 0,
-                    "y": 200
-                },
+				"anchor": { "x": 0.5, "y": 0 },
+				"rect": { "x": 0, "y": 200 },
                 "text": "@ColorBlindCalibration",
                 "style": {
                     "pointSize": "$HugeFontSize",
-                    "alignment": {
-                        "v": "center",
-                        "h": "center"
-                    }
+                    "alignment": { "v": "center", "h": "center" }
                 }
             },
-            "children": [
-                {
-                    "type": "ImageWidget",
-                    "name": "Divider",
-                    "fields": {
-                        "rect": {
-                            "x": -820,
-                            "y": 50
-                        },
-                        "filename": "PauseMenu\\Divider"
-                    }
-                }
-            ]
+			"children": [
+				{
+					"type": "ImageWidget", "name": "Divider",
+					"fields": {
+						"rect": { "x": -820, "y": 50 },
+						"filename": "PauseMenu\\Divider",
+					}
+				},
+			]
+			
         },
         {
-            "type": "TextBoxWidget",
-            "name": "ColorBlindModeText",
+            "type": "TextBoxWidget", "name": "ColorBlindModeText",
             "fields": {
-                "rect": {
-                    "x": 1200,
-                    "y": 1505
-                },
+                "rect": {"x": 1200, "y": 1505},
                 "text": "@ColorBlindMode",
                 "style": {
                     "pointSize": "$LargeFontSize",
-                    "alignment": {
-                        "v": "center",
-                        "h": "left"
-                    }
+                    "alignment": { "v": "center", "h": "left" }
                 }
             }
         },
         {
-            "type": "CarouselWidget",
-            "name": "ColorBlindMode",
+            "type": "CarouselWidget", "name": "ColorBlindMode",
             "fields": {
-                "rect": {
-                    "x": 2070,
-                    "y": 1470,
-                    "width": 596,
-                    "height": 72
-                },
+                "rect": {"x": 2070, "y": 1470, "width": 596, "height": 72},
                 "focusIndicatorPadding": "$OptionsCarouselFocusIndicatorPadding",
                 "focusIndicatorFilename": "$OptionsCarouselFocusIndicatorFilename",
-                "states": [
-                    "ColorBlindNormal",
-                    "ColorBlindProtan",
-                    "ColorBlindDeutran",
-                    "ColorBlindTritan"
-                ],
+                "states": [ "ColorBlindNormal", "ColorBlindProtan", "ColorBlindDeutran", "ColorBlindTritan" ],
                 "fontType": "8ptE",
                 "onUpdateMessage": "OptionsPanelMessage:SetColorBlindMode",
                 "style": "$StyleSettingsCarousel",
-                "enabledColor": "$CarouselEnabledColor",
-                "disabledColor": "$CarouselDisabledColor",
+                "enabledColor" : "$CarouselEnabledColor",
+                "disabledColor" : "$CarouselDisabledColor",
                 "tooltipString": "@OptionsMenuColorBlindModeTooltip",
                 "tooltipStyle": {
                     "fontStyle": {
-                        "options": {
-                            "newlineHandling": "standard"
-                        }
+                        "options": { "newlineHandling": "standard" },
                     },
-                    "showAfterDelay": true
+                    "showAfterDelay": true,
                 }
             }
         },
         {
-            "type": "TextBoxWidget",
-            "name": "ColorBlindStrengthText",
+            "type": "TextBoxWidget", "name": "ColorBlindStrengthText",
             "fields": {
-                "rect": {
-                    "x": 1200,
-                    "y": 1592
-                },
+                "rect": {"x": 1200, "y": 1592},
                 "text": "@ColorBlindStrength",
                 "style": {
                     "pointSize": "$LargeFontSize",
-                    "alignment": {
-                        "v": "center",
-                        "h": "left"
-                    }
+                    "alignment": { "v": "center", "h": "left" }
                 }
             }
         },
         {
-            "type": "SettingsSliderWidget",
-            "name": "ColorBlindStrength",
+            "type": "SettingsSliderWidget", "name": "ColorBlindStrength",
             "fields": {
-                "rect": {
-                    "x": 2132,
-                    "y": 1560
-                },
+                "rect": "$OptionsSliderRect",
+				"rect": { "x": 2132, "y": 1560 },
                 "focusIndicatorPadding": "$OptionsSliderFocusIndicatorPadding",
                 "focusIndicatorFilename": "$OptionsSliderFocusIndicatorFilename",
                 "isHorizontal": true,
@@ -179,48 +116,32 @@
                 "tooltipString": "@OptionsMenuColorBlindStrengthTooltip",
                 "tooltipStyle": {
                     "fontStyle": {
-                        "options": {
-                            "newlineHandling": "standard"
-                        }
+                        "options": { "newlineHandling": "standard" },
                     },
-                    "showAfterDelay": true
+                    "showAfterDelay": true,
                 },
-                "increment": 1
+                "increment": 1,
             }
         },
         {
-            "type": "TextBoxWidget",
-            "name": "TextToSpeechText",
+            "type": "TextBoxWidget", "name": "TextToSpeechText",
             "fields": {
-                "rect": {
-                    "x": 1200,
-                    "y": 1679
-                },
+                "rect": {"x": 1200, "y": 1679},
                 "text": "@OptionsMenuTextToSpeech",
                 "style": {
                     "pointSize": "$LargeFontSize",
-                    "alignment": {
-                        "v": "center",
-                        "h": "left"
-                    }
+                    "alignment": { "v": "center", "h": "left" }
                 }
             }
         },
         {
-            "type": "ToggleButtonWidget",
-            "name": "TextToSpeechToggle",
+            "type": "ToggleButtonWidget", "name": "TextToSpeechToggle",
             "fields": {
-                "rect": {
-                    "x": 2330,
-                    "y": 1645
-                },
+                "rect": {"x": 2330, "y": 1645},
                 "sound": "cursor_menu_select_hd",
                 "focusIndicatorPadding": "$OptionsToggleFocusIndicatorPadding",
                 "focusIndicatorFilename": "$OptionsToggleFocusIndicatorFilename",
-                "focusIndicatorOffset": {
-                    "x": 0,
-                    "y": -4
-                },
+                "focusIndicatorOffset": { "x": 0, "y": -4 },
                 "filename": "Lobby\\CreateGame\\CreateGame_AdvancedCheckbox",
                 "untoggledFrame": 0,
                 "untoggledPressedFrame": 1,
@@ -232,54 +153,40 @@
                 "onClickMessage": "OptionsPanelMessage:SetTextToSpeech",
                 "tooltipString": "@SoundOptionsMenuTextToSpeechTooltip",
                 "tooltipStyle": {
-                    "showAfterDelay": true
+                    "showAfterDelay": true,
                 }
-            }
+            },
         },
-        {
-            "type": "ButtonWidget",
-            "name": "SaveButton",
+		{
+            "type": "ButtonWidget", "name": "SaveButton",
             "fields": {
-                "anchor": {
-                    "x": 0.5,
-                    "y": 0
-                },
-                "rect": {
-                    "x": -700,
-                    "y": 1750
-                },
+				"anchor": { "x": 0.5, "y": 0 },
+				"rect": { "x": -700, "y": 1750 },
                 "filename": "PauseMenu\\PauseButton",
                 "textString": "@SaveAndCloseCalibration",
                 "onClickMessage": "CalibrationPanelMessage:SaveAndClose",
                 "textColor": "$LightButtonTextColor",
-                "text\/style": "$StyleFEButtonText",
+                "text/style": "$StyleFEButtonText",
                 "pressedFrame": 1,
                 "disabledFrame": 2,
-                "hoveredFrame": 3
+                "hoveredFrame": 3,
             }
         },
-        {
-            "type": "ButtonWidget",
-            "name": "CloseButton",
+		{
+            "type": "ButtonWidget", "name": "CloseButton",
             "fields": {
-                "anchor": {
-                    "x": 0.5,
-                    "y": 0
-                },
-                "rect": {
-                    "x": 20,
-                    "y": 1750
-                },
+				"anchor": { "x": 0.5, "y": 0 },
+				"rect": { "x": 20, "y": 1750 },
                 "filename": "PauseMenu\\PauseButton",
                 "textString": "@close",
                 "onClickMessage": "CalibrationPanelMessage:Close",
                 "textColor": "$LightButtonTextColor",
-                "text\/style": "$StyleFEButtonText",
-                "acceptsEscKeyEverywhere": true,
+                "text/style": "$StyleFEButtonText",
+				"acceptsEscKeyEverywhere": true,
                 "pressedFrame": 1,
                 "disabledFrame": 2,
-                "hoveredFrame": 3
+                "hoveredFrame": 3,
             }
-        }
+        },
     ]
 }

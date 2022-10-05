@@ -1,35 +1,28 @@
-﻿{
+{
     "basedOn": "MessageLogPanel_640x480HD.json",
-    "type": "MessageLogPanel",
-    "name": "MessageLogPanel_800x600",
+    "type":  "MessageLogPanel", "name": "MessageLogPanel_800x600",
     "children": [
         {
-            "type": "ClickCatcherWidget",
-            "name": "ClickCatcher"
+            "type": "ClickCatcherWidget", "name": "ClickCatcher",
         },
         {
-            "type": "RectangleWidget",
-            "name": "MessageLogBackground"
+            "type": "RectangleWidget", "name": "MessageLogBackground",
         },
         {
-            "type": "ChatListWidget",
-            "name": "ListContainer",
+            "type": "ChatListWidget", "name": "ListContainer",
             "children": [
                 {
-                    "type": "ListItemWidget",
-                    "name": "ChatEntryTemplate",
+                    "type": "ListItemWidget", "name": "ChatEntryTemplate",
                     "children": [
                         {
-                            "type": "TextBoxWithLinksWidget",
-                            "name": "MessageText"
-                        }
+                            "type": "TextBoxWithLinksWidget", "name": "MessageText",
+                        },
                     ]
-                }
+                },
             ]
         },
         {
-            "type": "ScrollControllerWidget",
-            "name": "ScrollBar"
-        }
+            "type": "ScrollControllerWidget", "name": "ScrollBar",
+        },
     ]
 }

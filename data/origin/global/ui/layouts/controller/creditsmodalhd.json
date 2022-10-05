@@ -1,59 +1,45 @@
-﻿{
+{
     "basedOn": "CreditsModalHD.json",
-    "type": "CreditsModal",
-    "name": "CreditsModal",
+    "type": "CreditsModal", "name": "CreditsModal",
     "children": [
         {
-            "type": "MoviePlayerWidget",
-            "name": "CreditsBackground",
+            "type": "MoviePlayerWidget", "name": "CreditsBackground",
             "fields": {
                 "jukeboxManaged": true,
                 "showCursor": false,
-                "ignoreInputMessages": true
+                "ignoreInputMessages": true,
             }
         },
         {
-            "type": "CreditsWidget",
-            "name": "Credits",
+            "type": "CreditsWidget", "name": "Credits",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "TitleTemplate"
+                    "type": "TextBoxWidget", "name": "TitleTemplate",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "LeftTemplate"
+                    "type": "TextBoxWidget", "name": "LeftTemplate",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "RightTemplate"
+                    "type": "TextBoxWidget", "name": "RightTemplate",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "CenterTemplate"
-                }
+                    "type": "TextBoxWidget", "name": "CenterTemplate",
+                },
             ]
         },
         {
-            "type": "ButtonWidget",
-            "name": "ExitButton",
+            "type": "ButtonWidget", "name": "ExitButton",
             "children": [
                 {
-                    "type": "ButtonLegendWidget",
-                    "name": "DismissLegend",
+                    "type": "ButtonLegendWidget", "name": "DismissLegend",
                     "fields": {
-                        "anchor": {
-                            "x": 0.5,
-                            "y": 1
-                        },
-                        "text": {
-                            "style": "$StyleButtonLegend"
-                        },
+                        "anchor": { "x": 0.5, "y": 1.0 },
+                        "text": { "style": "$StyleButtonLegend" },
                         "presets": [
                             {
-                                "action": "back"
-                            }
-                        ]
+                                "action": "back",
+                            },
+                        ],
                     }
                 }
             ]

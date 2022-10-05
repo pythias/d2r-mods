@@ -1,14 +1,12 @@
-﻿{
-    "type": "FocusManager",
-    "name": "FocusManager",
+{
+    "type": "FocusManager", "name": "FocusManager",
     "children": [
         {
-            "type": "NineTileImageWidget",
-            "name": "FocusIndicator",
+            "type": "NineTileImageWidget", "name": "FocusIndicator",
             "fields": {
-                "filename": "Controller\/PANEL\/ControllerSelector\/ControllerSelectorBorder",
-                "tileScale": 1
+                "filename": "Controller/PANEL/ControllerSelector/ControllerSelectorBorder",
+                "tileScale": 1.0,
             }
-        }
-    ]
+        },
+    ],
 }

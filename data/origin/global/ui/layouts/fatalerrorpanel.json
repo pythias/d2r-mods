@@ -1,14 +1,10 @@
-﻿{
-    "type": "FatalErrorPanel",
-    "name": "FatalErrorPanel",
-    "fields": {
+{
+    "type": "FatalErrorPanel", "name" : "FatalErrorPanel",
+    "fields" : {
         "fitToParent": true,
-        "style": {
+        "style" : {
             "fontColor": "$FontColorWhite",
-            "alignment": {
-                "h": "center",
-                "v": "center"
-            }
+            "alignment" : { "h": "center", "v" : "center" },
         }
-    }
+    },
 }

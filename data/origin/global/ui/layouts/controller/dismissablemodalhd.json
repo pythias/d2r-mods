@@ -1,41 +1,31 @@
-﻿{
+{
     "basedOn": "DismissableModalHD.json",
-    "type": "Modal",
-    "name": "DismissableModal",
+    "type": "Modal", "name": "DismissableModal",
     "children": [
         {
-            "type": "ImageWidget",
-            "name": "Frame",
+            "type": "ImageWidget", "name": "Frame",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "Prompt"
+                    "type": "TextBoxWidget", "name": "Prompt",
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Dismiss",
+                    "type": "ButtonWidget", "name": "Dismiss",
                     "children": [
                         {
-                            "type": "ButtonLegendWidget",
-                            "name": "DismissLegend",
+                            "type": "ButtonLegendWidget", "name": "DismissLegend",
                             "fields": {
-                                "anchor": {
-                                    "x": 0.5,
-                                    "y": 1
-                                },
-                                "text": {
-                                    "style": "$StyleButtonLegend"
-                                },
+                                "anchor": { "x": 0.5, "y": 1.0 },
+                                "text": { "style": "$StyleButtonLegend" },
                                 "presets": [
                                     {
-                                        "action": "select"
-                                    }
-                                ]
+                                      "action": "select",
+                                    },
+                                ],
                             }
-                        }
+                        },
                     ]
-                }
+                },
             ]
-        }
+        },
     ]
 }

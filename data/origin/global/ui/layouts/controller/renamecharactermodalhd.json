@@ -1,51 +1,39 @@
-﻿{
+{
     "basedOn": "RenameCharacterModalHD.json",
-    "type": "RenameCharacterModal",
-    "name": "RenameCharacterModal",
+    "type": "RenameCharacterModal", "name": "RenameCharacterModal",
     "children": [
         {
-            "type": "NineTileImageWidget",
-            "name": "Background",
+            "type": "NineTileImageWidget", "name": "Background",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "RenameMessage"
+                    "type": "TextBoxWidget", "name": "RenameMessage",
                 },
                 {
-                    "type": "ImageWidget",
-                    "name": "InputBackground",
+                    "type": "ImageWidget", "name": "InputBackground",
                     "children": [
                         {
-                            "type": "InputTextBoxWidget",
-                            "name": "RenameInput"
-                        }
+                            "type": "InputTextBoxWidget", "name": "RenameInput",
+                        },
                     ]
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "ConfirmButton",
+                    "type":"ButtonWidget", "name": "ConfirmButton",
                     "children": [
                         {
-                            "type": "ButtonLegendWidget",
-                            "name": "ConfirmLegend",
+                            "type": "ButtonLegendWidget", "name": "ConfirmLegend",
                             "fields": {
-                                "anchor": {
-                                    "x": 0.5,
-                                    "y": 1
-                                },
-                                "text": {
-                                    "style": "$StyleButtonLegend"
-                                },
+                                "anchor": { "x": 0.5, "y": 1.0 },
+                                "text": { "style": "$StyleButtonLegend" },
                                 "presets": [
                                     {
-                                        "action": "pause"
-                                    }
-                                ]
+                                      "action": "pause",
+                                    },
+                                ],
                             }
-                        }
+                        },
                     ]
-                }
+                },
             ]
-        }
+        },
     ]
 }

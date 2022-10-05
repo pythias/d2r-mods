@@ -1,153 +1,90 @@
-﻿{
-    "type": "CharacterCreateNamePanel",
-    "name": "CharacterCreateNamePanel",
+{
+    "type": "CharacterCreateNamePanel", "name": "CharacterCreateNamePanel",
     "fields": {
         "fitToParent": true,
-        "anchor": {
-            "x": 0.5,
-            "y": 0.5
-        },
+        "anchor": {"x": 0.5, "y": 0.5},
         "defaultWidget": "InputText",
-        "priority": 10
+        "priority": 10,
     },
     "children": [
         {
-            "type": "ClickCatcherWidget",
-            "name": "ClickCatcher",
+            "type": "ClickCatcherWidget", "name": "ClickCatcher",
             "fields": {
                 "fitToParent": true,
-                "anchor": {
-                    "x": -0.5,
-                    "y": -0.5
-                }
+                "anchor": {"x": -0.5, "y": -0.5}
             }
         },
         {
-            "type": "RectangleWidget",
-            "name": "BackgroundTint",
+            "type": "RectangleWidget", "name": "BackgroundTint",
             "fields": {
                 "fitToParent": true,
-                "anchor": {
-                    "x": -0.5,
-                    "y": -0.5
-                },
-                "color": [
-                    0,
-                    0,
-                    0,
-                    0.8
-                ]
+                "anchor": {"x": -0.5, "y": -0.5},
+                "color": [0, 0, 0, 0.8]
             }
         },
         {
-            "type": "ImageWidget",
-            "name": "InputBackplate",
+            "type": "ImageWidget", "name": "InputBackplate",
             "fields": {
-                "rect": {
-                    "x": -833,
-                    "y": -401
-                },
-                "filename": "Controller\/FrontEnd\/CharacterCreate\/CharacterName_Input_Backplate"
-            }
+                "rect": { "x": -833, "y": -401 },
+                "filename": "Controller/FrontEnd/CharacterCreate/CharacterName_Input_Backplate"
+            },
         },
         {
-            "type": "ImageWidget",
-            "name": "InputBackground",
+            "type": "ImageWidget", "name": "InputBackground",
             "fields": {
-                "rect": {
-                    "x": -744,
-                    "y": -274
-                },
-                "filename": "Controller\/FrontEnd\/CharacterCreate\/Console_CharacterName_Input_Background"
-            }
+                "rect": { "x": -744, "y": -274 },
+                "filename": "Controller/FrontEnd/CharacterCreate/Console_CharacterName_Input_Background"
+            },
         },
         {
-            "type": "InputTextBoxWidget",
-            "name": "InputText",
-            "fields": {
-                "rect": {
-                    "x": -600,
-                    "y": -200,
-                    "width": 1197,
-                    "height": 78
-                },
-                "backgroundColor": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0,
-                    "a": 0
-                },
+            "type": "InputTextBoxWidget", "name": "InputText",
+            "fields": { 
+                "rect": { "x": -600, "y": -200, "width": 1197, "height": 78 },
+                "backgroundColor":  { "r": 0, "g": 0, "b": 0, "a": 0 },
                 "alwaysAcceptsKeyInput": true,
                 "maxStringLength": 15,
-                "fontStyle": {
-                    "alignment": {
-                        "v": "top",
-                        "h": "center"
-                    },
-                    "pointSize": "$LargeFontSize"
+                "fontStyle": { 
+                    "alignment": { "v": "top","h": "center"},
+                    "pointSize": "$LargeFontSize",
                 },
-                "fontType": "12ptF",
-                "virtualKeyboardType": "Alphabet"
+                "fontType": "12ptF", 
+                "virtualKeyboardType": "Alphabet",
             }
         },
         {
-            "type": "TextBoxWidget",
-            "name": "NameLabel",
+            "type": "TextBoxWidget", "name": "NameLabel",
             "fields": {
-                "rect": {
-                    "x": -744,
-                    "y": -430,
-                    "width": 1488
-                },
-                "text": "@strCharacterName",
-                "style": {
-                    "fontColor": "$FontColorGoldYellow",
-                    "alignment": {
-                        "v": "bottom",
-                        "h": "center"
-                    },
-                    "pointSize": "$XExtraLargeFontSize",
-                    "dropShadow": "$DefaultDropShadow",
-                    "spacing": "$ReducedSpacing"
-                }
-            }
-        },
-        {
-            "type": "TextBoxWidget",
-            "name": "EnterNameLabel",
-            "fields": {
-                "rect": {
-                    "x": -744,
-                    "y": 170,
-                    "width": 1488
-                },
-                "text": "@EnterCharacterName",
-                "style": {
-                    "fontColor": "$FontColorWhite",
-                    "alignment": {
-                        "v": "bottom",
-                        "h": "center"
-                    },
-                    "pointSize": "$MediumLargeFontSize",
-                    "dropShadow": "$DefaultDropShadow",
-                    "spacing": "$ReducedSpacing"
-                }
-            }
-        },
-        {
-            "type": "ButtonLegendWidget",
-            "name": "CharacterNameLegend",
-            "fields": {
-                "rect": {
-                    "x": -1000,
-                    "y": 720,
-                    "width": 2000,
-                    "height": 186
-                },
-                "text": {
+                    "rect": { "x": -744, "y": -430,"width":1488},
+                    "text": "@strCharacterName",
                     "style": {
-                        "fontColor": "$FontColorWhite"
-                    }
+                        "fontColor": "$FontColorGoldYellow",
+                        "alignment": { "v": "bottom", "h": "center" },
+                        "pointSize": "$XExtraLargeFontSize",
+                        "dropShadow": "$DefaultDropShadow",
+                        "spacing" : "$ReducedSpacing"
+                    },
+                }
+        },
+        {
+            "type": "TextBoxWidget", "name": "EnterNameLabel",
+            "fields": {
+                    "rect": { "x": -744, "y": 170,"width":1488},
+                    "text": "@EnterCharacterName",
+                    "style": {
+                        "fontColor": "$FontColorWhite",
+                        "alignment": { "v": "bottom", "h": "center" },
+                        "pointSize": "$MediumLargeFontSize",
+                        "dropShadow": "$DefaultDropShadow",
+                        "spacing" : "$ReducedSpacing"
+                    },
+                }
+        },
+        {
+            "type": "ButtonLegendWidget", "name": "CharacterNameLegend",
+            "fields": {
+                "rect": { "x": -1000, "y": 720, "width": 2000, "height": 186 },
+                "text": { "style": "$StyleButtonLegend",
+                    "style": { "fontColor": "$FontColorWhite" }
                 },
                 "presets": [
                     {
@@ -156,13 +93,13 @@
                     },
                     {
                         "action": "back",
-                        "description": "@ControllerPromptModalCancel"
+                        "description": "@ControllerPromptModalCancel",
                     },
                     {
                         "action": "option2",
                         "description": "@ControllerPromptCharacterCreateGenerateName"
                     }
-                ]
+                ],
             }
         }
     ]

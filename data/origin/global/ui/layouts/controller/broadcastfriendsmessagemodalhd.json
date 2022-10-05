@@ -1,75 +1,59 @@
-﻿{
+{
     "basedOn": "BroadcastFriendsMessageModalHD.json",
-    "type": "ConfirmationModal",
-    "name": "BroadcastFriendsMessageModal",
+    "type": "ConfirmationModal", "name": "BroadcastFriendsMessageModal",
     "children": [
         {
-            "type": "ClickCatcherWidget",
-            "name": "ClickCatcher"
+            "type": "ClickCatcherWidget", "name": "ClickCatcher",
+        },
+        // background image/border
+        {
+            "type": "ImageWidget", "name": "Background",
+        },
+        //localized text
+        {
+            "type": "TextBoxWidget", "name": "Title",
+        },
+        //  Input Box
+        {
+            "type": "ImageWidget", "name": "BackgroundBox",
         },
         {
-            "type": "ImageWidget",
-            "name": "Background"
+            "type": "InputTextBoxWidget", "name": "InputText",
         },
+        // Confirm/cancel buttons
         {
-            "type": "TextBoxWidget",
-            "name": "Title"
-        },
-        {
-            "type": "ImageWidget",
-            "name": "BackgroundBox"
-        },
-        {
-            "type": "InputTextBoxWidget",
-            "name": "InputText"
-        },
-        {
-            "type": "ButtonWidget",
-            "name": "Confirm",
+            "type": "ButtonWidget", "name": "Confirm",
             "children": [
                 {
-                    "type": "ButtonLegendWidget",
-                    "name": "ConfirmLegend",
+                    "type": "ButtonLegendWidget", "name": "ConfirmLegend",
                     "fields": {
-                        "anchor": {
-                            "x": 0.5,
-                            "y": 1
-                        },
-                        "text": {
-                            "style": "$StyleButtonLegend"
-                        },
+                        "anchor": { "x": 0.5, "y": 1.0 },
+                        "text": { "style": "$StyleButtonLegend" },
                         "presets": [
                             {
-                                "action": "select"
-                            }
-                        ]
+                              "action": "select",
+                            },
+                        ],
                     }
-                }
+                },
             ]
         },
         {
-            "type": "ButtonWidget",
-            "name": "Cancel",
+            "type": "ButtonWidget", "name": "Cancel",
             "children": [
                 {
-                    "type": "ButtonLegendWidget",
-                    "name": "DismissLegend",
+                    "type": "ButtonLegendWidget", "name": "DismissLegend",
                     "fields": {
-                        "anchor": {
-                            "x": 0.5,
-                            "y": 1
-                        },
-                        "text": {
-                            "style": "$StyleButtonLegend"
-                        },
+                        "anchor": { "x": 0.5, "y": 1.0 },
+                        "text": { "style": "$StyleButtonLegend" },
                         "presets": [
                             {
-                                "action": "back"
-                            }
-                        ]
+                              "action": "back",
+                            },
+                        ],
                     }
-                }
+                },
             ]
-        }
+        },
     ]
 }

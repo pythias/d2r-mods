@@ -1,84 +1,68 @@
-﻿{
+{
     "basedOn": "JoinGameModalHD.json",
-    "type": "JoinGameModal",
-    "name": "JoinGameModal",
+    "type": "JoinGameModal", "name": "JoinGameModal",
     "fields": {
-        "defaultWidget": "Ok"
+        "defaultWidget": "Ok",
     },
     "children": [
         {
-            "type": "GridImageWidget",
-            "name": "Background"
+            "type": "GridImageWidget", "name": "Background",
+            
         },
         {
-            "type": "TextBoxWidget",
-            "name": "OptionsText"
+            "type": "TextBoxWidget", "name": "OptionsText",
         },
         {
-            "type": "Widget",
-            "name": "JoinGameInputScreen",
+            "type": "Widget", "name": "JoinGameInputScreen",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "Title"
+                    "type": "TextBoxWidget", "name": "Title",
                 },
                 {
-                    "type": "ImageWidget",
-                    "name": "InputBackground"
+                    "type": "ImageWidget", "name": "InputBackground",
                 },
                 {
-                    "type": "InputTextBoxWidget",
-                    "name": "InputText"
+                    "type": "InputTextBoxWidget", "name": "InputText",
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Ok",
+                    "type": "ButtonWidget", "name": "Ok",
                     "fields": {
                         "navigation": {
-                            "down": {
-                                "name": "Cancel"
-                            }
+                            "down": { "name": "Cancel" },
                         }
-                    }
+                    }        
+                   
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Cancel",
+                    "type": "ButtonWidget", "name": "Cancel",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "Ok"
-                            }
+                            "up": { "name": "Ok" },
                         }
-                    }
-                }
+                    }   
+                    
+                },
             ]
         },
         {
-            "type": "Widget",
-            "name": "WaitModal",
+            "type": "Widget", "name": "WaitModal",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "WaitMessage"
+                    "type": "TextBoxWidget", "name": "WaitMessage",
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "CancelButton"
-                }
+                    "type": "ButtonWidget", "name": "CancelButton",
+                },
             ]
         },
         {
-            "type": "Widget",
-            "name": "CannotConnectModal",
+            "type": "Widget", "name": "CannotConnectModal",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "FailMessage"
+                    "type": "TextBoxWidget", "name": "FailMessage",
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "OkButton"
+                    "type": "ButtonWidget", "name": "OkButton",
                 }
             ]
         }

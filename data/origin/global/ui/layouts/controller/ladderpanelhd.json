@@ -1,159 +1,120 @@
-﻿{
+{
     "basedOn": "LadderPanelHD.json",
-    "type": "LadderPanel",
-    "name": "LadderPanel",
+    "type": "LadderPanel", "name": "LadderPanel",
     "children": [
         {
-            "type": "Widget",
-            "name": "LadderDisplay",
+            "type": "Widget", "name": "LadderDisplay",
             "children": [
                 {
-                    "type": "ImageWidget",
-                    "name": "MainListBackground"
+                    "type": "ImageWidget", "name": "MainListBackground",
                 },
                 {
-                    "type": "ListWidget",
-                    "name": "MainLadderList",
+                    "type": "ListWidget", "name": "MainLadderList",
                     "children": [
                         {
-                            "type": "ListItemWidget",
-                            "name": "Template",
+                            "type": "ListItemWidget", "name": "Template",
                             "fields": {
                                 "navigation": {
-                                    "up": {
-                                        "name": "SeasonDropdown"
-                                    },
-                                    "down": {
-                                        "name": "personalRankDown"
-                                    }
+                                    "up": { "name": "SeasonDropdown" },
+                                    "down": {"name": "personalRankDown" }
                                 }
                             },
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "Rank"
+                                    "type": "TextBoxWidget", "name": "Rank",
                                 },
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "Name"
+                                    "type": "TextBoxWidget", "name": "Name",
                                 },
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "Class"
+                                    "type": "TextBoxWidget", "name": "Class",
                                 },
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "Level"
+                                    "type": "TextBoxWidget", "name": "Level",
                                 },
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "Experience"
+                                    "type": "TextBoxWidget", "name": "Experience",
                                 }
                             ]
                         },
                         {
-                            "type": "ListWidgetFocusRedirector",
-                            "name": "LadderListRedirector",
+                            "type": "ListWidgetFocusRedirector", "name": "LadderListRedirector",
                             "fields": {
                                 "listWidget": "MainLadderList",
                                 "navigation": {
-                                    "up": {
-                                        "name": "SeasonDropdown"
-                                    },
-                                    "down": {
-                                        "name": "personalRankDown"
-                                    }
+                                    "up": { "name": "SeasonDropdown" },
+                                    "down": { "name": "personalRankDown" }
                                 }
                             },
                             "children": [
                                 {
-                                    "type": "ListWidgetFocusReceiver",
-                                    "name": "up"
+                                    "type": "ListWidgetFocusReceiver", "name": "up",
                                 },
                                 {
-                                    "type": "ListWidgetFocusReceiver",
-                                    "name": "down"
+                                    "type": "ListWidgetFocusReceiver", "name": "down",
                                 },
                                 {
-                                    "type": "ListWidgetFocusReceiver",
-                                    "name": "left"
+                                    "type": "ListWidgetFocusReceiver", "name": "left",
                                 },
                                 {
-                                    "type": "ListWidgetFocusReceiver",
-                                    "name": "right"
+                                    "type": "ListWidgetFocusReceiver", "name": "right",
                                 }
-                            ]
+                            ],
                         },
                         {
-                            "type": "RectangleWidget",
-                            "name": "LadderSelector"
-                        }
+                            "type": "RectangleWidget", "name": "LadderSelector",
+                        },
                     ]
                 },
+                // Title textboxes above list
                 {
-                    "type": "TextBoxWidget",
-                    "name": "MainListRankTitle"
+                    "type": "TextBoxWidget", "name": "MainListRankTitle",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "MainListNameTitle"
+                    "type": "TextBoxWidget", "name": "MainListNameTitle",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "MainListClassTitle"
+                    "type": "TextBoxWidget", "name": "MainListClassTitle",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "MainListLevelTitle"
+                    "type": "TextBoxWidget", "name": "MainListLevelTitle",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "MainListExperienceTitle"
+                    "type": "TextBoxWidget", "name": "MainListExperienceTitle",
                 },
                 {
-                    "type": "ImageWidget",
-                    "name": "PlayerSlat",
+                    "type": "ImageWidget", "name": "PlayerSlat",
                     "children": [
                         {
-                            "type": "ListWidget",
-                            "name": "PersonalRankList",
+                            "type": "ListWidget", "name": "PersonalRankList",
                             "children": [
                                 {
-                                    "type": "ListItemWidget",
-                                    "name": "Template",
+                                    "type": "ListItemWidget", "name": "Template",
                                     "fields": {
                                         "navigation": {
-                                            "up": {
-                                                "name": "up"
-                                            }
+                                            "up": { "name": "up" },
                                         }
                                     },
                                     "children": [
                                         {
-                                            "type": "TextBoxWidget",
-                                            "name": "Rank"
+                                            "type": "TextBoxWidget", "name": "Rank",
                                         },
                                         {
-                                            "type": "TextBoxWidget",
-                                            "name": "Name"
+                                            "type": "TextBoxWidget", "name": "Name",
                                         },
                                         {
-                                            "type": "TextBoxWidget",
-                                            "name": "Class"
+                                            "type": "TextBoxWidget", "name": "Class",
                                         },
                                         {
-                                            "type": "TextBoxWidget",
-                                            "name": "Level"
+                                            "type": "TextBoxWidget", "name": "Level",
                                         },
                                         {
-                                            "type": "TextBoxWidget",
-                                            "name": "Experience"
+                                            "type": "TextBoxWidget", "name": "Experience",
                                         }
                                     ]
                                 },
                                 {
-                                    "type": "ListWidgetFocusRedirector",
-                                    "name": "PersonalRankListRedirector",
+                                    "type": "ListWidgetFocusRedirector", "name": "PersonalRankListRedirector",
                                     "fields": {
                                         "listWidget": "PersonalRankList",
                                         "upReceiverName": "personalRankUp",
@@ -161,214 +122,148 @@
                                         "leftReceiverName": "personalRankLeft",
                                         "rightReceiverName": "personalRankRight",
                                         "navigation": {
-                                            "up": {
-                                                "name": "up"
-                                            },
-                                            "down": {
-                                                "panelBoundary": true
-                                            }
+                                            "up": { "name": "up" },
+                                            "down": { "panelBoundary": true },
                                         }
                                     },
                                     "children": [
                                         {
-                                            "type": "ListWidgetFocusReceiver",
-                                            "name": "personalRankUp"
+                                            "type": "ListWidgetFocusReceiver", "name": "personalRankUp",
                                         },
                                         {
-                                            "type": "ListWidgetFocusReceiver",
-                                            "name": "personalRankDown"
+                                            "type": "ListWidgetFocusReceiver", "name": "personalRankDown",
                                         },
                                         {
-                                            "type": "ListWidgetFocusReceiver",
-                                            "name": "personalRankLeft"
+                                            "type": "ListWidgetFocusReceiver", "name": "personalRankLeft",
                                         },
                                         {
-                                            "type": "ListWidgetFocusReceiver",
-                                            "name": "personalRankRight"
+                                            "type": "ListWidgetFocusReceiver", "name": "personalRankRight",
                                         }
-                                    ]
+                                    ],
                                 },
                                 {
-                                    "type": "RectangleWidget",
-                                    "name": "PersonalRankSelector"
-                                }
+                                    "type": "RectangleWidget", "name": "PersonalRankSelector",
+                                },
                             ]
                         },
                         {
-                            "type": "RectangleWidget",
-                            "name": "PersonalRankListEmptyMessage",
+                            "type": "RectangleWidget", "name": "PersonalRankListEmptyMessage",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "PersonalRankListEmptyMessageText"
+                                    "type": "TextBoxWidget", "name": "PersonalRankListEmptyMessageText",
                                 }
                             ]
                         }
                     ]
                 },
+                // Drop downs at top of panel - need to be at the bottom of the layout so they end up on top of the rest of the UI
                 {
-                    "type": "TextBoxWidget",
-                    "name": "SeasonTitle"
+                    "type": "TextBoxWidget", "name": "SeasonTitle",
                 },
                 {
-                    "type": "DropdownListWidget",
-                    "name": "SeasonDropdown",
+                    "type": "DropdownListWidget", "name": "SeasonDropdown",
                     "fields": {
                         "navigation": {
-                            "down": {
-                                "name": "down"
-                            },
-                            "right": {
-                                "name": "TypeDropdown"
-                            },
-                            "left": {
-                                "panelBoundary": true
-                            }
+                            "down": { "name": "down" },
+                            "right": { "name": "TypeDropdown" },
+                            "left": { "panelBoundary": true }
+                        }
+                    },
+                },
+                {
+                    "type": "TextBoxWidget", "name": "TypeTitle"
+                },
+                {
+                    "type": "DropdownListWidget", "name": "TypeDropdown",
+                    "fields": {
+                        "navigation": {
+                            "down": { "name": "down" },
+                            "left": { "name": "SeasonDropdown" },
+                            "right": { "name": "ClassExpansionDropdown" }
+                        }
+                    },
+                },
+                {
+                    "type": "TextBoxWidget", "name": "ClassTitle",
+                },
+                {
+                    "type": "DropdownListWidget", "name": "ClassExpansionDropdown",
+                    "fields": {
+                        "navigation": {
+                            "down": { "name": "down" },
+                            "left": { "name": "TypeDropdown" },
+                            "right": { "panelBoundary": true }
                         }
                     }
                 },
-                {
-                    "type": "TextBoxWidget",
-                    "name": "TypeTitle"
-                },
-                {
-                    "type": "DropdownListWidget",
-                    "name": "TypeDropdown",
+				{
+                    "type": "DropdownListWidget", "name": "ClassClassicDropdown",
                     "fields": {
                         "navigation": {
-                            "down": {
-                                "name": "down"
-                            },
-                            "left": {
-                                "name": "SeasonDropdown"
-                            },
-                            "right": {
-                                "name": "ClassExpansionDropdown"
-                            }
+                            "down": { "name": "down" },
+                            "left": { "name": "TypeDropdown" },
+                            "right": { "panelBoundary": true }
                         }
                     }
                 },
+        
+                // Pagination buttons/UI
                 {
-                    "type": "TextBoxWidget",
-                    "name": "ClassTitle"
-                },
-                {
-                    "type": "DropdownListWidget",
-                    "name": "ClassExpansionDropdown",
-                    "fields": {
-                        "navigation": {
-                            "down": {
-                                "name": "down"
-                            },
-                            "left": {
-                                "name": "TypeDropdown"
-                            },
-                            "right": {
-                                "panelBoundary": true
-                            }
-                        }
-                    }
-                },
-                {
-                    "type": "DropdownListWidget",
-                    "name": "ClassClassicDropdown",
-                    "fields": {
-                        "navigation": {
-                            "down": {
-                                "name": "down"
-                            },
-                            "left": {
-                                "name": "TypeDropdown"
-                            },
-                            "right": {
-                                "panelBoundary": true
-                            }
-                        }
-                    }
-                },
-                {
-                    "type": "ImageWidget",
-                    "name": "PaginationBackground",
+                    "type": "ImageWidget", "name": "PaginationBackground",
                     "children": [
                         {
-                            "type": "ButtonWidget",
-                            "name": "LeftArrowButton",
+                            "type": "ButtonWidget", "name": "LeftArrowButton",
                             "children": [
                                 {
-                                    "type": "ButtonLegendWidget",
-                                    "name": "PageLeftLegend",
+                                    "type": "ButtonLegendWidget", "name": "PageLeftLegend",
                                     "fields": {
-                                        "anchor": {
-                                            "x": 0.5,
-                                            "y": 1
-                                        },
-                                        "text": {
-                                            "style": "$StyleButtonLegend"
-                                        },
+                                        "anchor": { "x": 0.5, "y": 1.0 },
+                                        "text": { "style": "$StyleButtonLegend" },
                                         "presets": [
                                             {
-                                                "action": "cycleLeft"
-                                            }
-                                        ]
+                                            "action": "cycleLeft",
+                                            },
+                                        ],
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "TextBoxWidget",
-                            "name": "PageNumber"
+                            "type": "TextBoxWidget", "name": "PageNumber",
                         },
                         {
-                            "type": "ButtonWidget",
-                            "name": "RightArrowButton",
+                            "type": "ButtonWidget", "name": "RightArrowButton",
                             "children": [
                                 {
-                                    "type": "ButtonLegendWidget",
-                                    "name": "PageRightLegend",
+                                    "type": "ButtonLegendWidget", "name": "PageRightLegend",
                                     "fields": {
-                                        "anchor": {
-                                            "x": 0.5,
-                                            "y": 1
-                                        },
-                                        "text": {
-                                            "style": "$StyleButtonLegend"
-                                        },
+                                        "anchor": { "x": 0.5, "y": 1.0 },
+                                        "text": { "style": "$StyleButtonLegend" },
                                         "presets": [
                                             {
-                                                "action": "cycleRight"
-                                            }
-                                        ]
+                                            "action": "cycleRight",
+                                            },
+                                        ],
                                     }
-                                }
+                                },
                             ]
-                        }
+                        },
                     ]
                 }
             ]
         },
         {
-            "type": "TextBoxWidget",
-            "name": "LadderCountdown",
+            "type": "TextBoxWidget", "name": "LadderCountdown",
             "fields": {
-                "rect": {
-                    "x": 0,
-                    "y": 400,
-                    "width": 1140,
-                    "height": 250
-                },
+                "rect": { "x": 0, "y": 400, "width": 1140, "height": 250 },
                 "text": "@LadderSeasonNotStarted",
                 "style": {
                     "fontColor": "$FontColorRed",
                     "pointSize": "$HugeFontSize",
-                    "alignment": {
-                        "v": "center",
-                        "h": "center"
-                    },
-                    "options": {
-                        "lineWrap": true
-                    }
-                }
-            }
+                    "alignment": { "v": "center", "h": "center" },
+                    "options": {"lineWrap": true}
+                },
+            },
         }
     ]
 }

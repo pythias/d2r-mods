@@ -1,34 +1,27 @@
-﻿{
-    "type": "LogoMenuPanel",
-    "name": "LogoMenuPanel",
+{
+    "type": "LogoMenuPanel", "name": "LogoMenuPanel",
     "fields": {
-        "fitToParent": true
+        "fitToParent": true,
     },
     "children": [
         {
-            "type": "MoviePlayerWidget",
-            "name": "MoviePlayer",
+            "type": "MoviePlayerWidget", "name": "MoviePlayer",
             "fields": {
                 "fitToParent": true,
                 "subtitle": "$SubtitleConfiguration",
                 "holdToSkipText": "$HoldToSkipTextConfiguration",
                 "holdToSkipDurationMilliseconds": "$HoldToSkipDurationMilliseconds",
                 "holdToSkipTextTimeoutMilliseconds": "$HoldToSkipTextTimeoutMilliseconds",
-                "onMovieCompleteMessage": "LogoMenu:NextMovie"
+                "onMovieCompleteMessage": "LogoMenu:NextMovie",
             }
         },
         {
-            "type": "Camera3DWidget",
-            "name": "LogoCamera",
+            "type": "Camera3DWidget", "name": "LogoCamera",
             "fields": {
                 "yawDegrees": -90,
                 "pitchDegrees": -1,
                 "fovDegrees": 42,
-                "position": [
-                    0,
-                    0,
-                    0
-                ],
+                "position": [ 0, 0, 0 ],
                 "activateOnOpened": true
             }
         }

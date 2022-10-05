@@ -1,33 +1,27 @@
-﻿{
-    "basedOn": "Controller\/HUDMonsterHealthHD.json",
+{
+    "basedOn": "Controller/HUDMonsterHealthHD.json",
     "type": "MonsterHealthPanel",
     "name": "HUDMonsterHealth",
     "children": [
         {
-            "type": "Widget",
-            "name": "ScreenAnchored",
+            "type": "Widget", "name": "ScreenAnchored",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "Name"
+                    "type": "TextBoxWidget", "name": "Name"
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "Unique"
+                    "type": "TextBoxWidget", "name": "Unique"
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "Additional"
+                    "type": "TextBoxWidget", "name": "Additional"
                 }
             ]
         },
         {
-            "type": "Widget",
-            "name": "TargetAttached",
+            "type": "Widget", "name": "TargetAttached",
             "children": [
                 {
-                    "type": "GrowableImageWidget",
-                    "name": "UniqueMonsterBackground",
+                    "type": "GrowableImageWidget", "name": "UniqueMonsterBackground",
                     "children": [
                         {
                             "type": "ImageWidget",
@@ -36,24 +30,21 @@
                     ]
                 },
                 {
-                    "type": "GrowableImageWidget",
-                    "name": "NormalMonsterBackground"
+                    "type": "GrowableImageWidget", "name": "NormalMonsterBackground"
                 },
                 {
-                    "type": "HealthBarWidget",
-                    "name": "Health",
+                    "type": "HealthBarWidget", "name": "Health",
                     "children": [
                         {
-                            "type": "TextBoxWidget",
-                            "name": "Name",
+                            "type": "TextBoxWidget", "name": "Name",
                             "fields": {
                                 "style": {
                                     "pointSize": "$SmallFontSize"
                                 }
                             }
-                        }
+                        },
                     ]
-                }
+                },
             ]
         }
     ]

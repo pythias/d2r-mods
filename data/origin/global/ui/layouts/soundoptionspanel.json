@@ -1,228 +1,146 @@
-﻿{
-    "type": "SoundOptionsPanel",
-    "name": "SoundOptionsPanel",
+{
+    "type": "SoundOptionsPanel", "name": "SoundOptionsPanel",
     "fields": {
         "priority": 9003,
         "defaultWidget": "Sound",
-        "rect": [
-            -400,
-            -300,
-            800,
-            600
-        ],
-        "anchor": [
-            0.5,
-            0.5
-        ]
+        "rect": [ -400, -300, 800, 600 ],
+        "anchor": [ 0.5, 0.5 ]
     },
     "children": [
         {
-            "type": "ClickCatcherWidget",
-            "name": "catcher",
+            "type": "ClickCatcherWidget", "name": "catcher",
             "fields": {
-                "fitToParent": true
+                "fitToParent": true,
             }
         },
         {
-            "type": "AnimatedImageWidget",
-            "name": "LeftPentagram",
+            "type": "AnimatedImageWidget", "name": "LeftPentagram",
             "fields": {
-                "rect": {
-                    "x": 100,
-                    "y": 250
-                },
-                "filename": "CURSOR\/Pentspin",
-                "fps": -16
+                "rect": { "x": 100, "y": 250 },
+                "filename": "CURSOR/Pentspin",
+                "fps": -16,
             }
         },
         {
-            "type": "AnimatedImageWidget",
-            "name": "RightPentagram",
+            "type": "AnimatedImageWidget", "name": "RightPentagram",
             "fields": {
-                "rect": {
-                    "x": 650,
-                    "y": 250
-                },
-                "filename": "CURSOR\/Pentspin",
-                "fps": 16
+                "rect": { "x": 650, "y": 250 },
+                "filename": "CURSOR/Pentspin",
+                "fps": 16,
             }
         },
         {
-            "type": "TextBoxWidget",
-            "name": "Sound Options",
+            "type": "TextBoxWidget", "name": "Sound Options",
             "fields": {
-                "rect": {
-                    "x": 0,
-                    "y": 145,
-                    "width": 800,
-                    "height": 44
-                },
+                "rect": { "x": 0, "y": 145, "width": 800, "height": 44 },
                 "text": "@SoundOptionsSD",
                 "fontType": "42pt",
-                "style": "$StyleSettingsTitle"
+                "style": "$StyleSettingsTitle",
             }
         },
         {
-            "type": "TableWidget",
-            "name": "OptionsTable",
+            "type": "TableWidget", "name": "OptionsTable",
             "fields": {
-                "rect": {
-                    "x": 0,
-                    "y": 195
-                },
-                "columns": [
-                    "$OptionsTableColumn1",
-                    "$OptionsTableColumn2"
-                ],
+                "rect": { "x": 0, "y": 195 },
+                "columns": [ "$OptionsTableColumn1", "$OptionsTableColumn2" ],
                 "rowHeight": "$OptionsTableRowHeight",
                 "cellPadding": "$OptionsTableCellPadding",
-                "generateFocusLinks": true
+                "generateFocusLinks": true,
             },
             "children": [
                 {
-                    "type": "TableRowWidget",
-                    "name": "Row Sound",
+                    "type": "TableRowWidget", "name": "Row Sound",
                     "children": [
                         {
-                            "type": "TextBoxWidget",
-                            "name": "SoundText",
+                            "type": "TextBoxWidget", "name": "SoundText",
                             "fields": {
                                 "text": "@SoundSD",
                                 "fontType": "30pt",
-                                "style": "$StyleSettingsText"
-                            }
+                                "style": "$StyleSettingsText",
+                            },
                         },
                         {
-                            "type": "SettingsSliderWidget",
-                            "name": "Sound",
+                            "type": "SettingsSliderWidget", "name": "Sound",
                             "fields": {
                                 "rect": "$OptionsSliderRect",
                                 "hitMargin": "$OptionsSliderHitMargin",
                                 "isHorizontal": true,
-                                "indicatorFilepath": "WIDGETS\/optskull",
+                                "indicatorFilepath": "WIDGETS/optskull",
                                 "onUpdateMessage": "OptionsPanelMessage:SetMasterVolume",
-                                "background\/filename": "WIDGETS\/optbar",
-                                "background\/frames": 2,
-                                "backgroundShading\/color": [
-                                    0,
-                                    0,
-                                    0,
-                                    0.25
-                                ],
-                                "progressShading\/color": [
-                                    0,
-                                    0,
-                                    0,
-                                    0.65
-                                ],
-                                "backgroundShading\/rect": {
-                                    "y": 2,
-                                    "width": 290,
-                                    "height": 30
-                                },
-                                "progressShading\/rect": {
-                                    "y": 2,
-                                    "width": 290,
-                                    "height": 30
-                                },
-                                "focusOnMouseOver": true
+                                "background/filename": "WIDGETS/optbar",
+                                "background/frames": 2,
+                                "backgroundShading/color": [ 0.0, 0.0, 0.0, 0.25 ],
+                                "progressShading/color": [ 0.0, 0.0, 0.0, 0.65 ],
+                                "backgroundShading/rect": { "y": 2, "width": 290, "height": 30 },
+                                "progressShading/rect": { "y": 2, "width": 290, "height": 30 },
+                                "focusOnMouseOver": true,
                             }
-                        }
+                        },
                     ]
                 },
                 {
-                    "type": "TableRowWidget",
-                    "name": "Row Music",
+                    "type": "TableRowWidget", "name": "Row Music",
                     "children": [
                         {
-                            "type": "TextBoxWidget",
-                            "name": "MusicText",
+                            "type": "TextBoxWidget", "name": "MusicText",
                             "fields": {
                                 "text": "@MusicSD",
                                 "fontType": "30pt",
-                                "style": "$StyleSettingsText"
-                            }
+                                "style": "$StyleSettingsText",
+                            },
                         },
                         {
-                            "type": "SettingsSliderWidget",
-                            "name": "Music",
+                            "type": "SettingsSliderWidget", "name": "Music",
                             "fields": {
                                 "rect": "$OptionsSliderRect",
                                 "hitMargin": "$OptionsSliderHitMargin",
                                 "isHorizontal": true,
-                                "indicatorFilepath": "WIDGETS\/optskull",
+                                "indicatorFilepath": "WIDGETS/optskull",
                                 "onUpdateMessage": "OptionsPanelMessage:SetMusicVolume",
-                                "background\/filename": "WIDGETS\/optbar",
-                                "background\/frames": 2,
-                                "backgroundShading\/color": [
-                                    0,
-                                    0,
-                                    0,
-                                    0.25
-                                ],
-                                "progressShading\/color": [
-                                    0,
-                                    0,
-                                    0,
-                                    0.65
-                                ],
-                                "backgroundShading\/rect": {
-                                    "y": 2,
-                                    "width": 290,
-                                    "height": 30
-                                },
-                                "progressShading\/rect": {
-                                    "y": 2,
-                                    "width": 290,
-                                    "height": 30
-                                },
-                                "focusOnMouseOver": true
+                                "background/filename": "WIDGETS/optbar",
+                                "background/frames": 2,
+                                "backgroundShading/color": [ 0.0, 0.0, 0.0, 0.25 ],
+                                "progressShading/color": [ 0.0, 0.0, 0.0, 0.65 ],
+                                "backgroundShading/rect": {"y": 2, "width": 290, "height": 30 },
+                                "progressShading/rect": { "y": 2, "width": 290, "height": 30 },
+                                "focusOnMouseOver": true,
                             }
-                        }
+                        },
                     ]
                 },
                 {
-                    "type": "TableRowWidget",
-                    "name": "Row NPCSpeech",
+                    "type": "TableRowWidget", "name": "Row NPCSpeech",
                     "children": [
                         {
-                            "type": "TextBoxWidget",
-                            "name": "NPCSpeechText",
+                            "type": "TextBoxWidget", "name": "NPCSpeechText",
                             "fields": {
                                 "text": "@NPCSpeechSD",
                                 "fontType": "30pt",
-                                "style": "$StyleSettingsText"
-                            }
+                                "style": "$StyleSettingsText",
+                            },
                         },
                         {
-                            "type": "CarouselWidget",
-                            "name": "NPCSpeech",
+                            "type": "CarouselWidget", "name": "NPCSpeech",
                             "fields": {
                                 "rect": "$OptionsCarouselRect",
                                 "hitMargin": "$OptionsCarouselHitMargin",
-                                "states": [
-                                    "AudioOnly",
-                                    "TextOnly",
-                                    "AudioAndText"
-                                ],
+                                "states": [ "AudioOnly", "TextOnly", "AudioAndText" ],
                                 "fontType": "30pt",
                                 "enabledColor": "$FontColorWhite",
                                 "onUpdateMessage": "OptionsPanelMessage:SetNPCSpeech",
                                 "textClickedChangesState": true,
                                 "sound": "select",
                                 "style": "$StyleSettingsCarousel",
-                                "focusOnMouseOver": true
+                                "focusOnMouseOver": true,
                             }
-                        }
+                        },
                     ]
                 },
                 {
-                    "type": "TableRowWidget",
-                    "name": "Row Previous Menu",
+                    "type": "TableRowWidget", "name": "Row Previous Menu",
                     "children": [
                         {
-                            "type": "ButtonWidget",
-                            "name": "Previous Menu",
+                            "type": "ButtonWidget", "name": "Previous Menu",
                             "fields": {
                                 "rect": "$OptionsButtonRect",
                                 "hitMargin": "$OptionsButtonHitMargin",
@@ -230,19 +148,16 @@
                                 "onClickMessage": "SettingsPanelMessage:ToggleChildPanel:SoundOptionsPanel",
                                 "sound": "select",
                                 "fontType": "30pt",
-                                "pressLabelOffset": [
-                                    0,
-                                    0
-                                ],
+                                "pressLabelOffset": [ 0, 0 ],
                                 "textColor": "$FontColorWhite",
                                 "acceptsReturnKey": true,
                                 "focusOnMouseOver": true,
                                 "acceptsEscKeyEverywhere": true
                             }
-                        }
+                        },
                     ]
-                }
+                },
             ]
-        }
-    ]
+        },
+    ],
 }

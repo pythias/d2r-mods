@@ -1,178 +1,119 @@
-﻿{
+{
     "basedOn": "MainMenuButtonRibbonHD.json",
-    "type": "Panel",
-    "name": "MainMenuButtonRibbon",
+    "type": "Panel", "name": "MainMenuButtonRibbon",
     "fields": {
-        "defaultWidget": "Settings"
+        "defaultWidget": "Settings",
     },
     "children": [
         {
-            "type": "ImageWidget",
-            "name": "Ribbon",
+            "type": "ImageWidget", "name": "Ribbon",
             "children": [
                 {
-                    "type": "AnimatedImageWidget",
-                    "name": "FullGlow"
+                    "type": "AnimatedImageWidget", "name": "FullGlow",
                 },
                 {
-                    "type": "AnimatedImageWidget",
-                    "name": "Logo"
+                    "type": "AnimatedImageWidget", "name": "Logo",
                 },
                 {
-                    "type": "ImageWidget",
-                    "name": "ResurrectedText"
+                    "type": "ImageWidget", "name": "ResurrectedText",
                 },
                 {
-                    "type": "AnimatedImageWidget",
-                    "name": "BottomFlames"
+                    "type": "AnimatedImageWidget", "name": "BottomFlames",
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Settings",
+                    "type": "ButtonWidget", "name": "Settings",
                     "fields": {
-                        "focusIndicatorFilename": "Controller\/HoverImages\/FrontEndButtonMed",
+                        "focusIndicatorFilename": "Controller/HoverImages/FrontEndButtonMed",
                         "focusIndicatorVisible": true,
-                        "focusIndicatorOffset": {
-                            "x": -2,
-                            "y": 0
-                        },
+                        "focusIndicatorOffset": { "x": -2, "y": 0 },
                         "navigation": {
-                            "right": {
-                                "panelBoundary": true
-                            },
-                            "down": {
-                                "name": "Cinematics"
-                            }
+                            "right": { "panelBoundary": true },
+                            "down": { "name": "Cinematics" },
                         }
                     }
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Cinematics",
+                    "type": "ButtonWidget", "name": "Cinematics",
                     "fields": {
-                        "focusIndicatorFilename": "Controller\/HoverImages\/FrontEndButtonMed",
+                        "focusIndicatorFilename": "Controller/HoverImages/FrontEndButtonMed",
                         "focusIndicatorVisible": true,
-                        "focusIndicatorOffset": {
-                            "x": -2,
-                            "y": 0
-                        },
+                        "focusIndicatorOffset": { "x": -2, "y": 0 },
                         "navigation": {
-                            "right": {
-                                "panelBoundary": true
-                            },
-                            "up": {
-                                "name": "Settings"
-                            },
-                            "down": {
-                                "name": "Credits"
-                            }
-                        }
+                            "right": { "panelBoundary": true },
+                            "up": { "name": "Settings" },
+                            "down": { "name": "Credits" },
+                        },
                     }
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Credits",
+                    "type": "ButtonWidget", "name": "Credits",
                     "fields": {
-                        "focusIndicatorFilename": "Controller\/HoverImages\/FrontEndButtonMed",
+                        "focusIndicatorFilename": "Controller/HoverImages/FrontEndButtonMed",
                         "focusIndicatorVisible": true,
-                        "focusIndicatorOffset": {
-                            "x": -2,
-                            "y": 0
-                        },
+                        "focusIndicatorOffset": { "x": -2, "y": 0 },
                         "navigation": {
-                            "right": {
-                                "panelBoundary": true
-                            },
-                            "up": {
-                                "name": "Cinematics"
-                            },
-                            "down": {
-                                "name": "Exit"
-                            }
-                        }
+                            "right": { "panelBoundary": true },
+                            "up": { "name": "Cinematics" },
+                            "down": { "name": "Exit" },
+                        },
                     }
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Exit",
+                    "type": "ButtonWidget", "name": "Exit",
                     "fields": {
-                        "focusIndicatorFilename": "Controller\/HoverImages\/FrontEndButtonMed",
+                        "focusIndicatorFilename": "Controller/HoverImages/FrontEndButtonMed",
                         "focusIndicatorVisible": true,
-                        "focusIndicatorOffset": {
-                            "x": -2,
-                            "y": 0
-                        },
+                        "focusIndicatorOffset": { "x": -2, "y": 0 },
                         "navigation": {
-                            "right": {
-                                "panelBoundary": true
-                            },
-                            "up": {
-                                "name": "Credits"
-                            },
-                            "down": {
-                                "name": "MotDScrollBar"
-                            }
+                            "right": { "panelBoundary": true },
+                            "up": { "name": "Credits" },
+                            "down": { "name": "MotDScrollBar" },
                         }
                     }
-                }
+                },
             ]
         },
         {
-            "type": "Widget",
-            "name": "MotDSection",
+            "type": "Widget", "name": "MotDSection",
             "children": [
                 {
-                    "type": "NineTileImageWidget",
-                    "name": "MotDHeaderTile",
+                    "type": "NineTileImageWidget", "name": "MotDHeaderTile",
                     "children": [
                         {
-                            "type": "TextBoxWidget",
-                            "name": "MotDHeaderText"
-                        }
+                            "type": "TextBoxWidget", "name": "MotDHeaderText",
+                        },
                     ]
                 },
                 {
-                    "type": "NineTileImageWidget",
-                    "name": "MotDBodyTile",
+                    "type": "NineTileImageWidget", "name": "MotDBodyTile",
                     "children": [
                         {
-                            "type": "ImageWidget",
-                            "name": "ScrollBarBackground",
+                            "type": "ImageWidget", "name": "ScrollBarBackground",
                             "children": [
                                 {
-                                    "type": "ScrollControllerWidget",
-                                    "name": "MotDScrollBar",
+                                    "type": "ScrollControllerWidget", "name": "MotDScrollBar",
                                     "fields": {
                                         "navigation": {
-                                            "right": {
-                                                "panelBoundary": true
-                                            },
-                                            "left": {
-                                                "name": "Exit"
-                                            }
+                                            "right": { "panelBoundary": true },
+                                            "left": { "name": "Exit" },
                                         },
-                                        "focusIndicatorFilename": "Controller\/HoverImages\/MotD_Hover",
-                                        "focusIndicatorOffset": {
-                                            "x": 0,
-                                            "y": -4
-                                        }
+                                        "focusIndicatorFilename": "Controller/HoverImages/MotD_Hover",
+                                        "focusIndicatorOffset": { "x": 0, "y": -4 },
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "ScrollViewWidget",
-                            "name": "MotDScrollView",
+                            "type": "ScrollViewWidget", "name": "MotDScrollView",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "MotDBodyText"
-                                }
+                                    "type": "TextBoxWidget", "name": "MotDBodyText",
+                                },
                             ]
-                        }
+                        },
                     ]
-                }
+                },
             ]
-        }
+        },
     ]
 }

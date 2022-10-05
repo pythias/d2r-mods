@@ -1,192 +1,143 @@
-﻿{
+{
     "basedOn": "LobbyChatPanelHD.json",
-    "type": "LobbyChatPanel",
-    "name": "LobbyChatPanel",
+    "type": "LobbyChatPanel", "name": "LobbyChatPanel",
     "children": [
         {
-            "type": "Widget",
-            "name": "FriendsListAnchor"
+             "type": "Widget", "name": "FriendsListAnchor",
         },
+        // Message log
         {
-            "type": "ChatListWidget",
-            "name": "ListContainer",
+            "type": "ChatListWidget", "name": "ListContainer",
             "children": [
                 {
-                    "type": "ListItemWidget",
-                    "name": "ChatEntryTemplate",
+                    "type": "ListItemWidget", "name": "ChatEntryTemplate",
                     "children": [
                         {
-                            "type": "TextBoxWithLinksWidget",
-                            "name": "MessageText"
-                        }
+                            "type": "TextBoxWithLinksWidget", "name": "MessageText",
+                        },
                     ]
-                }
+                },
             ]
         },
         {
-            "type": "ImageWidget",
-            "name": "ChatHistoryScrollBarBackground",
+            "type": "ImageWidget", "name": "ChatHistoryScrollBarBackground",
             "children": [
                 {
-                    "type": "ScrollControllerWidget",
-                    "name": "ChatHistoryScrollBar"
-                }
+                    "type": "ScrollControllerWidget", "name": "ChatHistoryScrollBar",
+                },
             ]
         },
         {
-            "type": "TextBoxWidget",
-            "name": "ChannelName"
+            "type": "TextBoxWidget", "name": "ChannelName",
         },
+        // Input field
         {
-            "type": "AutocompleteInputTextBoxWidget",
-            "name": "InputBox",
-            "fields": {
+            "type": "AutocompleteInputTextBoxWidget", "name": "InputBox",
+            "fields": 
+            {
                 "navigation": {
-                    "up": {
-                        "name": "ChannelDropDownButton"
-                    },
-                    "down": {
-                        "panelBoundary": true
-                    },
-                    "left": {
-                        "name": "FriendsListButton"
-                    },
-                    "right": {
-                        "name": "SendMessageButton"
-                    }
+                    "up": { "name": "ChannelDropDownButton" },
+                    "down": { "panelBoundary": true },
+                    "left": { "name": "FriendsListButton" },
+                    "right": { "name": "SendMessageButton" },
                 }
             },
             "children": [
                 {
-                    "type": "ListWidget",
-                    "name": "AutoSuggestList",
+                    "type": "ListWidget", "name": "AutoSuggestList",
                     "children": [
                         {
-                            "type": "HoverListItemWidget",
-                            "name": "AutoSuggestTemplate",
+                            "type": "HoverListItemWidget", "name": "AutoSuggestTemplate",
                             "children": [
                                 {
-                                    "type": "ImageWidget",
-                                    "name": "Image"
+                                    "type": "ImageWidget", "name": "Image",
                                 },
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "TextBox"
+                                    "type": "TextBoxWidget", "name": "TextBox",
                                 }
                             ]
                         },
                         {
-                            "type": "Widget",
-                            "name": "AutoSuggestSelector"
+                            "type": "Widget", "name": "AutoSuggestSelector",
                         }
                     ]
-                }
+                },
             ]
         },
         {
-            "type": "ScrollControllerWidget",
-            "name": "AutocompleteScrollBar"
+            "type": "ScrollControllerWidget", "name": "AutocompleteScrollBar",
         },
         {
-            "type": "ButtonWidget",
-            "name": "SendMessageButton",
-            "fields": {
+            "type": "ButtonWidget", "name": "SendMessageButton",
+            "fields": { 
                 "navigation": {
-                    "up": {
-                        "name": "ChannelDropDownButton"
-                    },
-                    "down": {
-                        "panelBoundary": true
-                    },
-                    "left": {
-                        "name": "InputBox"
-                    },
-                    "right": {
-                        "panelBoundary": true
-                    }
+                    "up": { "name": "ChannelDropDownButton" },
+                    "down": { "panelBoundary": true },
+                    "left": { "name": "InputBox" },
+                    "right": { "panelBoundary": true },
                 }
             }
         },
+        // Friends
         {
-            "type": "ButtonWidget",
-            "name": "FriendsListButton",
-            "fields": {
+            "type": "ButtonWidget", "name": "FriendsListButton",
+            "fields": { 
                 "navigation": {
-                    "up": {
-                        "name": "ChannelDropDownButton"
-                    },
-                    "down": {
-                        "panelBoundary": true
-                    },
-                    "right": {
-                        "name": "InputBox"
-                    }
+                    "up": { "name": "ChannelDropDownButton" },
+                    "down": { "panelBoundary": true },
+                    "right": { "name": "InputBox" },
                 }
             }
         },
+         // Channels name + dropdown
         {
-            "type": "ChatChannelsWidget",
-            "name": "ChannelsDropdown",
+            "type": "ChatChannelsWidget", "name": "ChannelsDropdown",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "ChannelName"
+                   "type": "TextBoxWidget", "name": "ChannelName",
                 },
                 {
-                    "type": "ToggleButtonWidget",
-                    "name": "ChannelDropDownButton",
-                    "fields": {
+                    "type": "ToggleButtonWidget", "name": "ChannelDropDownButton",
+                    "fields": { 
                         "navigation": {
-                            "down": {
-                                "name": "SendMessageButton"
-                            },
-                            "right": {
-                                "panelBoundary": true
-                            }
+                            "down": { "name": "SendMessageButton" },
+                            "right": { "panelBoundary": true },
                         }
-                    }
+                    },
                 },
                 {
-                    "type": "ImageWidget",
-                    "name": "ListBackground",
+                    "type": "ImageWidget", "name": "ListBackground",
                     "children": [
                         {
-                            "type": "ListWidget",
-                            "name": "ChannelList",
+                            "type": "ListWidget", "name": "ChannelList",
                             "children": [
                                 {
-                                    "type": "HoverListItemWidget",
-                                    "name": "ChannelNameContainer",
+                                    "type": "HoverListItemWidget", "name": "ChannelNameContainer",
                                     "children": [
                                         {
-                                            "type": "ImageWidget",
-                                            "name": "Image"
+                                            "type": "ImageWidget", "name": "Image",
                                         },
                                         {
-                                            "type": "TextBoxWidget",
-                                            "name": "TextBox"
-                                        }
+                                            "type": "TextBoxWidget", "name": "TextBox",
+                                        },
                                     ]
                                 },
                                 {
-                                    "type": "Widget",
-                                    "name": "Selector"
-                                }
+                                    "type": "Widget", "name": "Selector",
+                                },
                             ]
                         },
                         {
-                            "type": "ImageWidget",
-                            "name": "ScrollBarBackground",
+                            "type": "ImageWidget", "name": "ScrollBarBackground",
                             "children": [
                                 {
-                                    "type": "ScrollControllerWidget",
-                                    "name": "ChannelsScrollController"
-                                }
+                                    "type": "ScrollControllerWidget", "name": "ChannelsScrollController",
+                                },
                             ]
                         }
                     ]
                 }
             ]
-        }
+        },
     ]
 }

@@ -1,61 +1,30 @@
-﻿{
-    "type": "ChatPanel",
-    "name": "ChatPanel",
+{
+    "type": "ChatPanel", "name": "ChatPanel",
     "fields": {
-        "anchor": {
-            "x": 0.5,
-            "y": 1
-        },
-        "rect": {
-            "x": -273,
-            "y": -105,
-            "width": 546,
-            "height": 47
-        },
+        "anchor": { "x": 0.5, "y": 1.0 },
+        "rect": { "x": -273, "y": -105, "width": 546, "height": 47 },
         "priority": 1999999999
     },
     "children": [
         {
-            "type": "RectangleWidget",
-            "name": "BackgroundBox",
+            "type": "RectangleWidget", "name": "BackgroundBox",
             "fields": {
                 "fitToParent": true,
-                "color": [
-                    0,
-                    0,
-                    0,
-                    0.5
-                ]
+                "color": [ 0.0, 0.0, 0.0, 0.5 ],
             }
         },
         {
-            "type": "InputTextBoxWidget",
-            "name": "InputBox",
+            "type": "InputTextBoxWidget", "name": "InputBox",
             "fields": {
                 "fitToParent": true,
                 "fontType": "Chat",
                 "alwaysAcceptsKeyInput": true,
                 "fontStyle": {
-                    "fontColor": {
-                        "r": 255,
-                        "g": 255,
-                        "b": 255,
-                        "a": 255
-                    },
-                    "options": {
-                        "lineWrap": true,
-                        "pipeCharacterBehavior": "handle"
-                    },
-                    "spacing": {
-                        "leading": 0.62
-                    }
+                    "fontColor": { "r": 255, "g": 255, "b": 255, "a": 255 },
+                    "options": { "lineWrap": true, "pipeCharacterBehavior" : "handle" },
+                    "spacing": { "leading": 0.62 }
                 },
-                "backgroundColor": [
-                    0,
-                    0,
-                    0,
-                    0
-                ],
+                "backgroundColor": [ 0.0, 0.0, 0.0, 0.0 ],
                 "maxStringLength": 256
             }
         }

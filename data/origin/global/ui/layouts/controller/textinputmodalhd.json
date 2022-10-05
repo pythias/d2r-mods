@@ -1,8 +1,7 @@
-﻿{
-    "type": "TextInputModal",
-    "name": "TextInputModal",
+{
+    "type": "TextInputModal", "name": "TextInputModal",
     "fields": {
         "fitToParent": true,
-        "drawTint": false
-    }
+        "drawTint": false,
+    },
 }

@@ -1,312 +1,204 @@
-﻿{
+{
     "basedOn": "CharacterCreatePanel.json",
-    "type": "CharacterCreatePanel",
-    "name": "CharacterCreatePanel",
+    "type": "CharacterCreatePanel", "name": "CharacterCreatePanel",
     "fields": {
-        "defaultWidget": "Barbarian"
+        "defaultWidget": "Barbarian",
     },
     "children": [
         {
-            "type": "GridImageWidget",
-            "name": "Background"
+            "type": "GridImageWidget", "name": "Background",
         },
         {
-            "type": "TextBoxWidget",
-            "name": "Title"
+            "type": "TextBoxWidget", "name": "Title",
         },
         {
-            "type": "ButtonWidget",
-            "name": "ToMainMenu",
+            "type": "ButtonWidget", "name": "ToMainMenu",
             "fields": {
                 "navigation": {
-                    "right": {
-                        "name": "ExpansionCheckbox"
-                    },
-                    "up": {
-                        "name": "Amazon"
-                    }
+                    "right": { "name": "ExpansionCheckbox" },
+                    "up": { "name": "Amazon" },
                 }
             }
         },
         {
-            "type": "ButtonWidget",
-            "name": "ToGame",
+            "type": "ButtonWidget", "name": "ToGame",
             "fields": {
                 "navigation": {
-                    "left": {
-                        "name": "ExpansionCheckbox"
-                    },
-                    "up": {
-                        "name": "Druid"
-                    }
-                }
+                    "left": { "name": "ExpansionCheckbox" },
+                    "up": { "name": "Druid" },
+                },
             }
         },
+        // Toggle between SD/HD
         {
-            "type": "ButtonWidget",
-            "name": "ToggleLegacy",
+            "type": "ButtonWidget", "name": "ToggleLegacy",
             "fields": {
                 "navigation": {
-                    "down": {
-                        "name": "Barbarian"
-                    }
+                    "down": { "name": "Barbarian" },
                 }
-            }
+            },
         },
         {
-            "type": "CharacterCreateContainerWidget",
-            "name": "CharacterContainer",
+            "type": "CharacterCreateContainerWidget", "name": "CharacterContainer",
             "children": [
                 {
-                    "type": "CharacterCreateWidget",
-                    "name": "Amazon",
+                    "type": "CharacterCreateWidget", "name": "Amazon",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "ToggleLegacy"
-                            },
-                            "right": {
-                                "name": "Assassin"
-                            },
-                            "down": {
-                                "name": "ToMainMenu"
-                            }
+                            "up": { "name": "ToggleLegacy" },
+                            "right": { "name": "Assassin" },
+                            "down": { "name": "ToMainMenu" }
                         }
                     }
                 },
                 {
-                    "type": "CharacterCreateWidget",
-                    "name": "Assassin",
+                    "type": "CharacterCreateWidget", "name": "Assassin",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "ToggleLegacy"
-                            },
-                            "left": {
-                                "name": "Amazon"
-                            },
-                            "right": {
-                                "name": "Necromancer"
-                            },
-                            "down": {
-                                "name": "ToMainMenu"
-                            }
+                            "up": { "name": "ToggleLegacy" },
+                            "left": { "name": "Amazon" },
+                            "right": { "name": "Necromancer" },
+                            "down": { "name": "ToMainMenu" }
+                        },
+                    }
+                },
+                {
+                    "type": "CharacterCreateWidget", "name": "Barbarian",
+                    "fields": {
+                        "navigation": {
+                            "up": { "name": "ToggleLegacy" },
+                            "left": { "name": "Necromancer" },
+                            "right": { "name": "Paladin" },
+                            "down": { "name": "ExpansionCheckbox" }
                         }
                     }
                 },
                 {
-                    "type": "CharacterCreateWidget",
-                    "name": "Barbarian",
+                    "type": "CharacterCreateWidget", "name": "Druid",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "ToggleLegacy"
-                            },
-                            "left": {
-                                "name": "Necromancer"
-                            },
-                            "right": {
-                                "name": "Paladin"
-                            },
-                            "down": {
-                                "name": "ExpansionCheckbox"
-                            }
-                        }
+                            "up": { "name": "ToggleLegacy" },
+                            "left": { "name": "Sorceress" },
+                            "down": { "name": "ToGame"}
+                        },
                     }
                 },
                 {
-                    "type": "CharacterCreateWidget",
-                    "name": "Druid",
+                    "type": "CharacterCreateWidget", "name": "Necromancer",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "ToggleLegacy"
-                            },
-                            "left": {
-                                "name": "Sorceress"
-                            },
-                            "down": {
-                                "name": "ToGame"
-                            }
-                        }
+                            "up": { "name": "ToggleLegacy" },
+                            "left": { "name": "Assassin" },
+                            "right": { "name": "Barbarian" },
+                            "down": { "name": "ExpansionCheckbox" }
+                        },
                     }
                 },
                 {
-                    "type": "CharacterCreateWidget",
-                    "name": "Necromancer",
+                    "type": "CharacterCreateWidget", "name": "Paladin",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "ToggleLegacy"
-                            },
-                            "left": {
-                                "name": "Assassin"
-                            },
-                            "right": {
-                                "name": "Barbarian"
-                            },
-                            "down": {
-                                "name": "ExpansionCheckbox"
-                            }
-                        }
+                            "up": { "name": "ToggleLegacy" },
+                            "left": {"name": "Barbarian" },
+                            "right": { "name": "Sorceress" },
+                            "down": { "name": "ExpansionCheckbox" }
+                        },
                     }
                 },
                 {
-                    "type": "CharacterCreateWidget",
-                    "name": "Paladin",
+                    "type": "CharacterCreateWidget", "name": "Sorceress",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "ToggleLegacy"
-                            },
-                            "left": {
-                                "name": "Barbarian"
-                            },
-                            "right": {
-                                "name": "Sorceress"
-                            },
-                            "down": {
-                                "name": "ExpansionCheckbox"
-                            }
+                            "up": { "name": "ToggleLegacy" },
+                            "left": { "name": "Paladin" },
+                            "right": { "name": "Druid" },
+                            "down": { "name": "ToGame" }
                         }
                     }
                 },
-                {
-                    "type": "CharacterCreateWidget",
-                    "name": "Sorceress",
-                    "fields": {
-                        "navigation": {
-                            "up": {
-                                "name": "ToggleLegacy"
-                            },
-                            "left": {
-                                "name": "Paladin"
-                            },
-                            "right": {
-                                "name": "Druid"
-                            },
-                            "down": {
-                                "name": "ToGame"
-                            }
-                        }
-                    }
-                }
-            ]
+            ],
         },
+
         {
-            "type": "AnimatedImageWidget",
-            "name": "Fire"
+            "type": "AnimatedImageWidget", "name": "Fire",
         },
+
         {
-            "type": "Widget",
-            "name": "InfoContainer",
+            "type": "Widget", "name": "InfoContainer",
             "fields": {
-                "rect": {
-                    "y": -40
-                }
+                "rect": { "y": -40 },
             },
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "ClassTitle"
+                    "type": "TextBoxWidget", "name": "ClassTitle",
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "ClassDescription"
-                }
+                    "type": "TextBoxWidget", "name": "ClassDescription",
+                },
             ]
         },
+
         {
-            "type": "Widget",
-            "name": "InputContainer",
+            "type": "Widget", "name": "InputContainer",
             "fields": {
-                "rect": {
-                    "x": 20
-                }
+                "rect": { "x": 20 },
             },
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "NameLabel"
+                    "type": "TextBoxWidget", "name": "NameLabel",
+                },
+
+                {
+                    "type": "ImageWidget", "name": "InputBackground",
+                },
+
+                {
+                    "type": "InputTextBoxWidget", "name": "InputText",
+                },
+
+                {
+                    "type": "TextBoxWidget", "name": "ExpansionLabel",
                 },
                 {
-                    "type": "ImageWidget",
-                    "name": "InputBackground"
-                },
-                {
-                    "type": "InputTextBoxWidget",
-                    "name": "InputText"
-                },
-                {
-                    "type": "TextBoxWidget",
-                    "name": "ExpansionLabel"
-                },
-                {
-                    "type": "ToggleButtonWidget",
-                    "name": "ExpansionCheckbox",
+                    "type": "ToggleButtonWidget", "name": "ExpansionCheckbox",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "Barbarian"
-                            },
-                            "left": {
-                                "name": "ToMainMenu"
-                            },
-                            "right": {
-                                "name": "ToGame"
-                            },
-                            "down": {
-                                "name": "HardcoreCheckbox"
-                            }
-                        }
+                            "up": { "name": "Barbarian" },
+                            "left": { "name": "ToMainMenu" },
+                            "right": { "name": "ToGame" },
+                            "down": { "name": "HardcoreCheckbox" }
+                        },
+                    }
+                },
+
+                {
+                    "type": "TextBoxWidget", "name": "HardcoreLabel",
+                },
+                {
+                    "type": "ToggleButtonWidget", "name": "HardcoreCheckbox",
+                    "fields": {
+                        "navigation": {
+                            "left": { "name": "ToMainMenu" },
+                            "right": { "name": "ToGame" },
+                            "up": { "name": "ExpansionCheckbox" },
+                            "down": { "name": "LadderToggle" }
+                        },
                     }
                 },
                 {
-                    "type": "TextBoxWidget",
-                    "name": "HardcoreLabel"
+                    "type": "TextBoxWidget", "name": "LadderLabel",
                 },
                 {
-                    "type": "ToggleButtonWidget",
-                    "name": "HardcoreCheckbox",
+                    "type": "ToggleButtonWidget", "name": "LadderToggle",
                     "fields": {
                         "navigation": {
-                            "left": {
-                                "name": "ToMainMenu"
-                            },
-                            "right": {
-                                "name": "ToGame"
-                            },
-                            "up": {
-                                "name": "ExpansionCheckbox"
-                            },
-                            "down": {
-                                "name": "LadderToggle"
-                            }
-                        }
+                            "left": { "name": "ToMainMenu" },
+                            "right": { "name": "ToGame" },
+                            "up": { "name": "HardcoreCheckbox" }
+                        },
                     }
                 },
-                {
-                    "type": "TextBoxWidget",
-                    "name": "LadderLabel"
-                },
-                {
-                    "type": "ToggleButtonWidget",
-                    "name": "LadderToggle",
-                    "fields": {
-                        "navigation": {
-                            "left": {
-                                "name": "ToMainMenu"
-                            },
-                            "right": {
-                                "name": "ToGame"
-                            },
-                            "up": {
-                                "name": "HardcoreCheckbox"
-                            }
-                        }
-                    }
-                }
             ]
-        }
+        },
     ]
 }

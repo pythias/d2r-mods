@@ -1,95 +1,63 @@
-﻿{
-    "type": "QuestLogSpeechPanel",
-    "name": "QuestLogSpeechPanel",
+{
+    "type": "QuestLogSpeechPanel", "name": "QuestLogSpeechPanel",
     "fields": {
         "fitToParent": true,
-        "drawTint": false
+        "drawTint": false,
     },
     "children": [
         {
-            "type": "ClickCatcherWidget",
-            "name": "SpeechClickCatcher",
+            "type": "ClickCatcherWidget", "name": "SpeechClickCatcher",
             "fields": {
-                "fitToParent": true
-            }
+                "fitToParent": true,
+            },
         },
         {
-            "type": "Widget",
-            "name": "ScrollingSpeechParent",
+            "type": "Widget", "name": "ScrollingSpeechParent",
             "fields": {
-                "rect": {
-                    "x": -308,
-                    "y": 19,
-                    "width": 340,
-                    "height": 117
-                }
+                "rect": { "x": -308, "y": 19, "width": 340, "height": 117 },
             },
             "children": [
                 {
-                    "type": "ScrollingSpeechWidget",
-                    "name": "ScrollSpeechWidget",
+                    "type": "ScrollingSpeechWidget", "name": "ScrollSpeechWidget",
                     "fields": {
-                        "rect": {
-                            "x": 0,
-                            "y": 0,
-                            "width": 340,
-                            "height": 117
-                        },
+                        "rect": { "x": 0, "y": 0, "width": 340, "height": 117 },
                         "clipMouseInput": false,
                         "onSpeechOverMessage": "QuestLogPanelMessage:DialogueFinished",
                         "scrollRate": -0.243,
-                        "scrollControllerName": "ScrollController"
+                        "scrollControllerName":  "ScrollController",
                     },
                     "children": [
                         {
-                            "type": "TextBoxWidget",
-                            "name": "ScrollingText",
+                            "type": "TextBoxWidget", "name": "ScrollingText",
                             "fields": {
-                                "rect": {
-                                    "x": 0,
-                                    "y": 117,
-                                    "width": 292,
-                                    "height": 1000
-                                },
+                                "rect": { "x": 0, "y": 117, "width": 292, "height": 1000 },
                                 "fontType": "11ptF",
                                 "style": {
-                                    "options": {
-                                        "newlineHandling": "standard",
-                                        "lineWrap": true
-                                    },
-                                    "alignment": {
-                                        "h": "left"
-                                    }
+                                    "options": { "newlineHandling": "standard", "lineWrap": true },
+                                    "alignment": { "h": "left" },
                                 }
                             }
-                        }
-                    ]
+                        },
+                    ]       
                 },
                 {
-                    "type": "ImageWidget",
-                    "name": "ScrollBarBackground",
+                    "type": "ImageWidget", "name": "ScrollBarBackground",
                     "fields": {
-                        "rect": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "anchor": {
-                            "x": 1
-                        }
+                        "rect": { "x": 0, "y": 0},
+                        "anchor": { "x":  1.0 }
                     },
                     "children": [
                         {
-                            "type": "ScrollControllerWidget",
-                            "name": "ScrollController",
+                            "type": "ScrollControllerWidget", "name": "ScrollController",
                             "fields": {
                                 "viewName": "ScrollSpeechWidget",
                                 "isFullscreenScroll": true,
                                 "wheelScrollAmount": 50
                             }
-                        }
+                        },
                     ]
-                }
+                },
             ]
-        }
+        },
     ]
 }

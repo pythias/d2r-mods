@@ -1,21 +1,14 @@
-﻿{
-    "type": "MiniMenuPanel",
-    "name": "MiniMenuPanel",
+{
+    "type": "MiniMenuPanel", "name": "MiniMenuPanel",
     "fields": {
         "priority": 110,
-        "anchor": {
-            "x": 0.5,
-            "y": 1
-        },
-        "rect": {
-            "x": 0,
-            "y": -73
-        },
-        "singleplayerBackgroundFilename": "PANEL\/minipanel_s",
-        "multiplayerBackgroundFilename": "PANEL\/minipanel",
-        "buttonsFilename": "PANEL\/minipanelbtn",
+        "anchor": { "x": 0.5, "y": 1 },
+        "rect": { "x": 0, "y": -73 },
+        "singleplayerBackgroundFilename": "PANEL/minipanel_s",
+        "multiplayerBackgroundFilename": "PANEL/minipanel",
+        "buttonsFilename": "PANEL/minipanelbtn",
         "sidewaysOffset": 130,
-        "spacing": 1
+        "spacing": 1,
     },
     "children": [
         {
@@ -24,7 +17,7 @@
             "children": [
                 {
                     "type": "ClickCatcherWidget",
-                    "name": "MiniClickCatcher"
+                    "name": "MiniClickCatcher",
                 }
             ]
         },
@@ -32,14 +25,9 @@
             "type": "MiniMenuButtonWidget",
             "name": "MiniButtonTemplate",
             "fields": {
-                "rect": {
-                    "x": 3,
-                    "y": 3
-                },
-                "tooltipOffset": {
-                    "y": -5
-                }
-            }
-        }
+                "rect": { "x": 3, "y": 3 },
+                "tooltipOffset": { "y": -5 },
+            },
+        },
     ]
 }

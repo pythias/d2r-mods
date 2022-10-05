@@ -1,56 +1,42 @@
-﻿{
+{
     "basedOn": "CharacterDifficultyModalHD.json",
-    "type": "CharacterDifficultyModal",
-    "name": "CharacterDifficultyModal",
+    "type": "CharacterDifficultyModal", "name": "CharacterDifficultyModal",
     "fields": {
-        "defaultWidget": "Normal"
+        "defaultWidget": "Normal",
     },
     "children": [
         {
-            "type": "ImageWidget",
-            "name": "Frame",
+            "type": "ImageWidget", "name": "Frame",
             "children": [
                 {
-                    "type": "TextBoxWidget",
-                    "name": "Prompt"
+                    "type": "TextBoxWidget", "name": "Prompt",
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Normal",
+                    "type": "ButtonWidget", "name": "Normal",
                     "fields": {
                         "navigation": {
-                            "down": {
-                                "name": "Nightmare"
-                            }
-                        }
+                            "down": { "name": "Nightmare" },
+                        },
                     }
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Nightmare",
+                    "type": "ButtonWidget", "name": "Nightmare",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "Normal"
-                            },
-                            "down": {
-                                "name": "Hell"
-                            }
-                        }
+                            "up": { "name": "Normal" },
+                            "down": { "name": "Hell" },
+                        },
                     }
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Hell",
+                    "type": "ButtonWidget", "name": "Hell",
                     "fields": {
                         "navigation": {
-                            "up": {
-                                "name": "Nightmare"
-                            }
-                        }
+                            "up": { "name": "Nightmare" },
+                        },
                     }
-                }
+                },
             ]
-        }
+        },
     ]
 }

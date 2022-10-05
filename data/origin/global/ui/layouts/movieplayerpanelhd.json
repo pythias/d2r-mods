@@ -1,22 +1,20 @@
-﻿{
-    "type": "Panel",
-    "name": "MoviePlayerPanel",
+{
+    "type": "Panel", "name": "MoviePlayerPanel",
     "fields": {
         "fitToParent": true,
         "priority": 2147483645
     },
     "children": [
         {
-            "type": "MoviePlayerWidget",
-            "name": "MoviePlayer",
+            "type": "MoviePlayerWidget", "name": "MoviePlayer",
             "fields": {
                 "fitToParent": true,
                 "subtitle": "$SubtitleConfiguration",
                 "holdToSkipText": "$HoldToSkipTextConfiguration",
                 "holdToSkipDurationMilliseconds": "$HoldToSkipDurationMilliseconds",
                 "holdToSkipTextTimeoutMilliseconds": "$HoldToSkipTextTimeoutMilliseconds",
-                "onMovieCompleteMessage": "Cinematics:MovieComplete"
-            }
-        }
+                "onMovieCompleteMessage": "Cinematics:MovieComplete",
+            },
+        },
     ]
 }

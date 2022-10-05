@@ -1615,39 +1615,6 @@
         },
         {
             "type": "ButtonWidget",
-            "name": "ModInfo2",
-            "fields": {
-                "anchor": {
-                    "x": 0.5
-                },
-                "rect": {
-                    "x": 100,
-                    "y": 50
-                },
-                "filename": "FrontEnd\/HD\/Final\/FrontEnd_ButtonSmall",
-                "textString": "$ModVersion",
-                "focusIndicatorFilename": "Controller\/HoverImages\/FrontEndButtonMain_Hover",
-                "focusIndicatorOffset": {
-                    "x": 0,
-                    "y": 0
-                },
-                "onClickMessage": "PanelManager:OpenPanel:ModCubePanel",
-                "text\/style": "$StyleFEButtonText",
-                "pointSize": {
-                    "x": 220,
-                    "y": 120
-                },
-                "pressedFrame": 1,
-                "hoveredFrame": 3,
-                "textColor": "$FontColorGoldYellow",
-                "disabledTint": {
-                    "a": 1
-                },
-                "sound": "cursor_launch_game_hd"
-            }
-        },
-        {
-            "type": "ButtonWidget",
             "name": "CloseButton",
             "fields": {
                 "rect": {

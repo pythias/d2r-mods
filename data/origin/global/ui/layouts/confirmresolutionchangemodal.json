@@ -1,4 +1,3 @@
-﻿{
-    "type": "ConfirmationModal",
-    "name": "ConfirmResolutionChangeModal"
+{
+    "type": "ConfirmationModal", "name": "ConfirmResolutionChangeModal"
 }

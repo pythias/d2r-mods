@@ -1,247 +1,166 @@
-﻿{
-    "basedOn": "Controller\/MainMenuButtonRibbonHD.json",
-    "type": "Panel",
-    "name": "MainMenuButtonRibbon",
+{
+    "basedOn": "Controller/MainMenuButtonRibbonHD.json",
+    "type": "Panel", "name": "MainMenuButtonRibbon",
     "fields": {
-        "defaultWidget": "QuickPlayButton"
+        "defaultWidget": "QuickPlayButton",
     },
     "children": [
         {
-            "type": "ImageWidget",
-            "name": "Ribbon",
+            "type": "ImageWidget", "name": "Ribbon",
             "children": [
+				{
+					"type": "ControllerCursorBoundsWidget", "name": "ControllerCursorBounds",
+					"fields": {
+						"fitToParent": true,
+					},
+				},
                 {
-                    "type": "ControllerCursorBoundsWidget",
-                    "name": "ControllerCursorBounds",
+                    "type": "AnimatedImageWidget", "name": "Logo",
+                },
+                {
+                    "type": "ImageWidget", "name": "ResurrectedText",
+                },
+                {
+                    "type": "AnimatedImageWidget", "name": "BottomFlames",
+                },
+                {
+                    "type": "ButtonWidget", "name": "QuickPlayButton",
                     "fields": {
-                        "fitToParent": true
-                    }
-                },
-                {
-                    "type": "AnimatedImageWidget",
-                    "name": "Logo"
-                },
-                {
-                    "type": "ImageWidget",
-                    "name": "ResurrectedText"
-                },
-                {
-                    "type": "AnimatedImageWidget",
-                    "name": "BottomFlames"
-                },
-                {
-                    "type": "ButtonWidget",
-                    "name": "QuickPlayButton",
-                    "fields": {
-                        "rect": {
-                            "x": 164,
-                            "y": 755
-                        },
+                        "rect": { "x": 164, "y": 755 },
                         "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
                         "textString": "@PlayButton",
                         "onClickMessage": "MainMenuHD:ConsolePlay",
                         "fontType": "10ptE",
                         "textColor": "$LightButtonTextColor",
-                        "text\/style": "$StyleFEButtonText",
-                        "focusIndicatorFilename": "Controller\/HoverImages\/FrontEndButtonMed",
-                        "focusIndicatorOffset": {
-                            "x": -2,
-                            "y": 0
-                        },
+                        "text/style": "$StyleFEButtonText",
+                        "focusIndicatorFilename": "Controller/HoverImages/FrontEndButtonMed",
+                        "focusIndicatorOffset": { "x": -2, "y": 0 },
                         "hoveredFrame": 3,
                         "focusIndicatorVisible": true,
                         "disabledFrame": 2,
                         "navigation": {
-                            "down": {
-                                "name": "OnlineMode"
-                            }
+                            "down": { "name": "OnlineMode" },
                         }
                     }
                 },
                 {
-                    "type": "ToggleButtonWidget",
-                    "name": "OnlineMode",
-                    "fields": {
-                        "rect": {
-                            "x": 153,
-                            "y": 905
-                        },
+                    "type": "ToggleButtonWidget", "name": "OnlineMode",
+                    "fields": { 
+                        "rect": { "x": 153, "y": 905},
                         "filename": "Lobby\\CreateGame\\CreateGame_DifficultyBTN",
                         "textString": "@OnlineButton",
                         "disabledTooltipString": "@strcantconnectserver",
                         "textColor": "$FontColorLightGold",
-                        "text\/style": "$StyleFEButtonText",
+                        "text/style": "$StyleFEButtonText",
                         "pointSize": "$SmallFontSize",
-                        "focusIndicatorFilename": "Controller\/HoverImages\/DifficultySelect_Hover",
-                        "focusIndicatorOffset": {
-                            "x": -2,
-                            "y": 0
-                        },
+                        "focusIndicatorFilename": "Controller/HoverImages/DifficultySelect_Hover",
+                        "focusIndicatorOffset": { "x": -2, "y": 0 },
                         "onClickMessage": "MainMenuHD:SetConsolePlayMode:0",
                         "navigation": {
-                            "up": {
-                                "name": "QuickPlayButton"
-                            },
-                            "down": {
-                                "name": "Settings"
-                            },
-                            "right": {
-                                "name": "OfflineMode"
-                            }
+                            "up": { "name": "QuickPlayButton" },
+                            "down": { "name": "Settings" },
+                            "right": { "name": "OfflineMode" },
                         }
                     }
                 },
                 {
-                    "type": "ToggleButtonWidget",
-                    "name": "OfflineMode",
-                    "fields": {
-                        "rect": {
-                            "x": 399,
-                            "y": 905
-                        },
+                    "type": "ToggleButtonWidget", "name": "OfflineMode",
+                    "fields": { 
+                        "rect": { "x": 399, "y": 905},
                         "filename": "Lobby\\CreateGame\\CreateGame_DifficultyBTN",
                         "textString": "@Offline",
                         "textColor": "$FontColorLightGold",
-                        "text\/style": "$StyleFEButtonText",
+                        "text/style": "$StyleFEButtonText",
                         "pointSize": "$SmallFontSize",
-                        "focusIndicatorFilename": "Controller\/HoverImages\/DifficultySelect_Hover",
-                        "focusIndicatorOffset": {
-                            "x": -2,
-                            "y": 0
-                        },
+                        "focusIndicatorFilename": "Controller/HoverImages/DifficultySelect_Hover",
+                        "focusIndicatorOffset": { "x": -2, "y": 0 },
                         "onClickMessage": "MainMenuHD:SetConsolePlayMode:1",
                         "disabledTooltipString": "@MPBetaDisabled",
                         "navigation": {
-                            "up": {
-                                "name": "QuickPlayButton"
-                            },
-                            "down": {
-                                "name": "Settings"
-                            },
-                            "left": {
-                                "name": "OnlineMode"
-                            }
+                            "up": { "name": "QuickPlayButton" },
+                            "down": { "name": "Settings" },
+                            "left": { "name": "OnlineMode" },
                         }
                     }
                 },
                 {
-                    "type": "ImageWidget",
-                    "name": "ModeSelector",
+                    "type": "ImageWidget", "name": "ModeSelector",
                     "fields": {
-                        "rect": {
-                            "x": 154,
-                            "y": 830
-                        },
+                        "rect": {"x": 154, "y": 830},
                         "filename": "Lobby\\CreateGame\\DifficultySelector"
-                    }
+                    },
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Settings",
+                    "type": "ButtonWidget", "name": "Settings",
                     "fields": {
-                        "rect": {
-                            "x": 164,
-                            "y": 1025
-                        },
+                        "rect": { "x": 164, "y": 1025 },
                         "navigation": {
-                            "up": {
-                                "name": "OnlineMode"
-                            },
-                            "down": {
-                                "name": "Cinematics"
-                            }
+                            "up": { "name": "OnlineMode" },
+                            "down": { "name": "Cinematics" },
                         }
                     }
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Cinematics",
+                    "type": "ButtonWidget", "name": "Cinematics",
                     "fields": {
-                        "rect": {
-                            "x": 164,
-                            "y": 1175
-                        },
+                        "rect": { "x": 164, "y": 1175 },
                         "navigation": {
-                            "up": {
-                                "name": "Settings"
-                            },
-                            "down": {
-                                "name": "Credits"
-                            }
+                            "up": { "name": "Settings" },
+                            "down": { "name": "Credits" },
                         }
                     }
                 },
                 {
-                    "type": "ButtonWidget",
-                    "name": "Credits",
+                    "type": "ButtonWidget", "name": "Credits",
                     "fields": {
-                        "rect": {
-                            "x": 164,
-                            "y": 1325
-                        },
+                        "rect": { "x": 164, "y": 1325 },
                         "navigation": {
-                            "up": {
-                                "name": "Cinematics"
-                            },
-                            "down": {
-                                "name": "MotDScrollBar"
-                            }
+                            "up": { "name": "Cinematics" },
+                            "down": { "name": "MotDScrollBar" },
                         }
                     }
-                }
+                },
             ]
         },
         {
-            "type": "Widget",
-            "name": "MotDSection",
+            "type": "Widget", "name": "MotDSection",
             "children": [
                 {
-                    "type": "NineTileImageWidget",
-                    "name": "MotDHeaderTile",
+                    "type": "NineTileImageWidget", "name": "MotDHeaderTile",
                     "children": [
                         {
-                            "type": "TextBoxWidget",
-                            "name": "MotDHeaderText"
-                        }
+                            "type": "TextBoxWidget", "name": "MotDHeaderText",
+                        },
                     ]
                 },
                 {
-                    "type": "NineTileImageWidget",
-                    "name": "MotDBodyTile",
+                    "type": "NineTileImageWidget", "name": "MotDBodyTile",
                     "children": [
                         {
-                            "type": "ImageWidget",
-                            "name": "ScrollBarBackground",
+                            "type": "ImageWidget", "name": "ScrollBarBackground",
                             "children": [
                                 {
-                                    "type": "ScrollControllerWidget",
-                                    "name": "MotDScrollBar",
+                                    "type": "ScrollControllerWidget", "name": "MotDScrollBar",
                                     "fields": {
                                         "navigation": {
-                                            "right": {
-                                                "panelBoundary": true
-                                            },
-                                            "left": {
-                                                "name": "Credits"
-                                            }
+                                            "right": { "panelBoundary": true },
+                                            "left": { "name": "Credits" },
                                         }
                                     }
-                                }
+                                },
                             ]
                         },
                         {
-                            "type": "ScrollViewWidget",
-                            "name": "MotDScrollView",
+                            "type": "ScrollViewWidget", "name": "MotDScrollView",
                             "children": [
                                 {
-                                    "type": "TextBoxWidget",
-                                    "name": "MotDBodyText"
-                                }
+                                    "type": "TextBoxWidget", "name": "MotDBodyText",
+                                },
                             ]
-                        }
+                        },
                     ]
-                }
+                },
             ]
-        }
+        },
     ]
 }
