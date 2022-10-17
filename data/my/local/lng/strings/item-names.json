@@ -9630,5 +9630,41 @@
         "id": 1000003,
         "Key": "ztmf851t",
         "zhTW": "ÿc8Act1 大陵墓 @埋骨之地 \nÿc0骷髏 ÿc9不死電 100\nÿc0飢餓死者 ÿc9不死電 100"
+    },
+    {
+        "id": 27345,
+        "Key": "Cold Rupture",
+        "enUS": "Cold Rupture",
+        "zhTW": "冰寒裂縫"
+    },
+    {
+        "id": 27346,
+        "Key": "Flame Rift",
+        "enUS": "Flame Rift",
+        "zhTW": "火焰裂隙"
+    },
+    {
+        "id": 27347,
+        "Key": "Crack of the Heavens",
+        "enUS": "Crack of the Heavens",
+        "zhTW": "天堂裂擊"
+    },
+    {
+        "id": 27348,
+        "Key": "Rotting Fissure",
+        "enUS": "Rotting Fissure",
+        "zhTW": "腐敗裂痕"
+    },
+    {
+        "id": 27349,
+        "Key": "Bone Break",
+        "enUS": "Bone Break",
+        "zhTW": "分筋裂骨"
+    },
+    {
+        "id": 27350,
+        "Key": "Black Cleft",
+        "enUS": "Black Cleft",
+        "zhTW": "漆黑裂口"
     }
 ]

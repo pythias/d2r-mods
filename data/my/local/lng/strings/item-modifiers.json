@@ -1996,5 +1996,65 @@
         "Key": "UseTokenOfAbsolution",
         "enUS": "Right Click to reset Stat\/Skill Points",
         "zhTW": "右鍵點擊以重置屬性與技能點數"
+    },
+    {
+        "id": 26360,
+        "Key": "MalahsPotionDescription",
+        "enUS": "Keep it to thaw Anya",
+        "zhTW": "融化安亞身上的冰雪"
+    },
+    {
+        "id": 26705,
+        "Key": "ItemModifierPersonalized",
+        "enUS": "Personalized",
+        "zhTW": "冠上名字"
+    },
+    {
+        "id": 27212,
+        "Key": "ModStr6j",
+        "enUS": "%+d%% Chance to not consume Quantity",
+        "zhTW": "%+d%% 機率不消耗數量"
+    },
+    {
+        "id": 27339,
+        "Key": "ModItemMonColdSunder",
+        "enUS": "Monster Cold Immunity is Sundered",
+        "zhTW": "破除怪物的冰寒免疫"
+    },
+    {
+        "id": 27340,
+        "Key": "ModItemMonFireSunder",
+        "enUS": "Monster Fire Immunity is Sundered",
+        "zhTW": "破除怪物的火焰免疫"
+    },
+    {
+        "id": 27341,
+        "Key": "ModItemMonLightSunder",
+        "enUS": "Monster Lightning Immunity is Sundered",
+        "zhTW": "破除怪物的閃電免疫"
+    },
+    {
+        "id": 27342,
+        "Key": "ModItemMonPoisonSunder",
+        "enUS": "Monster Poison Immunity is Sundered",
+        "zhTW": "破除怪物的毒素免疫"
+    },
+    {
+        "id": 27343,
+        "Key": "ModItemMonPhysicalSunder",
+        "enUS": "Monster Physical Immunity is Sundered",
+        "zhTW": "破除怪物的物理免疫"
+    },
+    {
+        "id": 27344,
+        "Key": "ModItemMonMagicSunder",
+        "enUS": "Monster Magic Immunity is Sundered",
+        "zhTW": "破除怪物的魔法免疫"
+    },
+    {
+        "id": 27351,
+        "Key": "ModStr2uPercentNegative",
+        "enUS": "Physical Damage Received Increased by %d%%",
+        "zhTW": "受到的傷害提高 %d%%"
     }
 ]

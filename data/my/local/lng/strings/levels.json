@@ -2440,5 +2440,77 @@
         "Key": "EnteringThePandemoniumFinale",
         "enUS": "Entering Tristram",
         "zhTW": "進入崔斯特瑞姆"
+    },
+    {
+        "id": 26815,
+        "Key": "act5",
+        "enUS": "Act 5",
+        "zhTW": "第五章"
+    },
+    {
+        "id": 27281,
+        "Key": "Cave",
+        "enUS": "Cave",
+        "zhTW": "洞穴"
+    },
+    {
+        "id": 27282,
+        "Key": "Underground Passage",
+        "enUS": "Underground Passage",
+        "zhTW": "地底通道"
+    },
+    {
+        "id": 27283,
+        "Key": "Hole",
+        "enUS": "Hole",
+        "zhTW": "地洞"
+    },
+    {
+        "id": 27284,
+        "Key": "Pit",
+        "enUS": "Pit",
+        "zhTW": "地穴"
+    },
+    {
+        "id": 27285,
+        "Key": "Jail",
+        "enUS": "Jail",
+        "zhTW": "監牢"
+    },
+    {
+        "id": 27286,
+        "Key": "Catacombs",
+        "enUS": "Catacombs",
+        "zhTW": "地下墓穴"
+    },
+    {
+        "id": 27287,
+        "Key": "Lut Gholein Sewers",
+        "enUS": "Lut Gholein Sewers",
+        "zhTW": "魯高因下水道"
+    },
+    {
+        "id": 27288,
+        "Key": "Kurast Sewers",
+        "enUS": "Kurast Sewers",
+        "zhTW": "庫拉斯特下水道"
+    },
+    {
+        "id": 27289,
+        "Key": "Temple Halls",
+        "enUS": "Temple Halls",
+        "zhTW": "神殿大廳"
+    },
+    {
+        "id": 27290,
+        "Key": "The Worldstone Keep",
+        "enUS": "Worldstone Keep",
+        "zhTW": "世界之石要塞"
+    },
+    {
+        "id": 27338,
+        "Key": "MooMooFarmGroup",
+        "enUS": "ÿc8a non-existent levelÿc0",
+        "zhTW": "ÿc8不存在的關卡ÿc0"
     }
 ]
