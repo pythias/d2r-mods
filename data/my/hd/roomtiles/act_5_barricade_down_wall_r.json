@@ -1,0 +1,25 @@
+﻿{
+    "dependencies": {
+        "particles": [
+            {
+                "path": "data\/hd\/vfx\/particles\/env\/UI\/vfx_mouse_over_light_sml.particles"
+            }
+        ],
+        "models": [],
+        "skeletons": [],
+        "animations": [],
+        "textures": [],
+        "physics": [],
+        "json": [
+            {
+                "path": "data\/my\/hd\/roomtiles\/entry_directional_light.json"
+            }
+        ],
+        "variantdata": [],
+        "objecteffects": [],
+        "other": []
+    },
+    "type": "UnitDefinition",
+    "name": "act_5_barricade_down_wall_r",
+    "entities": []
+}
