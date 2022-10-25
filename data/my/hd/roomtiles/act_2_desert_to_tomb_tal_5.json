@@ -2,7 +2,7 @@
     "dependencies": {
         "particles": [
             {
-                "path": "data\/hd\/vfx\/particles\/env\/UI\/vfx_mouse_over_light_sml.particles"
+                "path": "data\/hd\/vfx\/particles\/env\/UI\/vfx_mouse_over_light.particles"
             }
         ],
         "models": [],
@@ -10,16 +10,1022 @@
         "animations": [],
         "textures": [],
         "physics": [],
-        "json": [
-            {
-                "path": "data\/my\/hd\/roomtiles\/entry_directional_light.json"
-            }
-        ],
+        "json": [],
         "variantdata": [],
         "objecteffects": [],
         "other": []
     },
     "type": "UnitDefinition",
     "name": "act_2_desert_to_tomb_tal_5",
-    "entities": []
+    "entities": [
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 80727690,
+            "components": [
+                {
+                    "type": "UnitRootComponent",
+                    "name": "component_root",
+                    "state_machine_filename": "",
+                    "doNotInheritRotation": false,
+                    "rotationOverride": {
+                        "x": 0,
+                        "y": 0.3826834,
+                        "z": 0,
+                        "w": 0.9238795
+                    },
+                    "doNotUseHDHeight": false,
+                    "hideAllMeshWhenInOpenedMode": false,
+                    "onCreateEventName": "",
+                    "animations": []
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_vfx1",
+            "id": 2622968006,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "component_vfx1",
+                    "filename": "data\/hd\/vfx\/particles\/env\/UI\/vfx_mouse_over_light.particles",
+                    "hardKillOnDestroy": false
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 8,
+                        "y": -6,
+                        "z": -5
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 0,
+                        "y": 275,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 1,
+                        "w": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 0,
+                        "y": 320,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 1,
+                        "w": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -40,
+                        "y": 240,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.9239,
+                        "w": -0.3827
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -60,
+                        "y": 260,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.9239,
+                        "w": -0.3827
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -80,
+                        "y": 280,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.9239,
+                        "w": -0.3827
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -60,
+                        "y": 200,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.7071,
+                        "w": -0.7071
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -90,
+                        "y": 200,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.7071,
+                        "w": -0.7071
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -120,
+                        "y": 200,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.7071,
+                        "w": -0.7071
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -150,
+                        "y": 200,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.7071,
+                        "w": -0.7071
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -180,
+                        "y": 200,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.7071,
+                        "w": -0.7071
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -40,
+                        "y": 160,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.3827,
+                        "w": -0.9239
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -60,
+                        "y": 140,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.3827,
+                        "w": -0.9239
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": -80,
+                        "y": 120,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.3827,
+                        "w": -0.9239
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 0,
+                        "y": 140,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 0,
+                        "y": 110,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 0,
+                        "y": 80,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 40,
+                        "y": 160,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.3827,
+                        "w": 0.9239
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 60,
+                        "y": 140,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.3827,
+                        "w": 0.9239
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 80,
+                        "y": 120,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.3827,
+                        "w": 0.9239
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 60,
+                        "y": 200,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.7071,
+                        "w": 0.7071
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 90,
+                        "y": 200,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.7071,
+                        "w": 0.7071
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 120,
+                        "y": 200,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.7071,
+                        "w": 0.7071
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 150,
+                        "y": 200,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.7071,
+                        "w": 0.7071
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 180,
+                        "y": 200,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.7071,
+                        "w": 0.7071
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 40,
+                        "y": 240,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.9239,
+                        "w": 0.3827
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 60,
+                        "y": 260,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.9239,
+                        "w": 0.3827
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_will_entrance_light",
+            "id": 9999999666,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "transform_will_entrance_light",
+                    "position": {
+                        "x": 80,
+                        "y": 280,
+                        "z": 346.4102
+                    },
+                    "orientation": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0.9239,
+                        "w": 0.3827
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_will_entrance_light",
+                    "filename": "data\/hd\/vfx\/particles\/overlays\/object\/horadric_light\/fx_horadric_light.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        }
+    ]
 }
