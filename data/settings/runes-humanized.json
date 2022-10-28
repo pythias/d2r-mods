@@ -1,0 +1,2746 @@
+﻿{
+    "Ancients' Pledge": {
+        "name": "Ancients' Pledge",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "shld": "Any Shield"
+        },
+        "runes": [
+            8,
+            9,
+            7
+        ],
+        "effects": [
+            "冰寒抗性 +30%",
+            "所有抗性 +13",
+            "+50% 防禦強化",
+            "+10% 受到的傷害轉為法力"
+        ]
+    },
+    "Armageddon": {
+        "name": "Armageddon",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Authority": {
+        "name": "Authority",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Beast": {
+        "name": "Beast",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "axe": "Axe",
+            "scep": "Scepter",
+            "hamm": "Hammer"
+        },
+        "runes": [
+            30,
+            3,
+            22,
+            23,
+            17
+        ],
+        "effects": [
+            "攻擊速度 +40%",
+            "裝備時賦予等級 9 @skillname122 靈氣",
+            "+[240-270]% 傷害強化",
+            "+[25-40] 力量",
+            "等級 13 @Skillname248 (5 次)",
+            "+3 至@Skillname229 ",
+            "+3 至@Skillname225 "
+        ]
+    },
+    "Beauty": {
+        "name": "Beauty",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Black": {
+        "name": "Black",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "club": "Club",
+            "hamm": "Hammer",
+            "mace": "Mace"
+        },
+        "runes": [
+            10,
+            16,
+            4
+        ],
+        "effects": [
+            "+40% 機率造成粉碎打擊",
+            "+120% 傷害強化",
+            "攻擊速度 +15%",
+            "魔法傷害降低 2",
+            "+200 準確率",
+            "等級 4 @skillname74 (12 次)"
+        ]
+    },
+    "Blood": {
+        "name": "Blood",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Bone": {
+        "name": "Bone",
+        "release": "111",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            12,
+            22,
+            22
+        ],
+        "effects": [
+            "擊中時有 15% 機率施展等級 10 @skillname84 ",
+            "被擊中時有 15% 機率施展等級 10 @skillname68 ",
+            "+2 死靈法師技能等級",
+            "+[100-150] 法力"
+        ]
+    },
+    "Bramble": {
+        "name": "Bramble",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            8,
+            27,
+            29,
+            5
+        ],
+        "effects": [
+            "+50% 打擊恢復",
+            "+300 防禦",
+            "裝備時賦予等級 [15-21] @skillname103 靈氣",
+            "+13 擊殺生命恢復",
+            "+[25-50]% 毒素技能傷害",
+            "毒素抗性 +100%",
+            "等級 13 @Skillname247 (33 次)"
+        ]
+    },
+    "Brand": {
+        "name": "Brand",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "miss": "Missile Weapon"
+        },
+        "runes": [
+            31,
+            28,
+            23,
+            25
+        ],
+        "effects": [
+            "+[260-340]% 傷害強化",
+            "+[280-330]% 對惡魔的傷害",
+            "擊中時有 100% 機率施展等級 18 @skillname84 ",
+            "被擊中時有 35% 機率施展等級 14 @skillname66 ",
+            "擊退",
+            "防止怪物自療",
+            "射出爆炸的弓矢或弩箭"
+        ]
+    },
+    "Breath of the Dying": {
+        "name": "Breath of the Dying",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "weap": "Weapon"
+        },
+        "runes": [
+            26,
+            15,
+            1,
+            2,
+            33,
+            5
+        ],
+        "effects": [
+            "攻擊速度 +60%",
+            "+125% 對不死怪物的傷害",
+            "擊中竊取 [12-15]% 生命",
+            "防止怪物自療",
+            "當你殺敵時有 50% 機率施展等級 20 @skillname92 ",
+            "+[350-400]% 傷害強化",
+            "+30 所有屬性"
+        ]
+    },
+    "Broken Promise": {
+        "name": "Broken Promise",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Call to Arms": {
+        "name": "Call to Arms",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "weap": "Weapon"
+        },
+        "runes": [
+            11,
+            8,
+            23,
+            24,
+            27
+        ],
+        "effects": [
+            "攻擊速度 +40%",
+            "+[200-240]% 傷害強化",
+            "+1 所有技能",
+            "+[2-6] 至@skillname155 ",
+            "+[1-6] 至@skillname149 ",
+            "+[1-4] 至@skillname146 ",
+            "生命回復 +12"
+        ]
+    },
+    "Chains of Honor": {
+        "name": "Chains of Honor",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            14,
+            22,
+            30,
+            24
+        ],
+        "effects": [
+            "所有抗性 +50",
+            "+70% 防禦強化",
+            "+200% 對惡魔的傷害",
+            "+100% 對不死怪物的傷害",
+            "擊中竊取 8% 生命",
+            "+2 所有技能",
+            "+20 力量"
+        ]
+    },
+    "Chance": {
+        "name": "Chance",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Chaos": {
+        "name": "Chaos",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "h2h": "Hand to Hand"
+        },
+        "runes": [
+            19,
+            27,
+            22
+        ],
+        "effects": [
+            "+15 擊殺惡魔生命恢復",
+            "+[240-290]% 傷害強化",
+            "附加 216 - 471 魔法傷害",
+            "+1 至@skillname151 ",
+            "攻擊速度 +35%",
+            "擊中時有 9% 機率施展等級 11 @skillname64 ",
+            "擊中時有 11% 機率施展等級 9 @skillname38 "
+        ]
+    },
+    "Crescent Moon": {
+        "name": "Crescent Moon",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "axe": "Axe",
+            "swor": "Sword",
+            "pole": "Polearm"
+        },
+        "runes": [
+            13,
+            22,
+            3
+        ],
+        "effects": [
+            "敵人電擊抗性 -35%",
+            "無視目標防禦",
+            "+[180-220]% 傷害強化",
+            "魔法吸收 +[9-11]%",
+            "等級 18 @Skillname228 (30 次)",
+            "擊中時有 7% 機率施展等級 13 @skillname42 ",
+            "擊中時有 10% 機率施展等級 17 @skillname53 "
+        ]
+    },
+    "Darkness": {
+        "name": "Darkness",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Daylight": {
+        "name": "Daylight",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Death": {
+        "name": "Death",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "swor": "Sword",
+            "axe": "Axe"
+        },
+        "runes": [
+            15,
+            1,
+            26,
+            9,
+            25
+        ],
+        "effects": [
+            "+[300-385]% 傷害強化",
+            "+[0.500-49.500]%% 致命打擊 @ModStre9c [0.500 * clvl]",
+            "等級 22 @skillname85 (15 次)",
+            "攻擊時有 25% 機率施展等級 18 @skillname55 ",
+            "當你死亡時有 100% 機率施展等級 44 @skillname53 ",
+            "+50% 機率造成粉碎打擊",
+            "永不毀損"
+        ]
+    },
+    "Deception": {
+        "name": "Deception",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Delirium": {
+        "name": "Delirium",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "helm": "Helm"
+        },
+        "runes": [
+            20,
+            24,
+            16
+        ],
+        "effects": [
+            "擊中時有 11% 機率施展等級 18 @skillname81 ",
+            "等級 17 @skillname86 (60 次)",
+            "被擊中時有 14% 機率施展等級 13 @skillname77 ",
+            "+261 防禦",
+            "被擊中時有 6% 機率施展等級 14 @Skillname274 ",
+            "被擊中時有 1% 機率施展等級 50 @Runeword22 ",
+            "+2 所有技能"
+        ]
+    },
+    "Desire": {
+        "name": "Desire",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Despair": {
+        "name": "Despair",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Destruction": {
+        "name": "Destruction",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "pole": "Polearm",
+            "swor": "Sword"
+        },
+        "runes": [
+            26,
+            28,
+            30,
+            31,
+            18
+        ],
+        "effects": [
+            "+350% 傷害強化",
+            "附加 100 - 180 魔法傷害",
+            "擊中時有 5% 機率施展等級 23 @Skillname230 ",
+            "當你死亡時有 100% 機率施展等級 45 @skillname56 ",
+            "攻擊時有 15% 機率施展等級 22 @skillname48 ",
+            "擊中時有 23% 機率施展等級 12 @Skillname245 ",
+            "防止怪物自療"
+        ]
+    },
+    "Doom": {
+        "name": "Doom",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "axe": "Axe",
+            "pole": "Polearm",
+            "hamm": "Hammer"
+        },
+        "runes": [
+            15,
+            27,
+            22,
+            28,
+            32
+        ],
+        "effects": [
+            "+[280-320]% 傷害強化",
+            "裝備時賦予等級 12 @skillname114 靈氣",
+            "攻擊速度 +45%",
+            "防止怪物自療",
+            "敵人冰寒抗性 -[40-60]%",
+            "+2 所有技能",
+            "擊中時有 5% 機率施展等級 18 @Skillname245 "
+        ]
+    },
+    "Dragon": {
+        "name": "Dragon",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor",
+            "shld": "Any Shield"
+        },
+        "runes": [
+            29,
+            28,
+            12
+        ],
+        "effects": [
+            "+360 防禦",
+            "+230 對遠程防禦",
+            "+[0.375-37.125] 力量 @ModStre9c [0.375 * clvl]",
+            "擊中時有 12% 機率施展等級 15 @skillname62 ",
+            "被擊中時有 20% 機率施展等級 18 @Skillname279 ",
+            "裝備時賦予等級 14 @skillname102 靈氣",
+            "+[3-5] 所有屬性"
+        ]
+    },
+    "Dread": {
+        "name": "Dread",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Dream": {
+        "name": "Dream",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "helm": "Helm",
+            "shld": "Any Shield"
+        },
+        "runes": [
+            16,
+            31,
+            21
+        ],
+        "effects": [
+            "+[150-220] 防禦",
+            "被擊中時有 10% 機率施展等級 15 @skillname81 ",
+            "+[0.625-61.875] 法力 @ModStre9c [0.625 * clvl]",
+            "所有抗性 +[5-20]",
+            "+[20-30]% 打擊恢復",
+            "裝備時賦予等級 15 @skillname118 靈氣",
+            "尋獲魔法物品機率提高 [12-25]%"
+        ]
+    },
+    "Duress": {
+        "name": "Duress",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            13,
+            22,
+            10
+        ],
+        "effects": [
+            "附加 37 - 133 冰寒傷害",
+            "+[10-20]% 傷害強化",
+            "+[150-200]% 防禦強化",
+            "+20% 打擊恢復",
+            "+33% 機率造成開放傷口",
+            "+15% 機率造成粉碎打擊",
+            "精力消耗減緩 -20%"
+        ]
+    },
+    "Edge": {
+        "name": "Edge",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "miss": "Missile Weapon"
+        },
+        "runes": [
+            3,
+            7,
+            11
+        ],
+        "effects": [
+            "+[320-380]% 對惡魔的傷害",
+            "+280% 對不死怪物的傷害",
+            "攻擊速度 +35%",
+            "防止怪物自療",
+            "裝備時賦予等級 15 @skillname103 靈氣",
+            "+[5-10] 所有屬性",
+            "所有商人的價格降低 15%"
+        ]
+    },
+    "Elation": {
+        "name": "Elation",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Enigma": {
+        "name": "Enigma",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            31,
+            6,
+            30
+        ],
+        "effects": [
+            "+[750-775] 防禦",
+            "+14 擊殺生命恢復",
+            "+45% 跑步 \/ 行走速度",
+            "+[0.750-74.250] 力量 @ModStre9c [0.750 * clvl]",
+            "+2 所有技能",
+            "尋獲魔法物品機率提高 %d%% @ModStre9c [1.000 * clvl]",
+            "+1 至@skillname54 "
+        ]
+    },
+    "Enlightenment": {
+        "name": "Enlightenment",
+        "release": "111",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            21,
+            8,
+            12
+        ],
+        "effects": [
+            "擊中時有 5% 機率施展等級 15 @skillname47 ",
+            "被擊中時有 5% 機率施展等級 15 @skillname46 ",
+            "+2 魔法使技能等級",
+            "+1 至@skillname37 "
+        ]
+    },
+    "Envy": {
+        "name": "Envy",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Eternity": {
+        "name": "Eternity",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "mele": "Melee Weapon"
+        },
+        "runes": [
+            11,
+            30,
+            24,
+            12,
+            29
+        ],
+        "effects": [
+            "+[260-310]% 傷害強化",
+            "永不毀損",
+            "使目標減慢 33%",
+            "等級 8 @skillname95 (88 次)",
+            "生命回復 +16",
+            "法力恢復 16%",
+            "無法凍結"
+        ]
+    },
+    "Exile": {
+        "name": "Exile",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "pala": "Paladin Item"
+        },
+        "runes": [
+            26,
+            27,
+            24,
+            14
+        ],
+        "effects": [
+            "+30% 格擋速度",
+            "凍結目標",
+            "+[220-260]% 防禦強化",
+            "裝備時賦予等級 [13-16] @skillname104 靈氣",
+            "+2 @StrSklTabItem5 (@PalOnly)",
+            "擊中時有 15% 機率施展等級 5 @skillname82 ",
+            "每 4 秒修復 1 點耐久度"
+        ]
+    },
+    "Faith": {
+        "name": "Faith",
+        "release": "\"110, Previously Ladder Only\"",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "miss": "Missile Weapon"
+        },
+        "runes": [
+            27,
+            31,
+            20,
+            2
+        ],
+        "effects": [
+            "+280% 傷害強化",
+            "300% 準確率加成",
+            "附加 120 - 120 火焰傷害",
+            "所有抗性 +15",
+            "裝備時賦予等級 [12-15] @skillname122 靈氣",
+            "10% 機率將目標復生為：@Returned",
+            "+[1-2] 所有技能"
+        ]
+    },
+    "Famine": {
+        "name": "Famine",
+        "release": "",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "axe": "Axe",
+            "hamm": "Hammer"
+        },
+        "runes": [
+            19,
+            27,
+            9,
+            31
+        ],
+        "effects": [
+            "+[270-320]% 傷害強化",
+            "擊中竊取 12% 生命",
+            "攻擊速度 +30%",
+            "防止怪物自療",
+            "附加 180 - 200 魔法傷害",
+            "附加 50 - 200 電擊傷害",
+            "附加 50 - 200 火焰傷害",
+            "附加 50 - 200 冰寒傷害",
+            "無形（無法修復）"
+        ]
+    },
+    "Flickering Flame": {
+        "name": "Flickering Flame",
+        "release": "D2R Ladder 1",
+        "completed": "1",
+        "ladder": "1",
+        "types": {
+            "helm": "Helm"
+        },
+        "runes": [
+            4,
+            21,
+            26
+        ],
+        "effects": [
+            "+3 火焰技能",
+            "裝備時賦予等級 [4-8] @skillname100 靈氣",
+            "敵人火焰抗性 -[10-15]%",
+            "+[50-75] 法力",
+            "被凍結的時效減半",
+            "中毒的時效縮短 50%"
+        ]
+    },
+    "Fortitude": {
+        "name": "Fortitude",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "weap": "Weapon",
+            "tors": "Armor"
+        },
+        "runes": [
+            1,
+            12,
+            14,
+            28
+        ],
+        "effects": [
+            "+200% 防禦強化",
+            "+300% 傷害強化",
+            "+25% 施法速度",
+            "被擊中時有 20% 機率施展等級 15 @skillname60 ",
+            "+12% 受到的傷害轉為法力",
+            "+[1.000-148.500] 生命 @ModStre9c",
+            "所有抗性 +[25-30]"
+        ]
+    },
+    "Fortune": {
+        "name": "Fortune",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Amity": {
+        "name": "Amity",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Fury": {
+        "name": "Fury",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "mele": "Melee Weapon"
+        },
+        "runes": [
+            31,
+            25,
+            5
+        ],
+        "effects": [
+            "+209% 傷害強化",
+            "攻擊速度 +40%",
+            "防止怪物自療",
+            "+66% 機率造成開放傷口",
+            "擊中竊取 6% 生命",
+            "+33% 致命打擊",
+            "+5至@skillname147 (@BarOnly)"
+        ]
+    },
+    "Gloom": {
+        "name": "Gloom",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            19,
+            22,
+            21
+        ],
+        "effects": [
+            "+[170-230]% 防禦強化",
+            "所有抗性 +30",
+            "被擊中時有 15% 機率施展等級 3 @skillname71 ",
+            "+10% 打擊恢復",
+            "+5% 受到的傷害轉為法力",
+            "照亮範圍 -3",
+            "被凍結的時效減半"
+        ]
+    },
+    "Glory": {
+        "name": "Glory",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Grief": {
+        "name": "Grief",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "swor": "Sword",
+            "axe": "Axe"
+        },
+        "runes": [
+            5,
+            3,
+            28,
+            23,
+            8
+        ],
+        "effects": [
+            "+[1.875-185.625]%% 對惡魔的傷害 @ModStre9c [1.875 * clvl]",
+            "傷害 +[340-400]",
+            "攻擊速度 +[30-40]%",
+            "擊中時有 35% 機率施展等級 15 @Skillname279 ",
+            "敵人毒素抗性 -[20-25]%",
+            "無視目標防禦",
+            "+[10-15] 擊殺生命恢復"
+        ]
+    },
+    "Hand of Justice": {
+        "name": "Hand of Justice",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "weap": "Weapon"
+        },
+        "runes": [
+            29,
+            32,
+            11,
+            28
+        ],
+        "effects": [
+            "攻擊速度 +33%",
+            "+[280-330]% 傷害強化",
+            "裝備時賦予等級 16 @skillname102 靈氣",
+            "當你升級時有 100% 機率施展等級 36 @skillname46 ",
+            "當你死亡時有 100% 機率施展等級 48 @skillname56 ",
+            "無視目標防禦",
+            "敵人火焰抗性 -20%"
+        ]
+    },
+    "Harmony": {
+        "name": "Harmony",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "miss": "Missile Weapon"
+        },
+        "runes": [
+            3,
+            6,
+            12,
+            18
+        ],
+        "effects": [
+            "+[200-275]% 傷害強化",
+            "附加 55 - 160 電擊傷害",
+            "附加 55 - 160 火焰傷害",
+            "附加 55 - 160 冰寒傷害",
+            "等級 20 @skillname95 (25 次)",
+            "裝備時賦予等級 10 @skillname115 靈氣",
+            "+[2-6] 至@skillname32 ",
+            "法力恢復 20%",
+            "照亮範圍 +2"
+        ]
+    },
+    "Hatred": {
+        "name": "Hatred",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Heart of the Oak": {
+        "name": "Heart of the Oak",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "staf": "Staff",
+            "mace": "Mace"
+        },
+        "runes": [
+            18,
+            26,
+            21,
+            10
+        ],
+        "effects": [
+            "+40% 施法速度",
+            "等級 4 @Skillname227 (25 次)",
+            "法力上限提高 15%",
+            "+3 所有技能",
+            "生命回復 +20",
+            "所有抗性 +[30-40]",
+            "等級 14 @Skillname222 (60 次)"
+        ]
+    },
+    "Heaven's Will": {
+        "name": "Heaven's Will",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Holy Tears": {
+        "name": "Holy Tears",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Holy Thunder": {
+        "name": "Holy Thunder",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "scep": "Scepter"
+        },
+        "runes": [
+            5,
+            8,
+            9,
+            7
+        ],
+        "effects": [
+            "+60% 傷害強化",
+            "附加 20 - 60 電擊傷害",
+            "+10 最大傷害",
+            "電擊抗性 +60%",
+            "電擊抗性上限 +5%",
+            "+3至@skillname118 (@PalOnly)",
+            "等級 7 @skillname53 (60 次)"
+        ]
+    },
+    "Honor": {
+        "name": "Honor",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "mele": "Melee Weapon"
+        },
+        "runes": [
+            11,
+            1,
+            6,
+            3,
+            12
+        ],
+        "effects": [
+            "+160% 傷害強化",
+            "生命回復 +10",
+            "+1 所有技能",
+            "+200 準確率",
+            "+25% 致命打擊",
+            "+10 力量"
+        ]
+    },
+    "Revenge": {
+        "name": "Revenge",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Humility": {
+        "name": "Humility",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Hunger": {
+        "name": "Hunger",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Ice": {
+        "name": "Ice",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "miss": "Missile Weapon"
+        },
+        "runes": [
+            11,
+            13,
+            31,
+            28
+        ],
+        "effects": [
+            "+[140-210]% 傷害強化",
+            "裝備時賦予等級 18 @skillname114 靈氣",
+            "+[25-30]% 冰寒技能傷害",
+            "擊中時有 25% 機率施展等級 22 @skillname44 ",
+            "當你升級時有 100% 機率施展等級 40 @skillname59 ",
+            "敵人冰寒抗性 -20%",
+            "怪物金幣掉落量提高 %d%% @ModStre9c [3.125 * clvl]"
+        ]
+    },
+    "Infinity": {
+        "name": "Infinity",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "pole": "Polearm",
+            "spea": "Spear"
+        },
+        "runes": [
+            30,
+            23,
+            30,
+            24
+        ],
+        "effects": [
+            "+[255-325]% 傷害強化",
+            "+35% 跑步 \/ 行走速度",
+            "+[0.500-49.500] 體能 @ModStre9c [0.500 * clvl]",
+            "裝備時賦予等級 12 @skillname123 靈氣",
+            "當你殺敵時有 50% 機率施展等級 20 @skillname53 ",
+            "敵人電擊抗性 -[45-55]%",
+            "等級 21 @Skillname236 (30 次)"
+        ]
+    },
+    "Innocence": {
+        "name": "Innocence",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Insight": {
+        "name": "Insight",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "pole": "Polearm",
+            "staf": "Staff",
+            "miss": "Missile Weapon"
+        },
+        "runes": [
+            8,
+            3,
+            7,
+            12
+        ],
+        "effects": [
+            "+[200-260]% 傷害強化",
+            "[180-250]% 準確率加成",
+            "尋獲魔法物品機率提高 23%",
+            "+[1-6] 至@skillname9 ",
+            "+35% 施法速度",
+            "裝備時賦予等級 [12-17] @skillname120 靈氣",
+            "+5 所有屬性"
+        ]
+    },
+    "Jealousy": {
+        "name": "Jealousy",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Judgment": {
+        "name": "Judgment",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "King's Grace": {
+        "name": "King's Grace",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "swor": "Sword",
+            "scep": "Scepter"
+        },
+        "runes": [
+            11,
+            8,
+            10
+        ],
+        "effects": [
+            "+100% 傷害強化",
+            "+150 準確率",
+            "+100% 對惡魔的傷害",
+            "+50% 對不死怪物的傷害",
+            "+100 對惡魔的準確率",
+            "+100 對不死怪物的準確率"
+        ]
+    },
+    "Kingslayer": {
+        "name": "Kingslayer",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "swor": "Sword",
+            "axe": "Axe"
+        },
+        "runes": [
+            23,
+            22,
+            25,
+            19
+        ],
+        "effects": [
+            "攻擊速度 +30%",
+            "+[230-270]% 傷害強化",
+            "-25% 目標防禦",
+            "+33% 機率造成粉碎打擊",
+            "+25% 機率造成開放傷口",
+            "+1 至@skillname111 ",
+            "怪物金幣掉落量提高 40%"
+        ]
+    },
+    "Knight's Vigil": {
+        "name": "Knight's Vigil",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Knowledge": {
+        "name": "Knowledge",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Last Wish": {
+        "name": "Last Wish",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "swor": "Sword",
+            "hamm": "Hammer",
+            "axe": "Axe"
+        },
+        "runes": [
+            31,
+            23,
+            31,
+            29,
+            31,
+            30
+        ],
+        "effects": [
+            "+[330-375]% 傷害強化",
+            "攻擊時有 20% 機率施展等級 20 @skillname38 ",
+            "擊中時有 10% 機率施展等級 18 @skillname82 ",
+            "被擊中時有 6% 機率施展等級 11 @Skillname268 ",
+            "+[40-50]% 機率造成粉碎打擊",
+            "尋獲魔法物品機率提高 %d%% @ModStre9c [0.500 * clvl]",
+            "裝備時賦予等級 17 @skillname98 靈氣"
+        ]
+    },
+    "Law": {
+        "name": "Law",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Lawbringer": {
+        "name": "Lawbringer",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "swor": "Sword",
+            "hamm": "Hammer",
+            "scep": "Scepter"
+        },
+        "runes": [
+            11,
+            20,
+            18
+        ],
+        "effects": [
+            "附加 130 - 180 冰寒傷害",
+            "附加 150 - 210 火焰傷害",
+            "裝備時賦予等級 [16-18] @skillname119 靈氣",
+            "擊中時有 20% 機率施展等級 15 @skillname87 ",
+            "+[200-250] 對遠程防禦",
+            "殺死的怪物就此安息",
+            "-50% 目標防禦"
+        ]
+    },
+    "Leaf": {
+        "name": "Leaf",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "staf": "Staff"
+        },
+        "runes": [
+            3,
+            8
+        ],
+        "effects": [
+            "+3 火焰技能",
+            "+[2.000-198.000] 防禦 @ModStre9c",
+            "冰寒抗性 +33%",
+            "+3至@skillname41 (@SorOnly)",
+            "+3至@skillname36 (@SorOnly)",
+            "+3至@skillname37 (@SorOnly)"
+        ]
+    },
+    "Lightning": {
+        "name": "Lightning",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Lionheart": {
+        "name": "Lionheart",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            15,
+            17,
+            19
+        ],
+        "effects": [
+            "+15 力量",
+            "+20 體能",
+            "+15 敏捷",
+            "+20% 傷害強化",
+            "+50 生命",
+            "所有抗性 +30"
+        ]
+    },
+    "Lore": {
+        "name": "Lore",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "helm": "Helm"
+        },
+        "runes": [
+            9,
+            12
+        ],
+        "effects": [
+            "+10 能量",
+            "+1 所有技能",
+            "照亮範圍 +2",
+            "+2 擊殺法力恢復"
+        ]
+    },
+    "Love": {
+        "name": "Love",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Loyalty": {
+        "name": "Loyalty",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Lust": {
+        "name": "Lust",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Madness": {
+        "name": "Madness",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Malice": {
+        "name": "Malice",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "mele": "Melee Weapon"
+        },
+        "runes": [
+            6,
+            1,
+            5
+        ],
+        "effects": [
+            "+100% 機率造成開放傷口",
+            "擊中使怪物防禦 -100",
+            "防止怪物自療",
+            "+33% 傷害強化",
+            "照亮範圍 -1",
+            "生命回復 -5"
+        ]
+    },
+    "Melody": {
+        "name": "Melody",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "miss": "Missile Weapon"
+        },
+        "runes": [
+            13,
+            18,
+            4
+        ],
+        "effects": [
+            "+50% 傷害強化",
+            "+3 @StrSklTabItem3 (@AmaOnly)",
+            "+3至@skillname9 (@AmaOnly)",
+            "+3至@skillname13 (@AmaOnly)",
+            "+3至@skillname17 (@AmaOnly)",
+            "+300% 對不死怪物的傷害"
+        ]
+    },
+    "Memory": {
+        "name": "Memory",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "staf": "Staff"
+        },
+        "runes": [
+            17,
+            16,
+            12,
+            5
+        ],
+        "effects": [
+            "法力上限提高 20%",
+            "魔法傷害降低 7",
+            "+50% 防禦強化",
+            "+33% 施法速度",
+            "+3 魔法使技能等級",
+            "+3至@skillname58 (@SorOnly)",
+            "+2至@skillname42 (@SorOnly)"
+        ]
+    },
+    "Mist": {
+        "name": "Mist",
+        "release": "D2R Ladder 1",
+        "completed": "1",
+        "ladder": "1",
+        "types": {
+            "miss": "Missile Weapon"
+        },
+        "runes": [
+            32,
+            13,
+            25,
+            10,
+            6
+        ],
+        "effects": [
+            "+3 所有技能",
+            "+[325-375]% 傷害強化",
+            "裝備時賦予等級 [8-12] @skillname113 靈氣",
+            "+100% 穿透攻擊",
+            "+24 體能",
+            "所有抗性 +40"
+        ]
+    },
+    "Morning": {
+        "name": "Morning",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Mystery": {
+        "name": "Mystery",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Myth": {
+        "name": "Myth",
+        "release": "111",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            15,
+            11,
+            4
+        ],
+        "effects": [
+            "擊中時有 10% 機率施展等級 1 @skillname137 ",
+            "被擊中時有 3% 機率施展等級 1 @skillname130 ",
+            "+2  to barbarian skill levels",
+            "生命回復 +10"
+        ]
+    },
+    "Nadir": {
+        "name": "Nadir",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "helm": "Helm"
+        },
+        "runes": [
+            4,
+            3
+        ],
+        "effects": [
+            "+50% 防禦強化",
+            "+10 防禦",
+            "照亮範圍 -3",
+            "等級 13 @Skillname265 (9 次)",
+            "怪物金幣掉落量提高 -33%",
+            "+5 力量"
+        ]
+    },
+    "Nature's Kingdom": {
+        "name": "Nature's Kingdom",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Night": {
+        "name": "Night",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Oath": {
+        "name": "Oath",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "swor": "Sword",
+            "axe": "Axe",
+            "mace": "Mace"
+        },
+        "runes": [
+            13,
+            21,
+            23,
+            17
+        ],
+        "effects": [
+            "+[210-340]% 傷害強化",
+            "攻擊速度 +30%",
+            "擊中時有 30% 機率施展等級 20 @skillname93 ",
+            "等級 17 @skillname90 (14 次)",
+            "等級 16 @Skillname237 (20 次)",
+            "魔法吸收 +[10-15]%",
+            "永不毀損"
+        ]
+    },
+    "Obedience": {
+        "name": "Obedience",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "pole": "Polearm",
+            "spea": "Spear"
+        },
+        "runes": [
+            15,
+            18,
+            10,
+            5,
+            19
+        ],
+        "effects": [
+            "+370% 傷害強化",
+            "+40% 機率造成粉碎打擊",
+            "當你殺敵時有 30% 機率施展等級 21 @enchant ",
+            "敵人火焰抗性 -25%",
+            "+[200-300] 防禦",
+            "+40% 打擊恢復",
+            "所有抗性 +[20-30]"
+        ]
+    },
+    "Oblivion": {
+        "name": "Oblivion",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Obsession": {
+        "name": "Obsession",
+        "release": "D2R Ladder 1",
+        "completed": "1",
+        "ladder": "1",
+        "types": {
+            "staf": "Staff"
+        },
+        "runes": [
+            33,
+            24,
+            20,
+            17,
+            16,
+            4
+        ],
+        "effects": [
+            "+4 所有技能",
+            "被擊中時有 24% 機率施展等級 10 @skillname72 ",
+            "+65% 施法速度",
+            "+60% 打擊恢復",
+            "所有抗性 +[60-70]",
+            "生命上限提高 [15-25]%",
+            "法力恢復 [15-30]%"
+        ]
+    },
+    "Passion": {
+        "name": "Passion",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "weap": "Weapon"
+        },
+        "runes": [
+            14,
+            9,
+            2,
+            20
+        ],
+        "effects": [
+            "+[160-210]% 傷害強化",
+            "+1 至@skillname106 ",
+            "[50-80]% 準確率加成",
+            "+1 至@skillname152 ",
+            "攻擊速度 +25%",
+            "等級 3 @Skillname237 (12 次)",
+            "擊中使目標目盲"
+        ]
+    },
+    "Patience": {
+        "name": "Patience",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Pattern": {
+        "name": "Pattern",
+        "release": "D2R Ladder 1",
+        "completed": "1",
+        "ladder": "1",
+        "types": {
+            "h2h": "Hand to Hand"
+        },
+        "runes": [
+            7,
+            9,
+            10
+        ],
+        "effects": [
+            "10% 準確率加成",
+            "+[40-80]% 傷害強化",
+            "附加 12 - 32 火焰傷害",
+            "所有抗性 +15",
+            "+6 力量",
+            "+6 敏捷",
+            "+30% 格擋速度"
+        ]
+    },
+    "Peace": {
+        "name": "Peace",
+        "release": "111",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            13,
+            10,
+            11
+        ],
+        "effects": [
+            "擊中時有 2% 機率施展等級 15 @skillname32 ",
+            "被擊中時有 4% 機率施展等級 5 @skillname17 ",
+            "+2 亞馬遜技能等級",
+            "+2 至@skillname9 "
+        ]
+    },
+    "Voice of Reason": {
+        "name": "Voice of Reason",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "swor": "Sword",
+            "mace": "Mace"
+        },
+        "runes": [
+            20,
+            18,
+            1,
+            2
+        ],
+        "effects": [
+            "+[220-350]% 對惡魔的傷害",
+            "+[280-300]% 對不死怪物的傷害",
+            "附加 100 - 220 冰寒傷害",
+            "敵人冰寒抗性 -24%",
+            "擊中時有 18% 機率施展等級 20 @skillname45 ",
+            "擊中時有 15% 機率施展等級 13 @skillname64 ",
+            "無法凍結"
+        ]
+    },
+    "Penitence": {
+        "name": "Penitence",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Peril": {
+        "name": "Peril",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Pestilence": {
+        "name": "Pestilence",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Phoenix": {
+        "name": "Phoenix",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "weap": "Weapon",
+            "shld": "Any Shield"
+        },
+        "runes": [
+            26,
+            26,
+            28,
+            31
+        ],
+        "effects": [
+            "+[350-400]% 傷害強化",
+            "+[350-400] 對遠程防禦",
+            "擊中時有 40% 機率施展等級 22 @Skillname226 ",
+            "當你升級時有 100% 機率施展等級 40 @skillname46 ",
+            "敵人火焰抗性 -28%",
+            "裝備時賦予等級 [10-15] @skillname124 靈氣",
+            "火焰吸收 +[15-21]%"
+        ]
+    },
+    "Piety": {
+        "name": "Piety",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Pillar of Faith": {
+        "name": "Pillar of Faith",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Plague": {
+        "name": "Plague",
+        "release": "D2R Ladder 1",
+        "completed": "1",
+        "ladder": "1",
+        "types": {
+            "swor": "Sword",
+            "knif": "Knife",
+            "h2h": "Hand to Hand"
+        },
+        "runes": [
+            32,
+            13,
+            22
+        ],
+        "effects": [
+            "+[220-320]% 傷害強化",
+            "被擊中時有 20% 機率施展等級 12 @skillname91 ",
+            "擊中時有 25% 機率施展等級 15 @skillname92 ",
+            "敵人毒素抗性 -23%",
+            "+[0.375-37.125]%% 致命打擊 @ModStre9c [0.375 * clvl]",
+            "裝備時賦予等級 [13-17] @skillname109 靈氣",
+            "+[1-2] 所有技能"
+        ]
+    },
+    "Praise": {
+        "name": "Praise",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Prayer": {
+        "name": "Prayer",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Pride": {
+        "name": "Pride",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "pole": "Polearm",
+            "spea": "Spear"
+        },
+        "runes": [
+            32,
+            29,
+            16,
+            28
+        ],
+        "effects": [
+            "+[1.000-99.000]%% 對惡魔的傷害 @ModStre9c [1.000 * clvl]",
+            "附加 50 - 280 電擊傷害",
+            "[260-300]% 準確率加成",
+            "裝備時賦予等級 [16-20] @skillname113 靈氣",
+            "被擊中時有 25% 機率施展等級 17 @skillname51 ",
+            "生命回復 +8",
+            "怪物金幣掉落量提高 %d%% @ModStre9c [1.875 * clvl]"
+        ]
+    },
+    "Principle": {
+        "name": "Principle",
+        "release": "111",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            8,
+            25,
+            2
+        ],
+        "effects": [
+            "擊中時有 100% 機率施展等級 5 @skillname101 ",
+            "+2 聖騎士技能等級",
+            "+[100-150] 生命",
+            "+50% 對不死怪物的傷害"
+        ]
+    },
+    "Prowess in Battle": {
+        "name": "Prowess in Battle",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Prudence": {
+        "name": "Prudence",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            23,
+            3
+        ],
+        "effects": [
+            "+[140-170]% 防禦強化",
+            "魔法傷害降低 10",
+            "傷害降低 3",
+            "所有抗性 +[25-35]",
+            "+25% 打擊恢復",
+            "每 4 秒修復 1 點耐久度",
+            "照亮範圍 +1"
+        ]
+    },
+    "Punishment": {
+        "name": "Punishment",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Purity": {
+        "name": "Purity",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Question": {
+        "name": "Question",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Radiance": {
+        "name": "Radiance",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "helm": "Helm"
+        },
+        "runes": [
+            4,
+            12,
+            6
+        ],
+        "effects": [
+            "照亮範圍 +5",
+            "+10 能量",
+            "+10 體能",
+            "魔法傷害降低 3",
+            "+33 法力",
+            "+75% 防禦強化"
+        ]
+    },
+    "Rain": {
+        "name": "Rain",
+        "release": "111",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            9,
+            23,
+            6
+        ],
+        "effects": [
+            "擊中時有 5% 機率施展等級 15 @Skillname241 ",
+            "被擊中時有 5% 機率施展等級 15 @Skillname236 ",
+            "+2 德魯伊技能等級",
+            "+[100-150] 法力"
+        ]
+    },
+    "Reason": {
+        "name": "Reason",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Red": {
+        "name": "Red",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Rhyme": {
+        "name": "Rhyme",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "shld": "Any Shield"
+        },
+        "runes": [
+            13,
+            5
+        ],
+        "effects": [
+            "+20% 格擋速度",
+            "格擋機率提高 20%",
+            "所有抗性 +25",
+            "無法凍結",
+            "怪物金幣掉落量提高 50%",
+            "尋獲魔法物品機率提高 25%"
+        ]
+    },
+    "Rift": {
+        "name": "Rift",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "pole": "Polearm",
+            "scep": "Scepter"
+        },
+        "runes": [
+            15,
+            18,
+            20,
+            25
+        ],
+        "effects": [
+            "附加 160 - 250 魔法傷害",
+            "附加 60 - 180 火焰傷害",
+            "+38% 受到的傷害轉為法力",
+            "擊中時有 20% 機率施展等級 16 @Skillname246 ",
+            "攻擊時有 16% 機率施展等級 21 @skillname64 ",
+            "等級 15 @skillname76 (40 次)",
+            "+[5-10] 所有屬性"
+        ]
+    },
+    "Sanctuary": {
+        "name": "Sanctuary",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "shld": "Any Shield"
+        },
+        "runes": [
+            18,
+            18,
+            23
+        ],
+        "effects": [
+            "格擋機率提高 20%",
+            "+20% 格擋速度",
+            "+[130-160]% 防禦強化",
+            "+250 對遠程防禦",
+            "所有抗性 +[50-70]",
+            "+20% 打擊恢復",
+            "等級 12 @skillname17 (60 次)"
+        ]
+    },
+    "Serendipity": {
+        "name": "Serendipity",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Shadow": {
+        "name": "Shadow",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Shadow of Doubt": {
+        "name": "Shadow of Doubt",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Silence": {
+        "name": "Silence",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "weap": "Weapon"
+        },
+        "runes": [
+            14,
+            2,
+            15,
+            24,
+            3,
+            26
+        ],
+        "effects": [
+            "擊中竊取 4% 法力",
+            "擊中使目標目盲",
+            "+200% 傷害強化",
+            "攻擊速度 +20%",
+            "所有抗性 +75",
+            "+2 所有技能",
+            "+20% 打擊恢復"
+        ]
+    },
+    "Siren's Song": {
+        "name": "Siren's Song",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Smoke": {
+        "name": "Smoke",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            4,
+            17
+        ],
+        "effects": [
+            "+250 對遠程防禦",
+            "+75% 防禦強化",
+            "所有抗性 +50",
+            "+20% 打擊恢復",
+            "照亮範圍 -1",
+            "等級 6 @skillname72 (18 次)"
+        ]
+    },
+    "Sorrow": {
+        "name": "Sorrow",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Spirit": {
+        "name": "Spirit",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "swor": "Sword",
+            "shld": "Any Shield"
+        },
+        "runes": [
+            7,
+            10,
+            9,
+            11
+        ],
+        "effects": [
+            "+55% 打擊恢復",
+            "+[89-112] 法力",
+            "+250 對遠程防禦",
+            "+22 體能",
+            "+[25-35]% 施法速度",
+            "魔法吸收 +[3-8]%",
+            "+2 所有技能"
+        ]
+    },
+    "Splendor": {
+        "name": "Splendor",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "shld": "Any Shield"
+        },
+        "runes": [
+            5,
+            17
+        ],
+        "effects": [
+            "照亮範圍 +3",
+            "怪物金幣掉落量提高 50%",
+            "尋獲魔法物品機率提高 20%",
+            "+[60-100]% 防禦強化",
+            "+20% 格擋速度",
+            "+10% 施法速度",
+            "+1 所有技能"
+        ]
+    },
+    "Starlight": {
+        "name": "Starlight",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Stealth": {
+        "name": "Stealth",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            7,
+            5
+        ],
+        "effects": [
+            "魔法傷害降低 3",
+            "+6 敏捷",
+            "+15 精力上限",
+            "+25% 跑步 \/ 行走速度",
+            "+25% 施法速度",
+            "+25% 打擊恢復"
+        ]
+    },
+    "Steel": {
+        "name": "Steel",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "swor": "Sword",
+            "axe": "Axe",
+            "mace": "Mace"
+        },
+        "runes": [
+            3,
+            1
+        ],
+        "effects": [
+            "攻擊速度 +25%",
+            "+3 最小傷害",
+            "+3 最大傷害",
+            "+50% 機率造成開放傷口",
+            "+20% 傷害強化"
+        ]
+    },
+    "Still Water": {
+        "name": "Still Water",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Sting": {
+        "name": "Sting",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Stone": {
+        "name": "Stone",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            13,
+            22,
+            21,
+            17
+        ],
+        "effects": [
+            "+[220-260]% 防禦強化",
+            "等級 16 @skillname75 (16 次)",
+            "+300 對遠程防禦",
+            "等級 16 @Skillname230 (80 次)",
+            "+16 力量",
+            "+16 體能",
+            "+40% 打擊恢復"
+        ]
+    },
+    "Storm": {
+        "name": "Storm",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Strength": {
+        "name": "Strength",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "mele": "Melee Weapon"
+        },
+        "runes": [
+            11,
+            3
+        ],
+        "effects": [
+            "+20 力量",
+            "+35% 傷害強化",
+            "+10 體能",
+            "+25% 機率造成粉碎打擊"
+        ]
+    },
+    "Tempest": {
+        "name": "Tempest",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Temptation": {
+        "name": "Temptation",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Terror": {
+        "name": "Terror",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Thirst": {
+        "name": "Thirst",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Thought": {
+        "name": "Thought",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Thunder": {
+        "name": "Thunder",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Time": {
+        "name": "Time",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Tradition": {
+        "name": "Tradition",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Treachery": {
+        "name": "Treachery",
+        "release": "111",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            13,
+            10,
+            20
+        ],
+        "effects": [
+            "擊中時有 25% 機率施展等級 15 @Skillname279 ",
+            "被擊中時有 5% 機率施展等級 15 @Skillname268 ",
+            "+2 刺客技能等級",
+            "攻擊速度 +45%"
+        ]
+    },
+    "Trust": {
+        "name": "Trust",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Truth": {
+        "name": "Truth",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Unbending Will": {
+        "name": "Unbending Will",
+        "release": "D2R Ladder 1",
+        "completed": "1",
+        "ladder": "1",
+        "types": {
+            "swor": "Sword"
+        },
+        "runes": [
+            19,
+            16,
+            6,
+            2,
+            1,
+            15
+        ],
+        "effects": [
+            "+3 @StrSklTabItem11 (@BarOnly)",
+            "擊中時有 18% 機率施展等級 18 @skillname137 ",
+            "攻擊速度 +[20-30]%",
+            "+[300-350]% 傷害強化",
+            "傷害降低 8",
+            "防止怪物自療",
+            "擊中竊取 [8-10]% 生命"
+        ]
+    },
+    "Valor": {
+        "name": "Valor",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Vengeance": {
+        "name": "Vengeance",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Venom": {
+        "name": "Venom",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "weap": "Weapon"
+        },
+        "runes": [
+            7,
+            14,
+            23
+        ],
+        "effects": [
+            "+[312-312] 毒素傷害，時效 7 秒",
+            "無視目標防禦",
+            "等級 15 @skillname83 (27 次)",
+            "等級 13 @skillname92 (11 次)",
+            "擊中竊取 7% 法力"
+        ]
+    },
+    "Victory": {
+        "name": "Victory",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Voice": {
+        "name": "Voice",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Void": {
+        "name": "Void",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "War": {
+        "name": "War",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Water": {
+        "name": "Water",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Wealth": {
+        "name": "Wealth",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "tors": "Armor"
+        },
+        "runes": [
+            20,
+            18,
+            3
+        ],
+        "effects": [
+            "怪物金幣掉落量提高 250%",
+            "尋獲魔法物品機率提高 100%"
+        ]
+    },
+    "Whisper": {
+        "name": "Whisper",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "White": {
+        "name": "White",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "wand": "Wand"
+        },
+        "runes": [
+            14,
+            16
+        ],
+        "effects": [
+            "+3 @StrSklTabItem7 (@NecOnly)",
+            "魔法傷害降低 4",
+            "+20% 施法速度",
+            "+13 法力",
+            "+3至@skillname68 (@NecOnly)",
+            "+2至@skillname84 (@NecOnly)",
+            "+4至@skillname69 (@NecOnly)"
+        ]
+    },
+    "Wind": {
+        "name": "Wind",
+        "release": "110",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "mele": "Melee Weapon"
+        },
+        "runes": [
+            29,
+            1
+        ],
+        "effects": [
+            "+[120-160]% 傷害強化",
+            "攻擊速度 +40%",
+            "+20% 跑步 \/ 行走速度",
+            "-50% 目標防禦",
+            "擊中時有 10% 機率施展等級 9 @Skillname246 ",
+            "等級 13 @Skillname241 (127 次)",
+            "+15% 打擊恢復"
+        ]
+    },
+    "Wings of Hope": {
+        "name": "Wings of Hope",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Wisdom": {
+        "name": "Wisdom",
+        "release": "D2R Ladder 1",
+        "completed": "1",
+        "ladder": "1",
+        "types": {
+            "helm": "Helm"
+        },
+        "runes": [
+            21,
+            6,
+            2
+        ],
+        "effects": [
+            "+33% 穿透攻擊",
+            "擊中竊取 [4-8]% 法力",
+            "[15-25]% 準確率加成",
+            "+5 擊殺法力恢復",
+            "無法凍結",
+            "+10 能量"
+        ]
+    },
+    "Woe": {
+        "name": "Woe",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Wonder": {
+        "name": "Wonder",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Wrath": {
+        "name": "Wrath",
+        "release": "Previously Ladder Only",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "miss": "Missile Weapon"
+        },
+        "runes": [
+            21,
+            17,
+            30,
+            23
+        ],
+        "effects": [
+            "+300% 對惡魔的傷害",
+            "+[250-300]% 對不死怪物的傷害",
+            "附加 41 - 240 電擊傷害",
+            "附加 85 - 120 魔法傷害",
+            "擊中時有 5% 機率施展等級 10 @skillname82 ",
+            "擊中時有 30% 機率施展等級 1 @skillname87 ",
+            "無法凍結"
+        ]
+    },
+    "Youth": {
+        "name": "Youth",
+        "release": "",
+        "completed": "",
+        "ladder": "",
+        "types": [],
+        "runes": [],
+        "effects": []
+    },
+    "Zephyr": {
+        "name": "Zephyr",
+        "release": "109",
+        "completed": "1",
+        "ladder": "",
+        "types": {
+            "miss": "Missile Weapon"
+        },
+        "runes": [
+            9,
+            5
+        ],
+        "effects": [
+            "+25% 跑步 \/ 行走速度",
+            "攻擊速度 +25%",
+            "+33% 傷害強化",
+            "+66 準確率",
+            "被擊中時有 7% 機率施展等級 1 @Skillname241 ",
+            "+25 防禦"
+        ]
+    }
+}

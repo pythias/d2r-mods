@@ -1,4 +1,7 @@
 <?php
+/**
+ * @deprecated
+ */
 include __DIR__ . "/basic.php";
 
 function type_by_code($type_items) {
@@ -47,7 +50,7 @@ function get_rune_word_runes($word, $cn_names, $en_names) {
 
 function create_rune_panel($simplify_rune_words, $rune_cn_names, $rune_en_names, $num) {
     $name = "ModRune{$num}Panel";
-    $base_config = decode_file(SETTINGS_PATH . "/ModRuneBasehb.json");
+    $base_config = decode_file(SETTINGS_PATH . "/rune-detail.json");
     $items_config = $base_config['children'][0]['children'][1]['children'][4]['children'][0]['children'];
     $base_item = array_pop($items_config);
     

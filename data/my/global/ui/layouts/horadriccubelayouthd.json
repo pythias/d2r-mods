@@ -56,7 +56,7 @@
                     "x": 0,
                     "y": 0
                 },
-                "onClickMessage": "PanelManager:OpenPanel:ModCubePanel",
+                "onClickMessage": "PanelManager:OpenPanel:ModZtPanel",
                 "text\/style": "$StyleFEButtonText",
                 "pointSize": {
                     "x": 220,

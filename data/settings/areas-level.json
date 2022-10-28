@@ -1,0 +1,1026 @@
+﻿{
+    "": {
+        "name": "",
+        "waypoint": "255",
+        "entry": "",
+        "level-normal": "",
+        "level-nightmare": "",
+        "level-hell": ""
+    },
+    "Rogue Encampment": {
+        "name": "Rogue Encampment",
+        "waypoint": "0",
+        "entry": "EnteringTheRogueEncampment",
+        "level-normal": "",
+        "level-nightmare": "",
+        "level-hell": ""
+    },
+    "Blood Moor": {
+        "name": "Blood Moor",
+        "waypoint": "255",
+        "entry": "EnteringTheBloodMoor",
+        "level-normal": "1",
+        "level-nightmare": "36",
+        "level-hell": "67"
+    },
+    "Cold Plains": {
+        "name": "Cold Plains",
+        "waypoint": "1",
+        "entry": "EnteringTheColdPlains",
+        "level-normal": "2",
+        "level-nightmare": "36",
+        "level-hell": "68"
+    },
+    "Stony Field": {
+        "name": "Stony Field",
+        "waypoint": "2",
+        "entry": "EnteringTheStonyField",
+        "level-normal": "4",
+        "level-nightmare": "37",
+        "level-hell": "68"
+    },
+    "Dark Wood": {
+        "name": "Dark Wood",
+        "waypoint": "3",
+        "entry": "EnteringTheDarkWood",
+        "level-normal": "5",
+        "level-nightmare": "38",
+        "level-hell": "68"
+    },
+    "Black Marsh": {
+        "name": "Black Marsh",
+        "waypoint": "4",
+        "entry": "EnteringTheBlackMarsh",
+        "level-normal": "6",
+        "level-nightmare": "38",
+        "level-hell": "69"
+    },
+    "Tamoe Highland": {
+        "name": "Tamoe Highland",
+        "waypoint": "255",
+        "entry": "EnteringTheTamoeHighland",
+        "level-normal": "8",
+        "level-nightmare": "39",
+        "level-hell": "69"
+    },
+    "Den of Evil": {
+        "name": "Den of Evil",
+        "waypoint": "255",
+        "entry": "EnteringTheDenOfEvilInQuest",
+        "level-normal": "1",
+        "level-nightmare": "36",
+        "level-hell": "79"
+    },
+    "Cave Level 1": {
+        "name": "Cave Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheCaveLevel1",
+        "level-normal": "2",
+        "level-nightmare": "36",
+        "level-hell": "77"
+    },
+    "Underground Passage Level 1": {
+        "name": "Underground Passage Level 1",
+        "waypoint": "255",
+        "entry": "EnteringUndergroundPassageLevel1",
+        "level-normal": "4",
+        "level-nightmare": "37",
+        "level-hell": "69"
+    },
+    "Hole Level 1": {
+        "name": "Hole Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheHoleLevel1",
+        "level-normal": "5",
+        "level-nightmare": "38",
+        "level-hell": "80"
+    },
+    "Pit Level 1": {
+        "name": "Pit Level 1",
+        "waypoint": "255",
+        "entry": "EnteringThePitLevel1",
+        "level-normal": "7",
+        "level-nightmare": "39",
+        "level-hell": "85"
+    },
+    "Cave Level 2": {
+        "name": "Cave Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheCaveLevel2",
+        "level-normal": "2",
+        "level-nightmare": "37",
+        "level-hell": "78"
+    },
+    "Underground Passage Level 2": {
+        "name": "Underground Passage Level 2",
+        "waypoint": "255",
+        "entry": "EnteringUndergroundPassageLevel2",
+        "level-normal": "4",
+        "level-nightmare": "38",
+        "level-hell": "85"
+    },
+    "Hole Level 2": {
+        "name": "Hole Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheHoleLevel2",
+        "level-normal": "5",
+        "level-nightmare": "39",
+        "level-hell": "81"
+    },
+    "Pit Level 2": {
+        "name": "Pit Level 2",
+        "waypoint": "255",
+        "entry": "EnteringThePitLevel2",
+        "level-normal": "7",
+        "level-nightmare": "40",
+        "level-hell": "85"
+    },
+    "Burial Grounds": {
+        "name": "Burial Grounds",
+        "waypoint": "255",
+        "entry": "EnteringTheBurialGrounds",
+        "level-normal": "3",
+        "level-nightmare": "36",
+        "level-hell": "80"
+    },
+    "Crypt": {
+        "name": "Crypt",
+        "waypoint": "255",
+        "entry": "EnteringTheCrypt",
+        "level-normal": "3",
+        "level-nightmare": "37",
+        "level-hell": "83"
+    },
+    "Mausoleum": {
+        "name": "Mausoleum",
+        "waypoint": "255",
+        "entry": "EnteringTheMausoleum",
+        "level-normal": "3",
+        "level-nightmare": "37",
+        "level-hell": "85"
+    },
+    "Forgotten Tower": {
+        "name": "Forgotten Tower",
+        "waypoint": "255",
+        "entry": "EnteringTheForgottenTower",
+        "level-normal": "",
+        "level-nightmare": "",
+        "level-hell": ""
+    },
+    "Tower Cellar Level 1": {
+        "name": "Tower Cellar Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheTowerCellarLevel1",
+        "level-normal": "7",
+        "level-nightmare": "38",
+        "level-hell": "75"
+    },
+    "Tower Cellar Level 2": {
+        "name": "Tower Cellar Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheTowerCellarLevel2",
+        "level-normal": "7",
+        "level-nightmare": "39",
+        "level-hell": "76"
+    },
+    "Tower Cellar Level 3": {
+        "name": "Tower Cellar Level 3",
+        "waypoint": "255",
+        "entry": "EnteringTheTowerCellarLevel3",
+        "level-normal": "7",
+        "level-nightmare": "40",
+        "level-hell": "77"
+    },
+    "Tower Cellar Level 4": {
+        "name": "Tower Cellar Level 4",
+        "waypoint": "255",
+        "entry": "EnteringTheTowerCellarLevel4",
+        "level-normal": "7",
+        "level-nightmare": "41",
+        "level-hell": "78"
+    },
+    "Tower Cellar Level 5": {
+        "name": "Tower Cellar Level 5",
+        "waypoint": "255",
+        "entry": "EnteringTheTowerCellarLevel5",
+        "level-normal": "7",
+        "level-nightmare": "42",
+        "level-hell": "79"
+    },
+    "Monastery Gate": {
+        "name": "Monastery Gate",
+        "waypoint": "255",
+        "entry": "EnteringTheMonasteryGate",
+        "level-normal": "8",
+        "level-nightmare": "40",
+        "level-hell": "70"
+    },
+    "Outer Cloister": {
+        "name": "Outer Cloister",
+        "waypoint": "5",
+        "entry": "EnteringTheOuterCloister",
+        "level-normal": "9",
+        "level-nightmare": "40",
+        "level-hell": "70"
+    },
+    "Barracks": {
+        "name": "Barracks",
+        "waypoint": "255",
+        "entry": "EnteringTheBarracks",
+        "level-normal": "9",
+        "level-nightmare": "40",
+        "level-hell": "70"
+    },
+    "Jail Level 1": {
+        "name": "Jail Level 1",
+        "waypoint": "6",
+        "entry": "EnteringTheJailLevel1",
+        "level-normal": "10",
+        "level-nightmare": "41",
+        "level-hell": "71"
+    },
+    "Jail Level 2": {
+        "name": "Jail Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheJailLevel2",
+        "level-normal": "10",
+        "level-nightmare": "41",
+        "level-hell": "71"
+    },
+    "Jail Level 3": {
+        "name": "Jail Level 3",
+        "waypoint": "255",
+        "entry": "EnteringTheJailLevel3",
+        "level-normal": "10",
+        "level-nightmare": "41",
+        "level-hell": "71"
+    },
+    "Inner Cloister": {
+        "name": "Inner Cloister",
+        "waypoint": "7",
+        "entry": "EnteringTheInnerCloister",
+        "level-normal": "10",
+        "level-nightmare": "41",
+        "level-hell": "72"
+    },
+    "Cathedral": {
+        "name": "Cathedral",
+        "waypoint": "255",
+        "entry": "EnteringTheCathedral",
+        "level-normal": "11",
+        "level-nightmare": "42",
+        "level-hell": "72"
+    },
+    "Catacombs Level 1": {
+        "name": "Catacombs Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheCatacombsLevel1",
+        "level-normal": "11",
+        "level-nightmare": "42",
+        "level-hell": "72"
+    },
+    "Catacombs Level 2": {
+        "name": "Catacombs Level 2",
+        "waypoint": "8",
+        "entry": "EnteringTheCatacombsLevel2",
+        "level-normal": "11",
+        "level-nightmare": "42",
+        "level-hell": "73"
+    },
+    "Catacombs Level 3": {
+        "name": "Catacombs Level 3",
+        "waypoint": "255",
+        "entry": "EnteringTheCatacombsLevel3",
+        "level-normal": "12",
+        "level-nightmare": "43",
+        "level-hell": "73"
+    },
+    "Catacombs Level 4": {
+        "name": "Catacombs Level 4",
+        "waypoint": "255",
+        "entry": "EnteringTheCatacombsLevel4",
+        "level-normal": "12",
+        "level-nightmare": "43",
+        "level-hell": "73"
+    },
+    "Tristram": {
+        "name": "Tristram",
+        "waypoint": "255",
+        "entry": "EnteringThePandemoniumFinale",
+        "level-normal": "50",
+        "level-nightmare": "75",
+        "level-hell": "83"
+    },
+    "Moo Moo Farm": {
+        "name": "Moo Moo Farm",
+        "waypoint": "255",
+        "entry": "EnteringTheMooMooFarm",
+        "level-normal": "28",
+        "level-nightmare": "64",
+        "level-hell": "81"
+    },
+    "Lut Gholein": {
+        "name": "Lut Gholein",
+        "waypoint": "9",
+        "entry": "EnteringLutGholein",
+        "level-normal": "",
+        "level-nightmare": "",
+        "level-hell": ""
+    },
+    "Rocky Waste": {
+        "name": "Rocky Waste",
+        "waypoint": "255",
+        "entry": "EnteringTheRockyWaste",
+        "level-normal": "14",
+        "level-nightmare": "43",
+        "level-hell": "75"
+    },
+    "Dry Hills": {
+        "name": "Dry Hills",
+        "waypoint": "11",
+        "entry": "EnteringTheDryHills",
+        "level-normal": "15",
+        "level-nightmare": "44",
+        "level-hell": "76"
+    },
+    "Far Oasis": {
+        "name": "Far Oasis",
+        "waypoint": "13",
+        "entry": "EnteringTheFarOasis",
+        "level-normal": "16",
+        "level-nightmare": "45",
+        "level-hell": "76"
+    },
+    "Lost City": {
+        "name": "Lost City",
+        "waypoint": "14",
+        "entry": "EnteringTheLostCity",
+        "level-normal": "17",
+        "level-nightmare": "46",
+        "level-hell": "77"
+    },
+    "Valley of Snakes": {
+        "name": "Valley of Snakes",
+        "waypoint": "255",
+        "entry": "EnteringTheValleyOfSnakes",
+        "level-normal": "18",
+        "level-nightmare": "46",
+        "level-hell": "77"
+    },
+    "Canyon of the Magi": {
+        "name": "Canyon of the Magi",
+        "waypoint": "17",
+        "entry": "EnteringTheCanyonOfTheMagi",
+        "level-normal": "16",
+        "level-nightmare": "48",
+        "level-hell": "79"
+    },
+    "Sewers Level 1": {
+        "name": "Sewers Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheSewersLevel1",
+        "level-normal": "23",
+        "level-nightmare": "52",
+        "level-hell": "85"
+    },
+    "Sewers Level 2": {
+        "name": "Sewers Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheSewersLevel2",
+        "level-normal": "24",
+        "level-nightmare": "53",
+        "level-hell": "85"
+    },
+    "Sewers Level 3": {
+        "name": "Sewers Level 3",
+        "waypoint": "255",
+        "entry": "EnteringTheSewersLevel3",
+        "level-normal": "14",
+        "level-nightmare": "44",
+        "level-hell": "75"
+    },
+    "Harem Level 1": {
+        "name": "Harem Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheHaremLevel1",
+        "level-normal": "",
+        "level-nightmare": "",
+        "level-hell": ""
+    },
+    "Harem Level 2": {
+        "name": "Harem Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheHaremLevel2",
+        "level-normal": "13",
+        "level-nightmare": "47",
+        "level-hell": "78"
+    },
+    "Palace Cellar Level 1": {
+        "name": "Palace Cellar Level 1",
+        "waypoint": "15",
+        "entry": "EnteringThePalaceCellarLevel1",
+        "level-normal": "13",
+        "level-nightmare": "47",
+        "level-hell": "78"
+    },
+    "Palace Cellar Level 2": {
+        "name": "Palace Cellar Level 2",
+        "waypoint": "255",
+        "entry": "EnteringThePalaceCellarLevel2",
+        "level-normal": "13",
+        "level-nightmare": "47",
+        "level-hell": "78"
+    },
+    "Palace Cellar Level 3": {
+        "name": "Palace Cellar Level 3",
+        "waypoint": "255",
+        "entry": "EnteringThePalaceCellarLevel3",
+        "level-normal": "13",
+        "level-nightmare": "48",
+        "level-hell": "78"
+    },
+    "Stony Tomb Level 1": {
+        "name": "Stony Tomb Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheStonyTombLevel1",
+        "level-normal": "12",
+        "level-nightmare": "44",
+        "level-hell": "85"
+    },
+    "Halls of the Dead Level 1": {
+        "name": "Halls of the Dead Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheHallsOfTheDeadLevel1",
+        "level-normal": "12",
+        "level-nightmare": "44",
+        "level-hell": "79"
+    },
+    "Halls of the Dead Level 2": {
+        "name": "Halls of the Dead Level 2",
+        "waypoint": "12",
+        "entry": "EnteringTheHallsOfTheDeadLevel2",
+        "level-normal": "13",
+        "level-nightmare": "45",
+        "level-hell": "81"
+    },
+    "Claw Viper Temple Level 1": {
+        "name": "Claw Viper Temple Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheClawViperTempleLevel1",
+        "level-normal": "14",
+        "level-nightmare": "47",
+        "level-hell": "82"
+    },
+    "Stony Tomb Level 2": {
+        "name": "Stony Tomb Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheStonyTombLevel2",
+        "level-normal": "12",
+        "level-nightmare": "44",
+        "level-hell": "85"
+    },
+    "Halls of the Dead Level 3": {
+        "name": "Halls of the Dead Level 3",
+        "waypoint": "255",
+        "entry": "EnteringTheHallsOfTheDeadLevel3",
+        "level-normal": "13",
+        "level-nightmare": "45",
+        "level-hell": "82"
+    },
+    "Claw Viper Temple Level 2": {
+        "name": "Claw Viper Temple Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheClawViperTempleLevel2",
+        "level-normal": "14",
+        "level-nightmare": "47",
+        "level-hell": "83"
+    },
+    "Maggot Lair Level 1": {
+        "name": "Maggot Lair Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheMaggotLairLevel1",
+        "level-normal": "17",
+        "level-nightmare": "45",
+        "level-hell": "84"
+    },
+    "Maggot Lair Level 2": {
+        "name": "Maggot Lair Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheMaggotLairLevel2",
+        "level-normal": "17",
+        "level-nightmare": "45",
+        "level-hell": "84"
+    },
+    "Maggot Lair Level 3": {
+        "name": "Maggot Lair Level 3",
+        "waypoint": "255",
+        "entry": "EnteringTheMaggotLairLevel3",
+        "level-normal": "17",
+        "level-nightmare": "46",
+        "level-hell": "85"
+    },
+    "Ancient Tunnels": {
+        "name": "Ancient Tunnels",
+        "waypoint": "255",
+        "entry": "EnteringTheAncientTunnels",
+        "level-normal": "17",
+        "level-nightmare": "46",
+        "level-hell": "85"
+    },
+    "Tal Rasha's Tomb": {
+        "name": "Tal Rasha's Tomb",
+        "waypoint": "255",
+        "entry": "EnteringTalRasha'sTomb",
+        "level-normal": "17",
+        "level-nightmare": "49",
+        "level-hell": "80"
+    },
+    "Duriel's Lair": {
+        "name": "Duriel's Lair",
+        "waypoint": "255",
+        "entry": "EnteringDuriel'sLair",
+        "level-normal": "17",
+        "level-nightmare": "49",
+        "level-hell": "80"
+    },
+    "Arcane Sanctuary": {
+        "name": "Arcane Sanctuary",
+        "waypoint": "16",
+        "entry": "EnteringTheArcaneSanctuary",
+        "level-normal": "14",
+        "level-nightmare": "48",
+        "level-hell": "79"
+    },
+    "Kurast Docktown": {
+        "name": "Kurast Docktown",
+        "waypoint": "18",
+        "entry": "EnteringTheKurastDocktown",
+        "level-normal": "",
+        "level-nightmare": "",
+        "level-hell": ""
+    },
+    "Spider Forest": {
+        "name": "Spider Forest",
+        "waypoint": "19",
+        "entry": "EnteringTheSpiderForest",
+        "level-normal": "21",
+        "level-nightmare": "49",
+        "level-hell": "79"
+    },
+    "Great Marsh": {
+        "name": "Great Marsh",
+        "waypoint": "20",
+        "entry": "EnteringTheGreatMarsh",
+        "level-normal": "21",
+        "level-nightmare": "50",
+        "level-hell": "80"
+    },
+    "Flayer Jungle": {
+        "name": "Flayer Jungle",
+        "waypoint": "21",
+        "entry": "EnteringTheFlayerJungle",
+        "level-normal": "22",
+        "level-nightmare": "50",
+        "level-hell": "80"
+    },
+    "Lower Kurast": {
+        "name": "Lower Kurast",
+        "waypoint": "22",
+        "entry": "EnteringLowerKurast",
+        "level-normal": "22",
+        "level-nightmare": "52",
+        "level-hell": "80"
+    },
+    "Kurast Bazaar": {
+        "name": "Kurast Bazaar",
+        "waypoint": "23",
+        "entry": "EnteringTheKurastBazaar",
+        "level-normal": "22",
+        "level-nightmare": "52",
+        "level-hell": "81"
+    },
+    "Upper Kurast": {
+        "name": "Upper Kurast",
+        "waypoint": "24",
+        "entry": "EnteringUpperKurast",
+        "level-normal": "23",
+        "level-nightmare": "52",
+        "level-hell": "81"
+    },
+    "Kurast Causeway": {
+        "name": "Kurast Causeway",
+        "waypoint": "255",
+        "entry": "EnteringTheKurastCauseway",
+        "level-normal": "24",
+        "level-nightmare": "53",
+        "level-hell": "81"
+    },
+    "Travincal": {
+        "name": "Travincal",
+        "waypoint": "25",
+        "entry": "EnteringTravincal",
+        "level-normal": "24",
+        "level-nightmare": "54",
+        "level-hell": "82"
+    },
+    "Spider Cave": {
+        "name": "Spider Cave",
+        "waypoint": "255",
+        "entry": "EnteringTheSpiderCave",
+        "level-normal": "21",
+        "level-nightmare": "50",
+        "level-hell": "85"
+    },
+    "Spider Cavern": {
+        "name": "Spider Cavern",
+        "waypoint": "255",
+        "entry": "EnteringTheSpiderCavern",
+        "level-normal": "21",
+        "level-nightmare": "50",
+        "level-hell": "79"
+    },
+    "Swampy Pit Level 1": {
+        "name": "Swampy Pit Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheSwampyPitLevel1",
+        "level-normal": "21",
+        "level-nightmare": "51",
+        "level-hell": "85"
+    },
+    "Swampy Pit Level 2": {
+        "name": "Swampy Pit Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheSwampyPitLevel2",
+        "level-normal": "21",
+        "level-nightmare": "51",
+        "level-hell": "85"
+    },
+    "Flayer Dungeon Level 1": {
+        "name": "Flayer Dungeon Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheFlayerDungeonLevel1",
+        "level-normal": "22",
+        "level-nightmare": "51",
+        "level-hell": "81"
+    },
+    "Flayer Dungeon Level 2": {
+        "name": "Flayer Dungeon Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheFlayerDungeonLevel2",
+        "level-normal": "22",
+        "level-nightmare": "51",
+        "level-hell": "82"
+    },
+    "Swampy Pit Level 3": {
+        "name": "Swampy Pit Level 3",
+        "waypoint": "255",
+        "entry": "EnteringTheSwampyPitLevel3",
+        "level-normal": "21",
+        "level-nightmare": "51",
+        "level-hell": "85"
+    },
+    "Flayer Dungeon Level 3": {
+        "name": "Flayer Dungeon Level 3",
+        "waypoint": "255",
+        "entry": "EnteringTheFlayerDungeonLevel3",
+        "level-normal": "22",
+        "level-nightmare": "51",
+        "level-hell": "83"
+    },
+    "Ruined Temple": {
+        "name": "Ruined Temple",
+        "waypoint": "255",
+        "entry": "EnteringTheRuinedTemple",
+        "level-normal": "23",
+        "level-nightmare": "53",
+        "level-hell": "85"
+    },
+    "Disused Fane": {
+        "name": "Disused Fane",
+        "waypoint": "255",
+        "entry": "EnteringTheDisusedFane",
+        "level-normal": "23",
+        "level-nightmare": "53",
+        "level-hell": "85"
+    },
+    "Forgotten Reliquary": {
+        "name": "Forgotten Reliquary",
+        "waypoint": "255",
+        "entry": "EnteringTheForgottenReliquary",
+        "level-normal": "23",
+        "level-nightmare": "53",
+        "level-hell": "85"
+    },
+    "Forgotten Temple": {
+        "name": "Forgotten Temple",
+        "waypoint": "255",
+        "entry": "EnteringTheForgottenTemple",
+        "level-normal": "24",
+        "level-nightmare": "54",
+        "level-hell": "85"
+    },
+    "Ruined Fane": {
+        "name": "Ruined Fane",
+        "waypoint": "255",
+        "entry": "EnteringTheRuinedFane",
+        "level-normal": "24",
+        "level-nightmare": "54",
+        "level-hell": "85"
+    },
+    "Disused Reliquary": {
+        "name": "Disused Reliquary",
+        "waypoint": "255",
+        "entry": "EnteringTheDisusedReliquary",
+        "level-normal": "24",
+        "level-nightmare": "54",
+        "level-hell": "85"
+    },
+    "Durance of Hate Level 1": {
+        "name": "Durance of Hate Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheDuranceOfHateLevel1",
+        "level-normal": "25",
+        "level-nightmare": "55",
+        "level-hell": "83"
+    },
+    "Durance of Hate Level 2": {
+        "name": "Durance of Hate Level 2",
+        "waypoint": "26",
+        "entry": "EnteringTheDuranceOfHateLevel2",
+        "level-normal": "25",
+        "level-nightmare": "55",
+        "level-hell": "83"
+    },
+    "Durance of Hate Level 3": {
+        "name": "Durance of Hate Level 3",
+        "waypoint": "255",
+        "entry": "EnteringTheDuranceOfHateLevel3",
+        "level-normal": "25",
+        "level-nightmare": "55",
+        "level-hell": "83"
+    },
+    "The Pandemonium Fortress": {
+        "name": "The Pandemonium Fortress",
+        "waypoint": "27",
+        "entry": "EnteringThePandemoniumFortress",
+        "level-normal": "",
+        "level-nightmare": "",
+        "level-hell": ""
+    },
+    "Outer Steppes": {
+        "name": "Outer Steppes",
+        "waypoint": "255",
+        "entry": "EnteringTheOuterSteppes",
+        "level-normal": "26",
+        "level-nightmare": "56",
+        "level-hell": "82"
+    },
+    "Plains of Despair": {
+        "name": "Plains of Despair",
+        "waypoint": "255",
+        "entry": "EnteringThePlainsOfDespair",
+        "level-normal": "26",
+        "level-nightmare": "56",
+        "level-hell": "83"
+    },
+    "City of the Damned": {
+        "name": "City of the Damned",
+        "waypoint": "28",
+        "entry": "EnteringTheCityOfTheDamned",
+        "level-normal": "27",
+        "level-nightmare": "57",
+        "level-hell": "84"
+    },
+    "River of Flame": {
+        "name": "River of Flame",
+        "waypoint": "29",
+        "entry": "EnteringTheRiverOfFlame",
+        "level-normal": "27",
+        "level-nightmare": "57",
+        "level-hell": "85"
+    },
+    "Chaos Sanctum": {
+        "name": "Chaos Sanctum",
+        "waypoint": "255",
+        "entry": "EnteringChaosSanctum",
+        "level-normal": "28",
+        "level-nightmare": "58",
+        "level-hell": "85"
+    },
+    "Harrogath": {
+        "name": "Harrogath",
+        "waypoint": "30",
+        "entry": "EnteringHarrogath",
+        "level-normal": "",
+        "level-nightmare": "",
+        "level-hell": ""
+    },
+    "Bloody Foothills": {
+        "name": "Bloody Foothills",
+        "waypoint": "255",
+        "entry": "EnteringTheBloodyFoothills",
+        "level-normal": "24",
+        "level-nightmare": "58",
+        "level-hell": "80"
+    },
+    "Rigid Highlands": {
+        "name": "Rigid Highlands",
+        "waypoint": "31",
+        "entry": "EnteringTheRigidHighlands",
+        "level-normal": "25",
+        "level-nightmare": "59",
+        "level-hell": "81"
+    },
+    "Arreat Plateau": {
+        "name": "Arreat Plateau",
+        "waypoint": "32",
+        "entry": "EnteringTheArreatPlateau",
+        "level-normal": "26",
+        "level-nightmare": "60",
+        "level-hell": "81"
+    },
+    "Crystalized Cavern Level 1": {
+        "name": "Crystalized Cavern Level 1",
+        "waypoint": "33",
+        "entry": "EnteringTheCrystalizedCavernLevel1",
+        "level-normal": "29",
+        "level-nightmare": "61",
+        "level-hell": "82"
+    },
+    "Cellar of Pity": {
+        "name": "Cellar of Pity",
+        "waypoint": "255",
+        "entry": "EnteringTheCellarOfPity",
+        "level-normal": "29",
+        "level-nightmare": "61",
+        "level-hell": "83"
+    },
+    "Crystalized Cavern Level 2": {
+        "name": "Crystalized Cavern Level 2",
+        "waypoint": "34",
+        "entry": "EnteringTheCrystalizedCavernLevel2",
+        "level-normal": "29",
+        "level-nightmare": "61",
+        "level-hell": "83"
+    },
+    "Echo Chamber": {
+        "name": "Echo Chamber",
+        "waypoint": "255",
+        "entry": "EnteringTheEchoChamber",
+        "level-normal": "29",
+        "level-nightmare": "61",
+        "level-hell": "85"
+    },
+    "Tundra Wastelands": {
+        "name": "Tundra Wastelands",
+        "waypoint": "36",
+        "entry": "EnteringTheTundraWastelands",
+        "level-normal": "27",
+        "level-nightmare": "60",
+        "level-hell": "81"
+    },
+    "Glacial Caves Level 1": {
+        "name": "Glacial Caves Level 1",
+        "waypoint": "37",
+        "entry": "EnteringTheGlacierCavesLevel1",
+        "level-normal": "29",
+        "level-nightmare": "62",
+        "level-hell": "82"
+    },
+    "Glacial Caves Level 2": {
+        "name": "Glacial Caves Level 2",
+        "waypoint": "255",
+        "entry": "EnteringTheGlacierCavesLevel2",
+        "level-normal": "29",
+        "level-nightmare": "62",
+        "level-hell": "85"
+    },
+    "Rocky Summit": {
+        "name": "Rocky Summit",
+        "waypoint": "255",
+        "entry": "EnteringTheRockySummit",
+        "level-normal": "37",
+        "level-nightmare": "68",
+        "level-hell": "87"
+    },
+    "Nihlathaks Temple": {
+        "name": "Nihlathaks Temple",
+        "waypoint": "255",
+        "entry": "EnteringNihlathaksTemple",
+        "level-normal": "32",
+        "level-nightmare": "63",
+        "level-hell": "83"
+    },
+    "Halls of Anguish": {
+        "name": "Halls of Anguish",
+        "waypoint": "255",
+        "entry": "EnteringTheHallsOfAnguish",
+        "level-normal": "33",
+        "level-nightmare": "63",
+        "level-hell": "83"
+    },
+    "Halls of Death's Calling": {
+        "name": "Halls of Death's Calling",
+        "waypoint": "35",
+        "entry": "EnteringTheHallsOfDeath'sCalling",
+        "level-normal": "34",
+        "level-nightmare": "64",
+        "level-hell": "84"
+    },
+    "Halls of Vaught": {
+        "name": "Halls of Vaught",
+        "waypoint": "255",
+        "entry": "EnteringTheHallsOfVaught",
+        "level-normal": "36",
+        "level-nightmare": "64",
+        "level-hell": "84"
+    },
+    "Hell1": {
+        "name": "Hell1",
+        "waypoint": "255",
+        "entry": "EnteringHell1",
+        "level-normal": "39",
+        "level-nightmare": "60",
+        "level-hell": "85"
+    },
+    "Hell2": {
+        "name": "Hell2",
+        "waypoint": "255",
+        "entry": "EnteringHell2",
+        "level-normal": "39",
+        "level-nightmare": "61",
+        "level-hell": "85"
+    },
+    "Hell3": {
+        "name": "Hell3",
+        "waypoint": "255",
+        "entry": "EnteringHell3",
+        "level-normal": "39",
+        "level-nightmare": "62",
+        "level-hell": "85"
+    },
+    "The Worldstone Keep Level 1": {
+        "name": "The Worldstone Keep Level 1",
+        "waypoint": "255",
+        "entry": "EnteringTheWorldstoneKeepLevel1",
+        "level-normal": "39",
+        "level-nightmare": "65",
+        "level-hell": "85"
+    },
+    "The Worldstone Keep Level 2": {
+        "name": "The Worldstone Keep Level 2",
+        "waypoint": "38",
+        "entry": "EnteringTheWorldstoneKeepLevel2",
+        "level-normal": "40",
+        "level-nightmare": "65",
+        "level-hell": "85"
+    },
+    "The Worldstone Keep Level 3": {
+        "name": "The Worldstone Keep Level 3",
+        "waypoint": "255",
+        "entry": "EnteringTheWorldstoneKeepLevel3",
+        "level-normal": "42",
+        "level-nightmare": "66",
+        "level-hell": "85"
+    },
+    "Throne of Destruction": {
+        "name": "Throne of Destruction",
+        "waypoint": "255",
+        "entry": "EnteringTheThroneOfDestruction",
+        "level-normal": "43",
+        "level-nightmare": "66",
+        "level-hell": "85"
+    },
+    "The Worldstone Chamber": {
+        "name": "The Worldstone Chamber",
+        "waypoint": "255",
+        "entry": "EnteringTheWorldstoneChamber",
+        "level-normal": "43",
+        "level-nightmare": "66",
+        "level-hell": "85"
+    },
+    "Pandemonium Run 1": {
+        "name": "Pandemonium Run 1",
+        "waypoint": "255",
+        "entry": "EnteringThePandemoniumRun1",
+        "level-normal": "50",
+        "level-nightmare": "75",
+        "level-hell": "83"
+    },
+    "Pandemonium Run 2": {
+        "name": "Pandemonium Run 2",
+        "waypoint": "255",
+        "entry": "EnteringThePandemoniumRun2",
+        "level-normal": "50",
+        "level-nightmare": "75",
+        "level-hell": "83"
+    },
+    "Pandemonium Run 3": {
+        "name": "Pandemonium Run 3",
+        "waypoint": "255",
+        "entry": "EnteringThePandemoniumRun3",
+        "level-normal": "50",
+        "level-nightmare": "75",
+        "level-hell": "83"
+    }
+}

@@ -1,14 +1,17 @@
 <?php
 require __DIR__ . '/../vendor/autoload.php';
 
-use Mod\Sys;
-use Mod\Log;
-
+$areasByName = [];
 $levels = new Mod\Origin\Excel\Levels();
-$level = $levels->getByName($argv[1]);
-$humanized = $levels->humanize($level);
-print(json_encode($humanized, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE) . PHP_EOL);
+$areas = $levels->getValues();
+foreach ($areas as $area) {
+    $humanized = $levels->humanize($area);
+    $areasByName[$humanized['name']] = $humanized;
+}
 
+//$level = $levels->getByName($argv[1]);
 
+$content = json_encode($areasByName, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
 
+file_put_contents(PATH_SETTINGS . "/areas-level.json", $content);
 

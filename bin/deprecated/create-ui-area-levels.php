@@ -1,6 +1,9 @@
 <?php
 include __DIR__ . "/basic.php";
 
+/**
+ * @deprecated
+ */
 class MfAreas {
     private $_path = "";
     private $_config;

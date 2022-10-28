@@ -5,7 +5,7 @@ use Mod\Sys;
 use Mod\Log;
 
 $tag = isset($argv[1]) ? "full" : "default";
-$defaultFile = PATH_DATA_MY . "/hd/roomtiles/entry_{$tag}.json";
+$defaultFile = PATH_SETTINGS . "/entry-{$tag}.json";
 $template = Mod\File\Json::decode($defaultFile);
 $rooms = [
     "act_1_catacombs_down",

@@ -1,0 +1,119 @@
+﻿{
+    "type": "ColorBlindCalibrationPanel",
+    "name": "ModRune1Panel",
+    "fields": {
+        "priority": 9500,
+        "fitToParent": true,
+        "parentOptionsPanelName": "ModZtPanel",
+        "saveAndClosePosition": {
+            "x": -700,
+            "y": 1750
+        },
+        "continuePosition": {
+            "x": -329,
+            "y": 1750
+        }
+    },
+    "children": [
+        {
+            "type": "RectangleWidget",
+            "name": "Background",
+            "fields": {
+                "fitToScreen": true,
+                "color": [
+                    0,
+                    0,
+                    0,
+                    1
+                ]
+            },
+            "children": [
+                {
+                    "type": "ClickCatcherWidget",
+                    "name": "ClickCatcher",
+                    "fields": {
+                        "fitToParent": true
+                    }
+                }
+            ]
+        },
+        {
+            "type": "ImageWidget",
+            "name": "RuneImage",
+            "fields": {
+                "anchor": {
+                    "x": 0.5,
+                    "y": 0
+                },
+                "rect": {
+                    "x": -960,
+                    "y": 350,
+                    "scale": 1
+                },
+                "filename": "items\\misc\\rune\\eld_rune",
+                "isLinear": true
+            }
+        },
+        {
+            "type": "TextBoxWidget",
+            "name": "RuneTitle",
+            "fields": {
+                "anchor": {
+                    "x": 0.5,
+                    "y": 0
+                },
+                "rect": {
+                    "x": 0,
+                    "y": 200
+                },
+                "text": "@r27",
+                "style": {
+                    "pointSize": "$HugeFontSize",
+                    "alignment": {
+                        "v": "center",
+                        "h": "center"
+                    }
+                }
+            },
+            "children": [
+                {
+                    "type": "ImageWidget",
+                    "name": "Divider",
+                    "fields": {
+                        "rect": {
+                            "x": -820,
+                            "y": 50
+                        },
+                        "filename": "PauseMenu\\Divider"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "placeholder"
+        },
+        {
+            "type": "ButtonWidget",
+            "name": "CloseButton",
+            "fields": {
+                "anchor": {
+                    "x": 0.5,
+                    "y": 0
+                },
+                "rect": {
+                    "x": 20,
+                    "y": 1750
+                },
+                "filename": "PauseMenu\\PauseButton",
+                "textString": "@close",
+                "onClickMessage": "PanelManager:ClosePanel:ModRune1Panel",
+                "textColor": "$LightButtonTextColor",
+                "text\/style": "$StyleFEButtonText",
+                "acceptsEscKeyEverywhere": true,
+                "pressedFrame": 1,
+                "disabledFrame": 2,
+                "hoveredFrame": 3
+            }
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 ﻿{
     "type": "SettingsPanel",
-    "name": "ModCubePanel",
+    "name": "ModZtPanel",
     "fields": {
         "priority": 9002,
         "fitToParent": true
@@ -68,7 +68,7 @@
                                 },
                                 "filename": "PANEL\\closebtn_4x",
                                 "hoveredFrame": 3,
-                                "onClickMessage": "PanelManager:ClosePanel:ModCubePanel",
+                                "onClickMessage": "PanelManager:ClosePanel:ModZtPanel",
                                 "tooltipString": "@strClose",
                                 "sound": "cursor_close_window_hd",
                                 "acceptsReturnKey": true,
@@ -150,15 +150,13 @@
                     "盒子配方",
                     "符文之語",
                     "档位速查",
-                    "手工製作",
-                    "MF場景"
+                    "手工製作"
                 ],
                 "tabMessages": [
                     "SettingsPanelMessage:CheckChanges:ModRecipesPanel",
                     "SettingsPanelMessage:CheckChanges:ModRunesPanel",
                     "SettingsPanelMessage:CheckChanges:ModSpeedPanel",
-                    "SettingsPanelMessage:CheckChanges:ModCraftPanel",
-                    "SettingsPanelMessage:CheckChanges:ModMFPanel"
+                    "SettingsPanelMessage:CheckChanges:ModCraftPanel"
                 ]
             }
         }
